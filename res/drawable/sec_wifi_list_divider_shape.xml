@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:right="@dimen/sec_wifi_settings_divider_point_margin">
+        <shape android:shape="oval">
+            <size android:height="@dimen/sec_wifi_settings_divider_point_size" android:width="@dimen/sec_wifi_settings_divider_point_size" />
+            <solid android:color="#ffc8c8c8" />
+        </shape>
+    </item>
+</layer-list>

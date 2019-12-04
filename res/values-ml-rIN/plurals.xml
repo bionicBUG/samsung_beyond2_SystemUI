@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">അലാറം %d ദിവസത്തിന് ശേഷം</item>
+        <item quantity="one">അലാറം %d ദിവസത്തിന് ശേഷം</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">അലാറം %d മണിക്കൂറിന് ശേഷം</item>
+        <item quantity="one">അലാറം %d മണിക്കൂറിന് ശേഷം</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">അലാറം %d മിനിറ്റിന് ശേഷം</item>
+        <item quantity="one">അലാറം %d മിനിറ്റിന് ശേഷം</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d ശ്രമങ്ങൾ ശേഷിക്കുന്നു.</item>
+        <item quantity="one">%d ശ്രമം ശേഷിക്കുന്നു.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d ശ്രമങ്ങൾ ശേഷിക്കുന്നു)</item>
+        <item quantity="one">(1 ശ്രമം ശേഷിക്കുന്നു)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">ഈ ഫോൺ അൺലോക്ക് ചെയ്യാനുള്ള %1$d ശ്രമങ്ങൾ നടന്നു. %2$d മണിക്കൂറിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">ഈ ഫോൺ അൺലോക്ക് ചെയ്യാനുള്ള %d ശ്രമങ്ങൾ നടന്നു. 1 മണിക്കൂറിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">ഈ ഫോൺ അൺലോക്ക് ചെയ്യാനുള്ള %1$d ശ്രമങ്ങൾ നടന്നു. %2$d മിനിറ്റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">ഈ ഫോൺ അൺലോക്ക് ചെയ്യാനുള്ള %d ശ്രമങ്ങൾ നടന്നു. 1 മിനിറ്റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">ഈ ഫോൺ അൺലോക്ക് ചെയ്യാനുള്ള %1$d ശ്രമങ്ങൾ നടന്നു. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">ഈ ഫോൺ അൺലോക്ക് ചെയ്യാനുള്ള %d ശ്രമങ്ങൾ നടന്നു. 1 സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d സെക്കന്‍റ് കഴിഞ്ഞ് നിങ്ങളുടെ ബയോമെട്രിക്ക്സ് വീണ്ടും പരീക്ഷിക്കുക</item>
+        <item quantity="one">%d സെക്കന്‍റ് കഴിഞ്ഞ് നിങ്ങളുടെ ബയോമെട്രിക്ക്സ് വീണ്ടും പരീക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d സെക്കന്‍റ് കഴിഞ്ഞ് മുഖം തിരിച്ചറിയൽ വീണ്ടും പരീക്ഷിക്കുക</item>
+        <item quantity="one">%d സെക്കന്‍റ് കഴിഞ്ഞ് മുഖം തിരിച്ചറിയൽ വീണ്ടും പരീക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d സെക്കന്‍റ് കഴിഞ്ഞ് നിങ്ങളുടെ വിരലടയാളം വീണ്ടും പരീക്ഷിക്കുക</item>
+        <item quantity="one">%d സെക്കന്‍റ് കഴിഞ്ഞ് നിങ്ങളുടെ വിരലടയാളം വീണ്ടും പരീക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d സെക്കന്‍റ് കഴിഞ്ഞ് ഇന്‍റലിജന്‍റ് സ്കാൻ വീണ്ടും പരീക്ഷിക്കുക</item>
+        <item quantity="one">%d സെക്കന്‍റ് കഴിഞ്ഞ് ഇന്‍റലിജന്‍റ് സ്കാൻ വീണ്ടും പരീക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d സെക്കന്‍റ് കഴിഞ്ഞ് മിഴിപടല തിരിച്ചറിയൽ വീണ്ടും പരീക്ഷിക്കുക</item>
+        <item quantity="one">%d സെക്കന്‍റ് കഴിഞ്ഞ് മിഴിപടല തിരിച്ചറിയൽ വീണ്ടും പരീക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d മിനിറ്റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക</item>
+        <item quantity="one">%d മിനിറ്റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക</item>
+        <item quantity="one">%d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">ബയോമെട്രിക്ക്സ് പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റ് കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">ബയോമെട്രിക്ക്സ് പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റ് കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">നിങ്ങളുടെ മുഖം പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">നിങ്ങളുടെ മുഖം പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">വിരലടയാളങ്ങൾ പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റ് കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">വിരലടയാളങ്ങൾ പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റ് കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">ഇന്‍റലിജന്‍റ് സ്കാൻ പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">ഇന്‍റലിജന്‍റ് സ്കാൻ പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">നിങ്ങളുടെ മിഴിപടലങ്ങൾ പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+        <item quantity="one">നിങ്ങളുടെ മിഴിപടലങ്ങൾ പരിശോധിച്ചുറപ്പിക്കാനുള്ള %1$d തെറ്റായ ശ്രമങ്ങൾ. %2$d സെക്കന്‍റിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</item>
+    </plurals>
+</resources>

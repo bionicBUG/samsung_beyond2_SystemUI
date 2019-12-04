@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d 分鐘前</item>
+        <item quantity="one">%d 分鐘前</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d 年前</item>
+        <item quantity="one">%d 年前</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">鬧鐘將於 %d 天後響鈴</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">鬧鐘將於 %d 小時後響鈴</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">鬧鐘將於 %d 分鐘後響鈴</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">還可嘗試 %d 次。</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(剩 %d 次機會)</item>
+        <item quantity="one">(剩 1 次機會)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">您已嘗試解鎖此手機 %1$d 次。請於 %2$d 小時後重試。</item>
+        <item quantity="one">您已嘗試解鎖此手機 %d 次。請於 1 小時後重試。</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">您已嘗試解鎖此手機 %1$d 次。請於 %2$d 分鐘後重試。</item>
+        <item quantity="one">您已嘗試解鎖此手機 %d 次。請於 1 分鐘後重試。</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">您已嘗試解鎖手機 %1$d 次。請在 %2$d 秒後重試。</item>
+        <item quantity="one">您已嘗試解鎖手機 %d 次。請在 1 秒後重試。</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">請輸入 SIM 卡的 PIN 碼，你還可以再試 %d 次。</item>
+        <item quantity="one">請輸入 SIM 卡的 PIN 碼，你還可以再試 %d 次。如果仍然失敗，就必須請電信業者為裝置解鎖。</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM 卡現在已遭停用。請輸入 PUK 碼以繼續進行。你還可以再試 %d 次，如果仍然失敗，SIM 卡將永久無法使用。詳情請與電信業者聯絡。</item>
+        <item quantity="one">SIM 卡現在已遭停用。請輸入 PUK 碼以繼續進行。你還可以再試 %d 次，如果仍然失敗，SIM 卡將永久無法使用。詳情請與電信業者聯絡。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM 卡的 PIN 碼輸入錯誤，你還可以再試 %d 次。</item>
+        <item quantity="one">SIM 卡的 PIN 碼輸入錯誤，你還可以再試 %d 次。如果仍然失敗，就必須請電信業者為裝置解鎖。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM 卡的 PUK 碼輸入錯誤，你還可以再試 %d 次。如果仍然失敗，SIM 卡將永久無法使用。</item>
+        <item quantity="one">SIM 卡的 PUK 碼輸入錯誤，你還可以再試 %d 次。如果仍然失敗，SIM 卡將永久無法使用。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">裝置已有 %d 小時未解鎖。請確認密碼。</item>
+        <item quantity="one">裝置已有 %d 小時未解鎖。請確認密碼。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">裝置已有 %d 小時未解鎖。請確認解鎖圖案。</item>
+        <item quantity="one">裝置已有 %d 小時未解鎖。請確認解鎖圖案。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">裝置已有 %d 小時未解鎖。請確認 PIN 碼。</item>
+        <item quantity="one">裝置已有 %d 小時未解鎖。請確認 PIN 碼。</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">請於 %d 秒後再試一次。</item>
+        <item quantity="one">請於 1 秒後再試一次。</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">請於 %d 秒鐘後重試生物辨識解鎖</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">請於 %d 秒鐘後重試臉部辨識</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">請於 %d 秒鐘後重試指紋解鎖</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">請於 %d 秒鐘後重試智慧掃描</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">請於 %d 秒鐘後重試虹膜辨識</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">請於 %d 分鐘後重試</item>
+        <item quantity="one">請於 %d 分鐘後重試</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">請於 %d 秒鐘後重試</item>
+        <item quantity="one">請於 %d 秒鐘後重試</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">已嘗試 %1$d 次錯誤的生物辨識驗證。請於 %2$d 秒後重試。</item>
+        <item quantity="one">已嘗試 %1$d 次錯誤的生物辨識驗證。請於 %2$d 秒後重試。</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">已嘗試 %1$d 次錯誤的臉部驗證。請於 %2$d 秒後重試。</item>
+        <item quantity="one">已嘗試 %1$d 次錯誤的臉部驗證。請於 %2$d 秒後重試。</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">已嘗試 %1$d 次錯誤的指紋驗證。請於 %2$d 秒後重試。</item>
+        <item quantity="one">已嘗試 %1$d 次錯誤的指紋驗證。請於 %2$d 秒後重試。</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">已嘗試 %1$d 次錯誤的智慧掃描驗證。請於 %2$d 秒後重試。</item>
+        <item quantity="one">已嘗試 %1$d 次錯誤的智慧掃描驗證。請於 %2$d 秒後重試。</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">已嘗試 %1$d 次錯誤的虹膜驗證。請於 %2$d 秒後重試。</item>
+        <item quantity="one">已嘗試 %1$d 次錯誤的虹膜驗證。請於 %2$d 秒後重試。</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">群組中還有 %s 則通知。</item>
+        <item quantity="one">群組中還有 %s 則通知。</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d 個裝置</item>
+        <item quantity="one">%d 個裝置</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">%d 分鐘</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">最多可新增 %d 位使用者。</item>
+        <item quantity="one">只能建立 1 位使用者。</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d 個已連線的裝置</item>
+        <item quantity="one">%1$d 個已連線的裝置</item>
+    </plurals>
+</resources>

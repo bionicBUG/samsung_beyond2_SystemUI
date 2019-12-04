@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">%d günden oýar</item>
+        <item quantity="one">%d günden oýar</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">%d sagatdan oýar</item>
+        <item quantity="one">%d sagatdan oýar</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">%d minutdan oýar</item>
+        <item quantity="one">%d minutdan oýar</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d synanyşyk galdy.</item>
+        <item quantity="one">%d synanyşyk galdy.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d synanyşyk galdy)</item>
+        <item quantity="one">(1 synanyşyk galdy)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Bu telefonyň gulpuny açmaga %1$d synanyşyk edildi. Ýene %2$d sagatdan synanyşyň.</item>
+        <item quantity="one">Bu telefonyň gulpuny açmaga %d synanyşyk edildi. Ýene 1 sagatdan synanyşyň.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Bu telefonyň gulpuny açmaga %1$d synanyşyk edildi. Ýene %2$d minutdan synanyşyň.</item>
+        <item quantity="one">Bu telefonyň gulpuny açmaga %d synanyşyk edildi. Ýene 1 minutdan synanyşyň.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Bu telefonyň gulpuny açmaga %1$d synanyşyk edildi. Ýene %2$d sekuntdan synanyşyň.</item>
+        <item quantity="one">Bu telefonyň gulpuny açmaga %d synanyşyk edildi. Ýene 1 sekuntdan synanyň.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Biometrikaňyzy ýene %d sekuntdan synanyşyň</item>
+        <item quantity="one">Biometrikaňyzy ýene %d sekuntdan synanyşyň</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Ýüz tanaýyşy ýene %d sekuntdan synanyşyň</item>
+        <item quantity="one">Ýüz tanaýyşy ýene %d sekuntdan synanyşyň</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Barmak yzyňyzy ýene %d sekuntdan synanyşyň</item>
+        <item quantity="one">Barmak yzyňyzy ýene %d sekuntdan synanyşyň</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Intelligent Scan ýene %d sekuntdan synanyşyň</item>
+        <item quantity="one">Intelligent Scan ýene %d sekuntdan synanyşyň</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Göz tanaýyşy ýene %d sekuntdan synanyşyň</item>
+        <item quantity="one">Göz tanaýyşy ýene %d sekuntdan synanyşyň</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Ýene %d minutdan synanyş</item>
+        <item quantity="one">Ýene %d minutdan synanyş</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Ýene %d sekuntdan synanyş</item>
+        <item quantity="one">Ýene %d sekuntdan synanyş</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Biometrika tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+        <item quantity="one">Biometrika tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Ýüzüňizi tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+        <item quantity="one">Ýüzüňizi tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Barmak yzlary tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+        <item quantity="one">Barmak yzlary tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Intelligent Scan tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+        <item quantity="one">Intelligent Scan tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Göreçleriňizi tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+        <item quantity="one">Göreçleriňizi tassyklamak üçin, %1$d nädogry synanyşyk. Ýene %2$d sekuntdan synanyşyň.</item>
+    </plurals>
+</resources>

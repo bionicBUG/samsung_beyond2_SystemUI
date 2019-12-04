@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="@integer/notification_panel_layout_gravity" android:id="@id/brightness_mirror" android:background="@drawable/brightness_mirror_background" android:visibility="invisible" android:layout_width="@dimen/qs_panel_width" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/notification_side_paddings" android:layout_marginRight="@dimen/notification_side_paddings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sysui="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/quick_settings_brightness_dialog_sec" />
+</FrameLayout>

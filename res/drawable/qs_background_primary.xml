@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape>
+        <solid android:color="@color/sec_qs_background" />
+        <corners android:topLeftRadius="@dimen/notification_panel_background_radius" android:topRightRadius="@dimen/notification_panel_background_radius" android:bottomLeftRadius="@dimen/notification_panel_background_radius" android:bottomRightRadius="@dimen/notification_panel_background_radius" />
+    </shape>
+</inset>

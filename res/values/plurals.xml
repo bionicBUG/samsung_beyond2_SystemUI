@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min ago</item>
+        <item quantity="one">%d min ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yr ago</item>
+        <item quantity="one">%d yr ago</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm in %d days</item>
+        <item quantity="one">Alarm in %d day</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm in %d hours</item>
+        <item quantity="one">Alarm in %d hour</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm in %d minutes</item>
+        <item quantity="one">Alarm in %d minute</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d attempts left</item>
+        <item quantity="one">%d attempt left</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d attempts remaining)</item>
+        <item quantity="one">(1 attempt remaining)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">There have been %1$d attempts to unlock this phone. Try again in %2$d hours.</item>
+        <item quantity="one">There have been %d attempts to unlock this phone. Try again in 1 hour.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">There have been %1$d attempts to unlock this phone. Try again in %2$d minutes.</item>
+        <item quantity="one">There have been %d attempts to unlock this phone. Try again in 1 minute.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">There have been %1$d attempts to unlock this phone. Try again in %2$d seconds.</item>
+        <item quantity="one">There have been %d attempts to unlock this phone. Try again in 1 second.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Enter SIM PIN. You have %d remaining attempts.</item>
+        <item quantity="one">Enter SIM PIN. You have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
+        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm password."</item>
+        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm password."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
+        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm pattern."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
+        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm PIN."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Try again in %d seconds.</item>
+        <item quantity="one">Try again in 1 second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Try your biometrics again in %d seconds</item>
+        <item quantity="one">Try your biometrics again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Try face recognition again in %d seconds</item>
+        <item quantity="one">Try face recognition again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Try your fingerprint again in %d seconds</item>
+        <item quantity="one">Try your fingerprint again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Try Intelligent scan again in %d seconds</item>
+        <item quantity="one">Try Intelligent scan again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Try iris recognition again in %d seconds</item>
+        <item quantity="one">Try iris recognition again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Try again in %d minutes</item>
+        <item quantity="one">Try again in %d minute</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Try again in %d seconds</item>
+        <item quantity="one">Try again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d incorrect attempts to verify biometrics. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify biometrics. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics_in_2step_verification">
+        <item quantity="other">%1$d incorrect attempts to verify biometrics. 2 step verification is blocked. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify biometrics. 2 step verification is blocked. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d incorrect attempts to verify your face. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify your face. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d incorrect attempts to verify fingerprints. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify fingerprints. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint_in_2step_verification">
+        <item quantity="other">%1$d incorrect attempts to verify fingerprints. 2 step verification is blocked. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify fingerprints. 2 step verification is blocked. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d incorrect attempts to verify Intelligent Scan. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify Intelligent Scan. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d incorrect attempts to verify your irises. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify your irises. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s more notifications inside.</item>
+        <item quantity="one">%s more notification inside.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d devices</item>
+        <item quantity="one">%d device</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">You can add up to %d users.</item>
+        <item quantity="one">Only one user can be created.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d devices connected</item>
+        <item quantity="one">%1$d device connected</item>
+    </plurals>
+</resources>

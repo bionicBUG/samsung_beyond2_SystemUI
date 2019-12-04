@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-map>
+    <color>
+        <match overlay="ksh_dialog_content_text_color">
+            <original>ksh_help_popup_content_text_color</original>
+        </match>
+        <match overlay="ksh_dialog_title_text_color">
+            <original>ksh_title_text_color</original>
+        </match>
+        <match overlay="ksh_subheader_title_text_color">
+            <original>ksh_application_group_color</original>
+        </match>
+        <match overlay="ksh_subheader_divider_bg_color">
+            <original>ksh_subheader_divider_color</original>
+        </match>
+        <match overlay="qs_tile_icon_on_dim_tint_color">
+            <original>qs_tile_icon_on_tint_color</original>
+        </match>
+        <match overlay="status_bar_header_setting_tint_color">
+            <original>qs_status_bar_clock_color</original>
+        </match>
+        <match overlay="notification_header_bg_tw">
+            <original>sec_qs_background</original>
+        </match>
+        <match overlay="qs_detail_item_device_icon_tint_color">
+            <original>qs_detail_item_device_bt_icon_tint_color</original>
+        </match>
+        <match overlay="qs_tile_label">
+            <original>qspanel_media_devices_divider_color</original>
+        </match>
+    </color>
+</resource-map>

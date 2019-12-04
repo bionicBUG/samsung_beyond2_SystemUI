@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/facewidget_today_root_view_big" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/facewidget_big_content_padding_side" android:paddingEnd="@dimen/facewidget_big_content_padding_side"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sysui="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <include layout="@layout/facewidget_today_date" />
+    </LinearLayout>
+    <include android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0" layout="@layout/facewidget_today_no_event_big" />
+    <com.android.systemui.facewidget.pages.calendar.FaceWidgetCalendarEventListPage android:id="@id/facewidget_event_list_root" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="2.0">
+        <View android:background="@drawable/facewidget_today_event_ripple_rect" android:layout_width="fill_parent" android:layout_height="fill_parent" android:transitionName="facewidget_event_list_scroll" />
+        <ScrollView android:scrollbarThumbVertical="@drawable/facewidget_today_scrollbar_rect" android:id="@id/facewidget_today_scrollview" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.android.systemui.facewidget.pages.calendar.FaceWidgetCalendarEventListView android:orientation="vertical" android:id="@id/facewidget_event_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:transitionName="facewidget_event_list" sysui:maxEventCnt="0" sysui:pageType="big" />
+        </ScrollView>
+    </com.android.systemui.facewidget.pages.calendar.FaceWidgetCalendarEventListPage>
+    <Space android:layout_width="fill_parent" android:layout_height="@dimen/facewidget_navigation_bar_size" />
+</LinearLayout>

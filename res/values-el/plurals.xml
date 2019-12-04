@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d ημ. πριν</item>
+        <item quantity="one">%d ημ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d λεπ. πριν</item>
+        <item quantity="one">%d λεπ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d χρ. πριν</item>
+        <item quantity="one">%d χρ. πριν</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Ξυπνητήρι σε %d ημέρες</item>
+        <item quantity="one">Ξυπνητήρι σε %d ημέρα</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Ξυπνητήρι σε %d ώρες</item>
+        <item quantity="one">Ξυπνητήρι σε %d ώρα</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Ξυπνητήρι σε %d λεπτά</item>
+        <item quantity="one">Ξυπνητήρι σε %d λεπτό</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Απομένουν %d προσπάθειες.</item>
+        <item quantity="one">Απομένει %d προσπάθεια.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(Απομένουν %d προσπάθειες)</item>
+        <item quantity="one">(Απομένει 1 προσπάθεια)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Έγιναν %1$d προσπάθειες για το ξεκλείδωμα αυτού του τηλεφώνου. Δοκιμάστε ξανά σε %2$d ώρες.</item>
+        <item quantity="one">Έγιναν %d προσπάθειες για το ξεκλείδωμα αυτού του τηλεφώνου. Δοκιμάστε ξανά σε 1 ώρα.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Έγιναν %1$d προσπάθειες για το ξεκλείδωμα αυτού του τηλεφώνου. Δοκιμάστε ξανά σε %2$d λεπτά.</item>
+        <item quantity="one">Έγιναν %d προσπάθειες για το ξεκλείδωμα αυτού του τηλεφώνου. Δοκιμάστε ξανά σε 1 λεπτό.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Έγιναν %1$d προσπάθειες για το ξεκλείδωμα αυτού του τηλεφώνου. Δοκιμάστε ξανά σε %2$d δευτερόλεπτα.</item>
+        <item quantity="one">Έγιναν %d προσπάθειες για το ξεκλείδωμα αυτού του τηλεφώνου. Δοκιμάστε ξανά σε 1 δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Εισαγάγετε τον αριθμό PIN της κάρτας SIM. Απομένουν άλλες %d προσπάθειες.</item>
+        <item quantity="one">Εισαγάγετε τον αριθμό PIN της κάρτας SIM. Απομένει άλλη %d προσπάθεια. Στη συνέχεια, θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας, για να ξεκλειδώσετε τη συσκευή.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">Η κάρτα SIM απενεργοποιήθηκε. Καταχωρίστε τον κωδικό PUK, για να συνεχίσετε. Απομένουν %d ακόμη προσπάθειες προτού να μην είναι πλέον δυνατή η χρήση της κάρτας SIM. Επικοινωνήστε με την εταιρεία κινητής τηλεφωνίας για λεπτομέρειες.</item>
+        <item quantity="one">Η κάρτα SIM απενεργοποιήθηκε. Καταχωρίστε τον κωδικό PUK, για να συνεχίσετε. Απομένει %d ακόμη προσπάθεια προτού να μην είναι πλέον δυνατή η χρήση της κάρτας SIM. Επικοινωνήστε με την εταιρεία κινητής τηλεφωνίας για λεπτομέρειες.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Λανθασμένος κωδικός PIN κάρτας SIM. Απομένουν άλλες %d προσπάθειες.</item>
+        <item quantity="one">Λανθασμένος κωδικός PIN κάρτας SIM. Απομένει άλλη %d προσπάθεια. Στη συνέχεια, θα πρέπει να επικοινωνήσετε με την εταιρεία κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Λανθασμένος κωδικός PUK κάρτας SIM. Απομένουν άλλες %d προσπάθειες προτού να μην είναι πλέον δυνατή η χρήση της κάρτας SIM.</item>
+        <item quantity="one">Λανθασμένος κωδικός PUK κάρτας SIM. Απομένει άλλη %d προσπάθεια προτού να μην είναι πλέον δυνατή η χρήση της κάρτας SIM.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρες. Επιβεβαιώστε τον κωδικό πρόσβασης.</item>
+        <item quantity="one">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρα. Επιβεβαιώστε τον κωδικό πρόσβασης.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρες. Επιβεβαιώστε το μοτίβο.</item>
+        <item quantity="one">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρα. Επιβεβαιώστε το μοτίβο.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρες. Επιβεβαιώστε τον αριθμό PIN.</item>
+        <item quantity="one">Η συσκευή δεν έχει ξεκλειδωθεί εδώ και %d ώρα. Επιβεβαιώστε τον αριθμό PIN.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα.</item>
+        <item quantity="one">Δοκιμάστε ξανά σε 1 δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Δοκιμάστε ξανά τα βιομετρικά δεδομένα σε %d δευτερόλεπτα</item>
+        <item quantity="one">Δοκιμάστε ξανά τα βιομετρικά δεδομένα σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Δοκιμάστε ξανά την αναγνώριση προσώπου σε %d δευτερόλεπτα</item>
+        <item quantity="one">Δοκιμάστε ξανά την αναγνώριση προσώπου σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Δοκιμάστε ξανά το δαχτυλικό αποτύπωμα σε %d δευτερόλεπτα</item>
+        <item quantity="one">Δοκιμάστε ξανά το δαχτυλικό αποτύπωμα σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Δοκιμάστε ξανά την Έξυπνη σάρωση σε %d δευτερόλεπτα</item>
+        <item quantity="one">Δοκιμάστε ξανά την Έξυπνη σάρωση σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Δοκιμάστε ξανά την αναγνώριση ίριδας σε %d δευτερόλεπτα</item>
+        <item quantity="one">Δοκιμάστε ξανά την αναγνώριση ίριδας σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Δοκιμάστε ξανά σε %d λεπτά</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d λεπτό</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση των βιομετρικών δεδομένων σας. Δοκιμάστε ξανά σε %2$d δευτερόλεπτα.</item>
+        <item quantity="one">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση των βιομετρικών δεδομένων σας. Δοκιμάστε ξανά σε %2$d δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση του προσώπου σας. Δοκιμάστε ξανά σε %2$d δευτερόλεπτα.</item>
+        <item quantity="one">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση του προσώπου σας. Δοκιμάστε ξανά σε %2$d δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση των δαχτυλικών αποτυπωμάτων. Δοκιμάστε ξανά σε %2$d δευτερόλεπτα.</item>
+        <item quantity="one">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση των δαχτυλικών αποτυπωμάτων. Δοκιμάστε ξανά σε %2$d δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση της Έξυπνης σάρωσης. Δοκιμάστε ξανά σε %2$d δευτερόλεπτα.</item>
+        <item quantity="one">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση της Έξυπνης σάρωσης. Δοκιμάστε ξανά σε %2$d δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση της ίριδάς σας. Δοκιμάστε ξανά σε %2$d δευτερόλεπτα.</item>
+        <item quantity="one">Έγιναν %1$d εσφαλμένες προσπάθειες για την επαλήθευση της ίριδάς σας. Δοκιμάστε ξανά σε %2$d δευτερόλεπτο.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s επιπλέον ειδοποιήσεις εντός της ομάδας.</item>
+        <item quantity="one">%s επιπλέον ειδοποίηση εντός της ομάδας.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d συσκευές</item>
+        <item quantity="one">%d συσκευή</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Μπορείτε να προσθέσετε έως %d χρήστες.</item>
+        <item quantity="one">Είναι δυνατή η δημιουργία μόνο ενός χρήστη.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d συσκευές συνδέθηκαν</item>
+        <item quantity="one">%1$d συσκευή συνδέθηκε</item>
+    </plurals>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Prije %d dana</item>
+        <item quantity="one">Prije %d dan</item>
+        <item quantity="few">Prije %d dana</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Prije %d min.</item>
+        <item quantity="one">Prije %d min.</item>
+        <item quantity="few">Prije %d min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Prije %d god.</item>
+        <item quantity="one">Prije %d god.</item>
+        <item quantity="few">Prije %d god.</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm je za %d dana</item>
+        <item quantity="one">Alarm je za %d dan</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm je za %d sati</item>
+        <item quantity="one">Alarm je za %d sat</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm je za %d minuta</item>
+        <item quantity="one">Alarm je za %d minutu</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Preostalo je još %d pokušaja.</item>
+        <item quantity="one">Preostao je još %d pokušaj.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(preostalo je %d pokušaja)</item>
+        <item quantity="one">(1 pokušaj je preostao)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Došlo je do sljedećeg broja pokušaja otključavanja ovog telefona: %1$d. Pokušajte ponovno za %2$d h.</item>
+        <item quantity="one">Došlo je do sljedećeg broja pokušaja otključavanja ovog telefona: %d. Pokušajte ponovno za 1 h.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Došlo je do sljedećeg broja pokušaja otključavanja ovog telefona: %1$d. Pokušajte ponovno za %2$d min.</item>
+        <item quantity="one">Došlo je do sljedećeg broja pokušaja otključavanja ovog telefona: %d. Pokušajte ponovno za 1 min.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Došlo je do sljedećeg broja pokušaja otključavanja ovog telefona: %1$d. Pokušajte ponovno za %2$d s.</item>
+        <item quantity="one">Došlo je do sljedećeg broja pokušaja otključavanja ovog telefona: %d. Pokušajte ponovno za 1 s.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Unesite PIN za SIM. Imate još %d pokušaja.</item>
+        <item quantity="one">Unesite PIN za SIM. Imate još %d pokušaj.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM kartica je onemogućena. Unesite PUK kôd da nastavite. Imate još %d pokušaja prije nego što SIM kartica postane trajno neupotrebljiva. Za više informacija kontaktirajte mobilnog operatera.</item>
+        <item quantity="one">SIM kartica je onemogućena. Unesite PUK kôd da nastavite. Imate još %d pokušaj prije nego što SIM kartica postane trajno neupotrebljiva. Za više informacija kontaktirajte mobilnog operatera.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">PIN za SIM karticu je netačan. Imate još %d pokušaja.</item>
+        <item quantity="one">PIN za SIM karticu je netačan. Imate još %d pokušaj.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">PUK kôd za SIM karticu je netačan. Imate još %d pokušaja prije nego što SIM kartica postane trajno neupotrebljiva.</item>
+        <item quantity="one">PUK kôd za SIM karticu je netačan. Imate još %d pokušaj prije nego što SIM kartica postane trajno neupotrebljiva.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Uređaj nije otključavan %d sati. Potvrdite lozinku.</item>
+        <item quantity="one">Uređaj nije otključavan %d sat. Potvrdite lozinku.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Uređaj nije otključavan %d sati. Potvrdite uzorak.</item>
+        <item quantity="one">Uređaj nije otključavan %d sat. Potvrdite uzorak.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Uređaj nije otključavan %d sati. Potvrdite PIN.</item>
+        <item quantity="one">Uređaj nije otključavan %d sat. Potvrdite PIN.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Pokušajte ponovo za %d sekundi.</item>
+        <item quantity="one">Pokušajte ponovo za %d sekundu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Pokušajte ponovno pomoću biometrijskih podataka za %d sekundi</item>
+        <item quantity="one">Pokušajte ponovno pomoću biometrijskih podataka za %d sekundu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Ponovno isprobajte prepoznavanje lica za %d sekundi</item>
+        <item quantity="one">Ponovno isprobajte prepoznavanje lica za %d sekundu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Pokušajte ponovno pomoću otiska prsta za %d sekundi</item>
+        <item quantity="one">Pokušajte ponovno pomoću otiska prsta za %d sekundu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Ponovno isprobajte Inteligentno skeniranje za %d sekundi</item>
+        <item quantity="one">Ponovno isprobajte Inteligentno skeniranje za %d sekundu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Ponovno isprobajte prepoznavanje šarenica očiju za %d sekundi</item>
+        <item quantity="one">Ponovno isprobajte prepoznavanje šarenica očiju za %d sekundu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Pokušajte ponovno za %d minuta</item>
+        <item quantity="one">Pokušaj ponovno za %d minut</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Pokušajte ponovno za %d sekunde/i</item>
+        <item quantity="one">Pokušaj ponovno za %d sekundu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Broj netačnih pokušaja potvrđivanja biometrijskih podataka: %1$d. Pokušajte ponovno za %2$d sekunde/i.</item>
+        <item quantity="one">Broj netačnih pokušaja potvrđivanja biometrijskih podataka: %1$d. Pokušajte ponovno za %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Nekoliko neispravnih pokušaja potvrde lica (njih %1$d). Pokušajte ponovno za %2$d sekundi.</item>
+        <item quantity="one">Nekoliko neispravnih pokušaja potvrde lica (njih %1$d). Pokušajte ponovno za %2$d sekundu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Broj netačnih pokušaja potvrđivanja otisaka prstiju: %1$d. Pokušajte ponovno za %2$d sekunde/i.</item>
+        <item quantity="one">Broj netačnih pokušaja potvrđivanja otisaka prstiju: %1$d. Pokušajte ponovno za %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Nekoliko neispravnih pokušaja (njih %1$d) za potvrdu Inteligentnog skeniranja. Pokušajte ponovno za %2$d sekundi.</item>
+        <item quantity="one">Nekoliko neispravnih pokušaja (njih %1$d) za potvrdu Inteligentnog skeniranja. Pokušajte ponovno za %2$d sekundu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Nekoliko neispravnih pokušaja potvrde šarenica očiju (njih %1$d). Pokušajte ponovno za %2$d sekundi.</item>
+        <item quantity="one">Nekoliko neispravnih pokušaja potvrde šarenica očiju (njih %1$d). Pokušajte ponovno za %2$d sekundu.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Još %s obavještenja unutra.</item>
+        <item quantity="one">Još %s obavještenje unutra.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d uređaja</item>
+        <item quantity="one">%d uređaj</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d sata</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Možete dodati najviše %d korisnika.</item>
+        <item quantity="one">Možete dodati najviše %d korisnika.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezano je %1$d uređaja</item>
+        <item quantity="one">Povezan je %1$d uređaj</item>
+    </plurals>
+</resources>

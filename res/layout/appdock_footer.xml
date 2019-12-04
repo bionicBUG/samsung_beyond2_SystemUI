@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.appdock.view.AppDockFooterUIView android:layout_gravity="bottom|center" android:id="@id/appdock_footer_ui" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/appdock_footer_margin_bottom" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:gravity="center" android:layout_gravity="start|center" android:id="@id/appdock_footer_edit_tray" android:background="@drawable/appdock_footer_button_bg" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="1.0dip" android:text="@string/appdock_footer_edit_tray" android:shadowColor="#99000000" android:shadowRadius="12.0" android:textAllCaps="false" android:fontFamily="roboto-regular" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/appdock_footer_edit_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <Button android:textSize="18.0dip" android:gravity="center" android:layout_gravity="center" android:id="@id/appdock_footer_edit_cancel" android:background="@drawable/appdock_footer_button_bg" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="1.0dip" android:text="@string/appdock_footer_edit_cancel" android:shadowColor="#99000000" android:shadowRadius="12.0" android:textAllCaps="false" android:fontFamily="roboto-regular" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <Button android:textSize="18.0dip" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/appdock_footer_edit_save" android:background="@drawable/appdock_footer_button_bg" android:padding="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="1.0dip" android:text="@string/appdock_footer_edit_save" android:shadowColor="#99000000" android:shadowRadius="12.0" android:textAllCaps="false" android:fontFamily="roboto-regular" />
+        </FrameLayout>
+    </LinearLayout>
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/appdock_footer_toggle_expand" android:padding="2.0dip" android:clickable="true" android:layout_width="@dimen/appdock_footer_height" android:layout_height="@dimen/appdock_footer_height" android:foreground="@drawable/appdock_layout_change_button_foreground" android:src="@drawable/appdock_ic_grid_view" android:scaleType="fitCenter" android:tint="#ffffffff" />
+</com.android.systemui.appdock.view.AppDockFooterUIView>

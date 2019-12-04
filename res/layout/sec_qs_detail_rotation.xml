@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.AlphaOptimizedLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.QS.DetailEmpty" android:id="@id/rotation_summary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/quick_settings_rotation_lock_two_toggle_detail_summary" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" android:paddingEnd="@dimen/sec_qs_detail_items_side_padding" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/quick_settings_manual_rotation_category_parent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+        <TextView android:textAppearance="@style/TextAppearance.QS.DetailItemCategory" android:id="@id/quick_settings_manual_rotation_category" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/quick_settings_manual_rotation_category" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" />
+        <View android:layout_gravity="center" android:background="@drawable/sec_qs_detail_sub_header_divider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/sec_qs_detail_category_divider_start" android:layout_marginEnd="@dimen/sec_qs_detail_category_divider_end" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/button_on_navigation_bar_option_parent" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:paddingBottom="@dimen/sec_qs_detail_settings_padding_bottom" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/button_on_navigation_bar_option" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_qs_detail_item_switch_top_margin" layout="@layout/sec_qs_detail_item_summary_switch" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/quick_settings_rotation_category_parent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+        <TextView android:textAppearance="@style/TextAppearance.QS.DetailItemCategory" android:id="@id/quick_settings_rotation_category" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/quick_settings_rotation_category" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" />
+        <View android:layout_gravity="center" android:background="@drawable/sec_qs_detail_sub_header_divider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/sec_qs_detail_category_divider_start" android:layout_marginEnd="@dimen/sec_qs_detail_category_divider_end" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/home_screen" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:paddingTop="@dimen/qspanel_brightness_detail_settings_padding_top_bottom" android:paddingBottom="@dimen/qspanel_brightness_detail_settings_padding_top_bottom" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_qs_detail_item_switch_top_margin" layout="@layout/sec_qs_detail_item_summary_switch" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/lock_screen" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:paddingTop="@dimen/qspanel_brightness_detail_settings_padding_top_bottom" android:paddingBottom="@dimen/qspanel_brightness_detail_settings_padding_top_bottom" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_qs_detail_item_switch_top_margin" layout="@layout/sec_qs_detail_item_summary_switch" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/call_screen" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:paddingTop="@dimen/qspanel_brightness_detail_settings_padding_top_bottom" android:paddingBottom="@dimen/qspanel_brightness_detail_settings_padding_top_bottom" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_qs_detail_item_switch_top_margin" layout="@layout/sec_qs_detail_item_summary_switch" />
+    </LinearLayout>
+</com.android.keyguard.AlphaOptimizedLinearLayout>

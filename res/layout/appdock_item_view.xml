@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/content" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/icon" android:layout_width="53.0dip" android:layout_height="53.0dip" android:layout_margin="6.0dip" android:scaleType="fitCenter" />
+            <ImageView android:layout_gravity="center|right|top" android:id="@id/icon_edit_delete" android:layout_width="@dimen/appdock_edit_ui_item_delete_icon_size" android:layout_height="@dimen/appdock_edit_ui_item_delete_icon_size" android:foreground="@drawable/appdock_edit_delete_button_bg" android:src="@drawable/appdock_edit_delete" android:scaleType="fitCenter" />
+        </FrameLayout>
+        <com.android.systemui.appdock.view.ContrastTextView android:textSize="12.0dip" android:textStyle="normal" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center|top" android:layout_gravity="center_horizontal" android:id="@id/label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:lines="2" android:shadowColor="#99000000" android:shadowRadius="5.0" android:fontFamily="sans-serif" android:textAlignment="center" />
+    </LinearLayout>
+</FrameLayout>

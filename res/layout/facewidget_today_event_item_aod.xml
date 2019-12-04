@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/facewidget_today_event" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/facewidget_today_event_title_size_small" android:textColor="@color/theme_todays_content_text_color" android:ellipsize="end" android:id="@id/facewidget_today_event_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="1.0" android:fontFamily="sec-roboto-regular" style="@style/facewidget_today_text_shadow" />
+        <View android:id="@id/facewidget_today_event_divider" android:background="@color/theme_todays_list_item_divider_color" android:layout_width="1.0dip" android:layout_height="11.0dip" android:layout_marginStart="@dimen/facewidget_today_event_bar_margin" android:layout_marginEnd="@dimen/facewidget_today_event_bar_margin" />
+        <TextView android:textSize="@dimen/facewidget_today_event_time_size_small" android:textColor="@color/theme_todays_time_color" android:ellipsize="end" android:id="@id/facewidget_today_event_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:lineSpacingExtra="@dimen/facewidget_today_event_linespace" android:fontFamily="sec-roboto-regular" android:layout_marginVertical="@dimen/facewidget_today_event_time_event_margin" style="@style/facewidget_today_text_shadow" />
+    </LinearLayout>
+</LinearLayout>

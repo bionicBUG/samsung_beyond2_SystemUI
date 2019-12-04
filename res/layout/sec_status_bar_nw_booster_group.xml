@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.SecStatusBarNwBoosterView android:gravity="center_vertical" android:id="@id/nwbooster_combo" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto">
+    <com.android.keyguard.AlphaOptimizedLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/nwbooster_group" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <FrameLayout android:gravity="center_vertical" android:id="@id/nwbooster_iconset" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/wifi_strength" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" />
+            <ImageView android:layout_gravity="center" android:id="@id/mobile_type" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <ImageView android:layout_gravity="center" android:id="@id/activity" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </com.android.keyguard.AlphaOptimizedLinearLayout>
+</com.android.systemui.statusbar.SecStatusBarNwBoosterView>

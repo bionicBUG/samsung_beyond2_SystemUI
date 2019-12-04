@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Pirms %d dienām</item>
+        <item quantity="zero">Pirms %d dienām</item>
+        <item quantity="one">Pirms %d dienas</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Pirms %d minūtēm</item>
+        <item quantity="zero">Pirms %d minūtēm</item>
+        <item quantity="one">Pirms %d minūtes</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Pirms %d gadiem</item>
+        <item quantity="zero">Pirms %d gadiem</item>
+        <item quantity="one">Pirms %d gada</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Signāls pēc %d dienām</item>
+        <item quantity="one">Signāls pēc %d dienas</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Signāls pēc %d stundām</item>
+        <item quantity="one">Signāls pēc %d stundas</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Signāls pēc %d minūtēm</item>
+        <item quantity="one">Signāls pēc %d minūtes</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Atlikuši %d mēģinājumi.</item>
+        <item quantity="one">Atlicis %d mēģinājums.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(Atlikuši %d mēģinājumi)</item>
+        <item quantity="one">(Atlicis 1 mēģinājums)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Tika veikti %1$d mēģinājumi atbloķēt šo tālruni. Mēģiniet vēlreiz pēc %2$d stundām.</item>
+        <item quantity="one">Tika veikti %d mēģinājumi atbloķēt šo tālruni. Mēģiniet vēlreiz pēc 1 stundas.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Tika veikti %1$d mēģinājumi atbloķēt šo tālruni. Mēģiniet vēlreiz pēc %2$d minūtēm.</item>
+        <item quantity="one">Tika veikti %d mēģinājumi atbloķēt šo tālruni. Mēģiniet vēlreiz pēc 1 minūtes.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Tika veikti %1$d mēģinājumi atbloķēt šo tālruni. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+        <item quantity="one">Tika veikti %d mēģinājumi atbloķēt šo tālruni. Mēģiniet vēlreiz pēc 1 sekundes.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Ievadiet SIM kartes PIN. Varat mēģināt vēl %d reizes.</item>
+        <item quantity="one">Ievadiet SIM kartes PIN. Varat mēģināt vēl %d reizi.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM karte tagad ir atspējota. Ievadiet PUK kodu, lai turpinātu. Varat mēģināt vēl %d reizes. Kļūdas gadījumā SIM karti vairs nevarēs izmantot. Lai iegūtu detalizētu informāciju, sazinieties ar mobilo sakaru operatoru.</item>
+        <item quantity="one">SIM karte tagad ir atspējota. Ievadiet PUK kodu, lai turpinātu. Varat mēģināt vēl %d reizi. Kļūdas gadījumā SIM karti vairs nevarēs izmantot. Lai iegūtu detalizētu informāciju, sazinieties ar mobilo sakaru operatoru.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizes.</item>
+        <item quantity="one">Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizi.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Nepareizs SIM kartes PUK kods. Varat mēģināt vēl %d reizes. Ja pēdējais mēģinājums būs kļūdains, SIM karti vairs nevarēs izmantot.</item>
+        <item quantity="one">Nepareizs SIM kartes PUK kods. Varat mēģināt vēl %d reizi. Ja pēdējais mēģinājums būs kļūdains, SIM karti vairs nevarēs izmantot.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Ierīce nav tikusi atbloķēta %d stundas. Apstipriniet paroli.</item>
+        <item quantity="one">Ierīce nav tikusi atbloķēta %d stundu. Apstipriniet paroli.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Ierīce nav tikusi atbloķēta %d stundas. Apstipriniet kombināciju.</item>
+        <item quantity="one">Ierīce nav tikusi atbloķēta %d stundu. Apstipriniet kombināciju.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Ierīce nav tikusi atbloķēta %d stundas. Apstipriniet PIN.</item>
+        <item quantity="one">Ierīce nav tikusi atbloķēta %d stundu. Apstipriniet PIN.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Mēģiniet vēlreiz pēc %d sekundēm.</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d sekundes.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Pēc %d sekundēm mēģiniet vēlreiz izmantot biometrijas datus</item>
+        <item quantity="one">Pēc %d sekundes mēģiniet vēlreiz izmantot biometrijas datus</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Pēc %d sekundēm mēģiniet vēlreiz izmantot sejas atpazīšanu</item>
+        <item quantity="one">Pēc %d sekundes mēģiniet vēlreiz izmantot sejas atpazīšanu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Pēc %d sekundēm mēģiniet vēlreiz izmantot pirksta nospiedumu</item>
+        <item quantity="one">Pēc %d sekundes mēģiniet vēlreiz izmantot pirksta nospiedumu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Pēc %d sekundēm mēģiniet vēlreiz izmantot Intelligent Scan</item>
+        <item quantity="one">Pēc %d sekundes mēģiniet vēlreiz izmantot Intelligent Scan</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Pēc %d sekundēm mēģiniet vēlreiz izmantot varavīksnenes atpazīšanu</item>
+        <item quantity="one">Pēc %d sekundes mēģiniet vēlreiz izmantot varavīksnenes atpazīšanu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Mēģiniet vēlreiz pēc %d minūtēm</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d minūtes</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Mēģiniet vēlreiz pēc %d sekundēm</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d sekundes</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Ir veikti %1$d nepareizi mēģinājumi verificēt biometrijas datus. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+        <item quantity="one">Ir veikti %1$d nepareizi biometrijas datu verificēšanas mēģinājumi. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Ir veikti %1$d nepareizi mēģinājumi verificēt jūsu seju. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+        <item quantity="one">Ir veikti %1$d nepareizi mēģinājumi verificēt jūsu seju. Mēģiniet vēlreiz pēc %2$d sekundes.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Ir veikti %1$d nepareizi mēģinājumi verificēt pirkstu nospiedumus. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+        <item quantity="one">Ir veikti %1$d nepareizi pirkstu nospiedumu verificēšanas mēģinājumi. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Ir veikti %1$d nepareizi mēģinājumi verificēt funkciju Intelligent Scan. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+        <item quantity="one">Ir veikti %1$d nepareizi mēģinājumi verificēt funkciju Intelligent Scan. Mēģiniet vēlreiz pēc %2$d sekundes.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Ir veikti %1$d nepareizi mēģinājumi verificēt jūsu varavīksnenes. Mēģiniet vēlreiz pēc %2$d sekundēm.</item>
+        <item quantity="one">Ir veikti %1$d nepareizi mēģinājumi verificēt jūsu varavīksnenes. Mēģiniet vēlreiz pēc %2$d sekundes.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Vēl %s paziņojumi grupā.</item>
+        <item quantity="one">Vēl %s paziņojums grupā.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d ierīces</item>
+        <item quantity="one">%d ierīce</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Varat pievienot ne vairāk kā %d lietotājus.</item>
+        <item quantity="one">Varat pievienot ne vairāk kā %d lietotāju.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Pievienotas %1$d ierīces</item>
+        <item quantity="one">Pievienota %1$d ierīce</item>
+    </plurals>
+</resources>

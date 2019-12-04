@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.floating.FloatingShortcutView android:orientation="vertical" android:padding="@dimen/floating_shortcut_app_icon_padding" android:focusable="true" android:layout_width="@dimen/floating_shortcut_app_shortcut_size" android:layout_height="@dimen/floating_shortcut_app_shortcut_size" android:alpha="0.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.systemui.widget.SystemUIImageView android:layout_gravity="center_horizontal" android:id="@id/shortcut_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" sysui:wallpaperArea="bottom" xmlns:sysui="http://schemas.android.com/apk/res-auto" />
+    <com.android.systemui.widget.SystemUITextView android:layout_gravity="center_horizontal" android:id="@id/shortcut_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" sysui:wallpaperArea="bottom" xmlns:sysui="http://schemas.android.com/apk/res-auto" />
+</com.android.systemui.statusbar.floating.FloatingShortcutView>

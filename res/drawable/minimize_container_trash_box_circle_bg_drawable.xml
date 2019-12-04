@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/minimize_container_trash_box_circle_bg_drawable_layer">
+        <shape android:shape="oval">
+            <size android:height="@dimen/minimize_container_trash_box_circle_bg_height" android:width="@dimen/minimize_container_trash_box_circle_bg_width" />
+            <solid android:color="@color/minimize_container_trash_box_cover_opened_circle_color" />
+        </shape>
+    </item>
+</layer-list>

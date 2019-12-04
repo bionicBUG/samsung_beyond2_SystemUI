@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.policy.EmergencyCryptkeeperText android:textAppearance="@style/TextAppearance.StatusBar.Clock" android:textColor="@color/qs_status_bar_clock_color" android:ellipsize="marquee" android:gravity="start|center" android:id="@id/emergency_cryptkeeper_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:paddingStart="@dimen/keyguard_carrier_text_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

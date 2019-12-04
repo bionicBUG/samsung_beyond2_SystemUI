@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">قبل %d يوم</item>
+        <item quantity="zero">قبل %d يوم</item>
+        <item quantity="one">قبل %d يوم</item>
+        <item quantity="two">قبل يومين (%d)</item>
+        <item quantity="few">قبل %d أيام</item>
+        <item quantity="many">قبل %d يومًا</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل دقيقتين (%d)</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">قبل %d سنة</item>
+        <item quantity="zero">قبل %d سنة</item>
+        <item quantity="one">قبل %d سنة</item>
+        <item quantity="two">قبل سنتين (%d)</item>
+        <item quantity="few">قبل %d سنوات</item>
+        <item quantity="many">قبل %d سنة</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">التنبيه بعد %d يوم</item>
+        <item quantity="one">التنبيه بعد يوم واحد</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">التنبيه بعد %d ساعة</item>
+        <item quantity="one">التنبيه بعد ساعة واحدة</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">التنبيه بعد %d دقيقة</item>
+        <item quantity="one">التنبيه بعد دقيقة واحدة</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">لديك %d محاولة متبقية.</item>
+        <item quantity="one">لديك محاولة واحدة متبقية.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(تبقّت %d من المحاولات)</item>
+        <item quantity="one">(تبقّت محاولة واحدة)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">تم إجراء %1$d من المحاولات لإلغاء قفل هذا الهاتف. حاول مرة أخرى في غضون %2$d من الساعات.</item>
+        <item quantity="one">تم إجراء %d من المحاولات لإلغاء قفل هذا الهاتف. حاول مرة أخرى بعد ساعة واحدة.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">تم إجراء %1$d من المحاولات لإلغاء قفل هذا الهاتف. حاول مرة أخرى في غضون %2$d من الدقائق.</item>
+        <item quantity="one">تم إجراء %d من المحاولات لإلغاء قفل هذا الهاتف. حاول مرة أخرى بعد دقيقة واحدة.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">تم إجراء %1$d من المحاولات لإلغاء قفل هذا الهاتف. حاول مجدداً في غضون %2$d من الثواني.</item>
+        <item quantity="one">تم إجراء %d من المحاولات لإلغاء قفل هذا الهاتف. حاول مرة أخرى بعد ثانية واحدة.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">‏أدخل رقم التعريف الشخصي لشريحة SIM. تتبقى لديك %d محاولة.</item>
+        <item quantity="one">‏أدخل رقم التعريف الشخصي لشريحة SIM. تتبقى لديك محاولة واحدة (%d) يجب أن تتصل بعدها بمشغّل شبكة الجوّال لفتح الجهاز.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">‏تم إيقاف شريحة SIM الآن. أدخل رمز PUK للمتابعة، وتتبقى لديك %d محاولة قبل أن تصبح شريحة SIM غير صالحة للاستخدام نهائيًا. ويمكنك الاتصال بمشغل شبكة الجوّال لمعرفة التفاصيل.</item>
+        <item quantity="one">‏تم إيقاف شريحة SIM الآن. أدخل رمز PUK للمتابعة، وتتبقى لديك محاولة واحدة (%d) قبل أن تصبح شريحة SIM غير صالحة للاستخدام نهائيًا. ويمكنك الاتصال بمشغل شبكة الجوّال لمعرفة التفاصيل.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">‏رمز رقم التعريف الشخصي لشريحة SIM غير صحيح، ويتبقى لديك %d محاولة.</item>
+        <item quantity="one">‏رمز \"رقم التعريف الشخصي\" لشريحة SIM غير صحيح، ويتبقى لديك محاولة واحدة (%d) يتعين عليك بعدها الاتصال بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏رمز PUK لشريحة SIM غير صحيح، ويتبقى لديك %d من المحاولات تصبح بعدها شريحة SIM غير صالحة للاستخدام بشكل دائم.</item>
+        <item quantity="one">‏رمز PUK لشريحة SIM غير صالح، ويتبقى لديك محاولة واحدة (%d)، تصبح بعدها شريحة SIM غير صالحة للاستخدام بشكل دائم.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
+        <item quantity="one">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد النقش.</item>
+        <item quantity="one">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد النقش.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
+        <item quantity="one">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">حاول مرة أخرى خلال %d ثانية.</item>
+        <item quantity="one">حاول مرة أخرى خلال ثانية واحدة.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">حاول استخدام مقاييسك الحيوية مجدداً في غضون %d ثانية</item>
+        <item quantity="one">حاول استخدام مقاييسك الحيوية مجدداً في غضون ثانية واحدة</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">حاول استخدام ميزة التعرف على الوجه مجدداً في غضون %d ثانية</item>
+        <item quantity="one">حاول استخدام ميزة التعرف على الوجه مجدداً في غضون ثانية واحدة</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">حاول استخدام بصمة إصبعك مجدداً في غضون %d ثانية</item>
+        <item quantity="one">حاول استخدام بصمة إصبعك مجدداً في غضون ثانية واحدة</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">حاول استخدام المسح الذكي مجدداً في غضون %d ثانية</item>
+        <item quantity="one">حاول استخدام المسح الذكي مجدداً في غضون ثانية واحدة</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">حاول استخدام ميزة التعرف على بصمة العين مجدداً في غضون %d ثانية</item>
+        <item quantity="one">حاول استخدام ميزة التعرف على بصمة العين مجدداً في غضون ثانية واحدة</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">حاول مجدداً بعد %d من الدقائق</item>
+        <item quantity="one">المحاولة مرة أخرى بعد %d من الدقائق</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">حاول مجدداً بعد %d من الثواني</item>
+        <item quantity="one">المحاولة مرة أخرى بعد %d من الثواني</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d من المحاولات غير الصحيحة للتحقق من المقاييس الحيوية. حاول مرة أخرى خلال %2$d من الثواني.</item>
+        <item quantity="one">%1$d من المحاولات غير الصحيحة للتحقق من المقاييس الحيوية. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d من المحاولات غير الصحيحة للتحقق من وجهك. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+        <item quantity="one">%1$d من المحاولات غير الصحيحة للتحقق من وجهك. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d من المحاولات غير الصحيحة للتحقق من بصمات الأصابع. حاول مرة أخرى خلال %2$d من الثواني.</item>
+        <item quantity="one">%1$d من المحاولات غير الصحيحة للتحقق من بصمات الأصابع. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d من المحاولات غير الصحيحة للتحقق من المسح الذكي. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+        <item quantity="one">%1$d من المحاولات غير الصحيحة للتحقق من المسح الذكي. حاول مجدداً بعد %2$d من الثواني.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d من المحاولات غير الصحيحة للتحقق من بصمة عينيك. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+        <item quantity="one">%1$d من المحاولات غير الصحيحة للتحقق من بصمة عينيك. حاول مرة أخرى في غضون %2$d من الثواني.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s إشعار آخر بداخل المجموعة.</item>
+        <item quantity="one">%s إشعار آخر بداخل المجموعة.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">‏%d جهاز</item>
+        <item quantity="one">‏جهاز واحد (%d)</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">‏%d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">‏ساعتان (%d)</item>
+        <item quantity="few">‏%d ساعات</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">‏%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="few">‏%d دقائق</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">يمكنك إضافة ما يصل إلى %d مستخدم.</item>
+        <item quantity="one">يمكن إنشاء مستخدم واحد فقط.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="#33000000"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#26fcfcfc" />
+            <size android:height="@dimen/smart_lock_icon_bg_size" android:width="@dimen/smart_lock_icon_bg_size" />
+        </shape>
+    </item>
+    <item android:id="@android:id/mask">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/white" />
+            <size android:height="@dimen/smart_lock_icon_bg_size" android:width="@dimen/smart_lock_icon_bg_size" />
+        </shape>
+    </item>
+</ripple>

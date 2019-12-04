@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_brightness_detail_button">Panel aturan kecerahan</string>
+    <string name="accessibility_button">Butang</string>
+    <string name="accessibility_display_daltonizer_preference_title">Pembetulan warna</string>
+    <string name="accessibility_phone_four_bars">Empat bar isyarat telefon</string>
+    <string name="accessibility_qspanel_brightness_detail_button">Panel aturan kecerahan</string>
+    <string name="agree">Bersetuju</string>
+    <string name="airplane_mode_show_popup_message">Menghidupkan Mod penerbangan menyahaktifkan ciri rangkaian termasuklah panggilan, mesej, data mudah alih, Wi-Fi dan Bluetooth. Untuk terus menggunakan Wi-Fi dan Bluetooth, hidupkannya dalam Aturan atau pada panel pemberitahuan.</string>
+    <string name="airplane_mode_show_popup_message_cmcc">Mod penerbangan membolehkan anda untuk mematikan ciri panggilan, mesej dan rangkaian data. Ia juga mematikan ciri sambungan seperti Wi-Fi dan Bluetooth. Untuk menggunakan Wi-Fi dan Bluetooth, hidupkannya dalam Aturan atau di panel pemberitahuan.</string>
+    <string name="airplane_mode_show_popup_message_lte_without_call_feature_tablet">Anda tidak akan dapat menggunakan data mudah alih.</string>
+    <string name="airplane_mode_show_popup_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_show_popup_message_wifi">Wi-Fi dan Bluetooth akan dimatikan tetapi anda boleh menghidupkannya semula dalam Aturan atau dalam panel aturan cepat.</string>
+    <string name="airplane_mode_show_popup_safelock">Tidak boleh mengaktifkan Mod penerbangan semasa Sekat mematikan kuasa semasa dikunci diaktifkan. Cuba lagi selepas membuka kunci skrin.</string>
+    <string name="airplane_mode_show_popup_summary">Menghidupkan Mod penerbangan menyahaktifkan ciri rangkaian termasuklah panggilan, mesej, data mudah alih, Wi-Fi dan Bluetooth. Untuk terus menggunakan Wi-Fi dan Bluetooth, hidupkannya dalam Aturan atau pada panel pemberitahuan.</string>
+    <string name="airplane_mode_show_popup_summary_lte_without_call_feature_tablet">Matikan Data mudah alih.</string>
+    <string name="airplane_mode_show_popup_summary_wifi_tablet">Matikan Wi-Fi dan Bluetooth.</string>
+    <string name="airplane_mode_show_popup_title">Hidupkan Mod penerbangan?</string>
+    <string name="airplane_mode_show_popup_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_show_toast_turn_on_wifi_for_wificalling">Hidupkan Wi-Fi untuk menggunakan panggilan Wi-Fi.</string>
+    <string name="airplane_mode_toast_impossible_during_call">Tidak dapat menghidupkan Mod penerbangan semasa panggilan.</string>
+    <string name="allow_notifications_guide_text">Tunjukkan pemberitahuan</string>
+    <string name="app_label">Sistem UI</string>
+    <string name="assistance_app_setting_alert_dialog_title">Select an app to open when you press and hold the Home key. To change the selected app later, go to Device assistance app in Settings.</string>
+    <string name="assistance_app_setting_item_none">Tiada</string>
+    <string name="battery_cable_charging_from_wireless_to_cable_text">Beralih daripada mengecas tanpa wayar ke mengecas dengan kabel</string>
+    <string name="battery_cable_charging_title">Mengecas kabel</string>
+    <string name="battery_charging_level_and_time_text">"Mengecas: %1$d%%
+(Kira-kira %2$s sehingga dicas sepenuhnya)"</string>
+    <string name="battery_charging_level_text">Mengecas: %d%%</string>
+    <string name="battery_charging_time_text">(%s sehingga dicas sepenuhnya)</string>
+    <string name="battery_charging_title">Mengecas</string>
+    <string name="battery_fast_charging_title">Pgecasan pantas</string>
+    <string name="battery_fast_charging_title_chn">Pengecasan lanjutan</string>
+    <string name="battery_fast_wireless_charging_title">Mengecas secara wayarles cepat</string>
+    <string name="battery_fast_wireless_charging_title_chn">Pengecasan wayarles lanjutan</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_phone">"Pengecasan telah dihentikan. Suhu telefon anda terlalu tinggi. Berhati-hati semasa menanggalkan pengecas. Ia mungkin sangat panas.
+
+Menanggal dan memasang semula pengecas mungkin membenarkan pengecasan diteruskan seperti biasa. Jika panas melampau ini berterusan, hubungi Perkhidmatan Pelanggan kerana risiko kebakaran atau kecederaan mungkin wujud."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_tablet">"Pengecasan telah dihentikan. Suhu tablet anda terlalu tinggi. Berhati-hati semasa menanggalkan pengecas. Ia mungkin sangat panas.
+
+Menanggal dan memasang semula pengecas mungkin membenarkan pengecasan diteruskan seperti biasa. Jika panas melampau ini berterusan, hubungi Perkhidmatan Pelanggan kerana risiko kebakaran atau kecederaan mungkin wujud."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_title">Cabut palam pengecas</string>
+    <string name="battery_health_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="battery_health_interruption_by_terminal_open_text">Tidak dapat mengecas peranti anda. Pastikan anda menggunakan bateri dan pengecas serasi Samsung dan peranti anda disambungkan ke pengecas dengan betul.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_phone">Suhu telefon anda terlalu tinggi. Pengecasan akan diteruskan apabila suhu kembali kepada normal.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_tablet">Suhu tablet anda terlalu tinggi. Pengecasan akan diteruskan apabila suhu kembali kepada normal.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_phone">Suhu telefon anda terlalu rendah. Pengecasan akan diteruskan apabila suhu kembali kepada normal.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_tablet">Suhu tablet anda terlalu rendah. Pengecasan akan diteruskan apabila suhu kembali kepada normal.</string>
+    <string name="battery_health_interruption_title">Pengecasan berhenti</string>
+    <string name="battery_info_status_charging">Mengecas</string>
+    <string name="battery_info_status_discharging">Tidak dicas</string>
+    <string name="battery_info_status_full">Penuh</string>
+    <string name="battery_low_sec_app_name">Penjagaan peranti</string>
+    <string name="battery_low_sec_body_phone">Cas telefon anda atau ketik di sini untuk menghidupkan Mod penjimatan kuasa.</string>
+    <string name="battery_low_sec_body_phone_psm">Cas telefon anda.</string>
+    <string name="battery_low_sec_body_tablet">Cas tablet anda atau ketik di sini untuk menghidupkan Mod penjimatan kuasa.</string>
+    <string name="battery_low_sec_body_tablet_psm">Cas tablet anda.</string>
+    <string name="battery_low_sec_noti_channel">Bateri lemah</string>
+    <string name="battery_low_sec_title">Kuasa bateri %d%%</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger">Gunakan pengecas yang didatangkan dengan telefon anda.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_jpn">Gunakan pengecas 9V untuk pengecasan yang lebih pantas.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_tablet">Gunakan pengecas yang didatangkan dengan tablet anda.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_connection">Pastikan kabel dan pengecas disambungkan dengan betul.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_cover">Jika anda menggunakan bekas penutup, cuba alih keluarkannya.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_damage">Pastikan kabel tidak rosak.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_faster">Untuk pengecasan yang lebih pantas:</string>
+    <string name="battery_not_fully_connected_charging_popup_title">Semak sambungan pengecas anda</string>
+    <string name="battery_not_fully_connected_charging_title">Semak sambungan pengecas anda</string>
+    <string name="battery_slow_charging_text">Untuk mengecas dengan lebih cepat, gunakan pengecas asal.</string>
+    <string name="battery_slow_charging_title">Peranti cas dgn perlahan</string>
+    <string name="battery_slow_charging_toast_text">To charge faster, use the charger and cable that were provided with this phone</string>
+    <string name="battery_slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_phone">Telefon anda terlalu panas untuk dicas sepenuhnya. Mengecas peranti di tempat yang lebih sejuk adalah disyorkan.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_tablet">Tablet anda terlalu panas untuk dicas sepenuhnya. Mengecas peranti di tempat yang lebih sejuk adalah disyorkan.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_phone">Pengecasan telah diperlahankan kerana telefon anda sejuk. Pengecasan akan berubah kembali kepada kelajuan normal jika telefon semakin panas.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_tablet">Pengecasan telah diperlahankan kerana tablet anda sejuk. Pengecasan akan berubah kembali kepada kelajuan normal jika tablet semakin panas.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text">Pengecasan akan berubah kembali kepada kelajuan normal jika telefon semakin panas.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text_tablet">Pengecasan akan berubah kembali kepada kelajuan normal jika telefon semakin panas.</string>
+    <string name="battery_swelling_mode_low_temp_popup_title">Pengecasan diperlahankan krn suhu rendah</string>
+    <string name="battery_swelling_mode_noti_title">Peranti cas dgn perlahan</string>
+    <string name="battery_wireless_charger_fod_text">Pengecasan wayarles telah dijeda. Cuba mengalih keluar objek asing atau bekas tebal yang mungkin berada di antara pengecas dan telefon anda.</string>
+    <string name="battery_wireless_charger_fod_title">Mengecas secara wayarles dijeda</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text">Pengecasan wayarles dijeda kerana telefon anda terlalu panas. Cuba semula apabila telefon menyejuk.</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text_tablet">Pengecasan wayarles dijeda kerana tablet anda terlalu panas. Cuba semula apabila tablet menyejuk.</string>
+    <string name="battery_wireless_charging_disconnect_text">Pengecasan wayarles dijeda.</string>
+    <string name="battery_wireless_charging_from_cable_to_wireless_text">Beralih daripada mengecas dengan kabel ke mengecas tanpa wayar</string>
+    <string name="battery_wireless_charging_title">Mengecas tanpa wayar</string>
+    <string name="blue_light_disable_reason">Matikan %1$s untuk menggunakan %2$s.</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Disambungkan untuk audio</string>
+    <string name="bluetooth_a2dp_profile_summary_connected_battery">Disambungkan untuk audio, %d%% bateri lagi</string>
+    <string name="bluetooth_connected">Disambung</string>
+    <string name="bluetooth_connected_battery">Disambungkan, %d%% bateri lagi</string>
+    <string name="bluetooth_connecting">Menyambung..</string>
+    <string name="bluetooth_connecting_error_message">Tidak dapat menyambung ke %s.</string>
+    <string name="bluetooth_disable_avc_blacklist">Matikan senarai hitam AVC</string>
+    <string name="bluetooth_disconnect_message">Sambungan Bluetooth dengan %s telah tamat.</string>
+    <string name="bluetooth_disconnecting">Memutus…</string>
+    <string name="bluetooth_display_remote_device_name_after_pair">Nama peranti akan muncul apabila peranti ini disambungkan.</string>
+    <string name="bluetooth_getting_remote_device_name">Mendapatkan nama peranti…</string>
+    <string name="bluetooth_headset_profile_summary_connected">Disambungkan untuk panggilan</string>
+    <string name="bluetooth_headset_profile_summary_connected_battery">Disambungkan untuk panggilan, %d%% bateri lagi</string>
+    <string name="bluetooth_hid_connecting_error_summury">Tidak dapat menyambung. Cuba untuk menyambung daripada %s.</string>
+    <string name="bluetooth_hid_profile_summary_connected">Disambungkan sebagai peranti input</string>
+    <string name="bluetooth_pairing">Berpasangan…</string>
+    <string name="bluetooth_pairing_device_down_black_list_error_message">Tidak dapat menyambung ke %1$s. Semak aturan anda dalam %2$s dan cuba lagi.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Tidak dapat menyambung ke %s.</string>
+    <string name="bluetooth_pairing_error_message">Tidak dapat berpasangan dengan %s. Pastikan peranti bersedia untuk berpasangan.</string>
+    <string name="bluetooth_pairing_fail_restored">Letakkan peranti Bluetooth berdekatan telefon atau semak sama ada ia dalam mod berpasangan.</string>
+    <string name="bluetooth_pairing_fail_restored_tablet">Letakkan peranti Bluetooth berdekatan tablet atau semak sama ada ia dalam mod berpasangan.</string>
+    <string name="bluetooth_pairing_pin_error_message">Tidak dapat berpasangan dengan %s. Pastikan peranti bersedia untuk berpasangan.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Perpasangan ditolak oleh %s.</string>
+    <string name="bluetooth_pan_connecting_error_summury">Tidak dapat menyambung. Hidupkan penambatan Bluetooth pada %s.</string>
+    <string name="bluetooth_pan_nap_connected">Disambungkan untuk menyediakan sambungan Internet</string>
+    <string name="bluetooth_pan_nap_connecting_error_summury">Tidak dapat menyambung</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Sambungan Internet tempatan dikongsi dengan peranti</string>
+    <string name="bluetooth_pan_panu_connected">Disambungkan untuk mencapai sambungan Internet</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Hidupkan penambatan Bluetooth pada peranti berpasangan untuk mencapai Internet daripada telefon ini.</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Disambung ke peranti untuk capaian Internet.</string>
+    <string name="bluetooth_profile_a2dp">Audio</string>
+    <string name="bluetooth_profile_headset">Panggilan</string>
+    <string name="bluetooth_profile_hid">Peranti input</string>
+    <string name="bluetooth_profile_map">Capaian mesej</string>
+    <string name="bluetooth_profile_map_summary">Benarkan peranti berpasangan ini untuk mencapai mesej anda.</string>
+    <string name="bluetooth_profile_pan">Capaian Internet</string>
+    <string name="bluetooth_profile_pan_nap">Perkongsian sambungan Internet</string>
+    <string name="bluetooth_profile_pbap">Capaian kenalan</string>
+    <string name="bluetooth_profile_pbap_tts">Kenalan dan Log telefon</string>
+    <string name="bluetooth_profile_sap_summary">Benarkan peranti berpasangan ini untuk mencapai kad SIM anda.</string>
+    <string name="bluetooth_profile_textinput">Input teks</string>
+    <string name="bluetooth_spp_profile_summary_connected">Bersambung melalui Profil Port Siri</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">Disambungkan untuk panggilan dan audio</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_battery">Disambungkan untuk panggilan dan audio, %d%% bateri lagi</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_dual_audio">(Audio duaan)</string>
+    <string name="bluetooth_summary_restored_device">Berpasangan pada telefon sebelumnya</string>
+    <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">Tidak dapat menggunakan penambatan Bluetooth semasa bersambung ke rangkaian Wi-Fi.</string>
+    <string name="bluetooth_tethering_error_with_wifi_phone_summary">Untuk menggunakan penambatan Bluetooth, matikan Wi-Fi pada telefon ini.</string>
+    <string name="bluetooth_tethering_error_with_wifi_tablet_summary">Untuk menggunakan penambatan Bluetooth, matikan Wi-Fi pada tablet ini.</string>
+    <string name="bubble_container_folder_description">Bekas dibuka.</string>
+    <string name="bubble_container_pointer_description">Bekas ikon pandangan pop timbul</string>
+    <string name="button_close">Tutup</string>
+    <string name="button_yes">OK</string>
+    <string name="byteShort">B</string>
+    <string name="cant_open_image_viewer_app">Tidak dapat membuka aplikasi pemapar imej.</string>
+    <string name="cant_open_image_viewer_app_in_emergency_mode">Tidak dapat membuka aplikasi pemapar imej dalam Mod kecemasan.</string>
+    <string name="cant_open_image_viewer_app_in_mpsm">Tidak dapat membuka aplikasi pemapar imej dalam Mod penjimatan kuasa maksimum.</string>
+    <string name="cant_open_image_viewer_app_in_ps">Tidak dapat membuka aplikasi pemapar imej dalam %s.</string>
+    <string name="cant_open_photo_editor_in_ps">Tidak dapat membuka Photo Editor dalam %s.</string>
+    <string name="cant_open_ps">Tidak dapat membuka %s.</string>
+    <string name="cant_screenshot_in_ps">Tidak dapat mengambil tangkapan skrin dalam %s.</string>
+    <string name="card_crash">Kad SIM rosak</string>
+    <string name="clear_all_text">Kosongkn</string>
+    <string name="colour_adjustment_title">Pelarasan warna</string>
+    <string name="colour_inversion_title">Penyongsanan warna</string>
+    <string name="colour_lens_title">Warna lensa</string>
+    <string name="cooling_body">"Peranti anda terlampau panas. Langkah akan diambil untuk menyejukkannya.
+
+Anda masih boleh menggunakan peranti anda tetapi:
+- Skrin mungkin menjadi lebih malap.
+- Telefon mungkin menjadi lembap.
+- Pengecasan mungkin dijeda.
+
+Selepas peranti menyejuk, prestasi akan kembali kepada biasa secara automatik."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="cooling_body_vzw">"Your phone is getting hot, so it's taking steps to cool itself down.
+
+You can still use it, but you may notice:
+- The screen might dim.
+- The phone might slow down.
+- Charging might pause.
+
+Your phone will return to normal once it cools down."</string>
+    <string name="cooling_noti_text">Ketik di sini untuk melihat butiran.</string>
+    <string name="cooling_noti_text_vzw">Ketik di sini untuk mengetahui lebih lanjut.</string>
+    <string name="cooling_popup_title">Peranti sedang menyejuk</string>
+    <string name="cooling_title">Peranti terlampau panas</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="data_connection_error_data_roaming_off_body">Sambung ke rangkaian Wi-Fi atau hidupkan Perayauan data.</string>
+    <string name="data_connection_error_flight_mode_on_body">Telefon anda tidak menyambung ke rangkaian Wi-Fi. Untuk menggunakan rangkaian mudah alih, matikan Mod penerbangan dalam Aturan.</string>
+    <string name="data_connection_error_flight_mode_on_body_tablet">Tablet anda tidak menyambung ke rangkaian Wi-Fi. Untuk menggunakan rangkaian mudah alih, matikan Mod pesawat dalam Aturan.</string>
+    <string name="data_connection_error_flight_mode_on_title">Matikan Mod penerbangan</string>
+    <string name="data_connection_error_mobile_data_off">Data mudah alih dinyahaktifkan. Sambung ke rangkaian Wi-Fi sebagai ganti, atau aktifkan data mudah alih dan cuba lagi</string>
+    <string name="data_connection_error_mobile_data_off_body">Sambung ke rangkaian Wi-Fi atau hidupkan Data mudah alih.</string>
+    <string name="data_connection_error_mobile_data_off_title">Hidupkan Data mudah alih?</string>
+    <string name="data_connection_error_no_network_connection">Tiada sambungan rangkaian</string>
+    <string name="data_connection_error_no_signal_body">Tidak dapat menemui sebarang rangkaian yang tersedia.</string>
+    <string name="data_connection_error_toast_notification">Sambungan Wi-Fi diperlukan. Sambung ke rangkaian Wi-Fi dan cuba lagi.</string>
+    <string name="data_usage_disabled_dialog">Penggunaan data mudah alih telah dijeda kerana anda telah mencapai had yang anda tetapkan.</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Teruskan menggunakan data mudah alih?</string>
+    <string name="dcm_lockscreen_active_help_text">Ketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics">Guna biometrik atau ketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics_voice_assistant">Guna biometrik atau dwiketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_face">Guna pengecaman muka atau ketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_face_voice_assistant">Guna pengecaman muka atau dwiketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints">Guna cap jari atau ketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face">Guna cap jari untuk buka atau ketik ikon Kunci untuk menggunakan pengecaman muka</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face_voice_assistant">Guna cap jari untuk buka atau dwiketik ikon Kunci untuk menggunakan pengecaman muka</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent">Guna cap jari untuk buka atau ketik ikon Kunci untuk menggunakan Imbas Pintar</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent_voice_assistant">Guna cap jari untuk buka atau dwiketik ikon Kunci untuk menggunakan Imbas Pintar</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris">Guna cap jari untuk buka atau ketik ikon Kunci untuk menggunakan iris</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris_voice_assistant">Guna cap jari untuk buka atau dwiketik ikon Kunci untuk menggunakan iris</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_voice_assistant">Guna cap jari atau dwiketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent">Guna Imbas Pintar atau ketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent_voice_assistant">Guna Imbas Pintar atau dwiketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_iris">Guna iris atau ketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_iris_voice_assistant">Guna iris atau dwiketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_active_help_text_voice_assistant">Dwiketik ikon Kunci untuk buka</string>
+    <string name="dcm_lockscreen_unlock_help_text">Ketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face">Ketik ikon Kunci untuk buka kunci dengan pengecaman muka</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face_voice_assistant">Dwiketik ikon Kunci untuk buka kunci dengan pengecaman muka</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent">Ketik ikon Kunci untuk buka kunci dengan Imbas Pintar</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent_voice_assistant">Dwiketik ikon Kunci untuk menggunakan Imbas Pintar untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris">Ketik ikon Kunci untuk menggunakan iris bagi membuka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris_voice_assistant">Dwiketik ikon Kunci untuk menggunakan iris bagi buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics">Guna biometrik atau seret ikon kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics_voice_assistant">Guna biometrik atau dwiketik ikon kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_face">Guna pengecaman muka atau ketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_face_voice_assistant">Guna pengecaman muka atau dwiketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints">Guna cap jari atau ketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face">Guna cap jari untuk buka kunci atau ketik ikon Kunci untuk menggunakan pengecaman muka</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face_voice_assistant">Guna cap jari untuk buka kunci atau dwiketik ikon Kunci untuk menggunakan pengecaman muka</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent">Guna cap jari untuk buka kunci atau ketik ikon Kunci untuk menggunakan Imbas Pintar</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent_voice_assistant">Guna cap jari untuk buka kunci atau dwiketik ikon Kunci untuk menggunakan Imbas Pintar</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris">Use fingerprint to unlock device or tap Lock icon to use irises instead</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris_voice_assistant">Guna cap jari untuk buka kunci atau dwiketik ikon Kunci untuk menggunakan iris</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_voice_assistant">Guna cap jari atau dwiketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent">Guna Imbas Pintar atau ketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent_voice_assistant">Guna Imbas Pintar atau dwiketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris">Guna iris atau ketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris_voice_assistant">Guna iris atau dwiketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_unlock_help_text_voice_assistant">Dwiketik ikon Kunci untuk buka kunci</string>
+    <string name="dcm_lockscreen_voice_assistant_active_instructions">Dwiketik butang Kunci untuk membuka kunci telefon</string>
+    <string name="default_media_volume_control_description">Kawal kelantangan media secara lalai apabila anda menekan kekunci Kelantangan.</string>
+    <string name="default_media_volume_control_title">Guna kekunci Kelantangan utk media</string>
+    <string name="development_settings_title">Pilihan pemaju</string>
+    <string name="device_disabled">Dasar keselamatan anda menghalang anda daripada menggunakan biometrik anda untuk pengesahan dua langkah. Hubungi pentadbir IT anda untuk membuka kunci telefon anda.</string>
+    <string name="direction_lock_too_many_failed_attempts_countdown">Cuba lagi dalam %d saat</string>
+    <string name="disagree">Tidak bersetuju</string>
+    <string name="dnd_noti_action_disable">Matikan</string>
+    <string name="dnd_noti_message">Penggera dibisukan</string>
+    <string name="dnd_noti_title">Jangan ganggu dihidupkan</string>
+    <string name="download_popup_button_cancel">Batal</string>
+    <string name="download_popup_button_download">Muat turun</string>
+    <string name="download_ps">Muat turun %s?</string>
+    <string name="dragndroplist_drag_release">Item dijatuhkan pada kedudukan %d.</string>
+    <string name="dragndroplist_drag_start">Mula menyeret item pada kedudukan %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Item pada kedudukan %d tidak boleh diseret.</string>
+    <string name="dream_cant_use_this_app_in_multi_window_view_tpop">Tidak dapat menggunakan aplikasi ini dalam Pandangan berbilang tetingkap.</string>
+    <string name="dream_cant_use_this_launcher_in_multi_window_view_tpop">Tidak dapat menggunakan pelancar ini dalam pandangan Berbilang tetingkap.</string>
+    <string name="durationMinutes">%d minit</string>
+    <string name="emergency_mode">Mod Kecemasan</string>
+    <string name="facewidget_alarm_in_hours_and_minutes_format">Penggera dalam %1$d jam %2$d minit</string>
+    <string name="facewidget_alarm_in_hours_and_one_minute_format">Penggera dalam %d jam 1 minit</string>
+    <string name="facewidget_alarm_in_one_hour_and_minutes_format">Penggera dalam 1 jam %d minit</string>
+    <string name="facewidget_alarm_in_one_hour_and_one_minute_format">Penggera dalam 1 jam 1 minit</string>
+    <string name="facewidget_alarm_next">Penggera seterusnya</string>
+    <string name="facewidget_alarm_no_alarm">Tiada penggera dalam 7 hari yang seterusnya</string>
+    <string name="facewidget_alarm_open_clock">Tambah penggera</string>
+    <string name="facewidget_alarm_will_go_off_soon">Penggera akan berbunyi tidak lama lagi</string>
+    <string name="facewidget_event_add_event">Tambah peristiwa</string>
+    <string name="facewidget_event_calendar">Kalendar</string>
+    <string name="facewidget_event_my_event">Peristiwa saya</string>
+    <string name="facewidget_event_no_events">Tiada peristiwa hari ini</string>
+    <string name="facewidget_event_open_ss">Buka %s</string>
+    <string name="facewidget_event_task">Tugasan</string>
+    <string name="facewidget_event_time_all_day">Sepanjang hari</string>
+    <string name="facewidget_music">Muzik</string>
+    <string name="facewidget_music_closed">Buka kunci telefon anda dan mainkan muzik untuk menunjukkan muzik pada Skrin kunci.</string>
+    <string name="facewidget_music_description_album_cover">Kulit album</string>
+    <string name="facewidget_music_description_next">Berikutnya</string>
+    <string name="facewidget_music_description_pause">Jeda</string>
+    <string name="facewidget_music_description_play">Main</string>
+    <string name="facewidget_music_description_prev">Sebelumnya</string>
+    <string name="facewidget_music_lyrics">Lirik</string>
+    <string name="facewidget_music_no_content">Tiada muzik dimainkan</string>
+    <string name="facewidget_music_play">Main muzik</string>
+    <string name="facewidget_music_play_first">Setelah anda menggunakan pemain muzik, anda akan dapat mengawal muzik anda daripada Skrin kunci.</string>
+    <string name="facewidget_music_select_music_app">Pilih aplikasi muzik.</string>
+    <string name="facewidget_music_unknown">Tidak diketahui</string>
+    <string name="facewidget_noti_btn">Aturan</string>
+    <string name="facewidget_noti_exp">Guna Widget Muka pada Skrin kunci dan Always On Display untuk mendapatkan capaian pantas ke muzik anda.</string>
+    <string name="facewidget_noti_title">Menggunakan Widget Muka</string>
+    <string name="flash_light_disabled_by_low_battery">Tidak dapat menghidupkan Lampu. Kuasa bateri lemah.</string>
+    <string name="flash_light_notification_button">Matikan</string>
+    <string name="flash_light_notification_title">Lampu dihidupkan</string>
+    <string name="flash_light_turn_off_by_low_battery">Kuasa bateri rendah. Lampu suluh akan dimatikan.</string>
+    <string name="flight_mode_enabled_dialog_body">Mod penerbangan dihidupkan. Anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data melainkan anda menggunakan Wi-Fi.</string>
+    <string name="flight_mode_enabled_dialog_body_volte_and_vowifi">Mod penerbangan dihidupkan. Anda tidak dapat menggunakan Internet, E-mel, Panggilan Wi-Fi atau aplikasi lain yang memerlukan sambungan data melainkan anda menggunakan Wi-Fi.</string>
+    <string name="flight_mode_enabled_dialog_title">Mod penerbangan</string>
+    <string name="freeform_forced_resizable">Aplikasi ini mungkin tidak berfungsi dengan betul dalam pandangan Berbilang tetingkap.</string>
+    <string name="gesture_accessibility_guide_gesture_onboarding">Sapu ke atas dengan 2 jari dari bahagian bawah skrin untuk menggunakan pintasan pencapaian.</string>
+    <string name="gesture_recents_device_assistance_onboarding">Sapu ke atas dan tahan untuk membuka aplikasi pembantu peranti.</string>
+    <string name="gesture_recents_quick_scrub_onboarding">Sapu ke kanan untuk menukar aplikasi dengan cepat.</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="globalactions_force_restart_message">Tekan dan tahan kekunci Sisi dan kekunci Kelantangan ke bawah pada masa yang sama untuk lebih daripada %d saat untuk memulakan semula telefon anda.</string>
+    <string name="globalactions_screen_capture_popup_description">Tekan dan lepaskan kekunci Sisi dan Kelantangan ke bawah pada masa yang sama dengan pantas.</string>
+    <string name="globalactions_screen_capture_popup_title">Cuba mengambil tangkapan skrin?</string>
+    <string name="go_to_top">Pergi ke atas</string>
+    <string name="greyscale_mode_title">Skala kelabu</string>
+    <string name="hotspot_disable_wifi_sharing">Matikan perkongsian Wi-Fi</string>
+    <string name="hotspot_enable_wifi_sharing">Hidupkan Perkongsian Wi-Fi</string>
+    <string name="hotspot_live_ap_low_battery_summary">Bateri lemah</string>
+    <string name="hotspot_live_status_connected">Disambung</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off">Untuk menggunakan Mobile Hotspot, Smart View perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_chn">Untuk menggunakan Mobile Hotspot, Smart View perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_jpn">Untuk menggunakan penambatan Wi-Fi, Smart View perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_spr">Untuk menggunakan Mobile Hotspot, Smart View perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_tmo">Untuk menggunakan Mobile Hotspot, Smart View perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_vzw">Untuk menggunakan Mobile Hotspot, Smart View perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off">Untuk menggunakan Mobile Hotspot, Wi-Fi perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_att">Menghidupkan hotspot Wi-Fi mudah alih akan mematikan Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_chn">Untuk menggunakan Mobile Hotspot, Wi-Fi perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_jpn">Untuk menggunakan penambatan Wi-Fi, Wi-Fi perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_mtr">Untuk menggunakan Mobile Hotspot, Wi-Fi perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_spr">Untuk menggunakan Mobile Hotspot, Wi-Fi perlu dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_tmo">Wi-Fi dimatikan apabila penambatan USB atau Mobile HotSpot adalah aktif. Untuk menghidupkan Wi-Fi, sila matikan penambatan USB atau Mobile HotSpot.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_vzw">Mobile Hotspot menggunakan sambungan data mudah alih anda. Sambungan Wi-Fi anda akan dimatikan.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_wifisharing_lite">Rangkaian Wi-Fi semasa tidak boleh dikongsi menggunakan Mobile Hotspot. Data mudah alih akan digunakan.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off">Untuk menggunakan Mobile Hotspot, sebarang peranti yang disambungkan menggunakan Wi-Fi Direct sekarang perlu dinyahsambungkan.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_chn">Mengaktifkan Hotspot WLAN mudah alih akan menyahsambungkan peranti yang disambungkan melalui WLAN Direct.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_jpn">Untuk menggunakan penambatan Wi-Fi, sebarang peranti yang disambungkan melalui Wi-Fi Direct buat masa ini perlu dinyahsambungkan.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_spr">Untuk menggunakan Mobile Hotspot, sebarang peranti yang disambungkan menggunakan Wi-Fi Direct sekarang perlu dinyahsambungkan.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_tmo">Untuk menggunakan Mobile Hotspot, sebarang peranti yang disambungkan menggunakan Wi-Fi Direct sekarang perlu dinyahsambungkan.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_vzw">Untuk menggunakan Mobile Hotspot, sebarang peranti yang disambungkan menggunakan Wi-Fi Direct sekarang perlu dinyahsambungkan.</string>
+    <string name="hotspot_warning_dialog_title_smartview_off">Matikan Smart View?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off">Matikan Wi-Fi?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_tmo">Perhatian</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_vzw">Mobile Hotspot dan Wi-Fi</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_wifisharing_lite">Nyahsambung daripada rangkaian Wi-Fi?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off">Hidupkan Mobile Hotspot?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_jpn">Hidupkan penambatan Wi-Fi?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_tmo">Perhatian</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_vzw">Mobile Hotspot dan Wi-Fi</string>
+    <string name="image_viewer">Pemandang imej</string>
+    <string name="ime_security_warning">%s boleh mengumpul semua teks yang anda taip, termasuk data peribadi seperti kata laluan dan nombor kad kredit.</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">Tidak dicas.</string>
+    <string name="incompatible_charger_title">Tidak mengecas.</string>
+    <string name="insert_sim_card">Masukkan kad SIM</string>
+    <string name="insert_sim_card_message">Masukkan kad SIM utk mencapai perkhidmatan rangkaian.</string>
+    <string name="install_other_apps">Pasang apl yang tidak diketahui</string>
+    <string name="iris_guide_str_enable_toggle">Ketik sini untuk guna iris</string>
+    <string name="iris_guide_str_for_text_preview">Lihat sini utk guna iris</string>
+    <string name="keyboard_shortcut_group_applications">Pintasan aplikasi</string>
+    <string name="keyboard_shortcut_group_applications_bixby">Bixby</string>
+    <string name="keyboard_shortcut_group_applications_browser">Pelayar</string>
+    <string name="keyboard_shortcut_group_applications_calendar">Kalendar</string>
+    <string name="keyboard_shortcut_group_applications_contacts">Kenalan</string>
+    <string name="keyboard_shortcut_group_applications_email">E-mel</string>
+    <string name="keyboard_shortcut_group_applications_messages">Mesej</string>
+    <string name="keyboard_shortcut_group_applications_music">Muzik</string>
+    <string name="keyboard_shortcut_group_system">Pintasan sistem</string>
+    <string name="keyboard_shortcut_group_system_all_apps">Aplikasi</string>
+    <string name="keyboard_shortcut_group_system_back">Kembali</string>
+    <string name="keyboard_shortcut_group_system_home">Utama</string>
+    <string name="keyboard_shortcut_group_system_lock_screen">Skrin kunci</string>
+    <string name="keyboard_shortcut_group_system_notifications">Pemberitahuan</string>
+    <string name="keyboard_shortcut_group_system_recents">Terkini</string>
+    <string name="keyboard_shortcut_group_system_running_apps">Aplikasi yang berjalan</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">Pintasan papan kekunci</string>
+    <string name="keyboard_shortcut_group_system_start_exit_dex_mode">Mulakan/keluar daripada Mod DeX</string>
+    <string name="keyboard_shortcut_group_system_switch_languages">Tukar bahasa</string>
+    <string name="keyboard_shortcut_meta_key_explain">Kekunci Meta: Kekunci Windows, Command, Cari atau simbol sistem pengendalian lain.</string>
+    <string name="keyboard_shortcut_popup_help">Kekunci Meta: Kekunci Windows, Command atau simbol sistem pengendalian lain.</string>
+    <string name="keyguard_accessibility_call">Panggil</string>
+    <string name="keyguard_accessibility_direction_lock_unlock">Kunci arah</string>
+    <string name="keyguard_accessibility_dot">Titik</string>
+    <string name="keyguard_accessibility_pattern_area">Kawasan corak</string>
+    <string name="keyguard_accessibility_pattern_unlock">Corak buka kunci</string>
+    <string name="keyguard_cmas_text">Amaran Kecemasan</string>
+    <string name="keyguard_dualclock_locale_view_home">Rumah</string>
+    <string name="keyguard_dualclock_locale_view_home_skt">Seoul</string>
+    <string name="keyguard_dualclock_locale_view_roaming">Tempatan</string>
+    <string name="keyguard_dualclock_locale_view_roaming_skt">Perayauan</string>
+    <string name="keyguard_fmm_owner_phone">Nombor pemilik</string>
+    <string name="keyguard_fmm_phone_locked_title">Telefon dikunci.</string>
+    <string name="keyguard_progress_erasing_all">Memadamkan semua data…</string>
+    <string name="keyguard_skt_usim_unregistered">Tidak boleh menggunakan kad USIM. Muat turun maklumat kad USIM.</string>
+    <string name="keyguard_usim_not_used">Tidak boleh menggunakan kad USIM. PIN kod buka kunci (PUK) yang salah dimasukkan sebanyak %d kali. Beli kad USIM baru.</string>
+    <string name="kg_1_attempt_remaining">(1 percubaan yang tinggal)</string>
+    <string name="kg_accessibility_password_unlock">Buka kunci kata laluan</string>
+    <string name="kg_accessibility_pin_edit_box">Sunting kotak</string>
+    <string name="kg_accessibility_pin_unlock">Buka kunci PIN</string>
+    <string name="kg_background_auth_face_instruction_text">Buka kunci dengan pengecaman muka.</string>
+    <string name="kg_background_auth_fingerprint_unlock_successed_text">Telefon dibuka kunci dengan cap jari.</string>
+    <string name="kg_background_auth_iris_instruction_text">Buka kunci dengan iris.</string>
+    <string name="kg_background_auth_tablet_fingerprint_unlock_successed_text">Tablet dibuka kunci dengan cap jari.</string>
+    <string name="kg_background_auth_tablet_unlock_failed_text">Tidak dapat membuka kunci tablet.</string>
+    <string name="kg_background_auth_tablet_unlock_successed_text">Tablet dibuka kunci.</string>
+    <string name="kg_background_auth_unlock_failed_text">Tidak dapat membuka kunci telefon.</string>
+    <string name="kg_background_auth_unlock_instruction_text">Buka kunci dengan biometrik.</string>
+    <string name="kg_background_auth_unlock_successed_text">Telefon dibuka kunci.</string>
+    <string name="kg_biometric_error_restart_text">Jika ini kerap berlaku, mulakan semula telefon anda.</string>
+    <string name="kg_biometrics_has_confirmed">Biometrik telah disahkan.</string>
+    <string name="kg_biometrics_swipe_active_instructions">Guna biometrik untuk buka</string>
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions">Guna biometrik atau sapu skrin dengan dua jari untuk buka</string>
+    <string name="kg_biometrics_swipe_unlock_instructions">Guna biometrik untuk buka kunci</string>
+    <string name="kg_biometrics_swipe_unlock_voice_assistant_instructions">Guna biometrik atau sapu skrin dengan dua jari untuk membuka kunci</string>
+    <string name="kg_carrier_lock_call_owner">Sila hubungi saya</string>
+    <string name="kg_carrier_lock_findlostphone">Telefon ini telah hilang atau dicuri.</string>
+    <string name="kg_carrier_lock_too_many_failed_attempts">Kata laluan salah dimasukkan sebanyak 5 kali. Cuba lagi dalam 10 minit.</string>
+    <string name="kg_carrier_lock_unlock">Masukkan kata laluan</string>
+    <string name="kg_carrier_lock_wrong_password">Kata laluan salah dimasukkan.</string>
+    <string name="kg_ctc_enter_confirm_pin_hint">Enter new UIM/SIM card unlock PIN again to confirm it</string>
+    <string name="kg_ctc_password_wrong_pin_code_one">Incorrect UIM/SIM card PIN entered. 1 attempt left.</string>
+    <string name="kg_ctc_password_wrong_pin_code_other">Incorrect UIM/SIM card PIN entered. %d attempts left.</string>
+    <string name="kg_ctc_puk_enter_pin_hint">Enter new UIM/SIM card unlock PIN</string>
+    <string name="kg_ctc_sim_puk_instructions">UIM/SIM card locked. Enter PUK. Contact service provider for details.</string>
+    <string name="kg_ctc_sim_puk_remaining_1_attempt">Incorrect PUK entered. If incorrect PUK is entered 1 more time, UIM/SIM card will be locked.</string>
+    <string name="kg_ctc_sim_puk_remaining_attempts">Incorrect PUK entered. If incorrect PUK is entered %d more times, UIM/SIM card will be permanently locked.</string>
+    <string name="kg_ctc_sim_unlock_progress_dialog_message">Unlocking UIM/SIM card…</string>
+    <string name="kg_ctc_unlock_sim_pin_instructions">Enter UIM/SIM card unlock PIN</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN telah disekat. Masukkan PUK untuk teruskan.</string>
+    <string name="kg_default_carrier_text_searching">Mencari</string>
+    <string name="kg_direction_lock_instructions_normal_mode">Lukiskan siri arah untuk membuka kunci skrin</string>
+    <string name="kg_empty_sim_perso_hint">Tiada kata laluan dimasukkan. Masukkan kata laluan (PIN).</string>
+    <string name="kg_face_1st_active_instructions">Guna pengecaman muka untuk buka</string>
+    <string name="kg_face_1st_unlock_instructions">Guna pengecaman muka untuk buka kunci</string>
+    <string name="kg_face_cancel_for_dex">Batalkan pengecaman muka</string>
+    <string name="kg_face_cover_clear_view_toast_for_dex">Pengecaman muka tidak tersedia semasa Clear View Cover dilampirkan.</string>
+    <string name="kg_face_cover_led_view_toast_for_dex">Pengecaman muka tidak tersedia semasa LED View Cover dilampirkan.</string>
+    <string name="kg_face_cover_s_view_toast_for_dex">Pengecaman muka tidak tersedia semasa S View Cover dilampirkan.</string>
+    <string name="kg_face_cover_toast_for_dex">Pengecaman muka tidak tersedia apabila penutup dilampirkan.</string>
+    <string name="kg_face_direction_active_instructions">Gunakan pengecaman muka atau lukis siri arah untuk buka</string>
+    <string name="kg_face_direction_none_instructions">Gunakan pengecaman muka atau lukis siri arah</string>
+    <string name="kg_face_guide_text_for_enable_toggle">Ketik di sini utk guna pengecaman muka</string>
+    <string name="kg_face_not_supported_at_180_degree">Untuk menggunakan pengecaman muka, putarkan tablet anda agar kamera tidak berada di bahagian bawah</string>
+    <string name="kg_face_not_working_text">Pengecaman muka tidak berfungsi</string>
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions">Guna cap jari untuk membuka atau menyapu skrin dengan dua jari untuk menggunakan pengecaman muka.</string>
+    <string name="kg_face_password_active_instructions">Gunakan pengecaman muka atau masukkan kata laluan untuk buka</string>
+    <string name="kg_face_password_none_instructions">Gunakan pengecaman muka atau masukkan kata laluan</string>
+    <string name="kg_face_pattern_active_instructions">Gunakan pengecaman muka atau lukis corak untuk buka</string>
+    <string name="kg_face_pattern_none_instructions">Gunakan pengecaman muka atau lukis corak</string>
+    <string name="kg_face_pin_active_instructions">Gunakan pengecaman muka atau masukkan PIN untuk buka</string>
+    <string name="kg_face_pin_none_instructions">Gunakan pengecaman muka atau masukkan PIN</string>
+    <string name="kg_face_proximity_guide_text">Adakah tangan anda menutup penderia? Pastikan penderia tidak ditutup untuk menggunakan pengecaman muka</string>
+    <string name="kg_face_retry_text">Ketik ikon untuk mencuba pengecaman muka sekali lagi</string>
+    <string name="kg_face_start_for_dex">Guna pengecaman muka pd telefon anda</string>
+    <string name="kg_face_stop">Hentikan pengecaman muka</string>
+    <string name="kg_face_toast_preview_for_dex">Guna pengecaman muka pada telefon anda untuk mengesahkan identiti anda.</string>
+    <string name="kg_fbe_notification_header">Telefon dimulakan semula</string>
+    <string name="kg_fbe_notification_message">Buka kunci telefon anda untuk menerima pemberitahuan aplikasi.</string>
+    <string name="kg_finger_print_bad_quality_error_message">Penderia cap jari mungkin kotor. Bersihkannya dan cuba lagi.</string>
+    <string name="kg_finger_print_database_error_message">Data cap jari telah rosak. Tetap semula Cap jari sebagai jenis kunci skrin kemudian tambah cap jari anda lagi atau tukar jenis kunci skrin.</string>
+    <string name="kg_finger_print_not_responding_error_message">Penderia cap jari tidak memberi sambutan. Cuba lagi kemudian.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">Penderia cap jari tidak diubah dengan betul. Hubungi perkhidmatan pelanggan.</string>
+    <string name="kg_finger_print_sensor_error_message">Ralat telah berlaku dengan penderia cap jari. Jika mesej ini muncul berulang-ulang kali, mula semula peranti anda.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">Pastikan kekunci Utama bersih dan kering, kemudian cuba lagi.</string>
+    <string name="kg_finger_print_template_changed_error_message">Untuk menggunakan pengecaman cap jari, padamkan cap jari anda dan daftarkannya sekali lagi.</string>
+    <string name="kg_fingerprint_acquired_image_dirty">Lap penderia cap jari dan cuba lagi</string>
+    <string name="kg_fingerprint_acquired_light">Tekan lebih kuat</string>
+    <string name="kg_fingerprint_acquired_partial">Tutup seluruh penderia cap jari</string>
+    <string name="kg_fingerprint_acquired_too_fast">Kekalkan jari anda pada penderia lebih lama</string>
+    <string name="kg_fingerprint_acquired_too_wet">Pastikan jari anda kering</string>
+    <string name="kg_fingerprint_bad_quality_popup_checkbox">Jangan tunjukkan lagi</string>
+    <string name="kg_fingerprint_bad_quality_popup_message">Oleh sebab terlalu banyak sentuhan secara tidak sengaja, penderia cap jari telah disekat apabila skrin dimatikan. Apabila ini berlaku, anda boleh menghidupkan skrin untuk mengaktifkan semula penderia.</string>
+    <string name="kg_fingerprint_bad_quality_popup_title">Penderia cap jari telah disekat</string>
+    <string name="kg_fingerprint_direction_active_instructions">Gunakan cap jari atau lukis siri arah untuk buka</string>
+    <string name="kg_fingerprint_direction_none_instructions">Gunakan cap jari atau lukis siri arah</string>
+    <string name="kg_fingerprint_no_match">Tiada padanan</string>
+    <string name="kg_fingerprint_or_swipe_active_instructions">Guna cap jari untuk buka</string>
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions">Guna cap jari atau sapu skrin dengan dua jari untuk buka</string>
+    <string name="kg_fingerprint_or_swipe_unlock_instructions">Guna cap jari untuk buka kunci</string>
+    <string name="kg_fingerprint_password_active_instructions">Guna cap jari atau masukkan kata laluan untuk buka</string>
+    <string name="kg_fingerprint_password_none_instructions">Gunakan cap jari atau masukkan kata laluan</string>
+    <string name="kg_fingerprint_pattern_active_instructions">Guna cap jari atau lukis corak untuk buka</string>
+    <string name="kg_fingerprint_pattern_none_instructions">Guna cap jari atau lukis corak</string>
+    <string name="kg_fingerprint_pin_active_instructions">Guna cap jari atau masukkan PIN untuk buka</string>
+    <string name="kg_fingerprint_pin_none_instructions">Gunakan cap jari atau masukkan PIN</string>
+    <string name="kg_fingerprint_wireless_charger_warning">Nyahsambung daripada pengecas wayarles untuk menggunakan cap jari anda</string>
+    <string name="kg_fingerprints_direction_bouncer_instructions">Gunakan cap jari atau lukis siri arah untuk buka</string>
+    <string name="kg_fingerprints_direction_instructions">Gunakan cap jari atau lukis siri arah</string>
+    <string name="kg_fingerprints_direction_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">Guna cap jari atau masukkan kata laluan untuk buka</string>
+    <string name="kg_fingerprints_password_instructions">Gunakan cap jari atau masukkan kata laluan</string>
+    <string name="kg_fingerprints_password_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan kata laluan anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">Guna cap jari atau lukis corak untuk buka</string>
+    <string name="kg_fingerprints_pattern_instructions">Gunakan cap jari atau lukis corak buka kunci</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan corak anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">Guna cap jari atau masukkan PIN untuk buka</string>
+    <string name="kg_fingerprints_pin_instructions">Gunakan cap jari atau masukkan PIN</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan PIN anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_flight_mode">Mod penerbangan</string>
+    <string name="kg_floating_shortcut_show_app_list">tunjukkan senarai aplikasi</string>
+    <string name="kg_hide_password_accessibility">Sembunyikan kata laluan</string>
+    <string name="kg_ib_cancel_for_dex">Batal Imbas Pintar</string>
+    <string name="kg_ib_cancel_text">Batal Imbas Pintar</string>
+    <string name="kg_ib_cover_toast_for_dex">Tidak dapat menggunakan Imbas Pintar semasa penutup dilampirkan.</string>
+    <string name="kg_ib_not_supported_at_180_degree">Untuk menggunakan Imbas Pintar, putarkan tablet anda agar kamera tidak berada di bahagian bawah</string>
+    <string name="kg_ib_not_working_text">Tidak dapat menggunakan Imbas Pintar</string>
+    <string name="kg_ib_retry_text">Ketik ikon untuk mencuba Imbas Pintar sekali lagi</string>
+    <string name="kg_ib_start_for_dex">Guna Imbas Pintar pada telefon</string>
+    <string name="kg_ib_stop">Hentikan Imbas Pintar</string>
+    <string name="kg_ib_toast_preview_for_dex">Guna Imbas Pintar pada telefon</string>
+    <string name="kg_incorrect_password">Kata laluan salah dimasukkan</string>
+    <string name="kg_incorrect_pattern">Corak yang dilukis salah</string>
+    <string name="kg_incorrect_pin">PIN yang salah dimasukkan</string>
+    <string name="kg_infinity_wallpaper_description">Hiasan latar infiniti akan digunakan pada Always On Display, Skrin utama dan Skrin kunci anda pada masa yang sama.</string>
+    <string name="kg_infinity_wallpaper_description_without_aod">Hiasan latar infiniti akan digunakan pada Skrin utama dan Skrin kunci anda pada masa yang sama.</string>
+    <string name="kg_intelligent_1st_active_instructions">Guna Imbas Pintar untuk buka</string>
+    <string name="kg_intelligent_1st_unlock_instructions">Guna Imbas Pintar untuk buka kunci</string>
+    <string name="kg_intelligent_direction_active_instructions">Guna Imbas Pintar atau lukis siri arah untuk buka</string>
+    <string name="kg_intelligent_direction_none_instructions">Guna Imbas Pintar atau lukis siri arah</string>
+    <string name="kg_intelligent_or_fingerprint_active_voice_assistant_instructions">Guna cap jari untuk membukanya atau sapu skrin dengan 2 jari untuk menggunakan Imbas Pintar</string>
+    <string name="kg_intelligent_password_active_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk buka</string>
+    <string name="kg_intelligent_password_none_instructions">Guna Imbas Pintar atau masukkan kata laluan</string>
+    <string name="kg_intelligent_pattern_active_instructions">Guna Imbas Pintar atau lukis corak untuk buka</string>
+    <string name="kg_intelligent_pattern_none_instructions">Guna Imbas Pintar atau lukis corak</string>
+    <string name="kg_intelligent_pin_active_instructions">Guna Imbas Pintar atau masukkan PIN untuk buka</string>
+    <string name="kg_intelligent_pin_none_instructions">Guna Imbas Pintar atau masukkan PIN</string>
+    <string name="kg_intelligent_retry_content_description">Dwiketik untuk menggunakan Imbas Pintar.</string>
+    <string name="kg_intelligent_scan_proximity_guide_text">Adakah tangan anda menutup penderia? Pastikan penderia tidak ditutup untuk menggunakan Imbas Pintar</string>
+    <string name="kg_iris_1st_active_instructions">Guna iris untuk buka</string>
+    <string name="kg_iris_1st_unlock_instructions">Guna iris untuk buka kunci</string>
+    <string name="kg_iris_cancel">Batalkan pengecaman iris</string>
+    <string name="kg_iris_cancel_for_dex">Batalkan pengecaman iris</string>
+    <string name="kg_iris_cover_clear_view_toast_for_dex">Pengecaman iris tidak tersedia semasa Clear View Cover dilampirkan.</string>
+    <string name="kg_iris_cover_led_view_toast_for_dex">Pengecaman iris tidak tersedia semasa LED View Cover dilampirkan.</string>
+    <string name="kg_iris_cover_s_view_toast_for_dex">Pengecaman iris tidak tersedia semasa S View Cover dilampirkan.</string>
+    <string name="kg_iris_cover_toast_for_dex">Pengecaman iris tidak tersedia apabila penutup dilampirkan.</string>
+    <string name="kg_iris_direction_active_instructions">Gunakan iris atau lukis siri arah untuk buka</string>
+    <string name="kg_iris_direction_instructions">Gunakan iris atau lukis siri arah</string>
+    <string name="kg_iris_direction_none_instructions">Gunakan iris atau lukis siri arah</string>
+    <string name="kg_iris_no_match">Tiada padanan</string>
+    <string name="kg_iris_not_supported_at_180_degree">Untuk menggunakan pengecaman iris, putarkan tablet anda agar penderia tidak berada di bahagian bawah</string>
+    <string name="kg_iris_not_working_text">Pengecaman iris tidak berfungsi</string>
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions">Guna cap jari untuk membuka atau sapu skrin dengan dua jari untuk menggunakan iris</string>
+    <string name="kg_iris_password_active_instructions">Guna iris atau masukkan kata laluan untuk buka</string>
+    <string name="kg_iris_password_none_instructions">Gunakan iris atau masukkan kata laluan</string>
+    <string name="kg_iris_pattern_active_instructions">Guna iris atau lukis corak untuk buka</string>
+    <string name="kg_iris_pattern_none_instructions">Gunakan iris atau lukis corak</string>
+    <string name="kg_iris_pattern_text_for_mkeyboard">Ketik di sini untuk melukis corak</string>
+    <string name="kg_iris_pin_active_instructions">Guna iris atau masukkan PIN untuk buka</string>
+    <string name="kg_iris_pin_none_instructions">Gunakan iris atau masukkan PIN</string>
+    <string name="kg_iris_proximity_guide_text">Adakah tangan anda menutup penderia? Pastikan penderia tidak ditutup untuk menggunakan pengecaman iris</string>
+    <string name="kg_iris_retry_content_description">Dwiketik untuk mengimbas iris.</string>
+    <string name="kg_iris_retry_text">Ketik ikon untuk mencuba pengecaman iris sekali lagi</string>
+    <string name="kg_iris_start_for_dex">Guna iris pada telefon anda</string>
+    <string name="kg_iris_stop">Hentikan pengimbasan iris</string>
+    <string name="kg_iris_strong_auth_prompt_reason_24_timeout_universal_lock">Demi keselamatan anda, gunakan siri arah anda untuk membuka kunci telefon anda. Anda boleh menggunakan biometrik anda pada kali berikut.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_restarting_universal_lock">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan iris anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_universal_lock_security_policy">Lukis siri arah dan bukannya menggunakan pengecaman iris atas sebab dasar keselamatan</string>
+    <string name="kg_iris_toast_preview_for_dex">Guna iris anda pada telefon anda untuk mengesahkan identiti anda.</string>
+    <string name="kg_iris_too_many_timeout_error_text">Suhu terlalu tinggi untuk menggunakan pengecaman iris. Tunggu sehingga telefon menyejuk sebelum cuba lagi.</string>
+    <string name="kg_iris_too_many_timeout_error_toast_text">LED pengecaman iris terlampau panas. Cuba lagi kemudian.</string>
+    <string name="kg_keycode_delete">PADAM</string>
+    <string name="kg_keycode_ok">OK</string>
+    <string name="kg_knox_guard_mobile_data_button">Turn on Mobile data</string>
+    <string name="kg_knox_guard_mobile_data_turned_on_toast">Mobile data turned on.</string>
+    <string name="kg_knox_guard_no_sim_card_toast">Tiada kad SIM dimasukkan.</string>
+    <string name="kg_knox_guard_pin_hint">PIN</string>
+    <string name="kg_knox_guard_wifi_button">Turn on Wi-Fi</string>
+    <string name="kg_knox_guard_wifi_turned_on_toast">Wi-Fi turned on.</string>
+    <string name="kg_kor_empty_sim_puk_hint">Tiada kod buka kunci PIN (PUK) dimasukkan. Cuba lagi.</string>
+    <string name="kg_kor_enter_confirm_pin_hint">Masukkan PIN kad USIM sekali lagi untuk pengesahan.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">PIN baru tidak sepadan.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">Masukkan PIN 8 angka kod buka kunci (PUK)</string>
+    <string name="kg_kor_password_wrong_pin_code">PIN salah telah dimasukkan. %d lagi percubaan. Hubungi perkhidmatan pelanggan.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"Cipta PIN kad USIM baru.
+PIN mestilah mempunyai 4 hingga 8 digit."</string>
+    <string name="kg_kor_sim_pin_instructions">Masukkan PIN buka kunci kad USIM (4 hingga 8 digit)</string>
+    <string name="kg_kor_sim_puk_instructions">Masukkan PUK.</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"PUK salah telah dimasukkan %1$d kali. Jika PUK salah dimasukkan %2$d kali lagi, kad USIM akan disekat selama-lamanya.
+
+Jika anda tidak tahu PUK anda, sila lawat pusat perkhidmatan pelanggan."</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">Membuka kunci kad SIM</string>
+    <string name="kg_kor_success_pin_message">Kata laluan (PIN) baru berjaya disimpan.</string>
+    <string name="kg_kor_wrong_puk_code">Ralat input kod buka kunci</string>
+    <string name="kg_ktt_sim_perso_instructions">Masuk kata laluan (PIN) 4 ke 8 angka</string>
+    <string name="kg_lockscreen_emergency_call_button_text">Panggilan kecemasan</string>
+    <string name="kg_missing_sim_message_short">Tiada kad SIM</string>
+    <string name="kg_multi_biometrics_direction_instructions">Guna biometrik atau lukis siri arah</string>
+    <string name="kg_multi_biometrics_prompt_reason_timeout_universal_lock_strong_auth">Lukis siri arah seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan biometrik anda</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_24_timeout_universal_lock">Demi keselamatan anda, gunakan siri arah anda untuk membuka kunci telefon anda. Anda boleh menggunakan biometrik anda pada kali berikut.</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_restarting_universal_lock">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan biometrik anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_multi_direction_active_instructions">Guna biometrik atau lukis siri arah untuk buka</string>
+    <string name="kg_multi_direction_none_instructions">Guna biometrik atau lukis siri arah</string>
+    <string name="kg_multi_password_active_instructions">Guna biometrik atau masukkan kata laluan untuk buka</string>
+    <string name="kg_multi_password_none_instructions">Guna biometrik atau masukkan kata laluan</string>
+    <string name="kg_multi_pattern_active_instructions">Guna biometrik atau lukis corak untuk buka</string>
+    <string name="kg_multi_pattern_none_instructions">Guna biometrik atau lukis corak</string>
+    <string name="kg_multi_pin_active_instructions">Guna biometrik atau masukkan PIN untuk buka</string>
+    <string name="kg_multi_pin_none_instructions">Guna biometrik atau masukkan PIN</string>
+    <string name="kg_n_attempts_remaining">(%d percubaan yang tinggal)</string>
+    <string name="kg_no_match">Tiada padanan</string>
+    <string name="kg_none_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_1_reactivation">"Jika anda tidak memasukkan siri arah yang betul pada percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_direction_active_instructions">Lukis siri arah untuk membuka</string>
+    <string name="kg_none_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_none_instructions">Lukiskan siri arah untuk membuka kunci skrin</string>
+    <string name="kg_none_direction_none_reactivation">"Jika anda tidak memasukkan siri arah yang betul pada %d percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_face_direction_deviceadmin_instructions">Demi keselamatan anda, lukis siri arah anda.</string>
+    <string name="kg_none_face_direction_emergencymodeoff_instructions">Guna pengecaman muka atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_face_direction_emergencymodeon_instructions">Guna pengecaman muka atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_face_direction_shutdown_instructions">Guna pengecaman muka atau lukis siri arah untuk mematikan telefon</string>
+    <string name="kg_none_face_password_deviceadmin_instructions">Masukkan kata laluan anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka</string>
+    <string name="kg_none_face_password_emergencymodeoff_instructions">Guna pengecaman muka atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_face_password_emergencymodeon_instructions">Guna pengecaman muka atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_face_password_reboot_instructions">Guna pengecaman muka atau masukkan kata laluan untuk memulakan semula telefon</string>
+    <string name="kg_none_face_password_shutdown_instructions">Gunakan pengecaman muka atau masukkan kata laluan untuk mematikan telefon</string>
+    <string name="kg_none_face_pattern_deviceadmin_instructions">Lukis corak anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka</string>
+    <string name="kg_none_face_pattern_emergencymodeoff_instructions">Guna pengecaman muka atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_face_pattern_emergencymodeon_instructions">Guna pengecaman muka atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_face_pattern_reboot_instructions">Guna pengecaman muka atau lukis corak untuk memulakan semula telefon</string>
+    <string name="kg_none_face_pattern_shutdown_instructions">Gunakan pengecaman muka atau lukis corak untuk mematikan telefon</string>
+    <string name="kg_none_face_pin_deviceadmin_instructions">Masukkan PIN anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka</string>
+    <string name="kg_none_face_pin_emergencymodeoff_instructions">Guna pengecaman muka atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_face_pin_emergencymodeon_instructions">Guna pengecaman muka atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_face_pin_reboot_instructions">Guna pengecaman muka atau masukkan PIN untuk memulakan semula telefon</string>
+    <string name="kg_none_face_pin_shutdown_instructions">Gunakan pengecaman muka atau masukkan PIN untuk mematikan telefon</string>
+    <string name="kg_none_facefingerprint_direction_itpolicy_instructions">Demi keselamatan anda, lukis siri arah anda.</string>
+    <string name="kg_none_facefingerprint_password_itpolicy_instructions">Guna cap jari anda atau kata laluan anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka</string>
+    <string name="kg_none_facefingerprint_pattern_itpolicy_instructions">Guna cap jari anda atau lukis corak anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka</string>
+    <string name="kg_none_facefingerprint_pin_itpolicy_instructions">Guna cap jari anda atau masukkan PIN anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka</string>
+    <string name="kg_none_fingerprint_direction_deviceadmin_instructions">Lukis siri arah seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan cap jari anda</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeoff_instructions">Guna cap jari atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeon_instructions">Guna cap jari atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_direction_shutdown_instructions">Guna cap jari atau lukis siri arah untuk mematikan telefon</string>
+    <string name="kg_none_fingerprint_password_deviceadmin_instructions">Masukkan kata laluan anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan cap jari anda</string>
+    <string name="kg_none_fingerprint_password_emergencymodeoff_instructions">Guna cap jari atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_password_emergencymodeon_instructions">Guna cap jari atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_password_reboot_instructions">Guna cap jari atau masukkan kata laluan untuk memulakan semula telefon</string>
+    <string name="kg_none_fingerprint_password_shutdown_instructions">Guna cap jari atau masukkan kata laluan untuk mematikan telefon</string>
+    <string name="kg_none_fingerprint_pattern_deviceadmin_instructions">Lukis corak anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan cap jari anda</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeoff_instructions">Guna cap jari atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeon_instructions">Guna cap jari atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_pattern_reboot_instructions">Guna cap jari atau lukis corak untuk memulakan semula telefon</string>
+    <string name="kg_none_fingerprint_pattern_shutdown_instructions">Guna cap jari atau lukis corak untuk mematikan telefon</string>
+    <string name="kg_none_fingerprint_pin_deviceadmin_instructions">Masukkan PIN anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan cap jari anda</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeoff_instructions">Guna cap jari atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeon_instructions">Guna cap jari atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_fingerprint_pin_reboot_instructions">Guna cap jari atau masukkan PIN untuk memulakan semula telefon</string>
+    <string name="kg_none_fingerprint_pin_shutdown_instructions">Guna cap jari atau masukkan PIN untuk mematikan telefon</string>
+    <string name="kg_none_intelligent_direction_deviceadmin_instructions">Lukis siri arah seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan pengecaman muka anda</string>
+    <string name="kg_none_intelligent_direction_emergencymodeoff_instructions">Guna Imbas Pintar atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_intelligent_direction_emergencymodeon_instructions">Guna Imbas Pintar atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_intelligent_direction_shutdown_instructions">Guna Imbas Pintar atau lukis siri arah untuk mematikan telefon</string>
+    <string name="kg_none_intelligent_password_deviceadmin_instructions">Masukkan kata laluan anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan Imbas Pintar</string>
+    <string name="kg_none_intelligent_password_emergencymodeoff_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_intelligent_password_emergencymodeon_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_intelligent_password_reboot_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk memulakan semula telefon</string>
+    <string name="kg_none_intelligent_password_shutdown_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk mematikan telefon</string>
+    <string name="kg_none_intelligent_pattern_deviceadmin_instructions">Lukis corak anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan Imbas Pintar anda</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeoff_instructions">Guna Imbas Pintar atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeon_instructions">Guna Imbas Pintar atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_intelligent_pattern_reboot_instructions">Guna Imbas Pintar atau lukis corak untuk memulakan semula telefon</string>
+    <string name="kg_none_intelligent_pattern_shutdown_instructions">Guna Imbas Pintar atau lukis corak untuk mematikan telefon</string>
+    <string name="kg_none_intelligent_pin_deviceadmin_instructions">Masukkan PIN anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan Imbas Pintar anda</string>
+    <string name="kg_none_intelligent_pin_emergencymodeoff_instructions">Guna Imbas Pintar atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_intelligent_pin_emergencymodeon_instructions">Guna Imbas Pintar atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_intelligent_pin_reboot_instructions">Guna Imbas Pintar atau masukkan PIN untuk memulakan semula telefon</string>
+    <string name="kg_none_intelligent_pin_shutdown_instructions">Guna Imbas Pintar atau masukkan PIN untuk mematikan telefon</string>
+    <string name="kg_none_iris_direction_deviceadmin_instructions">Lukis siri arah seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan iris anda</string>
+    <string name="kg_none_iris_direction_emergencymodeoff_instructions">Guna iris atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_iris_direction_emergencymodeon_instructions">Guna iris atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_iris_direction_shutdown_instructions">Guna iris atau lukis siri arah untuk mematikan telefon</string>
+    <string name="kg_none_iris_password_deviceadmin_instructions">Masukkan kata laluan anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan iris anda</string>
+    <string name="kg_none_iris_password_emergencymodeoff_instructions">Guna iris atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_iris_password_emergencymodeon_instructions">Guna iris atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_iris_password_reboot_instructions">Guna iris atau masukkan kata laluan untuk memulakan semula telefon</string>
+    <string name="kg_none_iris_password_shutdown_instructions">Guna iris atau masukkan kata laluan untuk mematikan telefon</string>
+    <string name="kg_none_iris_pattern_deviceadmin_instructions">Lukis corak anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan iris anda</string>
+    <string name="kg_none_iris_pattern_emergencymodeoff_instructions">Guna iris atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_iris_pattern_emergencymodeon_instructions">Guna iris atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_iris_pattern_reboot_instructions">Guna iris atau lukis corak untuk memulakan semula telefon</string>
+    <string name="kg_none_iris_pattern_shutdown_instructions">Guna iris atau lukis corak untuk mematikan telefon</string>
+    <string name="kg_none_iris_pin_deviceadmin_instructions">Masukkan PIN anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan iris anda</string>
+    <string name="kg_none_iris_pin_emergencymodeoff_instructions">Guna iris atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_iris_pin_emergencymodeon_instructions">Guna iris atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_iris_pin_reboot_instructions">Guna iris atau masukkan PIN untuk memulakan semula telefon</string>
+    <string name="kg_none_iris_pin_shutdown_instructions">Guna iris atau masukkan PIN untuk mematikan telefon</string>
+    <string name="kg_none_multi_direction_deviceadmin_instructions">Lukis siri arah seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan biometrik anda</string>
+    <string name="kg_none_multi_direction_emergencymodeoff_instructions">Guna biometrik atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_multi_direction_emergencymodeon_instructions">Gunakan biometrik atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_multi_direction_shutdown_instructions">Gunakan biometrik atau lukis siri arah untuk mematikan telefon</string>
+    <string name="kg_none_multi_password_deviceadmin_instructions">Masukkan kata laluan anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan biometrik anda</string>
+    <string name="kg_none_multi_password_emergencymodeoff_instructions">Guna biometrik atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_multi_password_emergencymodeon_instructions">Guna biometrik atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_multi_password_reboot_instructions">Guna biometrik atau masukkan kata laluan untuk memulakan semula telefon</string>
+    <string name="kg_none_multi_password_shutdown_instructions">Guna biometrik atau masukkan kata laluan untuk mematikan telefon</string>
+    <string name="kg_none_multi_pattern_deviceadmin_instructions">Lukis corak anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan biometrik anda</string>
+    <string name="kg_none_multi_pattern_emergencymodeoff_instructions">Guna biometrik atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_multi_pattern_emergencymodeon_instructions">Guna biometrik atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_multi_pattern_reboot_instructions">Guna biometrik atau lukis corak untuk memulakan semula telefon</string>
+    <string name="kg_none_multi_pattern_shutdown_instructions">Guna biometrik atau lukis corak untuk mematikan telefon</string>
+    <string name="kg_none_multi_pin_deviceadmin_instructions">Masukkan PIN anda seperti yang diperlukan oleh dasar keselamatan dan bukannya menggunakan biometrik anda</string>
+    <string name="kg_none_multi_pin_emergencymodeoff_instructions">Guna biometrik atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_multi_pin_emergencymodeon_instructions">Guna biometrik atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_multi_pin_reboot_instructions">Guna biometrik atau masukkan PIN untuk memulakan semula telefon</string>
+    <string name="kg_none_multi_pin_shutdown_instructions">Guna biometrik atau masukkan PIN untuk mematikan telefon</string>
+    <string name="kg_none_none_direction_emergencymodeoff_instructions">Lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_none_direction_emergencymodeon_instructions">Lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_none_direction_restart_instructions">Guna siri arah selepas dimulakan semula.</string>
+    <string name="kg_none_none_direction_shutdown_instructions">Lukiskan siri arah untuk mematikan telefon</string>
+    <string name="kg_none_none_direction_timeout_instructions">Demi keselamatan anda, lukis siri arah anda.</string>
+    <string name="kg_none_none_password_emergencymodeoff_instructions">Masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_none_password_emergencymodeon_instructions">Masukkan Kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_none_password_reboot_instructions">Masukkan kata laluan untuk memulakan semula telefon</string>
+    <string name="kg_none_none_password_restart_instructions">Gunakan kata laluan selepas dimulakan semula.</string>
+    <string name="kg_none_none_password_shutdown_instructions">Masukkan kata laluan untuk mematikan telefon</string>
+    <string name="kg_none_none_password_timeout_instructions">Demi keselamatan anda, gunakan kata laluan anda.</string>
+    <string name="kg_none_none_pattern_emergencymodeoff_instructions">Lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_none_pattern_emergencymodeon_instructions">Lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_none_pattern_reboot_instructions">Lukis corak untuk memulakan semula telefon</string>
+    <string name="kg_none_none_pattern_restart_instructions">Lukis corak selepas dimulakan semula.</string>
+    <string name="kg_none_none_pattern_shutdown_instructions">Lukiskan corak untuk mematikan telefon</string>
+    <string name="kg_none_none_pattern_timeout_instructions">Demi keselamatan anda, lukis corak anda.</string>
+    <string name="kg_none_none_pin_emergencymodeoff_instructions">Masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_none_none_pin_emergencymodeon_instructions">Masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_none_none_pin_reboot_instructions">Masukkan PIN untuk memulakan semula telefon</string>
+    <string name="kg_none_none_pin_restart_instructions">Gunakan PIN selepas dimulakan semula.</string>
+    <string name="kg_none_none_pin_shutdown_instructions">Masukkan PIN untuk mematikan telefon</string>
+    <string name="kg_none_none_pin_timeout_instructions">Demi keselamatan anda, gunakan PIN anda.</string>
+    <string name="kg_none_password_1_frp">"If you do not enter the correct password in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_1_reactivation">"Jika anda tidak memasukkan kata laluan yang betul pada %d percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_password_active_instructions">Masukkan kata laluan untuk membuka</string>
+    <string name="kg_none_password_none_frp">"If you do not enter the correct password within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_none_instructions">Masukkan kata laluan</string>
+    <string name="kg_none_password_none_reactivation">"Jika anda tidak memasukkan kata laluan yang betul pada percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_pattern_1_frp">"If you do not enter the correct pattern in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_1_reactivation">"Jika anda tidak memasukkan corak yang betul pada percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_pattern_active_instructions">Lukis corak buka kunci untuk membuka</string>
+    <string name="kg_none_pattern_none_frp">"If you do not enter the correct pattern within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_none_instructions">Lukis corak buka kunci</string>
+    <string name="kg_none_pattern_none_reactivation">"Jika anda tidak memasukkan corak yang betul pada %d percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_1_reactivation">"Jika anda tidak memasukkan PIN yang betul pada percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_pin_active_instructions">Masukkan PIN untuk membuka</string>
+    <string name="kg_none_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_none_instructions">Masukkan PIN</string>
+    <string name="kg_none_pin_none_reactivation">"Jika anda tidak memasukkan PIN yang betul pada %d percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_none_recovery_none_instructions">Masukkan pemulihan kata laluan untuk membuka kunci.</string>
+    <string name="kg_password_hint">Petua</string>
+    <string name="kg_password_hint_show">Petua: %s</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="kg_password_sub_instructions">Kata laluan anda mengandungi sekurang-kurangnya %d aksara, termasuk sekurang-kurangnya 1 huruf.</string>
+    <string name="kg_password_sub_instructions_vzw">Kata laluan anda merangkumi huruf dan sekurang-kurangnya %d aksara panjang.</string>
+    <string name="kg_password_wrong_pin_code_one">PIN kad SIM yang salah telah dimasukkan. Anda mempunyai 1 percubaan yang tinggal.</string>
+    <string name="kg_password_wrong_pin_code_other">PIN kad SIM yang salah telah dimasukkan. Anda mempunyai %d percubaan yang tinggal.</string>
+    <string name="kg_perso_locked_message">Block other USIM</string>
+    <string name="kg_phone_unlocked">Telefon dibuka kunci</string>
+    <string name="kg_pin_locked_message">Masukkan PIN</string>
+    <string name="kg_pin_sub_instructions">PIN anda mengandungi sekurang-kurangnya 4 digit.</string>
+    <string name="kg_pin_sub_instructions_vzw">PIN anda terdiri daripada %d atau lebih digit.</string>
+    <string name="kg_power_charging">Mengecas: %d%%</string>
+    <string name="kg_power_charging_wirelessly">Mengecas secara tanpa wayar: %d%%</string>
+    <string name="kg_power_connect_charger">Sambungkan pengecas</string>
+    <string name="kg_power_fast_charging">Pengecasan pantas: %d%%</string>
+    <string name="kg_power_fast_charging_chn">Pengecasan lanjutan: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly">Pengecasn pantas wayarles: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly_chn">Pengecasan wayarles lanjutan: %d%%</string>
+    <string name="kg_power_fully_charged">Dicas sepenuhnya</string>
+    <string name="kg_power_time_format_hour">%d j sehingga penuh</string>
+    <string name="kg_power_time_format_hour_minute">%1$d j %2$d m sehingga penuh</string>
+    <string name="kg_power_time_format_minute">%d m sehingga penuh</string>
+    <string name="kg_prompt_reason_timeout_password_strong_auth">Masukkan kata laluan dan bukannya menggunakan pengecaman cap jari atas sebab dasar keselamatan</string>
+    <string name="kg_prompt_reason_timeout_pattern_strong_auth">Lukis corak dan bukannya menggunakan pengecaman cap jari atas sebab dasar keselamatan</string>
+    <string name="kg_prompt_reason_timeout_pin_strong_auth">Masukkan PIN dan bukannya menggunakan pengecaman cap jari atas sebab dasar keselamatan</string>
+    <string name="kg_prompt_reason_timeout_universal_lock_strong_auth">Lukis siri arah dan bukannya menggunakan pengecaman cap jari atas sebab dasar keselamatan</string>
+    <string name="kg_puk_locked_message">Masukkan PUK</string>
+    <string name="kg_remote_lock_accessibility_call">Hubungi %s</string>
+    <string name="kg_remote_lock_accessibility_email">E-mel %s</string>
+    <string name="kg_remote_lock_incorrect_pin">PIN salah.</string>
+    <string name="kg_rmm_lock_instructions">Masukkan PIN daripada %s</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">Cubaan untuk membuka kunci peranti telah dilakukan. Anda mempunyai baki %d cubaan sebelum peranti ditetapkan semula ke aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_sec_1_remaining_count_almost_at_wipe">Cubaan untuk membuka kunci peranti telah dilakukan sebanyak %d kali. Anda mempunyai baki 1 cubaan sebelum peranti ditetapkan semula ke aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">Cubaan untuk membuka kunci peranti telah dilakukan sebanyak %1$d kali. Anda mempunyai baki %2$d cubaan sebelum peranti ditetapkan semula ke aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_sec_puk_enter_confirm_pin_hint">Masukkan PIN kad SIM baru sekali lagi untuk mengesahkannya.</string>
+    <string name="kg_sec_puk_enter_pin_hint">Masukkan PIN kad SIM baru.</string>
+    <string name="kg_sec_sim_unlock_progress_dialog_message">Membuka kunci kad SIM…</string>
+    <string name="kg_secure_password">Kata laluan</string>
+    <string name="kg_secure_pattern">Corak</string>
+    <string name="kg_secure_pin">PIN</string>
+    <string name="kg_secure_using_ppp_instead_of_fingerprints">Terdapat %1$d percubaan untuk membuka kunci telefon ini menggunakan cap jari. Buka kunci menggunakan %2$s anda.</string>
+    <string name="kg_secure_using_swipe_instead_of_fingerprints">Terdapat %d percubaan untuk membuka kunci telefon ini menggunakan cap jari. Leret untuk membuka kunci.</string>
+    <string name="kg_set_on_lock_screen_button">Tetapkan pada Skrin kunci</string>
+    <string name="kg_show_password_accessibility">Tunjukkan kata laluan</string>
+    <string name="kg_sim_lock_accepted">PIN dinyah sekat.</string>
+    <string name="kg_sim_lock_verified">Kod diterima.</string>
+    <string name="kg_sim_locked_message">Kad SIM dikunci</string>
+    <string name="kg_sim_pin_remaining_1_attempt">Anda mempunyai 1 percubaan lagi.</string>
+    <string name="kg_sim_pin_remaining_attempts">Anda mempunyai %d percubaan yang tinggal.</string>
+    <string name="kg_sim_puk_instructions">Kad SIM dikunci. Masukkan PUK. Hubungi pembekal perkhidmatan anda untuk butiran.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">Jika anda masukkan PUK salah 1 kali lagi, SIM akan dikunci.</string>
+    <string name="kg_sim_puk_remaining_attempts">Jika anda masukkan PUK salah %d kali lagi, SIM akan dikunci.</string>
+    <string name="kg_sim_puk_tmo_help_contact_service_provider">Your PIN has been blocked. To unlock your device, contact your service provider.</string>
+    <string name="kg_sim_puk_tmo_sos_call">SOS</string>
+    <string name="kg_skt_sim_perso_instructions">Masukkan PIN buka kunci kad USIM (4 digit)</string>
+    <string name="kg_smart_lock_content_description">Dwiketik dan seret untuk mengunci peranti.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_direction_lock">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan kata laluan anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan corak anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan PIN anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_swipe_active_instructions">Sapu untuk buka</string>
+    <string name="kg_swipe_unlock_instructions">Sapu untuk buka kunci</string>
+    <string name="kg_swipe_unlock_smart_lock_instructions">Telefon dibuka kunci oleh Kunci Pintar</string>
+    <string name="kg_swipe_unlock_strong_auth_instructions">Sapu untuk buka kunci</string>
+    <string name="kg_tablet_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_1_reactivation">"Jika anda tidak memasukkan siri arah yang betul pada percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_none_reactivation">"Jika anda tidak memasukkan siri arah yang betul pada %d percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_face_direction_emergencymodeoff_instructions">Guna pengecaman muka atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_face_direction_emergencymodeon_instructions">Guna pengecaman muka atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_face_direction_shutdown_instructions">Tablet anda telah dimulakan semula dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci tablet anda.</string>
+    <string name="kg_tablet_face_password_emergencymodeoff_instructions">Guna pengecaman muka atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_face_password_emergencymodeon_instructions">Guna pengecaman muka atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_face_password_shutdown_instructions">Gunakan pengecaman muka atau masukkan kata laluan untuk mematikan tablet</string>
+    <string name="kg_tablet_face_pattern_emergencymodeoff_instructions">Guna pengecaman muka atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_face_pattern_emergencymodeon_instructions">Guna pengecaman muka atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_face_pattern_shutdown_instructions">Gunakan pengecaman muka atau lukis corak untuk mematikan tablet</string>
+    <string name="kg_tablet_face_pin_emergencymodeoff_instructions">Guna pengecaman muka atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_face_pin_emergencymodeon_instructions">Guna pengecaman muka atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_face_pin_shutdown_instructions">Gunakan pengecaman muka atau masukkan PIN untuk mematikan tablet</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeoff_instructions">Guna cap jari atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeon_instructions">Guna cap jari atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_direction_shutdown_instructions">Guna cap jari atau lukis siri arah untuk mematikan tablet</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeoff_instructions">Guna cap jari atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeon_instructions">Guna cap jari atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_password_reboot_instructions">Guna cap jari atau masukkan kata laluan untuk memulakan semula tablet</string>
+    <string name="kg_tablet_fingerprint_password_shutdown_instructions">Guna cap jari atau masukkan kata laluan untuk mematikan tablet</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeoff_instructions">Guna cap jari atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeon_instructions">Guna cap jari atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_pattern_reboot_instructions">Guna cap jari atau lukis corak untuk memulakan semula tablet</string>
+    <string name="kg_tablet_fingerprint_pattern_shutdown_instructions">Guna cap jari atau lukis corak untuk mematikan tablet</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeoff_instructions">Guna cap jari atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeon_instructions">Guna cap jari atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_fingerprint_pin_reboot_instructions">Guna cap jari atau masukkan PIN untuk memulakan semula tablet</string>
+    <string name="kg_tablet_fingerprint_pin_shutdown_instructions">Guna cap jari atau masukkan PIN untuk mematikan tablet</string>
+    <string name="kg_tablet_fingerprints_direction_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_fingerprints_password_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan kata laluan anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_fingerprints_pattern_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan corak anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_fingerprints_pin_unabled_instructions">Peranti anda telah dimulakan semula dan perlu dibuka kunci menggunakan PIN anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeoff_instructions">Guna Imbas Pintar atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeon_instructions">Guna Imbas Pintar atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_direction_shutdown_instructions">Guna Imbas Pintar atau lukis siri arah untuk mematikan tablet</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeoff_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeon_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_password_reboot_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk memulakan semula tablet</string>
+    <string name="kg_tablet_intelligent_password_shutdown_instructions">Guna Imbas Pintar atau masukkan kata laluan untuk mematikan tablet</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeoff_instructions">Guna Imbas Pintar atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeon_instructions">Guna Imbas Pintar atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_pattern_reboot_instructions">Guna Imbas Pintar atau lukis corak untuk memulakan semula tablet</string>
+    <string name="kg_tablet_intelligent_pattern_shutdown_instructions">Guna Imbas Pintar atau lukis corak untuk mematikan tablet</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeoff_instructions">Guna Imbas Pintar atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeon_instructions">Guna Imbas Pintar atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_intelligent_pin_reboot_instructions">Guna Imbas Pintar atau masukkan PIN untuk memulakan semula tablet</string>
+    <string name="kg_tablet_intelligent_pin_shutdown_instructions">Guna Imbas Pintar atau masukkan PIN untuk mematikan tablet</string>
+    <string name="kg_tablet_iris_direction_emergencymodeoff_instructions">Guna iris atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_iris_direction_emergencymodeon_instructions">Guna iris atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_iris_direction_shutdown_instructions">Guna iris atau lukis siri arah untuk mematikan tablet</string>
+    <string name="kg_tablet_iris_password_emergencymodeoff_instructions">Guna iris atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_iris_password_emergencymodeon_instructions">Guna iris atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_iris_password_reboot_instructions">Guna iris atau masukkan kata laluan untuk memulakan semula tablet</string>
+    <string name="kg_tablet_iris_password_shutdown_instructions">Guna iris atau masukkan kata laluan untuk mematikan tablet</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeoff_instructions">Guna iris atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeon_instructions">Guna iris atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_iris_pattern_reboot_instructions">Guna iris atau lukis corak untuk memulakan semula tablet</string>
+    <string name="kg_tablet_iris_pattern_shutdown_instructions">Guna iris atau lukis corak untuk mematikan tablet</string>
+    <string name="kg_tablet_iris_pin_emergencymodeoff_instructions">Guna iris atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_iris_pin_emergencymodeon_instructions">Guna iris atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_iris_pin_reboot_instructions">Guna iris atau masukkan PIN untuk memulakan semula tablet</string>
+    <string name="kg_tablet_iris_pin_shutdown_instructions">Guna iris atau masukkan PIN untuk mematikan tablet</string>
+    <string name="kg_tablet_multi_direction_emergencymodeoff_instructions">Guna biometrik atau lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_multi_direction_emergencymodeon_instructions">Gunakan biometrik atau lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_multi_direction_shutdown_instructions">Gunakan biometrik atau lukis siri arah untuk mematikan tablet</string>
+    <string name="kg_tablet_multi_password_emergencymodeoff_instructions">Guna biometrik atau masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_multi_password_emergencymodeon_instructions">Guna biometrik atau masukkan kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_multi_password_reboot_instructions">Guna biometrik atau masukkan kata laluan untuk memulakan semula tablet</string>
+    <string name="kg_tablet_multi_password_shutdown_instructions">Guna biometrik atau masukkan kata laluan untuk mematikan tablet</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeoff_instructions">Guna biometrik atau lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeon_instructions">Guna biometrik atau lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_multi_pattern_reboot_instructions">Guna biometrik atau lukis corak untuk memulakan semula tablet</string>
+    <string name="kg_tablet_multi_pattern_shutdown_instructions">Guna biometrik atau lukis corak untuk mematikan tablet</string>
+    <string name="kg_tablet_multi_pin_emergencymodeoff_instructions">Guna biometrik atau masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_multi_pin_emergencymodeon_instructions">Guna biometrik atau masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_multi_pin_reboot_instructions">Guna biometrik atau masukkan PIN untuk memulakan semula tablet</string>
+    <string name="kg_tablet_multi_pin_shutdown_instructions">Guna biometrik atau masukkan PIN untuk mematikan tablet</string>
+    <string name="kg_tablet_none_direction_emergencymodeoff_instructions">Lukis siri arah anda untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_none_direction_emergencymodeon_instructions">Lukis siri arah anda untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_none_direction_shutdown_instructions">Lukiskan siri arah untuk mematikan tablet</string>
+    <string name="kg_tablet_none_password_emergencymodeoff_instructions">Masukkan kata laluan untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_none_password_emergencymodeon_instructions">Masukkan Kata laluan untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_none_password_reboot_instructions">Masukkan kata laluan untuk memulakan semula tablet</string>
+    <string name="kg_tablet_none_password_shutdown_instructions">Masukkan kata laluan untuk mematikan tablet</string>
+    <string name="kg_tablet_none_pattern_emergencymodeoff_instructions">Lukis corak untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_none_pattern_emergencymodeon_instructions">Lukis corak untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_none_pattern_reboot_instructions">Lukis corak untuk memulakan semula tablet</string>
+    <string name="kg_tablet_none_pattern_shutdown_instructions">Lukiskan corak untuk mematikan tablet</string>
+    <string name="kg_tablet_none_pin_emergencymodeoff_instructions">Masukkan PIN untuk mematikan Mod kecemasan</string>
+    <string name="kg_tablet_none_pin_emergencymodeon_instructions">Masukkan PIN untuk menghidupkan Mod kecemasan</string>
+    <string name="kg_tablet_none_pin_reboot_instructions">Masukkan PIN untuk memulakan semula tablet</string>
+    <string name="kg_tablet_none_pin_shutdown_instructions">Masukkan PIN untuk mematikan tablet</string>
+    <string name="kg_tablet_password_1_frp">"If you do not enter the correct password in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_1_reactivation">"Jika anda tidak memasukkan kata laluan yang betul pada %d percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_password_none_frp">"If you do not enter the correct password within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_none_reactivation">"Jika anda tidak memasukkan kata laluan yang betul pada percubaan yang seterusnya, telefon anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada telefon akan dipadam.
+
+Jika telefon anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan telefon ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_pattern_1_frp">"If you do not draw the correct pattern in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_1_reactivation">"Jika anda tidak memasukkan corak yang betul pada percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_pattern_none_frp">"If you do not draw the correct pattern within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_none_reactivation">"Jika anda tidak memasukkan corak yang betul pada %d percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_1_reactivation">"Jika anda tidak memasukkan PIN yang betul pada percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_none_reactivation">"Jika anda tidak memasukkan PIN yang betul pada %d percubaan yang seterusnya, tablet anda akan ditetapkan semula ke aturan kilang secara automatik dan semua maklumat pada tablet akan dipadam.
+
+Jika tablet anda ditetapkan semula, anda mungkin perlu memasukkan maklumat Samsung account (alamat e-mel dan kata laluan) yang dikaitkan dengan tablet ini untuk dapat menggunakannya semula."</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_direction_lock">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan siri arah anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_password">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan kata laluan anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pattern">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan corak anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pin">Peranti anda tidak digunakan selama lebih daripada 24 jam dan perlu dibuka kunci menggunakan PIN anda. Anda boleh menggunakan cap jari anda pada kali berikutnya anda membuka kunci peranti anda.</string>
+    <string name="kg_tts_shortcut_app">Dwiketik dan seret untuk membuka %s.</string>
+    <string name="kg_ucm_enter_confirm_pin_hint">Masukkan PIN sekali lagi untuk pengesahan</string>
+    <string name="kg_ucm_invalid_confirm_pin_hint">PIN tidak sepadan</string>
+    <string name="kg_ucm_loading">Memuat…</string>
+    <string name="kg_ucm_password_not_matching">Kata laluan pada Kad pintar tidak sepadan dengan kata laluan yang disimpan di telefon</string>
+    <string name="kg_ucm_password_wrong_puk_code">PUK salah dimasukkan</string>
+    <string name="kg_ucm_puk_enter_pin_hint">Masukkan PIN baru</string>
+    <string name="kg_ucm_unknown_error_occurred">Ralat tidak dketahui brlaku.</string>
+    <string name="kg_ucm_unlocking">Membuka kunci…</string>
+    <string name="kg_unlock_sim_pin_instructions">Masukkan PIN kad SIM</string>
+    <string name="kg_unlock_sim_pin_remaining_1_attempt">Masukkan PIN buka kunci kad SIM. 1 percubaan lagi.</string>
+    <string name="kg_unlock_sim_pin_remaining_attempts">Masukkan PIN buka kunci kad SIM. %d percubaan lagi.</string>
+    <string name="kg_use_biometrics_first">Guna biometrik dahulu</string>
+    <string name="kg_use_fingerprint_first">Guna cap jari dahulu</string>
+    <string name="kg_use_irises_first">Guna iris dahulu</string>
+    <string name="kg_voice_assistant_active_instructions">Sapu dengan 2 jari untuk buka</string>
+    <string name="kg_voice_assistant_unlock_instructions">Sapu dengan 2 jari untuk membuka kunci</string>
+    <string name="kg_voice_assistant_unlock_strong_auth_instructions">Leret dengan dua jari untuk membuka kunci skrin.</string>
+    <string name="kg_wallpaper_applied_toast">Hiasan latar digunakan pada skrin kunci.</string>
+    <string name="kg_wallpaper_applied_toast_infinity">Hiasan latar infiniti digunakan pada Always On Display, Skrin utama dan Skrin kunci.</string>
+    <string name="kg_wallpaper_applied_toast_infinity_without_aod">Hiasan latar infiniti digunakan pada Skrin utama dan Skrin kunci.</string>
+    <string name="kg_wallpaper_change_wallpaper_when_infinity_applied">Kesan infiniti akan dimatikan jika anda menggunakan hiasan latar.</string>
+    <string name="kg_wallpaper_changes_restrict_toast">Dasar keselamatan menyekat anda daripada menukar hiasan latar.</string>
+    <string name="kg_wallpaper_confirm_dialog_apply">Guna</string>
+    <string name="kg_wallpaper_confirm_dialog_message">Kesan infiniti akan dimatikan jika anda menggunakan hiasan latar.</string>
+    <string name="kg_wallpaper_download_guide_popup_phone_body">Untuk menggunakan fungsi ini, muat turun %s.</string>
+    <string name="kg_wallpaper_download_guide_popup_title">Muat turun %s?</string>
+    <string name="kg_wallpaper_foldable_main_settting_description">Ini akan menetapkan kertas dinding untuk skrin utama sahaja. Tutup telefon untuk menetapkan kertas dinding bagi skrin hadapan.</string>
+    <string name="kg_wallpaper_foldable_sub_settting_description">Ini akan menetapkan kertas dinding pada skrin hadapan sahaja. Buka telefon untuk menetapkan kertas dinding bagi skrin utama.</string>
+    <string name="kg_wallpaper_preview_button">Tetapkan sebagai hiasan latar</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_body">GIF ini perlu ditukarkan kepada video untuk ditetapkan sebagai hiasan latar anda.</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_title">Menukar…</string>
+    <string name="kg_wallpaper_preview_infinity_motion_effect">Kesan gerakan pada Skrin utama</string>
+    <string name="kg_wallpaper_preview_title">Skrin kunci</string>
+    <string name="kg_wallpaper_preview_title_infinity">Hiasan latar infiniti</string>
+    <string name="kg_wallpaper_preview_video_big_size_info">Video yang anda pilih terlalu besar. Ketik butang di bawah untuk memotongnya kepada 100 MB.</string>
+    <string name="kg_wallpaper_preview_video_info">Tempoh video sehingga 15 saat akan ditunjukkan sebagai hiasan latar pada Skrin kunci.</string>
+    <string name="kg_wallpaper_preview_video_long_info">Video yang anda pilih terlalu panjang. Ketik butang di bawah untuk memotongnya kepada maksimum 15 saat.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper">Hiasan latar video</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_original_video_error_toast">Tidak dapat menyunting video hiasan latar. Peleraian video terlalu rendah.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_trimmer_error_toast">Tidak dapat menyunting hiasan latar video semasa memainkan video berkualiti tinggi.</string>
+    <string name="kg_wallpaper_unsupported_file">Fail yang tidak disokong.</string>
+    <string name="kg_wallpaper_video_trimmer">Pemangkas video</string>
+    <string name="kg_warning_none_1_none_auto_wipe">Terdapat 1 percubaan untuk membuka kunci telefon ini. Anda mempunyai %d percubaan lagi sebelum telefon ditetapkan semula kepada aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_warning_none_none_1_auto_wipe">Terdapat %d percubaan untuk membuka kunci telefon ini. Anda mempunyai 1 percubaan lagi sebelum telefon ditetapkan semula kepada aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_warning_none_none_none_auto_wipe">Terdapat %1$d percubaan untuk membuka kunci telefon ini. Anda mempunyai %2$d percubaan lagi sebelum telefon ditetapkan semula kepada aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_warning_tablet_1_none_auto_wipe">Terdapat 1 percubaan untuk membuka kunci tablet ini. Anda mempunyai %d percubaan lagi sebelum tablet ditetapkan semula kepada aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_warning_tablet_none_1_auto_wipe">Terdapat %d percubaan untuk membuka kunci tablet ini. Anda mempunyai 1 percubaan lagi sebelum tablet ditetapkan semula kepada aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_warning_tablet_none_none_auto_wipe">Terdapat %1$d percubaan untuk membuka kunci tablet ini. Anda mempunyai %2$d cubaan lagi sebelum tablet ditetapkan semula kepada aturan lalai kilang dan semua data dipadam, termasuklah fail dan aplikasi yang dimuat turun.</string>
+    <string name="kg_wrong_direction_lock">Arah yang dilukis salah</string>
+    <string name="kg_wrong_direction_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="later">Kemudian</string>
+    <string name="lock_app_shortcut_dnd_app_label">Dwiketik dan seret untuk membuka %s.</string>
+    <string name="lock_app_shortcut_flashlight_app_label">Lampu suluh</string>
+    <string name="lock_to_app_dex_desc">Fungsi ini tidak tersedia semasa dalam mod Samsung DeX.</string>
+    <string name="lock_to_app_dex_title">Tidak dapat pinkan tetingkap</string>
+    <string name="lock_to_app_positive">OK</string>
+    <string name="lock_to_app_recent_and_back">Untuk nyahpin aplikasi ini, sentuh dan tahan butang Terkini dan Kembali pada masa yang sama.</string>
+    <string name="lock_to_app_recent_and_back_accessibility">Untuk nyahpin aplikasi, tekan dan tahan kekunci terkini.</string>
+    <string name="lock_to_app_recent_and_back_softkey">Untuk nyahpin aplikasi ini, sentuh dan tahan butang Terkini dan Kembali pada masa yang sama.</string>
+    <string name="lock_to_app_recent_and_back_softkey_accessibility">Untuk menyahpin aplikasi, sentuh dan tahan butang Terkini.</string>
+    <string name="lock_to_app_title">Hidupkan tetingkap Pin</string>
+    <string name="lock_to_app_unable_to_pin_desc">Aplikasi ini tidak menyokong tetingkap Pin.</string>
+    <string name="lock_to_app_unable_to_pin_title">Tidak dapat pin %s</string>
+    <string name="lock_to_app_unable_to_pin_toast">Tidak dapat mengepinkan aplikasi. %s ditutup. Ralat tidak diketahui berlaku.</string>
+    <string name="lockscreen_nosim_text_kor_only">"Kad USIM tidak dikesan
+Panggilan kecemasan sahaja"</string>
+    <string name="maximum_power_saving_mode">Mod penjimatan kuasa maksimum</string>
+    <string name="megabyteShort">MB</string>
+    <string name="memory_full_dialog_msg">Ruang tidak mencukupi dalam storan dalaman anda. Padam beberapa fail dan cuba lagi.</string>
+    <string name="memory_full_dialog_title">Tidak dapat mengambil tangkapan skrin</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">Perayauan data dinyahaktifkan</string>
+    <string name="mobile_data_roaming_title">Perayauan data</string>
+    <string name="mobile_data_show_popup_disable">Anda tidak akan dapat menggunakan sebarang aplikasi yang memerlukan sambungan Internet melainkan anda menggunakan Wi-Fi.</string>
+    <string name="mobile_data_show_popup_disable_att">AT&amp;T Video Call won’t work if mobile data is off. Also, you won’t be able to use the internet, email or other apps that need a data connection unless you use Wi-Fi.</string>
+    <string name="mobile_data_show_popup_disable_dcm">"If Mobile data is turned off, your device must be connected to a Wi-Fi network to use services that require a network connection.
+
+Mobile data will be turned off."</string>
+    <string name="mobile_data_show_popup_disable_jpn">Melainkan anda menyambung ke rangkaian Wi-Fi, anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan rangkaian.</string>
+    <string name="mobile_data_show_popup_disable_kor">"Melainkan jika anda menggunakan Wi-Fi, anda tidak lagi akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data.
+
+Data mudah alih akan dimatikan."</string>
+    <string name="mobile_data_show_popup_disable_kor_kt">Data mudah alih (WCDMA/LTE) akan dimatikan. Melainkan anda menggunakan Wi-Fi, anda tidak akan dapat menggunakan aplikasi yang memerlukan sambungan data. Penghantaran atau penerimaan mesej multimedia akan dihadkan.</string>
+    <string name="mobile_data_show_popup_disable_kor_lgt">"Melainkan jika anda menggunakan Wi-Fi, anda tidak lagi akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data.
+
+Data mudah alih akan dimatikan."</string>
+    <string name="mobile_data_show_popup_disable_vzw">"Unless you use Wi-Fi, you won't be able to use the Internet, Email or other apps that require a data connection. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte">"Your phone's Video Calling function won't work when mobile data is off. Also, you won't be able to use the Internet, Email or other apps that need a data connection unless you use Wi-Fi. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte_tablet">Fungsi Panggilan Video tablet anda tidak akan berfungsi apabila data mudah alih dimatikan. Juga, anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data melainkan anda menggunakan Wi-Fi. Matikan sambungan data mudah alih?</string>
+    <string name="mobile_data_show_popup_enable_kor">Data mudah alih akan dihidupkan. Menyambung ke rangkaian mudah alih mungkin menyebabkan caj tambahan bergantung pada pelan pembayaran anda.</string>
+    <string name="mobile_data_show_popup_enable_kor_kt">Data mudah alih akan dihidupkan. Menyambung ke rangkaian mudah alih mungkin menyebabkan caj tambahan bergantung pada pelan pembayaran anda.</string>
+    <string name="mobile_data_show_popup_enable_kor_lgt">Data mudah alih akan dihidupkan. Menyambung ke rangkaian mudah alih mungkin menyebabkan caj tambahan bergantung pada pelan pembayaran anda.</string>
+    <string name="mobile_data_show_popup_enable_kor_skt_kt">Data mudah alih akan dihidupkan. Menyambung ke rangkaian mudah alih mungkin menyebabkan caj tambahan bergantung pada pelan pembayaran anda.</string>
+    <string name="mobile_data_show_popup_roaming_enable">Perayauan data akan diaktifkan. Menggunakan Data mudah alih ketika perayauan mungkin menyebabkan caj tambahan bergantung pada pelan pembayaran anda.</string>
+    <string name="mobile_data_show_toast_airplane_mode">Tidak dapat menyambung ke rangkaian mudah alih apabila Mod penerbangan dihidupkan. Matikan Mod penerbangan dan cuba lagi.</string>
+    <string name="mobile_data_show_toast_not_disable_during_voltecall">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_title">Data mudah alih</string>
+    <string name="mobile_data_trun_off_title">Matikan Data mudah alih?</string>
+    <string name="mobile_device_warning_toast_notification">Penggunaan peranti mudah alih ketika anda sedang berjalan atau memandu mempunyai risiko kemalangan.</string>
+    <string name="mobile_hotspot_detail_connected_device">Peranti disambung</string>
+    <string name="mobile_hotspot_detail_connected_devices">Peranti bersambung</string>
+    <string name="mobile_hotspot_detail_connection_mode_allow_all">Benarkan semua peranti menyambung</string>
+    <string name="mobile_hotspot_detail_connection_mode_allowed_device">Peranti yang dibenarkan sahaja</string>
+    <string name="mobile_hotspot_detail_password">Kata laluan</string>
+    <string name="mobile_hotspot_detail_title">Mobile Hotspot</string>
+    <string name="mobile_hotspot_detail_title_jpn">Penambatan Wi-Fi</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message">Masukkan kad SIM untuk menggunakan Mobile Hotspot dan pilihan penambatan lain.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message_jpn">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">Tiada kad SIM</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Unable to enable Wi-Fi tethering</string>
+    <string name="mobile_hotspot_dialog_nousim_or_nosim_warning">Masukkan kad UIM/SIM untuk menggunakan Mobile hotspot dan fungsi penambatan lain.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn">Mobile Hotspot dan Smart View tidak boleh dihidupkan pada masa yang sama. Smart View akan dimatikan.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_chn">WLAN hotspot dan Smart View tidak boleh diaktifkan pada masa yang sama. Smart View akan dinyahaktifkan.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_jpn">Penambatan Wi-Fi dan Smart View tidak boleh dihidupkan pada masa yang sama. Smart View akan dimatikan.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_text">Pastikan anda diberikan kebenaran daripada pembekal Wi-Fi sebelum berkongsi sambungan anda.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_title">Hidupkan Perkongsian Wi-Fi?</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_lite_enable_text">Sesetengah rangkaian Wi-Fi mungkin tidak tersedia apabila perkongsian Wi-Fi dihidupkan.</string>
+    <string name="mobile_hotspot_toast_disable_airplne_mode">Tidak dapat menyambung ke rangkaian mudah alih apabila Mod penerbangan dihidupkan. Matikan Mod penerbangan dan cuba lagi.</string>
+    <string name="mobile_hotspot_toast_internet_sharing">Perkongsian internet</string>
+    <string name="mobile_hotspot_wifi_sharing">Perkongsian Wi-Fi</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_disabled">Mati</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_enabled">Hidupkan</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_message">Rangkaian Wi-Fi telefon anda akan dikongsi jika anda menghidupkan Mobile Hotspot semasa disambungkan kepada rangkaian Wi-Fi. Pastikan anda mempunyai kebenaran daripada pemilik rangkaian sebelum berkongsi.</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_title">Mobile Hotspot berkongsi rangkaian Wi-Fi anda</string>
+    <string name="mobileap">Mobile hotspot</string>
+    <string name="monitoring_description_do_body_vpn">Anda telah disambungkan ke VPN %s yang boleh memantau aktiviti rangkaian anda, termasuklah e-mel, aplikasi dan laman web.</string>
+    <string name="monitoring_description_named_vpn">Anda telah disambungkan ke VPN %s yang boleh memantau aktiviti rangkaian anda, termasuklah e-mel, aplikasi dan laman web.</string>
+    <string name="monitoring_description_vpn_settings">Aturan VPN</string>
+    <string name="multiwindow_overheat_warning_dialog_body_phone">Telefon anda terlalu panas. Biarkan telefon menyejuk sebelum menggunakan Berbilang tetingkap sekali lagi.</string>
+    <string name="multiwindow_overheat_warning_dialog_body_tablet">Tablet anda terlalu panas. Biarkan tablet menyejuk sebelum menggunakan Berbilang tetingkap sekali lagi.</string>
+    <string name="multiwindow_overheat_warning_dialog_title">Berbilang tetingkap ditutup</string>
+    <string name="mw_divider_button_close">Tutup aplikasi</string>
+    <string name="negative_color_title">Warna negatif</string>
+    <string name="no">Batal</string>
+    <string name="no_app_can_perform_this_action">Tidak boleh mencari aplikasi untuk melaksanakan tindakan ini.</string>
+    <string name="no_sim_notification_text">Sila masukkan kad SIM.</string>
+    <string name="no_sim_notification_text_cct">Masukkan SIM Xfinity Mobile. Untuk mengetahui lebih lanjut, lawati xfinitymobile.com/activate atau hubungi 888-936-4968.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="no_sim_notification_title">Tiada SIM</string>
+    <string name="no_sim_notification_title_cct">No SIM card detected</string>
+    <string name="no_sim_notification_title_tmo">Tiada kad SIM dimasukkan</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_such_item">Tidak dapat menemui imej.</string>
+    <string name="noti_direct_reply_exceed_text_limit_toast">Tidak dapat memasukkan teks lagi.</string>
+    <string name="noti_setting_text">Aturan pemberitahuan</string>
+    <string name="noti_toast_wifi_is_not_available">WLAN tidak tersedia. Menyambung ke rangkaian mudah alih mungkin menyebabkan caj tambahan bergantung pada pelan pembayaran anda.</string>
+    <string name="notification_cancel">Batalkan</string>
+    <string name="notification_channel_blocked">Pemberitahuan dan lencana ikon disekat</string>
+    <string name="notification_channel_ongoing">Sedang dijalankan</string>
+    <string name="notification_done">Selesai</string>
+    <string name="notification_info_detail_button">Butiran</string>
+    <string name="notification_info_radio_alert_text">Peringatan</string>
+    <string name="notification_info_radio_silent_text">Senyap</string>
+    <string name="notification_info_save_button">Simpan</string>
+    <string name="notification_save">Simpan</string>
+    <string name="notification_section_header_gentle">Pemberitahuan senyap</string>
+    <string name="notification_settings_icon_description">Aturan pemberitahuan aplikasi</string>
+    <string name="notification_unblockable_desc">Pemberitahuan ini tidak dapat dimatikan.</string>
+    <string name="ok">OK</string>
+    <string name="one_item_will_be_deleted">Padam tangkapan skrin ini?</string>
+    <string name="overheat_poweroff_notice_text">"Peranti anda terlampau panas. Peranti telah dimatikan kuasa untuk mengelakkan kerosakan.
+
+Kepanasan yang terlampau boleh disebabkan oleh:
+- Menggunakan aplikasi intensif grafik seperti aplikasi permainan dan pemanduan arah untuk tempoh masa yang panjang.
+- Pemindahan fail yang besar.
+- Menggunakan peranti anda di persekitaran yang panas."</string>
+    <string name="overheat_poweroff_notice_title">Peranti dimatikan secara automatik</string>
+    <string name="overheat_poweroff_warning_text_append">Anda tidak akan dapat menghidupkan kuasa peranti lagi sehingga peranti telah menyejuk.</string>
+    <string name="overheat_poweroff_warning_text_new">Peranti anda terlampau panas. Untuk menyejukkannya, peranti akan dimatikan kuasa selepas %d saat.</string>
+    <string name="overheat_poweroff_warning_title">Matikan kuasa peranti</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got hot. It turned off to prevent damage to the phone.
+
+This can be caused by:
+Using graphics-intensive apps, like video games and navigation apps, for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_warning_text">"Your phone is getting hot.
+It will now turn off to cool down."</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_title">Turning off</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_editor">Photo Editor</string>
+    <string name="popupui_dialog_turn_on_button">Hidupkan</string>
+    <string name="powerui_power_sharing_alert_dialog_body">"You must download the app in order to control the amount of power shared. If you connect your device to another device with the Samsung's Power Sharing Cable EP-SG900 without the app, the entire battery amount will be transferred to the other device. 
+Connect to Samsung Apps and download the application."</string>
+    <string name="private_dns_mode_off">Mati</string>
+    <string name="private_dns_mode_opportunistic">Automatik</string>
+    <string name="private_dns_mode_provider">Nama hos pembekal DNS peribadi</string>
+    <string name="private_dns_mode_provider_hostname_hint">Masukkan nama hos pembekal DNS</string>
+    <string name="qs_detail_capture_mode">Screen capture mode</string>
+    <string name="qs_detail_capture_mode_text">Select the function you want to add to the quick settings panel.</string>
+    <string name="qs_detail_capture_screen">Tangkap skrin</string>
+    <string name="qs_detail_flashlight_title">Lampu</string>
+    <string name="qs_detail_palm_capture_description">Leret sisi tangan anda merentasi skrin untuk mengambil tangkapan skrin.</string>
+    <string name="qs_detail_palm_capture_title">Sapu telapak untuk menangkap</string>
+    <string name="qs_detail_recorder_screen">Record screen</string>
+    <string name="qs_detail_smart_capture_description">Sertakan bahagian tersembunyi skrin dalam tangkapan skrin anda. Anda juga boleh menyunting atau berkongsi tangkapan skrin selepas anda mengambilnya.</string>
+    <string name="qs_detail_smart_capture_title">Tangkapan pintar</string>
+    <string name="qs_edit_panel_badge_text">B</string>
+    <string name="qs_edit_setting_active_area_tapped">Dalam panel aturan cepat.</string>
+    <string name="qs_edit_setting_available_area_tapped">Bukan dalam panel aturan cepat.</string>
+    <string name="qs_edit_summary">Seret untuk menambahkan butang</string>
+    <string name="qs_location_consent_dialog_body_message_dcm">Lokasi GPS dan penggunaan data lokasi anda dikawal oleh aplikasi yang anda gunakan.</string>
+    <string name="qs_location_consent_dialog_body_message_vzw">"Telefon anda boleh berkongsi lokasi anggaran dengan aplikasi dan perkhidmatan seperti peta, membeli-belah dan cuaca.
+
+Aplikasi dan perkhidmatan yang menggunakan lokasi anda perlu memaklumkan kepada anda. Baca dasar privasi sebarang pembekal aplikasi atau perkhidmatan yang anda pertimbangkan untuk memahami cara mereka mengumpulkan, menggunakan dan berkongsi maklumat lokasi anda sebelum anda menggunakannya.
+
+Penentuan lokasi anda akan menggunakan rangkaian mudah alih. Penggunaan data akan dikenakan."</string>
+    <string name="qs_location_consent_dialog_body_message_vzw_tablet">"Tablet anda boleh berkongsi lokasi anggarannya dengan aplikasi dan perkhidmatan seperti peta, membeli-belah dan cuaca.
+
+Aplikasi dan perkhidmatan yang menggunakan lokasi anda perlu memaklumkan kepada anda. Baca dasar privasi sebarang pembekal aplikasi atau perkhidmatan yang anda pertimbangkan untuk memahami cara mereka mengumpulkan, menggunakan dan berkongsi lokasi maklumat anda sebelum anda menggunakannya.
+
+Penentuan lokasi anda akan menggunakan rangkaian mudah alih. Penggunaan data akan dikenakan."</string>
+    <string name="qs_location_consent_dialog_title_dcm">Persetujuan pengguna</string>
+    <string name="qs_location_consent_dialog_title_vzw">Persetujuan lokasi</string>
+    <string name="qs_location_detail_default_title">Lokasi</string>
+    <string name="qs_location_detail_gps_title">GPS</string>
+    <string name="qs_location_detail_mode_battery_saving">Penjimatan bateri</string>
+    <string name="qs_location_detail_mode_battery_saving_description">Menggunakan Wi-Fi dan rangkaian mudah alih untuk menganggar lokasi anda</string>
+    <string name="qs_location_detail_mode_high_accuracy">Ketepatan tinggi</string>
+    <string name="qs_location_detail_mode_high_accuracy_description">Menggunakan GPS, Wi-Fi dan rangkaian mudah alih untuk menganggar lokasi anda</string>
+    <string name="qs_location_detail_mode_sensors_only_description">Menggunakan GPS untuk menganggar lokasi anda</string>
+    <string name="qs_location_detail_mode_sensors_only_phone">Telefon sahaja</string>
+    <string name="qs_location_detail_mode_sensors_only_tablet">Tablet sahaja</string>
+    <string name="qs_location_detail_mode_summary_title">Kaedah mencari</string>
+    <string name="qs_location_detail_summary_default">Menggunakan GPS, Wi-Fi dan rangkaian mudah alih untuk menganggar lokasi anda</string>
+    <string name="qs_multisim_data_preffered_btn_title">Data mudah alih</string>
+    <string name="qs_multisim_data_switching">"Masih menukar kad SIM…
+Cuba lagi kemudian."</string>
+    <string name="qs_multisim_data_turned_off">Dimatikan</string>
+    <string name="qs_multisim_sim_card_manager">Pengurus kad SIM</string>
+    <string name="qs_multisim_sms_preffered_btn_title">Mesej teks</string>
+    <string name="qs_multisim_voice_ask_always">Tanya selalu</string>
+    <string name="qs_multisim_voice_others">Lain</string>
+    <string name="qs_multisim_voice_preffered_btn_title">Panggilan</string>
+    <string name="qs_navigation_bar_detail_description">Anda boleh menyembunyikan bar pemanduan arah dan menggunakan gerak isyarat sapu untuk kembali, pergi ke Skrin utama atau lihat aplikasi terkini apabila anda memilih Gerak isyarat penuh.</string>
+    <string name="qs_navigation_bar_detail_full_screen_gestures_options">Gerak isyarat skrin penuh</string>
+    <string name="qs_navigation_bar_detail_navigation_buttons_options">Butang Pemanduan arah</string>
+    <string name="qs_navigation_bar_detail_title">Bar pemanduan arah</string>
+    <string name="qs_navigation_bar_detail_title_option">Pilih jenis pemanduan arah.</string>
+    <string name="qs_navigation_bar_exclusive_function_turn_off_onehand_mode_desc">Untuk menggunakan gerak isyarat Skrin penuh, aturan Mod sebelah tangan anda perlu diubah kepada Gerak isyarat.</string>
+    <string name="qs_navigation_bar_label">"Bar
+pemanduan
+arah"</string>
+    <string name="qs_navigation_bar_setting_button">Aturan</string>
+    <string name="qs_navigation_bar_toast_acceesibility">Tidak dapat mematikan bar pemanduan arah semasa butang Pencapaian ditunjukkan.</string>
+    <string name="qs_navigation_bar_toast_voice_assistant_enabled">Tidak dapat mematikan bar pemanduan arah semasa Voice Assistant dihidupkan.</string>
+    <string name="qspanel_brightness_auto_brightness_summary">Jejaki pelarasan kecerahan anda dan gunakannya secara automatik dalam suasana pencahayaan yang serupa.</string>
+    <string name="qspanel_brightness_auto_brightness_summary_nopac">Laraskan kecerahan skrin secara automatik berdasarkan keadaan cahaya semasa.</string>
+    <string name="qspanel_brightness_auto_brightness_title">Kecerahan suaian</string>
+    <string name="qspanel_brightness_detail_level">Aras</string>
+    <string name="qspanel_brightness_detail_title">Kecerahan</string>
+    <string name="qspanel_brightness_outdoor_mode_summary">Cerahkan skrin untuk pandangan di luar bangunan. Selepas 15 minit, Mod luar kawasan akan dimatikan melainkan anda masih menggunakan skrin.</string>
+    <string name="qspanel_brightness_outdoor_mode_title">Mod kawasan luar</string>
+    <string name="qspanel_media_button_text">Media</string>
+    <string name="qspanel_media_devices_button_hide_text">Sembunyikan media dan peranti</string>
+    <string name="qspanel_media_devices_button_show_text">Tunjukkan media dan peranti</string>
+    <string name="qspanel_quickcontrol_button_text">Peranti</string>
+    <string name="qspanel_show_brightness_on_top_summary">Tunjukkan kawalan kecerahan di atas panel pemberitahuan.</string>
+    <string name="qspanel_show_brightness_on_top_title">Tunjuk kecerahan di bhgian atas</string>
+    <string name="qspanel_show_multi_sim_info_title">Tunjuk maklumat berbilang SIM</string>
+    <string name="quick_panel_data_usage">Data digunakan</string>
+    <string name="quick_settings_airplane_mode_label">"Mod
+penerbangan"</string>
+    <string name="quick_settings_allow">Benarkan</string>
+    <string name="quick_settings_blf_detail_seekbar">Kelegapan</string>
+    <string name="quick_settings_blf_detail_summary">Kurangkan keletihan mata dengan mengehadkan jumlah cahaya biru yang dipancarkan oleh skrin.</string>
+    <string name="quick_settings_block">Blok</string>
+    <string name="quick_settings_bluelightfilter_detail_title">Penapis cahaya biru</string>
+    <string name="quick_settings_bluelightfilter_label">"Penapis cahaya
+biru"</string>
+    <string name="quick_settings_bluetooth_connected_devices">"%d peranti
+disambungkan"</string>
+    <string name="quick_settings_bluetooth_detail_available_devices_title">Peranti tersedia</string>
+    <string name="quick_settings_bluetooth_detail_empty_text_available">Tiada peranti Bluetooth berdekatan yang dijumpai</string>
+    <string name="quick_settings_bluetooth_detail_off_text">Hidupkan Bluetooth untuk melihat senarai peranti yang boleh berpasangan atau telah berpasangan.</string>
+    <string name="quick_settings_bluetooth_detail_paired_devices_title">Peranti berpasangan</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_scanning">Mengimbas untuk peranti Bluetooth…</string>
+    <string name="quick_settings_cancel">Batalkan</string>
+    <string name="quick_settings_data_roaming_detail_title">Perayauan data</string>
+    <string name="quick_settings_data_roaming_label">"Perayauan
+data"</string>
+    <string name="quick_settings_dnd_detail_title">Jangan ganggu</string>
+    <string name="quick_settings_dnd_summary">Bisukan semua panggilan dan peringatan, kecuali untuk pengecualian tersuai anda.</string>
+    <string name="quick_settings_done">Selesai</string>
+    <string name="quick_settings_dual_label_content_description">%s, Label butang, Dwiketik untuk melihat aturan cepat berkaitan.</string>
+    <string name="quick_settings_enable">Aktif</string>
+    <string name="quick_settings_flashlight_detail_level">Aras</string>
+    <string name="quick_settings_flashlight_detail_title">Kecerahan</string>
+    <string name="quick_settings_flashlight_detail_warning">Cahaya kamera mungkin menyebabkan lecuran suhu rendah apabila didedahkan terlalu lama dengan kulit. Jangan biarkan %s dihidupkan untuk tempoh yang lama.</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_non_volte_vzw">"Apabila Mod penerbangan dihidupkan, anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data melainkan anda menggunakan Wi-Fi.
+
+Hidupkan Mod penerbangan?"</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_volte_vzw">"Apabila Mod penerbangan dihidupkan, anda tidak akan dapat menggunakan Internet, E-mel, panggilan Wi-Fi atau aplikasi lain yang memerlukan sambungan data melainkan anda menggunakan Wi-Fi.
+
+Hidupkan Mod penerbangan?"</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_non_volte_vzw">Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_volte_vzw">Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Airplane mode is on.</string>
+    <string name="quick_settings_flight_mode_detail_summary">"Mematikan semua sambungan rangkaian termasuklah panggilan, teks, capaian Internet, Wi-Fi dan Bluetooth.
+
+Semasa Mod penerbangan dihidupkan, anda boleh menghidupkan Wi-Fi dan Bluetooth sekali lagi dalam Aturan atau panel aturan cepat."</string>
+    <string name="quick_settings_flight_mode_detail_summary_lte_without_call_feature_tablet">"Matikan Data mudah alih.
+
+Wi-Fi dan Bluetooth juga akan dimatikan tetapi anda boleh menghidupkannya semula dalam Aturan atau dalam panel aturan cepat."</string>
+    <string name="quick_settings_flight_mode_detail_summary_wifi_tablet">"Matikan Wi-Fi dan Bluetooth.
+
+Anda boleh menghidupkannya sekali lagi dalam Aturan atau panel aturan cepat."</string>
+    <string name="quick_settings_flight_mode_detail_title">Mod penerbangan</string>
+    <string name="quick_settings_it_policy_prevents">Dasar keselamatan menghalang penggunaan %s.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_summary">Benarkan putaran skrin manual apabila orientasi telefon anda berubah.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_title">Putar butang pd bar pemanduan arah</string>
+    <string name="quick_settings_manual_rotation_category">Putaran manual</string>
+    <string name="quick_settings_mobile_data_detail_summary">Capai Internet melalui rangkaian mudah alih anda.</string>
+    <string name="quick_settings_mobile_data_detail_title">Data mudah alih</string>
+    <string name="quick_settings_mobile_data_label">"Data
+mudah alih"</string>
+    <string name="quick_settings_mobile_hotspot_label">"Mobile
+Hotspot"</string>
+    <string name="quick_settings_mobile_hotspot_label_jpn">"Penambatn
+Wi-Fi"</string>
+    <string name="quick_settings_phone_visibility_label">"Kebolehlihatan
+telefon"</string>
+    <string name="quick_settings_reading_mode_detail_title">Mod membaca</string>
+    <string name="quick_settings_reading_mode_label">"Mod
+membaca"</string>
+    <string name="quick_settings_reading_mode_summary">Skrin dioptimumkan untuk membaca. Mod ini hanya tersedia untuk aplikasi terpilih.</string>
+    <string name="quick_settings_reset">Tetap semula</string>
+    <string name="quick_settings_rotation_category">Putar ke mod landskap</string>
+    <string name="quick_settings_rotation_detail_call_screen">Skrin panggilan video</string>
+    <string name="quick_settings_rotation_detail_home_screen">Skrin utama</string>
+    <string name="quick_settings_rotation_detail_lock_screen">Skrin kunci</string>
+    <string name="quick_settings_rotation_lock_auto_rotate">Auto putar</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary">Putar skrin secara automatik apabila orientasi telefon anda berubah.</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary_for_tablet">Putar skrin secara automatik apabila orientasi tablet anda berubah.</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_sec_dnd_label">"Jangan
+ganggu"</string>
+    <string name="quick_settings_sec_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_sound_mode_detail_label">Mod bunyi</string>
+    <string name="quick_settings_sound_mode_detail_mixer_dnd_turned_on">Jangan ganggu dihidupkan</string>
+    <string name="quick_settings_sound_mode_detail_mixer_title">Kelantangan</string>
+    <string name="quick_settings_sound_mode_detail_mute_remaining">Baki masa: %s</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_duration">Tempoh bisu</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_summary">Ubah semula kepada mod bunyi terdahulu selepas masa yang anda tetapkan berlalu. Ketik Butiran untuk menetapkan masa.</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_title">Bisukan sementara waktu</string>
+    <string name="quick_settings_sound_mode_mute_label">Bisu</string>
+    <string name="quick_settings_sound_mode_sound_label">Bunyi</string>
+    <string name="quick_settings_sound_mode_vibrate_label">Getar</string>
+    <string name="quick_settings_tablet_visibility_label">"Kebolehlihatan
+tablet"</string>
+    <string name="quick_settings_wifi_detail_available_networks_title">Rangkaian Didpti</string>
+    <string name="quick_settings_wifi_detail_current_network_title">Rangkaian semasa</string>
+    <string name="quick_settings_wifi_detail_off_text">Untuk melihat rangkaian tersedia, hidupkan Wi-Fi.</string>
+    <string name="quick_settings_wifi_detail_scanning_text">Mengimbas untuk rangkaian Wi-Fi…</string>
+    <string name="quick_settings_work_mode_label">Profil kerja</string>
+    <string name="quick_settings_workmode_detail_summary">"Hidupkan %1$s untuk mengaktifkan semua aplikasi kerja dan membenarkan penyelarasan dan pemberitahuan latar belakang.
+
+Matikan %2$s untuk menggunakan telefon anda tanpa gangguan dari tempat kerja."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet">"Hidupkan %1$s untuk mengaktifkan semua aplikasi kerja dan membenarkan penyelarasan dan pemberitahuan latar belakang.
+
+Matikan %2$s untuk menggunakan tablet anda tanpa gangguan dari tempat kerja."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet_work">"Hidupkan Profil kerja untuk mengaktifkan semua aplikasi kerja dan membenarkan penyelarasan dan pemberitahuan latar belakang.
+
+Matikan Profil kerja untuk menggunakan tablet anda tanpa gangguan dari tempat kerja."</string>
+    <string name="quick_settings_workmode_detail_summary_work">"Hidupkan Profil kerja untuk mengaktifkan semua aplikasi kerja dan membenarkan penyelarasan dan pemberitahuan latar belakang.
+
+Matikan Profil kerja untuk menggunakan telefon anda tanpa gangguan dari tempat kerja."</string>
+    <string name="remove">Keluarkan</string>
+    <string name="reserve_battery_mode">Mod Simpan bateri</string>
+    <string name="retry">Cuba semula</string>
+    <string name="rotation_lock_auto_rotate">Auto putar</string>
+    <string name="rotation_lock_show_toast_mobile_keyboard_message">Untuk mengaktifkan %s, tanggalkan penutup papan kekunci daripada peranti.</string>
+    <string name="safe_mode_alert_body">Telefon anda akan dimulakan semula dan semua aplikasi anda akan tersedia sekali lagi.</string>
+    <string name="safe_mode_alert_body_tablet">Tablet anda akan dimulakan semula dan semua aplikasi anda akan tersedia sekali lagi.</string>
+    <string name="safe_mode_alert_positive_button">Matikan</string>
+    <string name="safe_mode_alert_title">Matikan Mod selamat?</string>
+    <string name="safe_mode_noti_body">Ketik di sini untuk mematikan Mod selamat.</string>
+    <string name="safe_mode_noti_title">Mod selamat adalah hidup</string>
+    <string name="sanitized_content_text">Ketik di sini untuk memasukkan %s.</string>
+    <string name="screen_capture_delete">Padam</string>
+    <string name="screen_capture_edit">Sunting</string>
+    <string name="screen_capture_fail_for_security_policy">Tidak dapat mengambil tangkapan skrin atas sebab dasar keselamatan.</string>
+    <string name="screen_capture_fail_for_storage_capacity">Ruangan tidak mencukupi dalam storan peranti. Padamkan beberapa fail dan cuba lagi.</string>
+    <string name="screen_capture_share">Kongsi</string>
+    <string name="screen_pinning_dialog_toast">Untuk nyahpin aplikasi ini, sentuh dan tahan butang Terkini dan Kembali pada masa yang sama.</string>
+    <string name="screen_pinning_msg_in_gesture">Untuk menyahpin aplikasi ini, sapu ke atas dan tahan.</string>
+    <string name="screenshot_cancel">Batal</string>
+    <string name="screenshot_guide_dialog_msg">Tekan dan tahan kekunci Kuasa dan kekunci Kelantangan ke bawah bersama-sama untuk mengambil tangkapan skrin.</string>
+    <string name="screenshot_guide_dialog_title">Mengambil tangkapan skrin</string>
+    <string name="screenshot_saved_text">Ketik di sini untuk melihatnya.</string>
+    <string name="screenshot_saved_title">Tangkapan skrin ditangkap</string>
+    <string name="sec_accessibility_back">Kembali</string>
+    <string name="sec_accessibility_home">Utama</string>
+    <string name="sec_accessibility_quick_settings_finder">Carian Finder</string>
+    <string name="sec_accessibility_quick_settings_more_option">Lebih pilihan</string>
+    <string name="sec_accessibility_quick_settings_power_off">Mati kuasa</string>
+    <string name="sec_accessibility_recent">Terkini</string>
+    <string name="sec_battery_discharging_duration">Anggaran hayat bateri: %s</string>
+    <string name="sec_battery_history_days_no_hours">%d h</string>
+    <string name="sec_battery_history_days_with_hours">%1$d h %2$d j</string>
+    <string name="sec_battery_history_hours_no_minutes">%d j</string>
+    <string name="sec_battery_history_hours_no_seconds">%1$d j %2$d m</string>
+    <string name="sec_battery_history_minutes_no_seconds">%d min</string>
+    <string name="sec_bluetooth_show_le_devices_without_names">Tunjukkan peranti BLE tanpa nama</string>
+    <string name="sec_bluetooth_show_le_devices_without_names_summary">Peranti Tenaga Rendah Bluetooth yang tiada nama (alamat MAC sahaja) akan ditunjukkan.</string>
+    <string name="sec_brightness_eye_strain_dialog_message">Menggunakan kecerahan tinggi untuk tempoh panjang meningkatkan penggunaan bateri.</string>
+    <string name="sec_brightness_slider_hbm_text">Dimaksimumkan untuk pandangan terbaik dalam cahaya terang</string>
+    <string name="sec_data_usage_disabled_dialog_body">Penggunaan data mudah alih telah dijeda kerana anda telah mencapai had yang anda tetapkan.</string>
+    <string name="sec_data_usage_disabled_dialog_body_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="sec_data_usage_disabled_dialog_enable">Teruskan</string>
+    <string name="sec_data_usage_disabled_dialog_enable_vzw">Turn on data</string>
+    <string name="sec_data_usage_disabled_dialog_keep_off">Kekal mati</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title">Teruskan menggunakan data mudah alih?</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title_vzw">Mobile data is now off</string>
+    <string name="sec_data_usage_disabled_dialog_turn_off">Matikan</string>
+    <string name="sec_default_app">Tetapkan sebagai lalai</string>
+    <string name="sec_device_info_copied">Disalin ke papan klip.</string>
+    <string name="sec_more_button_menu_contact_us">Hubungi kami</string>
+    <string name="sec_more_button_menu_edit">Tertib butang</string>
+    <string name="sec_more_button_menu_noti_settings">Bar status</string>
+    <string name="sec_more_button_menu_qspanel_layout">Reka letak panel cepat</string>
+    <string name="sec_no_default_app">Tiada apapun yang ditetapkan sebagai lalai</string>
+    <string name="sec_qs_edit_panel_reset_dialog_message">Tetap semula butang anda kepada susunan lalai?</string>
+    <string name="sec_qs_unable_remove_minimum">Tidak dapat mengalih keluar butang. Panel cepat memerlukan sekurang-kurangnya %d butang.</string>
+    <string name="sec_qspanel_brightness_disabled_toast_message">Tidak dapat mengubah kecerahan kerana aplikasi lain sedang mengawalnya.</string>
+    <string name="sec_qspanel_layout_detail_title">Reka letak panel cepat</string>
+    <string name="sec_quick_settings_details">Butiran</string>
+    <string name="sec_quick_settings_finder_disabled">Tidak dapat memulakan carian. Cuba lagi kemudian.</string>
+    <string name="sec_quick_settings_flashlight_label">Lampu</string>
+    <string name="sec_quick_settings_rotation_locked_landscape_label">Landskap</string>
+    <string name="sec_quick_settings_rotation_locked_portrait_label">Potret</string>
+    <string name="sec_quick_settings_rotation_unlocked_label">"Auto
+putar"</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_button">Sila lihat</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_text">Gunakan pintasan papan kekunci untuk Utama, Kembali dan banyak lagi.</string>
+    <string name="sec_samsung_cloud_title">Samsung Cloud</string>
+    <string name="sec_video_call_title">Pgln video</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title">Auto Hotspot</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title_jpn">Auto penambatan Wi-Fi</string>
+    <string name="select_private_dns_configuration_dialog_title">DNS Peribadi</string>
+    <string name="select_private_dns_configuration_title">DNS Peribadi</string>
+    <string name="sesl_action_bar_up_description">Pandu arah ke atas</string>
+    <string name="sesl_action_menu_overflow_badge_description">Kandungan baru tersedia</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">B</string>
+    <string name="sesl_action_menu_overflow_description">Lbh byk pilihan</string>
+    <string name="sesl_preferencecategory_added_title">Pengepala</string>
+    <string name="sesl_search_hint">Cari</string>
+    <string name="sesl_searchview_description_clear">Kosongkan medan carian</string>
+    <string name="sesl_searchview_description_query">Carian pertanyaan</string>
+    <string name="sesl_searchview_description_search">Cari</string>
+    <string name="sesl_searchview_description_submit">Serah pertanyaan</string>
+    <string name="sesl_searchview_description_voice">Carian suara</string>
+    <string name="sesl_switch_off">Mati</string>
+    <string name="sesl_switch_on">Hidup</string>
+    <string name="sim_card_tray_empty_water_protection_dialog_body">Untuk melindungi daripada kerosakan air, pastikan bekas kad SIM dikedapkan.</string>
+    <string name="sim_card_tray_water_protection_dialog_body">"Tiada kad SIM dikesan. Anda tidak akan dapat membuat panggilan, menghantar mesej atau menggunakan data mudah alih.
+
+Untuk melindungi daripada kerosakan air, pastikan bekas kad SIM/SD dikedapkan dengan ketat."</string>
+    <string name="sim_card_tray_water_protection_dialog_title">Semak bekas kad SIM</string>
+    <string name="sim_sd_card_tray_empty_water_protection_dialog_body">Untuk melindungi daripada kerosakan air, pastikan bekas kad SIM/SD dikedapkan.</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_body">"Tidak dapat mengesan kad SIM. Peranti anda tidak akan dapat melaksanakan tindakan seperti membuat panggilan dan menyambung ke rangkaian mudah alih.
+
+Untuk melindungi daripada kerosakan air, pastikan bekas kad SIM/SD dikedapkan."</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_title">Semak bekas kad SIM/SD</string>
+    <string name="smart_tethering_ap_connected_summary">Disambungkan</string>
+    <string name="smart_tethering_ap_connecting_summary">Menyambung…</string>
+    <string name="smart_tethering_ap_connection_failed_summary">Sambungan tamat masa</string>
+    <string name="smart_tethering_ap_low_battery_summary">Bateri lemah</string>
+    <string name="snooze_icon_description">Pemberitahuan tidur sekejap</string>
+    <string name="snooze_notification_guide_text">Tunjukkan pemberitahuan ini dalam:</string>
+    <string name="snooze_title">Pemberitahuan tidur sekejap</string>
+    <string name="speed_label_fast">Pantas</string>
+    <string name="speed_label_very_fast">Sangat pantas</string>
+    <string name="status_bar_airplane">Mod penerbangan</string>
+    <string name="status_bar_high_performance_mode_description">Mod prestasi tinggi telah dihidupkan.</string>
+    <string name="status_bar_maximum_power_saving_description">Mod penjimatan kuasa maksimum dihidupkan</string>
+    <string name="status_bar_power_saving_description">Mod penjimatan kuasa dihidupkan</string>
+    <string name="status_icon_alarm">Penggera</string>
+    <string name="status_unavailable">Tidak tersedia</string>
+    <string name="str_smart_pop_up_view_description">"Pilih aplikasi yang boleh menghantar pemberitahuan yang boleh diketik untuk dikembangkan dalam pandangan pop timbul.
+
+Ini hanya tersedia untuk aplikasi yang menyokong Berbilang tetingkap."</string>
+    <string name="str_smart_pop_up_view_description_at_setting">Terima pemberitahuan sebagai ikon yang boleh diketik dan dikembangkan dalam pandangan pop timbul.</string>
+    <string name="str_smart_pop_up_view_name">Pandangan pop timbul pintar</string>
+    <string name="str_smart_pop_up_view_name_at_setting">Pandangan pop timbul pintar</string>
+    <string name="str_suggested_app">Aplikasi yang dicadangkan</string>
+    <string name="suggestion_to_minimize">Ingin pemberitahuan ini diminimumkan?</string>
+    <string name="switch_bar_off">Mati</string>
+    <string name="switch_bar_on">Hidup</string>
+    <string name="switched_to_onephone_mode">Mod beralih kepada mod Satu nombor.</string>
+    <string name="switched_to_twophone_mode">Mod ditukar kepada mod Dua nombor.</string>
+    <string name="sysui_in_app_search_app_name">Panel cepat</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tether_settings_title_all">Mobile Hotspot dan Penambatan</string>
+    <string name="time_format_hour">%d jam</string>
+    <string name="time_format_hour_minute">%1$d j %2$d m</string>
+    <string name="time_format_minute">%d min</string>
+    <string name="to_use_this_function_download_ps">Untuk menggunakan fungsi ini, muat turun %s.</string>
+    <string name="to_use_this_function_download_the_following_application">"Untuk menggunakan fungsi ini, muat turun aplikasi yang berikut:
+
+%s"</string>
+    <string name="tts_default_lang_title">Bahasa</string>
+    <string name="tts_default_pitch_title">Nada</string>
+    <string name="tts_default_rate_title">Kadar ucapan</string>
+    <string name="tts_lang_use_system">Gunakan bahasa sistem</string>
+    <string name="tts_settings">Teks-ke-ucapan</string>
+    <string name="tts_settings_title">Teks-ke-ucapan</string>
+    <string name="tw_safe_media_volume_warning">Mendengar pada kelantangan tinggi untuk jangka masa yang panjang boleh merosakkan pendengaran anda. Ketik OK untuk membenarkan kelantangan dinaikkan melebihi paras selamat.</string>
+    <string name="unable_to_capture_screen_emergencymode">Tidak dapat menangkap skrin semasa dalam Mod kecemasan.</string>
+    <string name="unable_to_capture_screen_ultrapowersaving_mode">Tidak dapat menangkap tangkapan skrin.</string>
+    <string name="unable_to_open_ps_in_emergency_mode">Tidak dapat membuka %s dalam Mod kecemasan.</string>
+    <string name="unable_to_open_ps_in_mpsm">Tidak dapat membuka %s dalam Mod penjimatan kuasa maksimum.</string>
+    <string name="unable_to_open_ps_in_upsm">Tidak dapat membuka %s dalam Mod jimat kuasa ultra.</string>
+    <string name="unable_to_turn_on_being_used_by_camera">Tidak dapat menghidupkan lampu suluh kerana lampu sedang digunakan oleh aplikasi lain.</string>
+    <string name="unintentional_lcd_on_alert_title">Perlindungan sentuhan secara tidak sengaja</string>
+    <string name="unintentional_lcd_on_alert_window_body">Telefon anda sedang dilindungi daripada sentuhan secara tidak sengaja.</string>
+    <string name="unintentional_lcd_on_alert_window_body2">Pastikan permukaan telefon anda bersih untuk mengelakkan masalah ini berlaku.</string>
+    <string name="unintentional_lcd_on_alert_window_body2_tablet">Pastikan permukaan tablet anda bersih untuk mengelakkan masalah ini berlaku.</string>
+    <string name="unintentional_lcd_on_alert_window_body_drag_to_unlock">Seret ikon Kunci untuk membuka kunci</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity">Telefon anda dilindungi daripada sentuhan secara tidak sengaja apabila diletakkan berada di tempat yang gelap, seperti poket atau beg.</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity_tablet">Tablet anda dilindungi daripada sentuhan secara tidak sengaja apabila diletakkan berada di tempat yang gelap, seperti poket atau beg.</string>
+    <string name="unintentional_lcd_on_alert_window_body_tablet">Tablet anda sedang dilindungi daripada sentuhan secara tidak sengaja.</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="unlock_workwindow_appname">Ketik sini untuk membuka kunci %s.</string>
+    <string name="usb_damage_protection_alert_body1">Berhati-hati kerana palam kabel mungkin panas.</string>
+    <string name="usb_damage_protection_alert_body2_phone">Pengecasan telah berhenti kerana telefon anda terlampau panas. Selepas menyahsambung, semak kedua-dua kabel dan port pengecasan sama ada terdapat apa-apa yang mungkin menyekat sambungan. Kemudian, anda boleh menyambung semula kabel untuk menyemak sama ada telefon anda mengecas secara normal. Jika masalah berterusan, lawati lokasi Perkhidmatan Pelanggan Samsung.</string>
+    <string name="usb_damage_protection_alert_body2_tablet">Pengecasan telah berhenti kerana tablet anda terlampau panas. Selepas menyahsambung, semak kedua-dua kabel dan port pengecasan sama ada terdapat apa-apa yang mungkin menyekat sambungan. Kemudian, anda boleh menyambung semula kabel untuk menyemak sama ada tablet anda mengecas secara normal. Jika masalah berterusan, lawati lokasi Perkhidmatan Pelanggan Samsung.</string>
+    <string name="usb_damage_protection_alert_title">Nyahsambung kabel kuasa</string>
+    <string name="user_guest">Tetamu</string>
+    <string name="volume_alarm">Kelantangan penggera</string>
+    <string name="volume_amplify_ambient_sound_title">Kuatkan bunyi sekeliling</string>
+    <string name="volume_icon_content_description_ringtone_to_mute">Tetapkan mod bunyi kepada bisu</string>
+    <string name="volume_icon_content_description_ringtone_to_sound">Tetapkan mod bunyi kepada bunyi</string>
+    <string name="volume_icon_content_description_ringtone_to_vib">Tetapkan mod bunyi kepada getaran</string>
+    <string name="volume_icon_content_description_to_mute">Bisukan kelantangan %s</string>
+    <string name="volume_icon_content_description_to_unmute">Nyahbisukan kelantangan %s</string>
+    <string name="volume_icon_description_incall">Kelantangan semasa panggilan</string>
+    <string name="volume_limiter_button_settings">Aturan</string>
+    <string name="volume_limiter_notice_toast">Untuk meningkatkan kelantangan, pergi ke Aturan, kemudian matikan Had kelantangan media atau ubah had kelantangan anda.</string>
+    <string name="volume_limiter_open_cover_toast">Buka penutup untuk teruskan.</string>
+    <string name="volume_limiter_toast_title">Had kelantangan dicapai</string>
+    <string name="volume_mute_all_sounds_on">Bisukan semua bunyi dihidupkan</string>
+    <string name="volume_panel_view_title">Kelantangan</string>
+    <string name="volume_use_your_phone_volume_smart_view">Guna kekunci Kelantangan telefon anda untuk mengawal kelantangan pada %s.</string>
+    <string name="volume_zen_mode_on">Jangan ganggu dihidupkan</string>
+    <string name="volumepanel_bixby_voice">Bixby Voice</string>
+    <string name="volumepanel_media">Media</string>
+    <string name="volumepanel_notification">Pemberitahuan</string>
+    <string name="volumepanel_ringtone">Nada dering</string>
+    <string name="volumepanel_system">Sistem</string>
+    <string name="warning_alert_check">Jgn tunjukkan lagi</string>
+    <string name="water_protection_notification_body">Kelembapan telah dikesan. Cabut palam pengecas dan tunggu sehingga kedua-dua pengecas dan port USB kering.</string>
+    <string name="water_protection_notification_title">Cabut palam pengecas</string>
+    <string name="wifi_adps_summary">Kurangkan penggunaan bateri dengan menganalisis corak trafik Wi-Fi.</string>
+    <string name="wifi_adps_title">Mod penjimatan kuasa Wi-Fi</string>
+    <string name="wifi_auto_reconnect_disabled">Auto sambung semula dimatikan</string>
+    <string name="wifi_connected_checking_quality">Menyemak kualiti sambungan Internet anda…</string>
+    <string name="wifi_disabled_captive_portal">Log masuk diperlukan.</string>
+    <string name="wifi_disabled_no_internet">Internet tidak tersedia</string>
+    <string name="wifi_disabled_password_failure">Ralat pengesahan berlaku</string>
+    <string name="wifi_failed_connect_message">Gagal menyambung ke rangkaian.</string>
+    <string name="wifi_failed_to_obtain_IP">Gagal utk mendptkan alamat IP.</string>
+    <string name="wifi_internet_may_not_be_available">Disambungkan tanpa Internet</string>
+    <string name="wifi_open_network_summary">Tidak dilindungi</string>
+    <string name="wifi_preference_details">Aturan</string>
+    <string name="wifi_reconnecting">Bersedia untuk disambungkan apabila kualiti rangkaian meningkat</string>
+    <string name="wifi_risk_ap_warning">Tidak dilindungi</string>
+    <string name="wifi_safe_mode">Mod selamat Wi-Fi</string>
+    <string name="wifi_safe_mode_summary">Utamakan kestabilan Wi-Fi daripada prestasi.</string>
+    <string name="wifi_scan_throttling">Pendikitan imbas Wi-Fi</string>
+    <string name="wifi_scan_throttling_summary">Menjimatkan bateri dan meningkatkan prestasi rangkaian.</string>
+    <string name="wifi_secured_summary">Dilindungi. Ketik butang Pengesanan keselamatan untuk melihat butiran maklumat keselamatan.</string>
+    <string name="wifi_security_detection">Pengesanan keselamatan</string>
+    <string name="wifi_sign_in_to_the_network">Log masuk ke rangkaian.</string>
+    <string name="wifi_tips_ap_guide_connection_blocked">Sambungan disekat</string>
+    <string name="wifi_tips_ap_guide_couldnt_authenticate_connection">Tidak dapat mengesahkan sambungan</string>
+    <string name="wifi_tips_ap_guide_couldnt_get_ip_address">Tidak dapat mendapatkan alamat IP</string>
+    <string name="wifi_tips_ap_guide_incorrect_password">Kata laluan salah</string>
+    <string name="wifi_tips_ap_guide_keeps_disconnecting">Wi-Fi kerap dinyahsambung</string>
+    <string name="wifi_unknown_secured_ap">Jenis keselamatan tidak diketahui. Anda tidak boleh sambung kepada titik capaian ini.</string>
+    <string name="wifi_unknown_security_type">Jenis keselamatan tdk diketahui.</string>
+    <string name="wifi_unsecured_summary">Tidak dilindungi. Ketik butang Pengesanan keselamatan untuk melihat butiran maklumat keselamatan.</string>
+    <string name="yes">OK</string>
+    <string name="zen_mode_duration_settings_title">Tempoh</string>
+    <string name="zen_mode_forever">Sehingga saya mematikannya</string>
+</resources>

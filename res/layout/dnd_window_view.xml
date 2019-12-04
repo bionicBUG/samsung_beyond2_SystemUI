@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.dnd.drag.DragAndDropView android:id="@id/dragarea_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hapticFeedbackEnabled="true" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/drag_target_dim" android:background="#99000000" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/drag_target" android:background="#fffafafa" android:layout_width="wrap_content" android:layout_height="wrap_content" android:translationZ="20.0dip" android:outlineProvider="bounds">
+        <include android:id="@id/drag_target_handler" layout="@null" />
+        <ImageView android:layout_gravity="center" android:id="@id/drag_target_image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</com.android.systemui.dnd.drag.DragAndDropView>

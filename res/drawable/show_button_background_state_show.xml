@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/notification_panel_theme_ripple_color_revert"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset android:insetLeft="@dimen/noti_setting_and_clear_show_button_bg_inset" android:insetRight="@dimen/noti_setting_and_clear_show_button_bg_inset" android:insetTop="@dimen/noti_setting_and_clear_show_button_bg_inset" android:insetBottom="@dimen/noti_setting_and_clear_show_button_bg_inset">
+            <shape android:shape="rectangle">
+                <corners android:radius="3.0dip" />
+                <solid android:color="@color/show_button_background_color" />
+                <padding android:left="@dimen/carrier_and_clear_side_padding" android:top="@dimen/carrier_and_clear_top_padding" android:right="@dimen/carrier_and_clear_side_padding" android:bottom="@dimen/carrier_and_clear_bottom_padding" />
+            </shape>
+        </inset>
+    </item>
+</ripple>

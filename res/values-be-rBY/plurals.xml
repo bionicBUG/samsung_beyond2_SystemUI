@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Сігнал праз %d дзён</item>
+        <item quantity="one">Сігнал праз %d дзень</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Сігнал праз %d гадзін</item>
+        <item quantity="one">Сігнал праз %d гадзіну</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Сігнал праз %d хвілін</item>
+        <item quantity="one">Сігнал праз %d хвіліну</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Засталося %d спроб.</item>
+        <item quantity="one">Засталася %d спроба.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(Засталося спроб: %d)</item>
+        <item quantity="one">(Засталася 1 спроба)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Зроблена некалькі (%1$d) спроб разблакіроўкі гэтага тэлефона. Паўтарыце спробу праз %2$d гадз.</item>
+        <item quantity="one">Зроблена некалькі (%d) спроб разблакіроўкі гэтага тэлефона. Паўтарыце спробу праз 1 гадзіну.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Зроблена некалькі (%1$d) спроб разблакіроўкі гэтага тэлефона. Паўтарыце спробу праз %2$d хв.</item>
+        <item quantity="one">Зроблена некалькі (%d) спроб разблакіроўкі гэтага тэлефона. Паўтарыце спробу праз 1 хвіліну.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Зроблена %1$d спроб(ы) разблакіроўкі гэтага тэлефона. Паўтарыце спробу праз %2$d с.</item>
+        <item quantity="one">Зроблена %d спроб(ы) разблакіроўкі гэтага тэлефона. Паўтарыце спробу праз 1 секунду.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Паспрабуйце выкарыстаць сваю біяметрычную інфармацыю яшчэ раз праз %d секунд</item>
+        <item quantity="one">Паспрабуйце выкарыстаць сваю біяметр. інфармацыю яшчэ раз праз %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Паўтарыце спробу распазнавання твару праз %d секунд</item>
+        <item quantity="one">Паўтарыце спробу распазнавання твару праз %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Паспрабуйце выкарыстаць свой адбітак пальца яшчэ раз праз %d секунд</item>
+        <item quantity="one">Паспрабуйце выкарыстаць свой адбітак пальца яшчэ раз праз %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Паўтарыце спробу Intelligent Scan праз %d секунд</item>
+        <item quantity="one">Паўтарыце спробу Intelligent Scan праз %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Паўтарыце спробу распазнавання вясёлкавых абалонак праз %d секунд</item>
+        <item quantity="one">Паўтарыце спробу распазнавання вясёлкавых абалонак праз %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Паўтарыце спробу праз %d хвілін(-ы)</item>
+        <item quantity="one">Паўтарыце спробу праз %d хвіліну(ы)</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Паўтарыце спробу праз %d секунд(-ы)</item>
+        <item quantity="one">Паўтарыце спробу праз %d секунду(ы)</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Колькасць няўдалых спроб праверыць біяметрычную інфармацыю: %1$d. Паўтарыце спробу праз %2$d секунд(ы).</item>
+        <item quantity="one">Колькасць няўдалых спроб праверыць біяметрычную інфармацыю: %1$d. Паўтарыце спробу праз %2$d с.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Няўдалых спроб праверыць твар: %1$d. Паўтарыце спробу праз %2$d секунд(ы).</item>
+        <item quantity="one">Няўдалых спроб праверыць твар: %1$d. Паўтарыце спробу праз %2$d секунду.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Колькасць няўдалых спроб праверыць адбіткі пальцаў: %1$d. Паўтарыце спробу праз %2$d секунд(ы).</item>
+        <item quantity="one">Колькасць няўдалых спроб праверыць адбіткі пальцаў: %1$d. Паўтарыце спробу праз %2$d с.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Няўдалых спроб праверыць Intelligent Scan: %1$d. Паўтарыце спробу праз %2$d секунд(ы).</item>
+        <item quantity="one">Няўдалых спроб праверыць з дапамогай Intelligent Scan: %1$d. Паўтарыце спробу праз %2$d секунду.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Няўдалых спроб праверыць вясёлкавыя абалонкі: %1$d. Паўтарыце спробу праз %2$d секунд(ы).</item>
+        <item quantity="one">Няўдалых спроб праверыць вясёлкавыя абалонкі: %1$d. Паўтарыце спробу праз %2$d секунду.</item>
+    </plurals>
+</resources>

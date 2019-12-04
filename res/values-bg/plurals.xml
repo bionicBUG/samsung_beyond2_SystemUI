@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Преди %d дни</item>
+        <item quantity="one">Преди %d ден</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Преди %d мин</item>
+        <item quantity="one">Преди %d мин</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Преди %d год</item>
+        <item quantity="one">Преди %d год</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Аларма след %d дни</item>
+        <item quantity="one">Аларма след %d ден</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Аларма след %d часа</item>
+        <item quantity="one">Аларма след %d час</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Аларма след %d минути</item>
+        <item quantity="one">Аларма след %d минута</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Остават %d опита.</item>
+        <item quantity="one">Остава %d опит.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d оставащи опита)</item>
+        <item quantity="one">(1 оставащ опит)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Извършени са %1$d опита за отключване на този телефон. Опитайте отново след %2$d часа.</item>
+        <item quantity="one">Извършени са %d опита за отключване на този телефон. Опитайте отново след 1 час.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Извършени са %1$d опита за отключване на този телефон. Опитайте отново след %2$d минути.</item>
+        <item quantity="one">Извършени са %d опита за отключване на този телефон. Опитайте отново след 1 минута.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Извършени са %1$d опита за отключване на този телефон. Опитайте отново след %2$d секунди.</item>
+        <item quantity="one">Извършени са %d опита за отключване на този телефон. Опитайте отново след 1 секунда.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Въведете ПИН кода за SIM картата – остават ви %d опита.</item>
+        <item quantity="one">Въведете ПИН кода за SIM картата – остава ви %d опит, преди да се наложи да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM картата вече е деактивирана. Въведете PUK кода, за да продължите. Остават ви %d опита, преди SIM картата да стане неизползваема завинаги. Свържете се с оператора за подробности.</item>
+        <item quantity="one">SIM картата вече е деактивирана. Въведете PUK кода, за да продължите. Остава ви %d опит, преди SIM картата да стане неизползваема завинаги. Свържете се с оператора за подробности.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправилен ПИН код за SIM картата – остават ви %d опита.</item>
+        <item quantity="one">Неправилен ПИН код за SIM картата – остава ви %d опит, преди да трябва да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неправилен PUK код за SIM картата – остават ви %d опита, преди тя да стане неизползваема завинаги.</item>
+        <item quantity="one">Неправилен PUK код за SIM картата – остава ви %d опит, преди тя да стане неизползваема завинаги.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Устройството не е отключвано от %d часа. Потвърдете паролата.</item>
+        <item quantity="one">Устройството не е отключвано от %d час. Потвърдете паролата.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Устройството не е отключвано от %d часа. Потвърдете фигурата.</item>
+        <item quantity="one">Устройството не е отключвано от %d час. Потвърдете фигурата.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Устройството не е отключвано от %d часа. Потвърдете ПИН кода.</item>
+        <item quantity="one">Устройството не е отключвано от %d час. Потвърдете ПИН кода.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Опитайте отново след %d секунди.</item>
+        <item quantity="one">Опитайте отново след 1 секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Опитайте биометричните характеристики отново след %d секунди</item>
+        <item quantity="one">Опитайте биометричните характеристики отново след %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Изпробвайте разпознаването на лице след %d секунди</item>
+        <item quantity="one">Изпробвайте разпознаването на лице след %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Опитайте пръстовия отпечатък отново след %d секунди</item>
+        <item quantity="one">Опитайте пръстовия отпечатък отново след %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Изпробвайте „Интелигентно сканиране“ след %d секунди</item>
+        <item quantity="one">Изпробвайте „Интелигентно сканиране“ след %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Изпробвайте разпознаването на ирис след %d секунди</item>
+        <item quantity="one">Изпробвайте разпознаването на ирис след %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Опитайте пак след %d минути</item>
+        <item quantity="one">Опитайте отново след %d минута</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Опитайте пак след %d секунди</item>
+        <item quantity="one">Опитайте отново след %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d неправилни опита за потвърждаване на биометричните данни. Опитайте отново след %2$d секунди.</item>
+        <item quantity="one">%1$d неправилни опита за потвърждаване на биометричните данни. Опитайте отново след %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d неправилни опита за потвърждаване на лицето ви. Опитайте отново след %2$d секунди.</item>
+        <item quantity="one">%1$d неправилни опита за потвърждаване на лицето ви. Опитайте отново след %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d неправилни опита за потвърждаване на пръстовите отпечатъци. Опитайте отново след %2$d секунди.</item>
+        <item quantity="one">%1$d неправилни опита за потвърждаване на пръстовите отпечатъци. Опитайте отново след %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d неправилни опита за потвърждаване на „Интелигентно сканиране“. Опитайте отново след %2$d секунди.</item>
+        <item quantity="one">%1$d неправилни опита за потвърждаване на „Интелигентно сканиране“. Опитайте отново след %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d неправилни опита за потвърждаване на ирисите ви. Опитайте отново след %2$d секунди.</item>
+        <item quantity="one">%1$d неправилни опита за потвърждаване на ирисите ви. Опитайте отново след %2$d секунда.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Съдържа още %s известия.</item>
+        <item quantity="one">Съдържа още %s известие.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d устройства</item>
+        <item quantity="one">%d устройство</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Можете да добавите до %d потребители.</item>
+        <item quantity="one">Може да бъде създаден само един потребител.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d устройства са свързани</item>
+        <item quantity="one">%1$d устройство е свързано</item>
+    </plurals>
+</resources>

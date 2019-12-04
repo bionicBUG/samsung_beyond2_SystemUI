@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d dk. önce</item>
+        <item quantity="one">%d dk. önce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yıl önce</item>
+        <item quantity="one">%d yıl önce</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm %d gün sonra</item>
+        <item quantity="one">Alarm %d gün sonra</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm %d saat sonra</item>
+        <item quantity="one">Alarm %d saat sonra</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm %d dakika sonra</item>
+        <item quantity="one">Alarm %d dakika sonra</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d deneme hakkı kaldı.</item>
+        <item quantity="one">%d deneme hakkı kaldı.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d deneme hakkı kaldı)</item>
+        <item quantity="one">(1 deneme hakkı kaldı)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Bu telefonun kilidini açmak için %1$d deneme yapıldı. %2$d saat içinde tekrar deneyin.</item>
+        <item quantity="one">Bu telefonun kilidini açmak için %d deneme yapıldı. 1 saat içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Bu telefonun kilidini açmak için %1$d deneme yapıldı. %2$d dakika içinde tekrar deneyin.</item>
+        <item quantity="one">Bu telefonun kilidini açmak için %d deneme yapıldı. 1 dakika içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Bu telefonun kilidini açmak için %1$d deneme yapıldı. %2$d saniye içinde tekrar deneyin.</item>
+        <item quantity="one">Bu telefonun kilidini açmak için %d deneme yapıldı. 1 saniye içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">"SIM PIN'inizi girin. %d deneme hakkınız kaldı."</item>
+        <item quantity="one">"SIM PIN'inizi girin. Cihazınızın kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı."</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM artık devre dışı. Devam etmek için PUK kodunu girin. SIM kalıcı olarak kullanım dışı kalmadan önce %d deneme hakkınız kaldı. Ayrıntılı bilgi için operatörünüzle iletişim kurun.</item>
+        <item quantity="one">SIM artık devre dışı. Devam etmek için PUK kodunu girin. SIM kalıcı olarak kullanım dışı kalmadan önce %d deneme hakkınız kaldı. Ayrıntılı bilgi için operatörünüzle iletişim kurun.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış SIM PIN kodu. Cihazının kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Yanlış SIM PUK kodu, SIM kalıcı olarak kullanılmaz hale gelmeden önce %d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış SIM PUK kodu. SIM kalıcı olarak kullanılmaz hale gelmeden önce %d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Cihazın kilidi son %d saattir açılmadı. Şifreyi doğrulayın.</item>
+        <item quantity="one">Cihazın kilidi son %d saattir açılmadı. Şifreyi doğrulayın.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Cihazın kilidi son %d saattir açılmadı. Deseni doğrulayın.</item>
+        <item quantity="one">Cihazın kilidi son %d saattir açılmadı. Deseni doğrulayın.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Cihazın kilidi son %d saattir açılmadı. PIN'i doğrulayın."</item>
+        <item quantity="one">"Cihazın kilidi son %d saattir açılmadı. PIN'i doğrulayın."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d saniye içinde tekrar deneyin.</item>
+        <item quantity="one">1 saniye içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Biyometrik verilerinizi %d saniye içinde tekrar deneyin</item>
+        <item quantity="one">Biyometrik verilerinizi %d saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Yüz tanımayı %d saniye içinde tekrar deneyin</item>
+        <item quantity="one">Yüz tanımayı %d saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Parmak izinizi %d saniye içinde tekrar deneyin</item>
+        <item quantity="one">Parmak izinizi %d saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Akıllı taramayı %d saniye içinde tekrar deneyin</item>
+        <item quantity="one">Akıllı taramayı %d saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">İris tanımayı %d saniye içinde tekrar deneyin</item>
+        <item quantity="one">İris tanımayı %d saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d dakika sonra tekrar deneyin</item>
+        <item quantity="one">%d dakika sonra tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d saniye sonra tekrar deneyin</item>
+        <item quantity="one">%d saniye sonra tekrar deneyin</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Biyometrik verileri doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye sonra tekrar deneyin.</item>
+        <item quantity="one">Biyometrik verileri doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Yüzünüzü doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye içinde tekrar deneyin.</item>
+        <item quantity="one">Yüzünüzü doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Parmak izlerini doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye sonra tekrar deneyin.</item>
+        <item quantity="one">Parmak izlerini doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">"Akıllı tarama'yı doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye içinde tekrar deneyin."</item>
+        <item quantity="one">Akıllı taramayı doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">İrislerinizi doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye içinde tekrar deneyin.</item>
+        <item quantity="one">İrislerinizi doğrulamak için %1$d hatalı deneme yapıldı. %2$d saniye içinde tekrar deneyin.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Grup içinde %s bildirim daha var.</item>
+        <item quantity="one">Grup içinde %s bildirim daha var.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d cihaz</item>
+        <item quantity="one">%d cihaz</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">En fazla %d kullanıcı ekleyebilirsiniz.</item>
+        <item quantity="one">Yalnızca bir kullanıcı oluşturulabilir.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlı</item>
+        <item quantity="one">%1$d cihaz bağlı</item>
+    </plurals>
+</resources>

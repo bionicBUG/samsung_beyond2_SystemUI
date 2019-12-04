@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="battery_detail_graph_space_bottom">9.0dip</dimen>
+    <dimen name="battery_detail_graph_space_top">9.0dip</dimen>
+    <dimen name="brightness_mirror_height">40.0dip</dimen>
+    <dimen name="docked_divider_handle_height">16.0dip</dimen>
+    <dimen name="docked_divider_handle_width">2.25dip</dimen>
+    <item type="dimen" name="facewidget_big_view_no_contents_side_margin_ratio">0.0</item>
+    <item type="dimen" name="facewidget_bottom_margin_ratio">@dimen/servicebox_bottom_margin_ratio_land</item>
+    <dimen name="facewidget_card_notifications_margin">3.0dip</dimen>
+    <dimen name="facewidget_icon_notifications_margin">3.0dip</dimen>
+    <item type="dimen" name="facewidget_music_big_appinfo_top_padding_tablet">@dimen/facewidget_music_big_appinfo_top_padding_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_app_name_big_text_size_tablet">@dimen/facewidget_music_page_app_name_big_text_size_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_artist_big_text_size_tablet">@dimen/facewidget_music_page_artist_big_text_size_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_big_artist_text_size_tablet">@dimen/facewidget_music_page_big_artist_text_size_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_big_music_btn_top_space_height_tablet">@dimen/facewidget_music_page_big_music_btn_top_space_height_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_big_music_info_bottom_space_height_tablet">@dimen/facewidget_music_page_big_music_info_bottom_space_height_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_btn_saparator_padding_tablet">@dimen/facewidget_music_page_btn_saparator_padding_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_btn_touch_area_size_tablet">@dimen/facewidget_music_page_btn_touch_area_size_tablet_land</item>
+    <item type="dimen" name="facewidget_music_page_play_pause_btn_size_tablet">@dimen/facewidget_music_page_play_pause_btn_size_tablet_land</item>
+    <item type="dimen" name="facewidget_music_view_lyrics_btn_margin_tablet">@dimen/facewidget_music_view_lyrics_btn_margin_tablet_land</item>
+    <item type="dimen" name="facewidget_music_view_lyrics_line_space_tablet">@dimen/facewidget_music_view_lyrics_line_space_tablet_land</item>
+    <item type="dimen" name="facewidget_music_view_lyrics_size_tablet">@dimen/facewidget_music_view_lyrics_size_tablet_land</item>
+    <dimen name="facewidget_navigation_bar_size">0.0dip</dimen>
+    <dimen name="facewidget_today_holder_width">362.0dip</dimen>
+    <dimen name="facewidget_typo_notifications_margin">3.0dip</dimen>
+    <dimen name="keyguard_bottom_area_emergency_button_area_min_height_tablet">30.0dip</dimen>
+    <dimen name="kg_emergency_carrier_button_font_size_tablet">13.0sp</dimen>
+    <dimen name="kg_message_area_font_size_tablet">14.0dip</dimen>
+    <dimen name="kg_message_area_width_tablet">504.0dip</dimen>
+    <dimen name="kg_password_eca_margin_bottom_tablet">10.0dip</dimen>
+    <dimen name="kg_pattern_eca_margin_bottom_tablet">10.0dip</dimen>
+    <dimen name="kg_pattern_lock_pattern_view_height_tablet">249.0dip</dimen>
+    <dimen name="kg_pattern_lock_pattern_view_margin_bottom_tablet">5.0dip</dimen>
+    <dimen name="kg_pattern_lock_pattern_view_width_tablet">249.0dip</dimen>
+    <dimen name="kg_pin_container_height_tablet">202.0dip</dimen>
+    <dimen name="kg_pin_container_margin_bottom_tablet">10.0dip</dimen>
+    <dimen name="kg_pin_container_width_tablet">296.0dip</dimen>
+    <dimen name="kg_pin_eca_margin_bottom_tablet">10.0dip</dimen>
+    <dimen name="kg_pin_klondike_font_size_tablet">9.0dip</dimen>
+    <dimen name="kg_pin_message_area_margin_bottom_tablet">10.0dip</dimen>
+    <dimen name="kg_pin_num_pad_font_size_tablet">26.0dip</dimen>
+    <dimen name="kg_pin_ok_button_font_size_tablet">20.0dip</dimen>
+    <dimen name="kg_security_input_box_height_tablet">38.0dip</dimen>
+    <dimen name="kg_security_input_box_margin_top_tablet">10.0dip</dimen>
+    <dimen name="kg_security_input_box_padding_right_tablet">50.0dip</dimen>
+    <dimen name="kg_security_password_input_box_margin_bottom_tablet">10.0dip</dimen>
+    <dimen name="kg_security_pin_input_box_margin_bottom_tablet">14.0dip</dimen>
+    <dimen name="kg_sub_help_text_font_size_tablet">11.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_item_height">61.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_item_icon_size">18.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_max_height">132.0dip</dimen>
+    <item type="dimen" name="navigation_bar_size">@android:dimen/rounded_corner_radius_top</item>
+    <item type="dimen" name="notification_panel_width">@dimen/match_parent</item>
+    <dimen name="notification_preview_icon_slot_view_start_margin">65.5dip</dimen>
+    <dimen name="qs_detail_margin_top">0.0dip</dimen>
+    <dimen name="qs_footer_height">46.0dip</dimen>
+    <dimen name="qs_handler_height">15.0dip</dimen>
+    <dimen name="qs_multisim_preffered_slot_bottom_margin">4.0dip</dimen>
+    <dimen name="qs_multisim_preffered_slot_top_margin">0.0dip</dimen>
+    <dimen name="qs_quick_tile_size">35.0dip</dimen>
+    <dimen name="qs_tile_icon_size">35.0dip</dimen>
+    <dimen name="qs_tile_margin_vertical">0.0dip</dimen>
+    <dimen name="qspanel_brightness_height">32.0dip</dimen>
+    <dimen name="qspanel_handler_layout_margin_bottom">0.0dip</dimen>
+    <dimen name="qspanel_media_quickcontrol_padding_top_bottom">0.0dip</dimen>
+    <dimen name="sec_qs_detail_header_bottom_margin">0.0dip</dimen>
+    <dimen name="sec_qs_panel_misc_bottom_margin">0.0dip</dimen>
+    <dimen name="sec_qs_tile_height">86.0dip</dimen>
+    <dimen name="sec_qs_tile_label_top_bottom_padding">1.0dip</dimen>
+    <item type="dimen" name="servicebox_tablet_bottom_margin_ratio">@dimen/servicebox_tablet_bottom_margin_ratio_land</item>
+    <dimen name="sesl_dialog_body_text_padding_bottom">12.0dip</dimen>
+    <dimen name="sesl_dialog_button_bar_padding_bottom">4.0dip</dimen>
+    <dimen name="sesl_dialog_title_padding_bottom">8.0dip</dimen>
+    <dimen name="sesl_dialog_title_padding_top">12.0dip</dimen>
+    <dimen name="volume_tool_tip_right_margin">136.0dip</dimen>
+    <dimen name="sec_qs_detail_header_container_height">0.0dip</dimen>
+    <dimen name="volume_tool_tip_top_margin">12.0dip</dimen>
+</resources>

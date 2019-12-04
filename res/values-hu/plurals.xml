@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">%d perce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d éve</item>
+        <item quantity="one">%d éve</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Jelzés %d nap múlva</item>
+        <item quantity="one">Jelzés %d nap múlva</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Jelzés %d óra múlva</item>
+        <item quantity="one">Jelzés %d óra múlva</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Jelzés %d perc múlva</item>
+        <item quantity="one">Jelzés %d perc múlva</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Még %d alkalommal próbálkozhat.</item>
+        <item quantity="one">Még %d alkalommal próbálkozhat.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(még %d alkalommal próbálkozhat)</item>
+        <item quantity="one">(még 1 alkalommal próbálkozhat)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">%1$d alkalommal nem sikerült feloldani a telefont. Próbálkozzon újra %2$d óra múlva.</item>
+        <item quantity="one">%d alkalommal nem sikerült feloldani a telefont. Próbálkozzon újra 1 óra múlva.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">%1$d alkalommal nem sikerült feloldani a telefont. Próbálkozzon újra %2$d perc múlva.</item>
+        <item quantity="one">%d alkalommal nem sikerült feloldani a telefont. Próbálkozzon újra 1 perc múlva.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">%1$d alkalommal nem sikerült feloldani a telefont. Próbálja újra %2$d másodperc múlva.</item>
+        <item quantity="one">%d alkalommal nem sikerült feloldani a telefont. Próbálja újra 1 másodperc múlva.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Adja meg a SIM-kártya PIN-kódját. %d próbálkozása maradt.</item>
+        <item quantity="one">Adja meg a SIM-kártya PIN-kódját. %d próbálkozása maradt. Ha elfogynak a próbálkozási lehetőségek, az eszköz feloldásához fel kell vennie a kapcsolatot szolgáltatójával.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">A SIM-kártya le van tiltva. A folytatáshoz adja meg a PUK-kódot. Még %d próbálkozása van, mielőtt végleg használhatatlanná válik a SIM-kártya. További információért forduljon a szolgáltatóhoz.</item>
+        <item quantity="one">A SIM-kártya le van tiltva. A folytatáshoz adja meg a PUK-kódot. Még %d próbálkozása van, mielőtt végleg használhatatlanná válik a SIM-kártya. További információért forduljon a szolgáltatóhoz.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Helytelen PIN-kód a SIM-kártyához. Még %d próbálkozása maradt.</item>
+        <item quantity="one">Helytelen PIN-kód a SIM-kártyához. Még %d próbálkozása maradt, az eszköz feloldásához azt követően fel kell vennie a kapcsolatot szolgáltatójával.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Helytelen PUK-kód a SIM-kártyához. Még %d próbálkozása maradt, mielőtt a SIM-kártya végleg használhatatlanná válik.</item>
+        <item quantity="one">Helytelen PUK-kód a SIM-kártyához. Még %d próbálkozása maradt, mielőtt a SIM-kártya végleg használhatatlanná válik.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Az eszköz zárolása %d órája nem lett feloldva. Erősítse meg a jelszót.</item>
+        <item quantity="one">Az eszköz zárolása %d órája nem lett feloldva. Erősítse meg a jelszót.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Az eszköz zárolása %d órája nem lett feloldva. Erősítse meg a mintát.</item>
+        <item quantity="one">Az eszköz zárolása %d órája nem lett feloldva. Erősítse meg a mintát.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Az eszköz zárolása %d órája nem lett feloldva. Erősítse meg a PIN-kódot.</item>
+        <item quantity="one">Az eszköz zárolása %d órája nem lett feloldva. Erősítse meg a PIN-kódot.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Próbálja újra %d másodperc múlva.</item>
+        <item quantity="one">Próbálja újra 1 másodperc múlva.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Próbálkozzon újra a biometrikus adatai használatával %d másodperc múlva</item>
+        <item quantity="one">Próbálkozzon újra a biometrikus adatai használatával %d másodperc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Próbálkozzon újra az arcfelismeréssel %d másodperc múlva</item>
+        <item quantity="one">Próbálkozzon újra az arcfelismeréssel %d másodperc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Próbálkozzon újra az ujjlenyomata használatával %d másodperc múlva</item>
+        <item quantity="one">Próbálkozzon újra az ujjlenyomata használatával %d másodperc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Próbálkozzon újra az Intelligens azonosítással %d másodperc múlva</item>
+        <item quantity="one">Próbálkozzon újra az Intelligens azonosítással %d másodperc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Próbálkozzon újra az íriszfelismeréssel %d másodperc múlva</item>
+        <item quantity="one">Próbálkozzon újra az íriszfelismeréssel %d másodperc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Próbálja meg %d perc múlva</item>
+        <item quantity="one">Próbálja meg %d perc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Próbálja meg %d másodperc múlva</item>
+        <item quantity="one">Próbálja meg %d másodperc múlva</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d alkalommal nem sikerült felismerni a biometrikus adatait. Próbálja újra %2$d másodperc múlva.</item>
+        <item quantity="one">%1$d alkalommal nem sikerült felismerni a biometrikus adatait. Próbálja újra %2$d másodperc múlva.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d alkalommal nem sikerült felismerni az arcát. Próbálja újra %2$d másodperc múlva.</item>
+        <item quantity="one">%1$d alkalommal nem sikerült felismerni az arcát. Próbálja újra %2$d másodperc múlva.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d alkalommal nem sikerült felismerni az ujjlenyomatát. Próbálja újra %2$d másodperc múlva.</item>
+        <item quantity="one">%1$d alkalommal nem sikerült felismerni az ujjlenyomatát. Próbálja újra %2$d másodperc múlva.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d alkalommal nem sikerült ellenőrizni az Intelligens azonosítással. Próbálja újra %2$d másodperc múlva.</item>
+        <item quantity="one">%1$d alkalommal nem sikerült ellenőrizni az Intelligens azonosítással. Próbálja újra %2$d másodperc múlva.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d alkalommal nem sikerült felismerni az íriszeit. Próbálja újra %2$d másodperc múlva.</item>
+        <item quantity="one">%1$d alkalommal nem sikerült felismerni az íriszeit. Próbálja újra %2$d másodperc múlva.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s további értesítés.</item>
+        <item quantity="one">%s további értesítés.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d eszköz</item>
+        <item quantity="one">%d eszköz</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Legfeljebb %d felhasználót adhat hozzá.</item>
+        <item quantity="one">Csak egy felhasználót lehet létrehozni.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d eszköz csatlakozik</item>
+        <item quantity="one">%1$d eszköz csatlakozik</item>
+    </plurals>
+</resources>

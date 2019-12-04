@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/theme_music_lyrics_btn_bg_invert_color" />
+    <stroke android:width="@dimen/facewidget_music_view_lyrics_btn_stroke_size" android:color="@color/theme_music_lyrics_btn_border_invert_color" />
+    <corners android:radius="@dimen/facewidget_music_view_cover_radius" />
+</shape>

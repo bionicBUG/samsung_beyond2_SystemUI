@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.KeyguardBottomAreaShortcutView android:id="@id/keyguard_bottom_shortcut_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr" android:elevation="5.0dip" android:outlineProvider="none"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sysui="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/keyguard_bottom_shortcut_area_selfie" />
+    <LinearLayout android:gravity="center" android:layout_gravity="bottom|center" android:orientation="vertical" android:id="@id/keyguard_indication_area" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/keyguard_upper_indication_text_view" />
+        <include layout="@layout/keyguard_lock_secure_icon_view" />
+        <include layout="@layout/keyguard_biometric_lock_icon_view" />
+        <include layout="@layout/keyguard_usim_text_area_view" />
+        <include layout="@layout/keyguard_indication_text_view" />
+        <com.android.systemui.statusbar.phone.KeyguardIndicationTextView android:textAppearance="?android:textAppearanceSmall" android:textStyle="italic" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_horizontal" android:id="@id/keyguard_indication_enterprise_disclosure" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <include layout="@layout/keyguard_bottom_doze_area" />
+    <include layout="@layout/keyguard_bottom_shortcut_area_right" />
+    <include layout="@layout/keyguard_bottom_shortcut_area_left" />
+    <com.android.systemui.statusbar.phone.NoFindTraversalFrameLayout android:id="@id/preview_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.android.systemui.statusbar.phone.KeyguardBottomAreaShortcutView>

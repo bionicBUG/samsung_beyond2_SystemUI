@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/qs_multi_sim_preffered_slot" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/multi_sim_bar_root" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/qs_multisim_preffered_slot_top_margin" android:layout_marginBottom="@dimen/qs_multisim_preffered_slot_bottom_margin">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/slot_button_group" android:paddingTop="5.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+                <LinearLayout android:gravity="center" android:id="@id/preffered_voice_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <LinearLayout android:gravity="center" android:id="@id/preffered_sms_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <LinearLayout android:gravity="center" android:id="@id/preffered_data_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

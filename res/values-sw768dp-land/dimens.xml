@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="facewidget_big_content_padding_side">300.0dip</dimen>
+    <dimen name="facewidget_bigpage_top_margin">44.0dip</dimen>
+    <dimen name="facewidget_navigation_bar_height">130.0dip</dimen>
+    <dimen name="keyguard_usim_text_area_height">232.0dip</dimen>
+    <dimen name="facewidget_music_page_big_top_margin">20.0dip</dimen>
+</resources>

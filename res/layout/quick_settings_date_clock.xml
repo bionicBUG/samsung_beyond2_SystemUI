@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<qs.src.com.android.systemui.qs.QSDateClock android:gravity="center_vertical" android:orientation="vertical" android:id="@id/qs_panel_date_clock" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="100.0dip" android:paddingStart="@dimen/qs_header_side_padding" android:paddingEnd="@dimen/qs_header_side_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/qs_panel_date_clock_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.android.systemui.statusbar.policy.QSClock android:textSize="@dimen/sec_qs_panel_clock_size" android:textColor="@color/sec_qs_header_date_color" android:gravity="start|center" android:id="@id/clock" android:tag="qs_header_clock_landscape" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="sans-serif-light" />
+        <com.android.systemui.statusbar.policy.QSDate android:textSize="@dimen/sec_qs_panel_date_size" android:textColor="@color/sec_qs_header_date_color" android:gravity="center_vertical" android:id="@id/date" android:tag="qs_panel_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="sec-roboto-light" />
+    </LinearLayout>
+</qs.src.com.android.systemui.qs.QSDateClock>

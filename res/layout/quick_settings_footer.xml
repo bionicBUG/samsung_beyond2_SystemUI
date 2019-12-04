@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/qs_detail_items_side_padding" android:paddingEnd="@dimen/qs_detail_items_side_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.QS.TileLabel" android:textColor="?android:textColorSecondary" android:ellipsize="end" android:gravity="center" android:id="@id/footer_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textDirection="rtl" android:layout_marginStart="@dimen/qs_detail_items_side_padding" />
+    <ImageView android:layout_gravity="center" android:id="@id/footer_icon" android:layout_width="@dimen/qs_footer_icon_size" android:layout_height="@dimen/qs_footer_icon_size" android:src="@drawable/ic_info_outline" android:tint="?android:textColorSecondary" android:contentDescription="@null" android:layout_marginStart="3.0dip" android:layout_marginEnd="@dimen/qs_detail_items_side_padding" />
+</LinearLayout>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dagar sedan</item>
+        <item quantity="one">%d dag sedan</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d minuter sedan</item>
+        <item quantity="one">%d minut sedan</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d år sedan</item>
+        <item quantity="one">%d år sedan</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm om %d dagar</item>
+        <item quantity="one">Alarm om %d dag</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm om %d timmar</item>
+        <item quantity="one">Alarm om %d timme</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm om %d minuter</item>
+        <item quantity="one">Alarm om %d minut</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d försök kvar.</item>
+        <item quantity="one">%d försök kvar.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d försök återstår)</item>
+        <item quantity="one">(1 försök återstår)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">%1$d försök att låsa upp telefonen har gjorts. Försök igen om %2$d timmar.</item>
+        <item quantity="one">%d försök att låsa upp telefonen har gjorts. Försök igen om 1 timme.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">%1$d försök att låsa upp telefonen har gjorts. Försök igen om %2$d minuter.</item>
+        <item quantity="one">%d försök att låsa upp telefonen har gjorts. Försök igen om 1 minut.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">%1$d försök att låsa upp telefonen har gjorts. Försök igen om %2$d sekunder.</item>
+        <item quantity="one">%d försök att låsa upp telefonen har gjorts. Försök igen om 1 sekund.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Ange pinkod för SIM-kortet. %d försök återstår.</item>
+        <item quantity="one">Ange pinkod för SIM-kortet. %d försök återstår innan du måste kontakta operatören för att låsa upp enheten.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-kortet är inaktiverat. Ange PUK-koden om du vill fortsätta. %d försök återstår innan SIM-kortet blir obrukbart. Kontakta operatören för mer information.</item>
+        <item quantity="one">SIM-kortet är inaktiverat. Ange PUK-koden om du vill fortsätta. %d försök återstår innan SIM-kortet blir obrukbart. Kontakta operatören för mer information.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Du angav fel pinkod för SIM-kortet. %d försök återstår.</item>
+        <item quantity="one">Du angav fel pinkod för SIM-kortet. %d försök återstår innan du måste kontakta operatören för att låsa upp enheten.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Du angav fel PUK-kod för SIM-kortet. %d försök återstår innan SIM-kortet blir obrukbart.</item>
+        <item quantity="one">Du angav fel PUK-kod för SIM-kortet. %d försök återstår innan SIM-kortet blir obrukbart.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Enheten har inte låsts upp på %d timmar. Bekräfta lösenordet.</item>
+        <item quantity="one">Enheten har inte låsts upp på %d timme. Bekräfta lösenordet.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Enheten har inte låsts upp på %d timmar. Bekräfta det grafiska lösenordet.</item>
+        <item quantity="one">Enheten har inte låsts upp på %d timme. Bekräfta det grafiska lösenordet.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Enheten har inte låsts upp på %d timmar. Bekräfta pinkoden.</item>
+        <item quantity="one">Enheten har inte låsts upp på %d timme. Bekräfta pinkoden.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Försök igen om %d sekunder.</item>
+        <item quantity="one">Försök igen om 1 sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Testa din biometrik igen om %d sekunder</item>
+        <item quantity="one">Testa din biometrik igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Prova ansiktsigenkänning igen om %d sekunder</item>
+        <item quantity="one">Prova ansiktsigenkänning igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Testa ditt fingeravtryck igen om %d sekunder</item>
+        <item quantity="one">Testa ditt fingeravtryck igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Prova Intelligent skanning igen om %d sekunder</item>
+        <item quantity="one">Prova Intelligent skanning igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Prova irisidentifiering igen om %d sekunder</item>
+        <item quantity="one">Prova irisidentifiering igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Försök igen om %d minuter</item>
+        <item quantity="one">Försök igen om %d minut</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Försök igen om %d sekunder</item>
+        <item quantity="one">Försök igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d försök att verifiera din biometrik har gjorts. Försök igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d felaktiga försök att verifiera din biometrik har gjorts. Försök igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d försök att verifiera ditt ansikte har gjorts. Försök igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d försök att verifiera ditt ansikte har gjorts. Försök igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d försök att verifiera dina fingeravtryck har gjorts. Försök igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d felaktiga försök att verifiera dina fingeravtryck har gjorts. Försök igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d försök att verifiera Intelligent skanning har gjorts. Försök igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d felaktiga försök att verifiera Intelligent skanning har gjorts. Försök igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d försök att verifiera dina irisar har gjorts. Försök igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d försök att verifiera dina irisar har gjorts. Försök igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s fler aviseringar i gruppen.</item>
+        <item quantity="one">%s till avisering i gruppen.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d enheter</item>
+        <item quantity="one">%d enhet</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">%d timme</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Det går att lägga till upp till %d användare.</item>
+        <item quantity="one">Det går bara att skapa en användare.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d enheter är anslutna</item>
+        <item quantity="one">%1$d enhet är ansluten</item>
+    </plurals>
+</resources>

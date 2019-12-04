@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">%d ရက္အၾကာတြင္ ႏိႈးစက္ျမည္မည္</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">%d နာရီအၾကာတြင္ ႏိႈးစက္ျမည္မည္</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">%d မိနစ္အၾကာတြင္ ႏိႈးစက္ျမည္မည္</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">ႀကိဳးစားမႈ %d ႀကိမ္ က်န္ေသးသည္။</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(ႀကိဳးစားခြင့္ %d ႀကိမ္ က်န္ေသးသည္)</item>
+        <item quantity="one">(ႀကိဳးစားခြင့္ ၁ ႀကိမ္ က်န္ေသးသည္)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">ဤဖုန္းကို ေသာ့ဖြင့့္္ရန္ %1$d ႀကိမ္ ႀကိဳးစားထားသည္။ %2$d နာရီၾကာၿပီးေနာက္ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">ဤဖုန္းကို ေသာ့ဖြင့္ရန္ %d ႀကိမ္ ႀကိဳးစားထားသည္။ ၁ နာရီအၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">ဤဖုန္းကို ေသာ့ဖြင့့္္ရန္ %1$d ႀကိမ္ ႀကိဳးစားထားသည္။ %2$d မိနစ္ၾကာၿပီးမွ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">ဤဖုန္းကို ေသာ့ဖြင့္ရန္ %d ႀကိမ္ ႀကိဳးစားထားသည္။ ၁ မိနစ္အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">ဤဖုန္းကို ေသာ့ဖြင့့္္ရန္ %1$d ႀကိမ္ ႀကိဳးစားထားသည္။ %2$d စကၠန္႔ၾကာၿပီးမွ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">ဤဖုန္းကို ေသာ့ဖြင့္ရန္ %d ႀကိမ္ ႀကိဳးစားထားသည္။ ၁ စကၠန္႔ၾကာၿပီးမွ ထပ္မံႀကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d စကၠန္႔ ၾကာၿပီးေနာက္ သင့္ ဇီဝ႐ုပ္လကၡဏာမ်ားျဖင့္ လုပ္ၾကည့္ပ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">မ်က္ႏွာမွတ္မိနည္းကို %d စကၠန္႔အၾကာမွာ အသုံးျပဳပါ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d စကၠန္႔ ၾကာၿပီးေနာက္ သင့္ လက္ေဗြရာျဖင့္ လုပ္ၾကည့္ပါ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">အထူးစကင္ကို %d စကၠန္႔အၾကာမွာ အသုံးျပဳပါ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">မ်က္ဝန္းမွတ္မိနည္းကို %d စကၠန္႔အၾကာမွာ အသုံးျပဳပါ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d မိနစ္အတြင္း ထပ္မံႀကိဳးစားပါ</item>
+        <item quantity="one">%d မိနစ္႔အတြင္း ထပ္မံႀကိဳးစားပါ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d စကၠန္႔အတြင္း ထပ္မံႀကိဳးစားပါ</item>
+        <item quantity="one">%d စကၠန္႔အတြင္း ထပ္မံႀကိဳးစားပါ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">ကိုယ္ဟန္ျပနည္း စိစစ္ရာတြင္ %1$d ခါ မွားမွားယြင္းယြင္း ထည့္ၿပီးၿပီ။ %2$d စကၠန္႔အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">ကိုယ္ဟန္ျပနည္း စိစစ္ရာတြင္ %1$d ခါ မွားမွားယြင္းယြင္း ထည့္ၿပီးၿပီ။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံၾကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">သင့္မ်က္ႏွာကို စိစစ္ရန္ မမွန္ေသာ အားထုတ္မႈ %1$d ႀကိမ္။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">သင့္မ်က္ႏွာကို စိစစ္ရန္ မမွန္ေသာ အားထုတ္မႈ %1$d ႀကိမ္။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">လက္ေဗြမ်ား စိစစ္ရာတြင္ %1$d ခါ မွားမွားယြင္းယြင္း ထည့္ၿပီးၿပီ။ %2$d စကၠန္႔အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">လက္ေဗြမ်ား စိစစ္ရာတြင္ %1$d ခါ မွားမွားယြင္းယြင္း ထည့္ၿပီးၿပီ။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံၾကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">အထူးစကင္ကို စိစစ္ရန္ မမွန္ေသာ အားထုတ္မႈ %1$d ႀကိမ္။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">အထူးစကင္ကို စိစစ္ရန္ မွားယြင္းသည့္ အားထုတ္မႈ %1$d ႀကိမ္ ျပဳလုပ္ထားသည္။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">သင့္မ်က္ဝန္းမ်ားကို စိစစ္ရန္ မမွန္ေသာ အားထုတ္မႈ %1$d ႀကိမ္။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+        <item quantity="one">သင့္မ်က္ဝန္းမ်ားကို စိစစ္ရန္ မမွန္ေသာ အားထုတ္မႈ %1$d ႀကိမ္။ %2$d စကၠန္႔ အၾကာမွာ ထပ္မံႀကိဳးစားပါ။</item>
+    </plurals>
+</resources>

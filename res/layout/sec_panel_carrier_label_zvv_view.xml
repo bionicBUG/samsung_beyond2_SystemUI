@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.phone.PanelCarrierLabelZVVView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto">
+    <TextView android:textColor="#ffccfafa" android:ellipsize="marquee" android:gravity="center" android:id="@id/panel_carrier_label_text_common" android:focusable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:scrollHorizontally="true" android:singleLine="false" android:drawablePadding="5.0dip" android:marqueeRepeatLimit="marquee_forever" android:fontFamily="sec-roboto-light" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/panel_carrier_label_multi_sim" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <TextView android:textColor="#ffccfafa" android:ellipsize="marquee" android:gravity="center" android:id="@id/panel_carrier_label_text_slot1" android:focusable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:scrollHorizontally="true" android:singleLine="false" android:drawablePadding="5.0dip" android:marqueeRepeatLimit="marquee_forever" android:fontFamily="sec-roboto-light" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <TextView android:textColor="#ffccfafa" android:ellipsize="marquee" android:gravity="center" android:id="@id/panel_carrier_label_text_slot2" android:focusable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:scrollHorizontally="true" android:singleLine="false" android:drawablePadding="5.0dip" android:marqueeRepeatLimit="marquee_forever" android:fontFamily="sec-roboto-light" />
+        </LinearLayout>
+    </LinearLayout>
+</com.android.systemui.statusbar.phone.PanelCarrierLabelZVVView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm in %d days</item>
+        <item quantity="one">Alarm in %d day</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm in %d hours</item>
+        <item quantity="one">Alarm in %d hour</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm in %d minutes</item>
+        <item quantity="one">Alarm in %d minute</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d attempts left.</item>
+        <item quantity="one">%d attempt left.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d attempts remaining)</item>
+        <item quantity="one">(1 attempt remaining)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">There have been %1$d attempts to unlock this phone. Try again in %2$d hours.</item>
+        <item quantity="one">There have been %d attempts to unlock this phone. Try again in 1 hour.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">There have been %1$d attempts to unlock this phone. Try again in %2$d minutes.</item>
+        <item quantity="one">There have been %d attempts to unlock this phone. Try again in 1 minute.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">There have been %1$d attempts to unlock this phone. Try again in %2$d seconds.</item>
+        <item quantity="one">There have been %d attempts to unlock this phone. Try again in 1 second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Try your biometrics again in %d seconds</item>
+        <item quantity="one">Try your biometrics again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Try face recognition again in %d seconds</item>
+        <item quantity="one">Try face recognition again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Try your fingerprint again in %d seconds</item>
+        <item quantity="one">Try your fingerprint again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Try Intelligent Scan again in %d seconds</item>
+        <item quantity="one">Try Intelligent Scan again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Try iris recognition again in %d seconds</item>
+        <item quantity="one">Try iris recognition again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Try again in %d minutes</item>
+        <item quantity="one">Try again in %d minute</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Try again in %d seconds</item>
+        <item quantity="one">Try again in %d second</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d incorrect attempts to verify biometrics. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify biometrics. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d incorrect attempts to verify your face. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify your face. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d incorrect attempts to verify fingerprints. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify fingerprints. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d incorrect attempts to verify Intelligent Scan. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify Intelligent Scan. Try again in %2$d second.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d incorrect attempts to verify your irises. Try again in %2$d seconds.</item>
+        <item quantity="one">%1$d incorrect attempts to verify your irises. Try again in %2$d second.</item>
+    </plurals>
+</resources>

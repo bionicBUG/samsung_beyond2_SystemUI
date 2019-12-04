@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Uyg‘otgich %d kundan keyin chalinadi</item>
+        <item quantity="one">Uyg‘otgich %d kundan keyin chalinadi</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Uyg‘otgich %d soatdan keyin chalinadi</item>
+        <item quantity="one">Uyg‘otgich %d soatdan keyin chalinadi</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Uyg‘otgich %d daqiqadan keyin chalinadi</item>
+        <item quantity="one">Uyg‘otgich %d daqiqadan keyin chalinadi</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d ta urinish qoldi.</item>
+        <item quantity="one">%d ta urinish qoldi.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d ta urinish qoldi)</item>
+        <item quantity="one">(1 ta urinish qoldi)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Bu telefonni blokdan chiqarish uchun %1$d ta urinish amalga oshirildi. %2$d soatdan keyin qayta urinib ko‘ring.</item>
+        <item quantity="one">Bu telefonni blokdan chiqarish uchun %d ta urinish amalga oshirildi. 1 soatdan keyin qayta urinib ko‘ring.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Bu telefonni blokdan chiqarish uchun %1$d ta urinish amalga oshirildi. %2$d daqiqadan keyin qayta urinib ko‘ring.</item>
+        <item quantity="one">Bu telefonni blokdan chiqarish uchun %d ta urinish amalga oshirildi. 1 daqiqadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Bu telefonni blokdan chiqarish uchun %1$d ta urinish amalga oshirildi. %2$d soniyadan keyin qayta urinib ko‘ring.</item>
+        <item quantity="one">Bu telefonni blokdan chiqarish uchun %d ta urinish amalga oshirildi. 1 soniyadan keyin qayta urinib ko‘ring.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d soniyadan so‘ng biometrik ma’lumotlaringiz bilan qayta urinib ko‘ring</item>
+        <item quantity="one">%d soniyadan so‘ng biometrik ma’lumotlaringiz bilan qayta urinib ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d soniyadan so‘ng yuzni tanitishga qayta urinib ko‘ring</item>
+        <item quantity="one">%d soniyadan so‘ng yuzni tanitishga qayta urinib ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d soniyadan so‘ng barmoq izingiz bilan qayta urinib ko‘ring</item>
+        <item quantity="one">%d soniyadan so‘ng barmoq izingiz bilan qayta urinib ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d soniyadan so‘ng Intelligent Scan’ni qayta sinab ko‘ring</item>
+        <item quantity="one">%d soniyadan so‘ng Intelligent Scan’ni qayta sinab ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d soniyadan so‘ng ko‘z pardasini tanitishga qayta urinib ko‘ring</item>
+        <item quantity="one">%d soniyadan so‘ng ko‘z pardasini tanitishga qayta urinib ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d daqiqada qayta urining</item>
+        <item quantity="one">%d daqiqada qayta urinib ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d soniyada qayta urining</item>
+        <item quantity="one">%d soniyada qayta urinib ko‘ring</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Biometrik ma’lumotlarni tasdiqlash uchun %1$d ta noto‘g‘ri urinish amalga oshirildi. %2$d soniyadan keyin qayta urinib ko‘ring.</item>
+        <item quantity="one">Biometrik ma’lumotlarni tasdiqlash uchun %1$d ta noto‘g‘ri urinish amalga oshirildi. %2$d soniyadan keyin qayta urinib ko‘ring.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Yuzingizni tasdiqlash uchun %1$d ta xato urinish. %2$d soniyadan keyin qayta urining.</item>
+        <item quantity="one">Yuzingizni tasdiqlash uchun %1$d ta xato urinish. %2$d soniyadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Barmoq izlarini tasdiqlash uchun %1$d ta noto‘g‘ri urinish amalga oshirildi. %2$d soniyadan keyin qayta urinib ko‘ring.</item>
+        <item quantity="one">Barmoq izlarini tasdiqlash uchun %1$d ta noto‘g‘ri urinish amalga oshirildi. %2$d soniyadan keyin qayta urinib ko‘ring.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Intelligent Scan funksiyasini tasdiqlash uchun %1$d ta xato urinish. %2$d soniyadan keyin qayta urining.</item>
+        <item quantity="one">Intelligent Scan funksiyasini tasdiqlash uchun %1$d xato urinish. %2$d soniyadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Koʻz pardalaringizni tasdiqlash uchun %1$d ta xato urinish. %2$d soniyadan keyin qayta urining.</item>
+        <item quantity="one">Koʻz pardalaringizni tasdiqlash uchun %1$d ta xato urinish. %2$d soniyadan keyin qayta urining.</item>
+    </plurals>
+</resources>

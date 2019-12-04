@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="facewidget_alarm_page_ampm_text_size">40.0dip</dimen>
+    <dimen name="facewidget_alarm_page_dow_text_size">40.0dip</dimen>
+    <dimen name="facewidget_alarm_page_no_alarm_text_size">17.0dip</dimen>
+    <dimen name="facewidget_alarm_page_time_text_size">41.0dip</dimen>
+    <dimen name="facewidget_alarm_page_title_text_size">16.0dip</dimen>
+    <dimen name="facewidget_today_clock_day_size">41.0dip</dimen>
+    <dimen name="facewidget_today_clock_week_day_size">41.0dip</dimen>
+    <dimen name="facewidget_today_event_time_first_event_margin">4.0dip</dimen>
+    <dimen name="facewidget_today_event_time_size_small">14.0dip</dimen>
+    <dimen name="facewidget_today_event_title_size_small">16.0dip</dimen>
+    <dimen name="facewidget_today_first_event_title">24.0dip</dimen>
+    <dimen name="facewidget_today_holder_width">403.0dip</dimen>
+    <dimen name="facewidget_today_second_event_top_margin">5.0dip</dimen>
+    <dimen name="servicebox_alarm_side">2.0dip</dimen>
+    <dimen name="servicebox_no_events_button_margin_top">21.0dip</dimen>
+    <dimen name="servicebox_today_event_bar_margin">12.0dip</dimen>
+    <dimen name="servicebox_today_event_no_event_size">17.0dip</dimen>
+    <dimen name="servicebox_today_event_no_event_size_big">18.0dip</dimen>
+    <dimen name="servicebox_today_event_side">6.0dip</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.qs.tileimpl.ButtonRelativeLayout android:paddingTop="@dimen/sec_qs_tile_label_top_bottom_padding" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/label_group" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:textAppearance="@style/TextAppearance.QS.TileLabel" android:textColor="@color/qs_tile_label" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/tile_label" android:padding="@dimen/sec_qs_tile_label_padding" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/sec_qs_tile_label_min_height" android:lines="@integer/qs_tile_label_max_lines" />
+    </LinearLayout>
+    <TextView android:textAppearance="@style/TextAppearance.QS.TileLabel.Secondary" android:textColor="?android:textColorSecondary" android:ellipsize="marquee" android:gravity="center" android:id="@id/app_label" android:padding="0.0dip" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/label_group" android:layout_alignStart="@id/label_group" android:layout_alignEnd="@id/label_group" />
+</com.android.systemui.qs.tileimpl.ButtonRelativeLayout>

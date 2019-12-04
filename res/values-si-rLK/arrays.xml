@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>සියලු කොඩෙක්ස්</item>
+        <item>පෙරනිමි කොඩෙක්</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>පිරික්සමින්…</item>
+        <item>සම්බන්ධ වෙමින්…</item>
+        <item>සත්‍යාපනය කරමින්…</item>
+        <item>IP ලිපිනය ලබා ගනිමින්…</item>
+        <item>සබැඳි</item>
+        <item>අත්හිටුවා ඇත</item>
+        <item>විසන්ධි වෙමින්…</item>
+        <item>විසන්ධි විය</item>
+        <item>අසාර්ථක</item>
+        <item>අවහිරයි</item>
+        <item>ඔබේ අන්තර්ජාල සම්බන්ධතාවයේ තත්ත්වය පරීක්ෂා කෙරෙමින්…</item>
+    </string-array>
+</resources>

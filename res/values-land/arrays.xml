@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clock_attribute">
+        <item>2, 3, 7, 9, 50015, 50016, 50009, 50010, 50012, 50013</item>
+        <item>98px, 0dp, 0dp</item>
+        <item>1, 50008, 50011</item>
+        <item>98px, 0dp, 0dp</item>
+        <item>4, 6, 10000, 10001, 10002, 10003</item>
+        <item>98px, 0dp, 0dp</item>
+        <item>0</item>
+        <item>98px, 0dp, 0dp</item>
+    </string-array>
+</resources>

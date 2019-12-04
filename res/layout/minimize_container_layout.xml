@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.systemui.minimizecontainer.BubbleContainerView android:orientation="vertical" android:id="@id/minimize_container_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:id="@id/minimize_container_pointer_group_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/minimize_container_pointer_control_view" android:layout_width="@dimen/minimize_container_pointer_width" android:layout_height="@dimen/minimize_container_pointer_height" />
+    <ImageView android:id="@id/minimize_container_folder_dragging_icon_view" android:layout_width="@dimen/minimize_container_item_icon_width" android:layout_height="@dimen/minimize_container_item_icon_height" android:elevation="@dimen/minimize_container_folder_dragging_icon_elevation" />
+    <com.samsung.android.systemui.minimizecontainer.BubbleContainerFolderView android:scrollbarSize="@dimen/minimize_container_folder_scrollbar_size" android:scrollbarThumbHorizontal="@drawable/minimize_container_folder_scrollbar" android:id="@id/minimize_container_recycler_view" android:background="@drawable/minimize_container_folder_bg" android:padding="0.0dip" android:visibility="gone" android:scrollbars="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/bubble_container_folder_description" android:elevation="@dimen/minimize_container_folder_elevation" />
+</com.samsung.android.systemui.minimizecontainer.BubbleContainerView>

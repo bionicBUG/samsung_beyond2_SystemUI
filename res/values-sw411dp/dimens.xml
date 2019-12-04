@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_password_eca_margin_top_land">130.0dip</dimen>
+    <item type="dimen" name="qs_date_clock_view_height_ratio">0.302</item>
+    <dimen name="qs_quick_tile_size">46.0dip</dimen>
+    <dimen name="qs_tile_background_size">46.0dip</dimen>
+    <dimen name="qs_tile_icon_size">46.0dip</dimen>
+    <dimen name="qs_tile_text_size">13.5dip</dimen>
+    <dimen name="sec_qs_panel_clock_size">38.5dip</dimen>
+    <dimen name="sec_qs_panel_date_size">21.5dip</dimen>
+    <dimen name="sec_qs_tile_height">98.0dip</dimen>
+    <dimen name="sec_qs_tile_width">84.0dip</dimen>
+</resources>

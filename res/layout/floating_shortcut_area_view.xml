@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.floating.FloatingShortcutAreaView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/floating_effect_layer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/floating_shortcut_layer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/floating_app_shortcut_image_container" android:padding="@dimen/floating_shortcut_app_icon_padding" android:layout_width="@dimen/floating_shortcut_app_icon_size" android:layout_height="@dimen/floating_shortcut_app_icon_size" android:alpha="0.0">
+        <com.android.systemui.widget.SystemUIImageView android:id="@id/floating_app_shortcut_image_view" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/lock_btn_shortcut_hidden_mtrl" android:scaleType="fitXY" android:contentDescription="@string/keyboard_shortcut_group_applications" sysui:originImage="lock_btn_shortcut_hidden_mtrl" sysui:wallpaperArea="bottom" sysui:whitebgImage="lock_whitebg_btn_shortcut_hidden_mtrl" xmlns:sysui="http://schemas.android.com/apk/res-auto" />
+    </FrameLayout>
+</com.android.systemui.statusbar.floating.FloatingShortcutAreaView>

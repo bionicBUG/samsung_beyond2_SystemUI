@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дня тому</item>
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дні тому</item>
+        <item quantity="many">%d днів тому</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d хвилини тому</item>
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+        <item quantity="many">%d хвилин тому</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d року тому</item>
+        <item quantity="one">%d рік тому</item>
+        <item quantity="few">%d роки тому</item>
+        <item quantity="many">%d років тому</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Будильник через %d дня</item>
+        <item quantity="one">Будильник через %d день</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Будильник через %d години</item>
+        <item quantity="one">Будильник через %d годину</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Будильник через %d хвилини</item>
+        <item quantity="one">Будильник через %d хвилину</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Залишилося %d спроби.</item>
+        <item quantity="one">Залишилась %d спроба.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(залишилося спроб: %d)</item>
+        <item quantity="one">(залишилася 1 спроба)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Здійснено декілька невдалих спроб розблокування телефону (%1$d). Спробуйте ще раз через %2$d год.</item>
+        <item quantity="one">Здійснено декілька невдалих спроб розблокування телефону (%d). Спробуйте ще раз через 1 годину.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Здійснено декілька невдалих спроб розблокування телефону (%1$d). Спробуйте ще раз через %2$d хв.</item>
+        <item quantity="one">Здійснено декілька невдалих спроб розблокування телефону (%d). Спробуйте ще раз через 1 хвилину.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Здійснено декілька невдалих спроб розблокування телефону (%1$d). Спробуйте ще раз через %2$d сек.</item>
+        <item quantity="one">Здійснено декілька невдалих спроб розблокування телефону (%d). Спробуйте ще раз через 1 секунду.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Введіть PIN-код SIM-карти. Залишилося %d спроби.</item>
+        <item quantity="one">Введіть PIN-код SIM-карти. Залишилася %d спроба.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-карту заблоковано. Щоб продовжити, введіть PUK-код. Залишилося %d спроби. Після цього SIM-карту буде назавжди заблоковано. Щоб дізнатися більше, зверніться до свого оператора.</item>
+        <item quantity="one">SIM-карту заблоковано. Щоб продовжити, введіть PUK-код. Залишилася %d спроба. Після цього SIM-карту буде назавжди заблоковано. Щоб дізнатися більше, зверніться до свого оператора.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправильний PIN-код SIM-карти. У вас залишилося %d спроби.</item>
+        <item quantity="one">Неправильний PIN-код SIM-карти. У вас залишилася %d спроба.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неправильний PUK-код SIM-карти. У вас залишилося %d спроби. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="one">Неправильний PUK-код SIM-карти. У вас залишилася %d спроба. Після цього SIM-карту буде назавжди заблоковано.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте пароль.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте пароль.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте ключ.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте ключ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте PIN-код.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте PIN-код.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Повторіть спробу через %d секунди.</item>
+        <item quantity="one">Повторіть спробу через %d секунду.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Спробу введення біометричних даних можна повторити через %d секунди</item>
+        <item quantity="one">Спробу введення біометричних даних можна повторити через %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Функцію розпізнавання обличчя можна буде знову використати через %d секунди</item>
+        <item quantity="one">Функцію розпізнавання обличчя можна буде знову використати через %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Спробу введення відбитка пальця можна повторити через %d секунди</item>
+        <item quantity="one">Спробу введення відбитка пальця можна повторити через %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Смарт-сканування можна буде знову використати через %d секунди</item>
+        <item quantity="one">Смарт-сканування можна буде знову використати через %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Функцію розпізнавання райдужок можна буде знову використати через %d секунди</item>
+        <item quantity="one">Функцію розпізнавання райдужок можна буде знову використати через %d секунду</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Спробуйте знову через %d хв.</item>
+        <item quantity="one">Спробуйте знову через %d хв.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Спробуйте знову через %d сек.</item>
+        <item quantity="one">Спробуйте знову через %d сек.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Невдалих спроб перевірки біометричних даних: %1$d. Спробуйте ще раз через %2$d с.</item>
+        <item quantity="one">Невдалих спроб перевірки біометричних даних: %1$d. Спробуйте ще раз через %2$d сек.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Невдалих спроб розпізнавання обличчя: %1$d. Спробуйте ще раз через %2$d с.</item>
+        <item quantity="one">Невдалих спроб розпізнавання обличчя: %1$d. Спробуйте ще раз через %2$d с.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Невдалих спроб перевірки відбитків пальців: %1$d. Спробуйте ще раз через %2$d с.</item>
+        <item quantity="one">Невдалих спроб перевірки відбитків пальців: %1$d. Спробуйте ще раз через %2$d сек.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Невдалих спроб підтвердження особи за допомогою смарт-сканування: %1$d. Спробуйте ще раз через %2$d с.</item>
+        <item quantity="one">Невдалих спроб підтвердження за допомогою смарт-сканування: %1$d. Спробуйте ще раз через %2$d с.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Невдалих спроб розпізнавання райдужок: %1$d. Спробуйте ще раз через %2$d с.</item>
+        <item quantity="one">Невдалих спроб розпізнавання райдужок: %1$d. Спробуйте ще раз через %2$d с.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Ще %s сповіщення в групі.</item>
+        <item quantity="one">Ще %s сповіщення в групі.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d пристрою</item>
+        <item quantity="one">%d пристрій</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d години</item>
+        <item quantity="one">%d година</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d години</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d хвилини</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Можна додати до %d користувача.</item>
+        <item quantity="one">Можна додати до %d користувача.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Під’єднано %1$d пристрою</item>
+        <item quantity="one">Під’єднано %1$d пристрій</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/sec_qs_customize_panel_content_container" android:background="@drawable/qs_background_primary" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/qs_customize_panel_summary" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:orientation="horizontal" android:id="@id/qs_available_parent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include android:id="@id/qs_available_paged" layout="@layout/qs_paged_customizer_tile_layout" />
+        </FrameLayout>
+    </LinearLayout>
+    <com.android.systemui.qs.NonInterceptingScrollView android:gravity="center_vertical" android:id="@id/qs_active_page_parent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:id="@id/indicator_left" android:background="@android:color/transparent" android:layout_width="20.0dip" android:layout_height="100.0dip" />
+                <include android:id="@id/qs_active_paged" layout="@layout/qs_paged_customizer_tile_layout" />
+                <FrameLayout android:id="@id/indicator_right" android:background="@android:color/transparent" android:layout_width="20.0dip" android:layout_height="100.0dip" />
+            </FrameLayout>
+            <com.android.systemui.qs.SecPageIndicator android:layout_gravity="center" android:id="@id/qs_active_paged_indicator" android:layout_width="wrap_content" android:layout_height="@dimen/qs_edit_panel_indicator_layout_height" />
+        </LinearLayout>
+    </com.android.systemui.qs.NonInterceptingScrollView>
+    <include android:id="@id/qs_customize_panel_header_parent" layout="@layout/qs_customize_panel_header" />
+</LinearLayout>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:layout_gravity="start|center" android:background="@drawable/ksh_subheader_divider_background" android:layout_width="fill_parent" android:layout_height="@dimen/ksh_category_subheader_line_height" android:layerType="software" android:layout_marginEnd="@dimen/ksh_category_subheader_line_margin_end"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

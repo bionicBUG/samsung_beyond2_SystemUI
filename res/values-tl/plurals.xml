@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d na araw ang nakalipas</item>
+        <item quantity="one">%d araw ang nakalipas</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d na min ang nakalipas</item>
+        <item quantity="one">%d min ang nakalipas</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d na taon ang nakalipas</item>
+        <item quantity="one">%d taon ang nakalipas</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarma sa %d araw</item>
+        <item quantity="one">Alarma sa %d araw</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarma sa %d oras</item>
+        <item quantity="one">Alarma sa %d oras</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarma sa %d minuto</item>
+        <item quantity="one">Alarma sa %d minuto</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d tangka ang nalalabi.</item>
+        <item quantity="one">%d tangka ang nalalabi.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d tangka ang nalalabi)</item>
+        <item quantity="one">(1 tangka ang nalalabi)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Nagkaroon ng %1$d tangka na i-unlock ang teleponong ito. Subukang muli sa loob ng %2$d oras.</item>
+        <item quantity="one">Nagkaroon ng %d tangka na i-unlock ang teleponong ito. Subukang muli sa loob ng 1 oras.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Nagkaroon ng %1$d tangka na i-unlock ang teleponong ito. Subukang muli sa loob ng %2$d minuto.</item>
+        <item quantity="one">Nagkaroon ng %d tangka na i-unlock ang teleponong ito. Subukang muli sa loob ng 1 minuto.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Nagkaroon ng %1$d tangka na i-unlock ang teleponong ito. Subukang muli sa loob ng %2$d segundo.</item>
+        <item quantity="one">Nagkaroon ng %d tangka na i-unlock ang teleponong ito. Subukang muli sa loob ng 1 segundo.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Ilagay ang PIN ng SIM. Mayroon kang %d na natitirang pagsubok.</item>
+        <item quantity="one">Ilagay ang PIN ng SIM. Mayroon kang %d natitirang pagsubok.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">Naka-disable na ang SIM. Ilagay ang PUK code upang magpatuloy. Mayroon kang %d na natitirang pagsubok bago tuluyang hindi magamit ang SIM. Makipag-ugnayan sa carrier para sa mga detalye.</item>
+        <item quantity="one">Naka-disable na ang SIM. Ilagay ang PUK code upang magpatuloy. Mayroon kang %d natitirang pagsubok bago tuluyang hindi magamit ang SIM. Makipag-ugnayan sa carrier para sa mga detalye.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Mali ang PIN code ng SIM, mayroon kang %d na natitirang pagsubok.</item>
+        <item quantity="one">Mali ang PIN code ng SIM, mayroon kang %d natitirang pagsubok.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Mali ang PUK code ng SIM, mayroon kang %d na natitirang pagsubok bago tuluyang hindi magamit ang SIM.</item>
+        <item quantity="one">Mali ang PUK code ng SIM, mayroon kang %d natitirang pagsubok bago tuluyang hindi magamit ang SIM.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Hindi na-unlock ang device sa loob ng %d na oras. Kumpirmahin ang password.</item>
+        <item quantity="one">Hindi na-unlock ang device sa loob ng %d oras. Kumpirmahin ang password.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Hindi na-unlock ang device sa loob ng %d na oras. Kumpirmahin ang pattern.</item>
+        <item quantity="one">Hindi na-unlock ang device sa loob ng %d oras. Kumpirmahin ang pattern.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Hindi na-unlock ang device sa loob ng %d na oras. Kumpirmahin ang PIN.</item>
+        <item quantity="one">Hindi na-unlock ang device sa loob ng %d oras. Kumpirmahin ang PIN.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Subukang muli sa loob ng %d na segundo.</item>
+        <item quantity="one">Subukang muli sa loob ng %d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Subukang muli ang biometrics mo sa loob ng %d segundo</item>
+        <item quantity="one">Subukang muli ang biometrics mo sa loob ng %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Subukang muli ang face recognition sa loob ng %d segundo</item>
+        <item quantity="one">Subukang muli ang face recognition sa loob ng %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Subukang muli ang fingerprint mo sa loob ng %d segundo</item>
+        <item quantity="one">Subukang muli ang fingerprint mo sa loob ng %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Subukang muli ang Intelligent Scan sa loob ng %d segundo</item>
+        <item quantity="one">Subukang muli ang Intelligent Scan sa loob ng %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Subukang muli ang iris recognition sa loob ng %d segundo</item>
+        <item quantity="one">Subukang muli ang iris recognition sa loob ng %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Subukan muli sa loob ng %d minuto</item>
+        <item quantity="one">Subukan muli sa loob ng %d minuto</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Subukan muli sa loob ng %d segundo</item>
+        <item quantity="one">Subukan muli sa loob ng %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d maling tangka na i-verify ang biometrics. Subukang muli sa loob ng %2$d segundo.</item>
+        <item quantity="one">%1$d maling tangka na i-verify ang biometrics. Subukang muli sa loob ng %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d maling tangka na i-verify ang mukha mo. Subukang muli sa loob ng %2$d segundo.</item>
+        <item quantity="one">%1$d maling tangka na i-verify ang mukha mo. Subukang muli sa loob ng %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d maling tangka na i-verify ang mga fingerprint. Subukang muli sa loob ng %2$d segundo.</item>
+        <item quantity="one">%1$d maling tangka na i-verify ang mga fingerprint. Subukang muli sa loob ng %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d maling tangka na i-verify ang Intelligent Scan. Subukang muli sa loob ng %2$d segundo.</item>
+        <item quantity="one">%1$d maling tangka para i-verify ang Intelligent Scan. Subukang muli sa loob ng %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d maling tangka na i-verify ang mga iris mo. Subukang muli sa loob ng %2$d segundo.</item>
+        <item quantity="one">%1$d maling tangka na i-verify ang mga iris mo. Subukang muli sa loob ng %2$d segundo.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">May %s pang notification sa loob.</item>
+        <item quantity="one">May %s pang notification sa loob.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d na device</item>
+        <item quantity="one">%d device</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d na oras</item>
+        <item quantity="one">%d oras</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d na minuto</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Maaari kang magdagdag ng hanggang %d na user.</item>
+        <item quantity="one">Maaari kang magdagdag ng hanggang %d user.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d na device ang nakakonekta</item>
+        <item quantity="one">%1$d device ang nakakonekta</item>
+    </plurals>
+</resources>

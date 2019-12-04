@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">%d రోజులలో అలారం ఉంది</item>
+        <item quantity="one">%d రోజులో అలారం ఉంది</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">%d గంటలలో అలారం ఉంది</item>
+        <item quantity="one">%d గంటలో అలారం ఉంది</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">%d నిమిషాలలో అలారం ఉంది</item>
+        <item quantity="one">%d నిమిషంలో అలారం ఉంది</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d ప్రయత్నాలు మిగిలి ఉన్నాయి.</item>
+        <item quantity="one">%d ప్రయత్నం మిగిలింది.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d ప్రయత్నాలు మిగిలి ఉన్నాయి)</item>
+        <item quantity="one">(1 ప్రయత్నం మిగిలి ఉంది)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి %1$d ప్రయత్నాలు ఉన్నాయి. %2$d గంటలలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">ఈ ఫోన్‌ని అన్‌లాక్ చేయడానికి %d ప్రయత్నాలు ఉన్నాయి. 1 గంటలో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి %1$d ప్రయత్నాలు ఉన్నాయి. %2$d నిమిషాల్లో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">ఈ ఫోన్‌ని అన్‌లాక్ చేయడానికి %d ప్రయత్నాలు ఉన్నాయి. 1 నిమిషంలో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి %1$d ప్రయత్నాలు మిగిలి ఉన్నాయి. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">ఈ ఫోన్‌ని అన్‌లాక్ చేయడానికి %d ప్రయత్నాలు ఉన్నాయి. 1 సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d సెకన్లలో మీ బయోమెట్రిక్స్‌ని మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకనులో మీ బయోమెట్రిక్స్‌ని మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d సెకన్లలో మీ ముఖ గుర్తింపుని మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకనులో మీ ముఖ గుర్తింపుని మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d సెకన్లలో మీ వేలిముద్రని మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకనులో మీ వేలిముద్రని మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d సెకన్లలో మీ తెలివైన స్కాన్‌ని మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకనులో మీ తెలివైన స్కాన్‌ను మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d సెకన్లలో మీ కనుపాప గుర్తింపుని మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకనులో మీ కనుపాప గుర్తింపుని మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d నిమిషాల తర్వాత మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d నిమిషాల్లో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d సెకన్ల తర్వాత మళ్లీ ప్రయత్నించండి</item>
+        <item quantity="one">%d సెకన్లలో మళ్లీ ప్రయత్నించండి</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">బయోమెట్రిక్స్‌ను ధృవీకరించడానికి %1$d చెల్లని ప్రయత్నాలు చేసారు. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">బయోమెట్రిక్స్‌ను ధృవీకరించడానికి %1$d చెల్లని ప్రయత్నాలు చేసారు. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">మీ ముఖాన్ని స్కాన్‌ను ధృవీకరించడానికి %1$d తప్పు ప్రయత్నాలు జరిగాయి. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">మీ ముఖాన్ని స్కాన్‌ను ధృవీకరించడానికి %1$d తప్పు ప్రయత్నాలు జరిగాయి. %2$d సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">వేలిముద్రలను ధృవీకరించడానికి %1$d చెల్లని ప్రయత్నాలు చేసారు. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">వేలిముద్రలను ధృవీకరించడానికి %1$d చెల్లని ప్రయత్నాలు చేసారు. %2$d సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">తెలివైన స్కాన్‌ను ధృవీకరించడానికి %1$d తప్పు ప్రయత్నాలు జరిగాయి. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">తెలివైన స్కాన్‌ను నిర్థారించడంలో %1$d తప్పు ప్రయత్నాలు జరిగాయి. %2$d సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">మీ కనుపాపను స్కాన్‌ను ధృవీకరించడానికి %1$d తప్పు ప్రయత్నాలు జరిగాయి. %2$d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="one">మీ కనుపాపను స్కాన్‌ను ధృవీకరించడానికి %1$d తప్పు ప్రయత్నాలు జరిగాయి. %2$d సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+</resources>

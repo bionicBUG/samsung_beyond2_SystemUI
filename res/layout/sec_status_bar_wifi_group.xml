@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.SecStatusBarWifiView android:gravity="center_vertical" android:id="@id/wifi_combo" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto">
+    <com.android.keyguard.AlphaOptimizedLinearLayout android:gravity="center_vertical" android:id="@id/wifi_group" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingEnd="@dimen/status_bar_system_icon_padding_end">
+        <FrameLayout android:gravity="center_vertical" android:id="@id/wifi_iconset" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.android.systemui.statusbar.AnimatedImageView android:id="@id/wifi_signal" android:layout_width="wrap_content" android:layout_height="wrap_content" systemui:hasOverlappingRendering="false" />
+            <ImageView android:id="@id/wifi_activity" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </com.android.keyguard.AlphaOptimizedLinearLayout>
+</com.android.systemui.statusbar.SecStatusBarWifiView>

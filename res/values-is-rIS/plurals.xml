@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Vekjari hringir eftir %d daga</item>
+        <item quantity="one">Vekjari hringir eftir %d dag</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Vekjari hringir eftir %d klukkustundir</item>
+        <item quantity="one">Vekjari hringir eftir %d klukkustund</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Vekjari hringir eftir %d mínútur</item>
+        <item quantity="one">Vekjari hringir eftir %d mínútu</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d tilraunir eftir.</item>
+        <item quantity="one">%d tilraun eftir.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d tilraunir eftir)</item>
+        <item quantity="one">(1 tilraun eftir)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">%1$d tilraunir hafa verið gerðar til að taka símann úr lás. Reyndu aftur eftir %2$d klukkustundir.</item>
+        <item quantity="one">%d tilraunir hafa verið gerðar til að taka símann úr lás. Reyndu aftur eftir eina klukkustund.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">%1$d tilraunir hafa verið gerðar til að taka símann úr lás. Reyndu aftur eftir %2$d mínútur.</item>
+        <item quantity="one">%d tilraunir hafa verið gerðar til að taka símann úr lás. Reyndu aftur eftir eina mínútu.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">%1$d tilraunir hafa verið gerðar til að taka símann úr lás. Reyndu aftur eftir %2$d sekúndur.</item>
+        <item quantity="one">%d tilraunir hafa verið gerðar til að taka símann úr lás. Reyndu aftur eftir 1 sekúndu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Prófaðu lífkennin aftur eftir %d sekúndur</item>
+        <item quantity="one">Prófaðu lífkennin aftur eftir %d sekúndu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Prófaðu að nota andlitsgreiningu aftur eftir %d sekúndur</item>
+        <item quantity="one">Prófaðu að nota andlitsgreiningu aftur eftir %d sekúndu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Prófaðu fingrafarið aftur eftir %d sekúndur</item>
+        <item quantity="one">Prófaðu fingrafarið aftur eftir %d sekúndu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Prófaðu að nota snjalla skönnun aftur eftir %d sekúndur</item>
+        <item quantity="one">Prófaðu að nota snjalla skönnun aftur eftir %d sekúndu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Prófaðu að nota augnskanna aftur eftir %d sekúndur</item>
+        <item quantity="one">Prófaðu að nota augnskanna aftur eftir %d sekúndu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Reyndu aftur eftir %d mínútur</item>
+        <item quantity="one">Reyndu aftur eftir %d mínútu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Reyndu aftur eftir %d sekúndur</item>
+        <item quantity="one">Reyndu aftur eftir %d sekúndu</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d rangar tilraunir gerðar til að staðfesta lífkenni. Reyndu aftur eftir %2$d sekúndur.</item>
+        <item quantity="one">%1$d rangar tilraunir gerðar til að staðfesta lífkenni. Reyndu aftur eftir %2$d sekúndu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d rangar tilraunir gerðar til að staðfesta andlitið þitt. Reyndu aftur eftir %2$d sekúndur.</item>
+        <item quantity="one">%1$d rangar tilraunir gerðar til að staðfesta andlitið þitt. Reyndu aftur eftir %2$d sekúndu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d rangar tilraunir gerðar til að staðfesta fingraför. Reyndu aftur eftir %2$d sekúndur.</item>
+        <item quantity="one">%1$d rangar tilraunir gerðar til að staðfesta fingraför. Reyndu aftur eftir %2$d sekúndu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d rangar tilraunir gerðar til að staðfesta snjalla skönnun. Reyndu aftur eftir %2$d sekúndur.</item>
+        <item quantity="one">%1$d rangar tilraunir gerðar til að staðfesta snjalla skönnun. Reyndu aftur eftir %2$d sekúndu.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d rangar tilraunir gerðar til að staðfesta lithimnurnar þínar. Reyndu aftur eftir %2$d sekúndur.</item>
+        <item quantity="one">%1$d rangar tilraunir gerðar til að staðfesta lithimnurnar þínar. Reyndu aftur eftir %2$d sekúndu.</item>
+    </plurals>
+</resources>

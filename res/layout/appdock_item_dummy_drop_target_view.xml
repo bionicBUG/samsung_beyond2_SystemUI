@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/dummy_icon" android:layout_width="@dimen/appdock_edit_ui_item_dummy_icon_size" android:layout_height="@dimen/appdock_edit_ui_item_dummy_icon_size" android:layout_margin="6.0dip" android:src="@drawable/appdock_empty_drop_target" android:scaleType="fitCenter" android:alpha="0.25" />
+</FrameLayout>

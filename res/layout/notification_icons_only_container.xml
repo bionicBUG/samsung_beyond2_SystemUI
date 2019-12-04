@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.iconsOnly.LockscreenNotificationIconsOnlyContainer android:id="@id/notification_icons_only_container_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/notification_preview_icon_slot_view_horizontal_padding" android:paddingEnd="@dimen/notification_preview_icon_slot_view_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

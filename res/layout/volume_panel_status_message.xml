@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.volume.view.VolumePanelStatusMessage android:orientation="vertical" android:id="@id/volume_panel_status_message_main" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/volume_DefaultVolumeControlMain"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/volume_panel_divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginHorizontal="10.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/volume_panel_status_message_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="12.0dip" android:layout_height="12.0dip" android:src="@drawable/ic_volume_control_dnd_icon" android:scaleType="center" />
+        <TextView android:textAppearance="@style/TextAppearance.Volume.AllSoundsOffDescription" android:ellipsize="end" android:id="@id/volume_panel_status_message_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/volume_mute_all_sounds_on" android:maxLines="1" android:paddingStart="6.0dip" />
+    </LinearLayout>
+</com.android.systemui.volume.view.VolumePanelStatusMessage>

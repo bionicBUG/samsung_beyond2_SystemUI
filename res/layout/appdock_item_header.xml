@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/appdock_list_header_text_size" android:textStyle="normal" android:textColor="#ff000000" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/appdock_header_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="header" android:maxLines="1" android:lines="2" android:alpha="0.5" android:fontFamily="roboto-medium" android:textAlignment="center" />
+</FrameLayout>

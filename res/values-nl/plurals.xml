@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dagen geleden</item>
+        <item quantity="one">%d dag geleden</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min geleden</item>
+        <item quantity="one">%d min geleden</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d jaar geleden</item>
+        <item quantity="one">%d jaar geleden</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm over %d dagen</item>
+        <item quantity="one">Alarm over %d dag</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm over %d uur</item>
+        <item quantity="one">Alarm over %d uur</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm over %d minuten</item>
+        <item quantity="one">Alarm over %d minuut</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d pogingen over.</item>
+        <item quantity="one">%d poging over.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d pogingen over)</item>
+        <item quantity="one">(1 poging over)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Er zijn %1$d pogingen gedaan om deze telefoon te ontgrendelen. Probeer het opnieuw over %2$d uur.</item>
+        <item quantity="one">Er zijn %d pogingen gedaan om deze telefoon te ontgrendelen. Probeer het opnieuw over 1 uur.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Er zijn %1$d pogingen gedaan om deze telefoon te ontgrendelen. Probeer het opnieuw over %2$d minuten.</item>
+        <item quantity="one">Er zijn %d pogingen gedaan om deze telefoon te ontgrendelen. Probeer het opnieuw over 1 minuut.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Er zijn %1$d pogingen gedaan om deze telefoon te ontgrendelen. Probeer het opnieuw over %2$d seconden.</item>
+        <item quantity="one">Er zijn %d pogingen gedaan om deze telefoon te ontgrendelen. Probeer het opnieuw over 1 seconde.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Geef de pincode van de simkaart op. Je hebt nog %d pogingen over.</item>
+        <item quantity="one">Geef de pincode van de simkaart op. Je hebt nog %d poging over voordat je contact met je provider moet opnemen om het apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">De simkaart is nu uitgeschakeld. Geef de pukcode op om door te gaan. Je hebt nog %d pogingen over voordat de simkaart definitief onbruikbaar wordt. Neem contact op met je provider voor meer informatie.</item>
+        <item quantity="one">De simkaart is nu uitgeschakeld. Geef de pukcode op om door te gaan. Je hebt nog %d poging over voordat de simkaart definitief onbruikbaar wordt. Neem contact op met je provider voor meer informatie.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Onjuiste pincode voor simkaart. Je hebt nog %d pogingen over.</item>
+        <item quantity="one">Onjuiste pincode voor simkaart. Je hebt nog %d poging over voordat je contact met je provider moet opnemen om je apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Onjuiste pukcode voor simkaart. Je hebt nog %d pogingen over voordat de simkaart definitief onbruikbaar wordt.</item>
+        <item quantity="one">Onjuiste pukcode voor simkaart. Je hebt nog %d poging over voordat de simkaart definitief onbruikbaar wordt.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Apparaat is al %d uur niet ontgrendeld. Bevestig het wachtwoord.</item>
+        <item quantity="one">Apparaat is al %d uur niet ontgrendeld. Bevestig het wachtwoord.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Apparaat is al %d uur niet ontgrendeld. Bevestig het patroon.</item>
+        <item quantity="one">Apparaat is al %d uur niet ontgrendeld. Bevestig het patroon.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Apparaat is al %d uur niet ontgrendeld. Bevestig de pincode.</item>
+        <item quantity="one">Apparaat is al %d uur niet ontgrendeld. Bevestig de pincode.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Probeer het over %d seconden opnieuw.</item>
+        <item quantity="one">Probeer het over één seconde opnieuw.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Probeer uw biometrie opnieuw over %d seconden</item>
+        <item quantity="one">Probeer uw biometrie opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Probeer gezichtsherkenning opnieuw over %d seconden</item>
+        <item quantity="one">Probeer gezichtsherkenning opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Probeer uw vingerafdruk opnieuw over %d seconden</item>
+        <item quantity="one">Probeer uw vingerafdruk opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Probeer Intelligente scan opnieuw over %d seconden</item>
+        <item quantity="one">Probeer Intelligente scan opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Probeer irisherkenning opnieuw over %d seconden</item>
+        <item quantity="one">Probeer irisherkenning opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Probeer opnieuw over %d minuten</item>
+        <item quantity="one">Probeer het opnieuw over %d minuut</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Probeer opnieuw over %d seconden</item>
+        <item quantity="one">Probeer het opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d onjuiste pogingen om uw biometrische gegevens te verifiëren. Probeer het opnieuw over %2$d seconden.</item>
+        <item quantity="one">%1$d onjuiste pogingen om uw biometrische gegevens te verifiëren. Probeer het opnieuw over %2$d seconde.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d onjuiste pogingen om uw gezicht te verifiëren. Probeer het opnieuw over %2$d seconden.</item>
+        <item quantity="one">%1$d onjuiste pogingen om uw gezicht te verifiëren. Probeer het opnieuw over %2$d seconde.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d onjuiste pogingen om uw vingerafdrukken te verifiëren. Probeer het opnieuw over %2$d seconden.</item>
+        <item quantity="one">%1$d onjuiste pogingen om uw vingerafdrukken te verifiëren. Probeer het opnieuw over %2$d seconde.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d onjuiste pogingen om Intelligente scan te verifiëren. Probeer het opnieuw over %2$d seconden.</item>
+        <item quantity="one">%1$d onjuiste pogingen om Intelligente scan te verifiëren. Probeer het opnieuw over %2$d seconde.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d onjuiste pogingen om uw irissen te verifiëren. Probeer het opnieuw over %2$d seconden.</item>
+        <item quantity="one">%1$d onjuiste pogingen om uw irissen te verifiëren. Probeer het opnieuw over %2$d seconde.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Nog %s meldingen in deze groep.</item>
+        <item quantity="one">Nog %s melding in deze groep.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d apparaten</item>
+        <item quantity="one">%d apparaat</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Je kunt maximaal %d gebruikers toevoegen.</item>
+        <item quantity="one">Er kan maar één gebruiker worden gemaakt.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d apparaten verbonden</item>
+        <item quantity="one">%1$d apparaat verbonden</item>
+    </plurals>
+</resources>

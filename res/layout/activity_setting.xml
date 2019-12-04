@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/top_area" android:background="@color/sesl_round_and_bgcolor_light" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textAppearance="@style/SmartPopupViewSettingDescriptionText" android:id="@id/explain_for_floating_noti" android:paddingTop="@dimen/settings_manage_notification_desc_top_margin" android:paddingBottom="@dimen/settings_manage_notification_desc_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_smart_pop_up_view_description" android:layout_alignParentTop="true" android:paddingStart="@dimen/settings_description_side_padding" android:paddingEnd="@dimen/settings_description_side_padding" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:id="@id/suggest_area" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="@style/SmartPopupViewSettingSubheaderText" android:background="@color/sesl_round_and_bgcolor_light" android:paddingTop="@dimen/settings_sub_header_text_margin" android:paddingBottom="@dimen/settings_sub_header_text_margin" android:layout_width="fill_parent" android:layout_height="@dimen/settings_sub_header_height" android:text="@string/str_suggested_app" android:paddingStart="@dimen/settings_description_side_padding" />
+                    <androidx.apppickerview.widget.AppPickerView android:id="@id/suggested_package_list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <View android:background="@color/sesl_round_and_bgcolor_light" android:layout_width="fill_parent" android:layout_height="20.0dip" />
+                </LinearLayout>
+                <androidx.apppickerview.widget.AppPickerView android:id="@id/package_list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

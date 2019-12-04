@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">ປຸກໃນ %d ວັນ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">ປຸກໃນ %d ຊົ່ວໂມງ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">ປຸກໃນ %d ນາທີ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">ເຫຼືອຄວາມພະຍາຍາມອີກ %d ຄັ້ງ.</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d ຍັງເຫລືອຄວາມພະຍາຍາມ)</item>
+        <item quantity="one">(ຍັງເຫລືອຄວາມພະຍາຍາມ 1 ຄັ້ງ)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ຊົ່ວໂມງ.</item>
+        <item quantity="one">ມີຄວາມພະຍາຍາມທີ່ຈະປົດລັອກໂທລະສັບນີ້ %d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ 1 ຊົ່ວໂມງ.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ນາທີ.</item>
+        <item quantity="one">ມີຄວາມພະຍາຍາມທີ່ຈະປົດລັອກໂທລະສັບນີ້ %d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ 1 ນາທີ.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+        <item quantity="one">ໄດ້ມີຄວາມພະຍາຍາມທີ່ຈະປົດລັອກໂທລະສັບນີ້ %d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ 1 ວິນາທີ.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">ລອງໄບໂອແມັດທຣິກຂອງທ່ານອີກຄັ້ງໃນ %d ວິນາທີ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">ລອງການຈົດຈຳໃບໜ້າອີກຄັ້ງໃນ %d ວິນາທີ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">ລອງລາຍນິ້ວມືຂອງທ່ານອີກຄັ້ງໃນ %d ວິນາທີ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">ລອງການສະແກນທີ່ສະຫຼາດອີກຄັ້ງໃນ %d ວິນາທີ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">ລອງການຈົດຈຳມ່ານຕາອີກຄັ້ງໃນ %d ວິນາທີ</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">ລອງໃໝ່ອີກໃນ %d ນາທີ</item>
+        <item quantity="one">ລອງໃໝ່ອີກໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">ລອງໃໝ່ອີກໃນ %d ວິນາທີ</item>
+        <item quantity="one">ລອງໃໝ່ອີກໃນ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">ຄວາມພະຍາຍາມກວດສອບໄບ​ໂອ​ແມັດ​ທ​ຣິກ​ບໍ່​ຖືກ​ຕ້ອງ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+        <item quantity="one">ຄວາມພະຍາຍາມກວດສອບໄບ​ໂອ​ແມັດ​ທ​ຣິກ​ບໍ່​ຖືກ​ຕ້ອງ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">ພະຍາຍາມກວດສອບໃບ​ໜ້າ​ຂອງ​ທ່ານບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+        <item quantity="one">ພະຍາຍາມກວດສອບໃບ​ໜ້າ​ຂອງ​ທ່ານບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">ຄວາມພະຍາຍາມກວດສອບລາຍນິ້ວມືບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+        <item quantity="one">ຄວາມພະຍາຍາມກວດສອບລາຍນິ້ວມືບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">ພະ​ຍາ​ຍາມກວດ​ສອບ​ການ​ສະ​ແກນ​ທີ່​ສະຫຼາດ​ບໍ່​ຖືກ​ຕ້ອງ %1$d ຄັ້ງ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+        <item quantity="one">ພະຍາຍາມກວດສອບການສະແກນທີ່ສະຫຼາດບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງແລ້ວ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">ພະຍາຍາມກວດສອບມ່ານ​ຕາ​ຂອງ​ທ່ານບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+        <item quantity="one">ພະຍາຍາມກວດສອບມ່ານ​ຕາ​ຂອງ​ທ່ານບໍ່ຖືກຕ້ອງ %1$d ຄັ້ງ. ລອງໃໝ່ອີກໃນ %2$d ວິນາທີ.</item>
+    </plurals>
+</resources>

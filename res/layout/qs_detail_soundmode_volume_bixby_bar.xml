@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.qs.tiles.SoundModeTileVolumeBixbyBar android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/qs_detail_soundmode_volume_bar" />
+</com.android.systemui.qs.tiles.SoundModeTileVolumeBixbyBar>

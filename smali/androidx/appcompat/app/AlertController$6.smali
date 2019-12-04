@@ -1,0 +1,44 @@
+.class Landroidx/appcompat/app/AlertController$6;
+.super Ljava/lang/Object;
+.source "AlertController.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Landroidx/appcompat/app/AlertController;->setScrollIndicators(Landroid/view/ViewGroup;Landroid/view/View;II)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Landroidx/appcompat/app/AlertController;
+
+.field final synthetic val$bottom:Landroid/view/View;
+
+.field final synthetic val$top:Landroid/view/View;
+
+
+# virtual methods
+.method public run()V
+    .locals 2
+
+    .line 702
+    iget-object v0, p0, Landroidx/appcompat/app/AlertController$6;->this$0:Landroidx/appcompat/app/AlertController;
+
+    iget-object v0, v0, Landroidx/appcompat/app/AlertController;->mListView:Landroid/widget/ListView;
+
+    iget-object v1, p0, Landroidx/appcompat/app/AlertController$6;->val$top:Landroid/view/View;
+
+    iget-object p0, p0, Landroidx/appcompat/app/AlertController$6;->val$bottom:Landroid/view/View;
+
+    invoke-static {v0, v1, p0}, Landroidx/appcompat/app/AlertController;->manageScrollIndicators(Landroid/view/View;Landroid/view/View;Landroid/view/View;)V
+
+    return-void
+.end method

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarma dentro de %d días</item>
+        <item quantity="one">Alarma dentro de %d día</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarma dentro de %d horas</item>
+        <item quantity="one">Alarma dentro de %d hora</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarma dentro de %d minutos</item>
+        <item quantity="one">Alarma dentro de %d minuto</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Quedan %d intentos.</item>
+        <item quantity="one">Queda %d intento.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d intentos restantes)</item>
+        <item quantity="one">(1 intento restante)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Realizáronse %1$d intentos de desbloquear este teléfono. Téntao outra vez dentro de %2$d horas.</item>
+        <item quantity="one">Realizáronse %d intentos de desbloquear este teléfono. Téntao outra vez dentro de 1 hora.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Realizáronse %1$d intentos de desbloquear este teléfono. Téntao outra vez dentro de %2$d minutos.</item>
+        <item quantity="one">Realizáronse %d intentos de desbloquear este teléfono. Téntao outra vez dentro de 1 minuto.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Realizáronse %1$d intentos de desbloquear este teléfono. Téntao outra vez dentro de %2$d segundos.</item>
+        <item quantity="one">Realizáronse %d intentos de desbloquear este teléfono. Téntao outra vez dentro de 1 segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Téntao outra vez cos teus datos biométricos en %d segundos</item>
+        <item quantity="one">Téntao outra vez cos teus datos biométricos en %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Volve probar o recoñecemento de cara en %d segundos</item>
+        <item quantity="one">Volve probar o recoñecemento de cara en %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Téntao outra vez coa túa impresión dixital en %d segundos</item>
+        <item quantity="one">Téntao outra vez coa túa impresión dixital en %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Volve probar Escaneo intelixente en %d segundos</item>
+        <item quantity="one">Volve probar Escaneo intelixente en %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Volve probar o recoñecemento de iris en %d segundos</item>
+        <item quantity="one">Volve probar o recoñecemento de iris en %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Téntao outra vez en %d minutos</item>
+        <item quantity="one">Téntao outra vez en %d minuto</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Téntao outra vez en %d segundos</item>
+        <item quantity="one">Téntao outra vez en %d segundo</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Realizáronse %1$d intentos incorrectos de verificar os datos biométricos. Téntao outra vez dentro de %2$d segundos.</item>
+        <item quantity="one">Realizáronse %1$d intentos incorrectos de verificar os datos biométricos. Téntao outra vez dentro de %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Realizáronse %1$d intentos incorrectos de verificar a túa cara. Téntao outra vez dentro de %2$d segundos.</item>
+        <item quantity="one">Realizáronse %1$d intentos incorrectos de verificar a túa cara. Téntao outra vez dentro de %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Realizáronse %1$d intentos incorrectos de verificar as impresións dixitais. Téntao outra vez dentro de %2$d segundos.</item>
+        <item quantity="one">Realizáronse %1$d intentos incorrectos de verificar as impresións dixitais. Téntao outra vez dentro de %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Realizáronse %1$d intentos incorrectos de verificar Escaneo intelixente. Téntao outra vez dentro de %2$d segundos.</item>
+        <item quantity="one">Realizáronse %1$d intentos incorrectos de verificar Escaneo intelixente. Téntao outra vez dentro de %2$d segundo.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Realizáronse %1$d intentos incorrectos de verificar os teu iris. Téntao outra vez dentro de %2$d segundos.</item>
+        <item quantity="one">Realizáronse %1$d intentos incorrectos de verificar os teu iris. Téntao outra vez dentro de %2$d segundo.</item>
+    </plurals>
+</resources>

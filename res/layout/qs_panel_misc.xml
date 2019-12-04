@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="end|center" android:layout_width="fill_parent" android:layout_height="@dimen/qs_footer_height" android:layout_marginBottom="@dimen/sec_qs_panel_misc_bottom_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/qs_panel_misc_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <include layout="@layout/qs_misc_container" />
+    </LinearLayout>
+</RelativeLayout>

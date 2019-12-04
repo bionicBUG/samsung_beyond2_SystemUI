@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">%d दिनपछिको एउटा अलार्म छ</item>
+        <item quantity="one">%d दिनपछिको एउटा अलार्म छ</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">%d घण्टापछिको एउटा अलार्म छ</item>
+        <item quantity="one">%d घण्टापछिको एउटा अलार्म छ</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">%d मिनटपछिको एउटा अलार्म छ</item>
+        <item quantity="one">%d मिनटपछिको एउटा अलार्म छ</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d प्रयासहरू बाँकी छन्।</item>
+        <item quantity="one">%d प्रयास बाँकी छ।</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d प्रयासहरू बाँकी)</item>
+        <item quantity="one">(1 प्रयास बाँकी)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">यो फोन अनलक गर्ने %1$d प्रयासहरू गरिएका छन्। %2$d घण्टामा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">यो फोन अनलक गर्ने %d प्रयासहरू गरिएका छन्। 1 घण्टामा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">यो फोन अनलक गर्ने %1$d प्रयासहरू गरिएका छन्। %2$d मिनटमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">यो फोन अनलक गर्ने %d प्रयासहरू गरिएका छन्। 1 मिनटमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">यो फोन अनलक गर्ने %1$d प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">यस फोन अनलक गर्ने %d प्रयासहरू गरिएका छन्। 1 सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d सेकेन्डमा फेरि आफ्नो बायोमेट्रिक्स प्रयोग गरी हेर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्डमा फेरि आफ्नो बायोमेट्रिक्स प्रयोग गरी हेर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d सेकेन्डमा फेरि अनुहारको पहिचान गर्ने सुविधा प्रयोग गरी हेर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्डमा फेरि अनुहारको पहिचान गर्ने सुविधा प्रयोग गरी हेर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d सेकेन्डमा फेरि आफ्नो फिंगरप्रिन्ट प्रयोग गरी हेर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्डमा फेरि आफ्नो फिंगरप्रिन्ट प्रयोग गरी हेर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d सेकेन्डमा फेरि इन्टेलिजेन्ट स्क्यान सुविधा प्रयोग गरी हेर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्डमा फेरि इन्टेलिजेन्ट स्क्यान सुविधा प्रयोग गरी हेर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d सेकेन्डमा फेरि आइरिसको पहिचान गर्ने सुविधा प्रयोग गरी हेर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्डमा फेरि आइरिसको पहिचान गर्ने सुविधा प्रयोग गरी हेर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d मिनटमा फेरि प्रयास गर्नुहोस्</item>
+        <item quantity="one">%d मिनटमा फेरि प्रयास गर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d सेकेण्डमा फेरि प्रयास गर्नुहोस्</item>
+        <item quantity="one">%d सेकेन्डमा फेरि प्रयास गर्नुहोस्</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">तपाईको बायोमेट्रिक प्रमाणीकरण गर्ने %1$d गलत प्रयासहरू गरिका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">बायोमेट्रिक प्रमाणीकरण गर्ने %1$d गलत प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">आफ्नो अनुहार प्रमाणित गर्ने %1$d गलत प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">आफ्नो अनुहार प्रमाणित गर्ने %1$d गलत प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">फिंगरप्रिन्टहरू प्रमाणीकरण गर्ने %1$d गलत प्रयासहरू गरिका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">फिंगरप्रिन्टहरू प्रमाणीकरण गर्ने %1$d गलत प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">इन्टेलिजेन्ट स्क्यान प्रमाणित गर्ने %1$d गलत प्रयासहरू गरिका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">इन्टेलिजेन्ट स्क्यान प्रमाणित गर्ने %1$d गलत प्रयासहरू गरिए। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">आफ्ना आइरिसहरू प्रमाणित गर्ने %1$d गलत प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+        <item quantity="one">आफ्ना आइरिसहरू प्रमाणित गर्ने %1$d गलत प्रयासहरू गरिएका छन्। %2$d सेकेन्डमा फेरि प्रयास गर्नुहोस्।</item>
+    </plurals>
+</resources>

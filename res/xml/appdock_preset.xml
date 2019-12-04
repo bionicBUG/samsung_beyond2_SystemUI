@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appdock_presets>
+    <preset>
+        <packageName>com.sec.android.app.sbrowser</packageName>
+        <activityName>com.sec.android.app.sbrowser.SBrowserMainActivity</activityName>
+    </preset>
+    <preset>
+        <packageName>com.samsung.android.app.notes</packageName>
+        <activityName>com.samsung.android.app.notes.memolist.MemoListActivity</activityName>
+    </preset>
+    <preset>
+        <packageName>com.samsung.android.calendar</packageName>
+        <activityName>com.samsung.android.app.calendar.activity.MainActivity</activityName>
+    </preset>
+    <preset>
+        <packageName>com.google.android.youtube</packageName>
+        <activityName>com.google.android.youtube.app.honeycomb.Shell$HomeActivity</activityName>
+    </preset>
+    <preset>
+        <packageName>com.android.chrome</packageName>
+        <activityName>com.google.android.apps.chrome.Main</activityName>
+    </preset>
+    <preset>
+        <packageName>com.facebook.katana</packageName>
+        <activityName>com.facebook.katana.LoginActivity</activityName>
+    </preset>
+    <preset>
+        <packageName>com.sec.android.gallery3d</packageName>
+        <activityName>com.samsung.android.gallery.app.activity.GalleryActivity</activityName>
+    </preset>
+    <preset>
+        <packageName>com.sec.android.app.popupcalculator</packageName>
+        <activityName>com.sec.android.app.popupcalculator.Calculator</activityName>
+    </preset>
+    <preset>
+        <packageName>com.android.settings</packageName>
+        <activityName>com.android.settings.Settings</activityName>
+    </preset>
+</appdock_presets>

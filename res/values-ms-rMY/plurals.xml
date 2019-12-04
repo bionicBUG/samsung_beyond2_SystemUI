@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Penggera dalam %d hari</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Penggera dalam %d jam</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Penggera dalam %d minit</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d percubaan lagi.</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d percubaan yang tinggal)</item>
+        <item quantity="one">(1 percubaan yang tinggal)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Terdapat %1$d percubaan untuk membuka kunci telefon ini. Cuba lagi dalam %2$d jam.</item>
+        <item quantity="one">Terdapat %d percubaan untuk membuka kunci telefon ini. Cuba lagi dalam 1 jam.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Terdapat %1$d percubaan untuk membuka kunci telefon ini. Cuba lagi dalam %2$d minit.</item>
+        <item quantity="one">Terdapat %d percubaan untuk membuka kunci telefon ini. Cuba lagi dalam 1 minit.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Terdapat %1$d percubaan untuk membuka kunci telefon ini. Cuba lagi dalam masa %2$d saat.</item>
+        <item quantity="one">Terdapat %d percubaan untuk membuka kunci telefon ini. Cuba lagi dalam masa 1 saat.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Cuba biometrik anda sekali lagi dalam %d saat</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Cuba pengecaman muka sekali lagi dalam %d saat</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Cuba cap jari anda sekali lagi dalam %d saat</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Cuba Imbas Pintar anda sekali lagi dalam %d saat</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Cuba pengecaman iris anda sekali lagi dalam %d saat</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Cuba lagi dalam %d minit</item>
+        <item quantity="one">Cuba lagi selepas %d minit</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Cuba lagi dalam %d saat</item>
+        <item quantity="one">Cuba lagi selepas %d saat</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d percubaan yang salah untuk mengesahkan biometrik anda. Cuba lagi dalam masa %2$d saat.</item>
+        <item quantity="one">%1$d percubaan yang salah untuk mengesahkan biometrik. Cuba lagi dalam masa %2$d saat.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d percubaan yang salah untuk mengesahkan muka anda. Cuba lagi dalam masa %2$d saat.</item>
+        <item quantity="one">%1$d percubaan yang salah untuk mengesahkan muka anda. Cuba lagi dalam masa %2$d saat.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d percubaan yang salah untuk mengesahkan cap jari. Cuba lagi dalam masa %2$d saat.</item>
+        <item quantity="one">%1$d percubaan yang salah untuk mengesahkan cap jari. Cuba lagi dalam masa %2$d saat.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d percubaan yang salah untuk mengesahkan Imbas Pintar. Cuba lagi dalam masa %2$d saat.</item>
+        <item quantity="one">%1$d percubaan yang salah untuk mengesahkan Imbas Pintar. Cuba lagi dalam masa %2$d saat.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d percubaan yang salah untuk mengesahkan iris anda. Cuba lagi dalam masa %2$d saat.</item>
+        <item quantity="one">%1$d percubaan yang salah untuk mengesahkan iris anda. Cuba lagi dalam masa %2$d saat.</item>
+    </plurals>
+</resources>

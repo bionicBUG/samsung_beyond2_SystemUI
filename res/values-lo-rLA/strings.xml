@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_brightness_detail_button">ແຜງການຕັ້ງຄ່າຄວາມແຈ້ງ</string>
+    <string name="accessibility_button">ປຸ່ມ</string>
+    <string name="accessibility_display_daltonizer_preference_title">ການເຊື່ອມຕໍ່ສີ</string>
+    <string name="accessibility_phone_four_bars">ສັນຍານໂທລະສັບສີ່ຂີດ</string>
+    <string name="accessibility_qspanel_brightness_detail_button">ແຜງການຕັ້ງຄ່າຄວາມແຈ້ງ</string>
+    <string name="agree">ເຫັນດີ</string>
+    <string name="airplane_mode_show_popup_message">ການເປີດໂໝດເຮືອບິນຈະປິດໃຊ້ງານຄຸນສົມບັດເຄືອຂ່າຍທັງໝົດ ລວມທັງ ການໂທ, ຂໍ້ຄວາມ, ຂໍ້ມູນມືຖື, Wi-Fi, ແລະ ບລູທູດ. ເພື່ອໃຊ້ Wi-Fi ແລະບລູທູດຕໍ່, ເປີດພວກມັນໃນການຕັ້ງຄ່າ ຫຼື ໃນແຜງການແຈ້ງເຕືອນ.</string>
+    <string name="airplane_mode_show_popup_message_cmcc">ໂໝດການບິນ ຊ່ວຍໃຫ້ທ່ານປິດການໂທ, ສົ່ງຂໍ້ຄວາມ, ແລະຄຸນສົມບັດເຄືອຂ່າຍຂໍ້ມູນ. ມັນຍັງປິດຄຸນສົມບັດຂອງຄວາມສາມາດເຊື່ອມຕໍ່ເຊັ່ນ: Wi-Fi ແລະ ບລູທູດ. ເພື່ອທີ່ຈະໃຊ້ Wi-Fi ແລະ ບລູທູດ, ເປີດມັນຢູ່ໃນການຕັ້ງຄ່າ ຫຼືຢູ່ໃນແຜງການແຈ້ງເຕືອນ.</string>
+    <string name="airplane_mode_show_popup_message_lte_without_call_feature_tablet">ທ່ານຈະບໍ່ສາມາດໃຊ້ຂໍ້ມູນມືຖືໄດ້.</string>
+    <string name="airplane_mode_show_popup_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_show_popup_message_wifi">Wi-Fi ແລະ ບລູທູດຈະຖືກປິດ, ແຕ່ທ່ານສາມາດເປີດພວກມັນໄດ້ອີກໃນການຕັ້ງຄ່າ ຫຼື ໃນແຜງການຕັ້ງຄ່າດ່ວນ.</string>
+    <string name="airplane_mode_show_popup_safelock">ບໍ່ສາມາດເປີດໃຊ້ງານໂໝດການບິນ ໃນຂະນະທີ່ບັອກປິດ ໃນຂະນະທີ່ລັອກເປີດໃຊ້ງານ. ລອງໃໝ່ອີກຫຼັງຈາກປົດລັອກໜ້າຈໍ.</string>
+    <string name="airplane_mode_show_popup_summary">ການເປີດໂໝດເຮືອບິນຈະປິດໃຊ້ງານຄຸນສົມບັດເຄືອຂ່າຍທັງໝົດ ລວມທັງ ການໂທ, ຂໍ້ຄວາມ, ຂໍ້ມູນມືຖື, Wi-Fi, ແລະ ບລູທູດ. ເພື່ອໃຊ້ Wi-Fi ແລະບລູທູດຕໍ່, ເປີດພວກມັນໃນການຕັ້ງຄ່າ ຫຼື ໃນແຜງການແຈ້ງເຕືອນ.</string>
+    <string name="airplane_mode_show_popup_summary_lte_without_call_feature_tablet">ປິດຂໍ້ມູນມືຖື.</string>
+    <string name="airplane_mode_show_popup_summary_wifi_tablet">ປິດ Wi-Fi ແລະ ບລູທູດ.</string>
+    <string name="airplane_mode_show_popup_title">ເປີດໂໝດເຮືອບິນບໍ?</string>
+    <string name="airplane_mode_show_popup_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_show_toast_turn_on_wifi_for_wificalling">ເປີດ Wi-Fi ເພື່ອໃຊ້ການໂທ Wi-Fi.</string>
+    <string name="airplane_mode_toast_impossible_during_call">ບໍ່ສາມາດເປີດໂໝດເຮືອບິນໃນລະຫວ່າງການໂທໄດ້.</string>
+    <string name="allow_notifications_guide_text">ສະແດງການແຈ້ງເຕືອນ</string>
+    <string name="app_label">UI ຂອງລະບົບ</string>
+    <string name="assistance_app_setting_alert_dialog_title">Select an app to open when you press and hold the Home key. To change the selected app later, go to Device assistance app in Settings.</string>
+    <string name="assistance_app_setting_item_none">ບໍ່ມີ</string>
+    <string name="battery_cable_charging_from_wireless_to_cable_text">ການສັບປ່ຽນຈາກການສາກດ້ວຍໄວເລສໄປເປັນການສາກດ້ວຍສາຍສຽບ</string>
+    <string name="battery_cable_charging_title">ກໍາລັງສາກດ້ວຍສາຍເຄເບິ້ລ</string>
+    <string name="battery_charging_level_and_time_text">"ກໍາລັງສາກ: %1$d%%
+(ປະ​ມານ %2$s ຈົນ​ກ່​ວາ​ຈະ​ສາກ​ເຕັມ)"</string>
+    <string name="battery_charging_level_text">ກໍາລັງສາກ: %d%%</string>
+    <string name="battery_charging_time_text">(%s ຈົນກວ່າສາກເຕັມ)</string>
+    <string name="battery_charging_title">ກໍາລັງສາກ</string>
+    <string name="battery_fast_charging_title">ກໍາລັງສາກດ່ວນ</string>
+    <string name="battery_fast_charging_title_chn">ການສາກຂັ້ນສູງ</string>
+    <string name="battery_fast_wireless_charging_title">ການສາກໄວເລສທີ່ໄວ</string>
+    <string name="battery_fast_wireless_charging_title_chn">ການສາກແບບໄວເລສຂັ້ນສູງ</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_phone">"ການສາກຢຸດແລ້ວ. ອຸນຫະພູມໃນໂທລະສັບຂອງທ່ານສູງເກີນໄປ. ໃຫ້ລະວັງ ເມື່ອຖອດເຄື່ອງສາກ. ມັນອາດຈະຮ້ອນຫຼາຍ.
+
+ການຖອດເຄື່ອງສາກແລະການເຊື່ອມຕໍ່ຄືນໃໝ່ອາດຈະຊ່ວຍໃຫ້ການສາກສືບຕໍ່ຢ່າງເປັນປົກກະຕິ. ຖ້າຍັງມີຄວາມຮ້ອນຢູ່ເກີນໄປ, ຕິດຕໍ່ຫາຝ່າຍບໍລິການລູກຄ້າ ເພາະວ່າອາດຈະມີຄວາມສ່ຽງຂອງໄຟໄໝ້ ຫຼືມີການບາດເຈັບ."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_tablet">"ການສາກໄດ້ຢຸດແລ້ວ. ອຸນຫະພູມໃນແທັບເລັດຂອງທ່ານຮ້ອນເກີນໄປ. ໃຫ້ລະວັງ ເມື່ອຖອດເຄື່ອງສາກ. ມັນອາດຈະຮ້ອນຫຼາຍ.
+
+ການຖອດເຄື່ອງສາກແລະການເຊື່ອມຕໍ່ຄືນໃໝ່ອາດຈະຊ່ວຍໃຫ້ການສາກສືບຕໍ່ຢ່າງເປັນປົກກະຕິ. ຖ້າຍັງມີຄວາມຮ້ອນຢູ່ເກີນໄປ, ຕິດຕໍ່ຫາຝ່າຍບໍລິການລູກຄ້າ ເພາະວ່າອາດຈະມີຄວາມສ່ຽງຂອງໄຟໄໝ້ ຫຼືມີການບາດເຈັບ."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_title">ຖອດເຄື່ອງສາກ</string>
+    <string name="battery_health_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="battery_health_interruption_by_terminal_open_text">ບໍ່ສາມາດສາກເຄື່ອງຂອງທ່ານໄດ້. ໃຫ້ແນ່ໃຈວ່າ ທ່ານກໍາລັງໃຊ້ແບັດເຕີຣີ ແລະເຄື່ອງສາກທີ່ເຂົ້າກັບຊໍາຊຸງ ແລະເຄື່ອງຂອງທ່ານໄດ້ເຊື່ອມຕໍ່ກັບເຄື່ອງສາກຢ່າງຖືກຕ້ອງ.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_phone">ອຸນຫະພູມໃນໂທລະສັບຂອງທ່ານສູງເກີນໄປ. ການສາກຈະສືບຕໍ່ເມື່ອອຸນຫະພູມກັບສູ່ປົກກະຕິ.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_tablet">ອຸນຫະພູມໃນແທັບເລັດຂອງທ່ານສູງເກີນໄປ. ການສາກຈະສືບຕໍ່ເມື່ອອຸນຫະພູມກັບສູ່ປົກກະຕິ.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_phone">ອຸນຫະພູມໃນໂທລະສັບຂອງທ່ານຕ່ຳເກີນໄປ. ການສາກຈະສືບຕໍ່ເມື່ອອຸນຫະພູມກັບສູ່ປົກກະຕິ.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_tablet">ອຸນຫະພູມໃນແທັບເລັດຂອງທ່ານຕ່ຳເກີນໄປ. ການສາກຈະສືບຕໍ່ເມື່ອອຸນຫະພູມກັບສູ່ປົກກະຕິ.</string>
+    <string name="battery_health_interruption_title">ການສາກຢຸດແລ້ວ</string>
+    <string name="battery_info_status_charging">ກໍາລັງສາກໄຟ</string>
+    <string name="battery_info_status_discharging">ບໍ່ສາກ</string>
+    <string name="battery_info_status_full">ເຕັມ</string>
+    <string name="battery_low_sec_app_name">ການດູແລອຸປະກອນ</string>
+    <string name="battery_low_sec_body_phone">ສາກໂທລະສັບຂອງທ່ານ ຫຼື ແຕະທີ່ນີ້ເພື່ອເປີດໂໝດປະຢັດໄຟ.</string>
+    <string name="battery_low_sec_body_phone_psm">ສາກໂທລະສັບຂອງທ່ານ.</string>
+    <string name="battery_low_sec_body_tablet">ສາກແທັບເລັດຂອງທ່ານ ຫຼື ແຕະທີ່ນີ້ເພື່ອເປີດໂໝດປະຢັດໄຟ.</string>
+    <string name="battery_low_sec_body_tablet_psm">ສາກແທັບເລັດຂອງທ່ານ.</string>
+    <string name="battery_low_sec_noti_channel">ແບັດເຕີຣີອ່ອນ</string>
+    <string name="battery_low_sec_title">ໄຟແບັດເຕີຣີ %d%%</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger">ໃຊ້ເຄື່ອງສາກທີ່ມາກັບໂທລະສັບຂອງທ່ານ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_jpn">ໃຊ້ເຄື່ອງສາກ 9V ສຳລັບການສາກທີ່ໄວຂຶ້ນ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_tablet">ໃຊ້ເຄື່ອງສາກທີ່ມາກັບແທັບເລັດຂອງທ່ານ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_connection">ກວດເບິ່ງໃຫ້ແນ່ໃຈວ່າສາຍ ແລະ ເຄື່ອງສາກຖືກເຊື່ອມຕໍ່ຢ່າງຖືກຕ້ອງ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_cover">ຖ້າທ່ານກຳລັງໃຊ້ເຄສຝາປິດຢູ່, ລອງເອົາມັນອອກໄປ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_damage">ກວດເບິ່ງໃຫ້ແນ່ໃຈວ່າສາຍບໍ່ໄດ້ຮັບຄວາມເສຍຫາຍ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_faster">ສຳລັບການສາກທີ່ໄວຂຶ້ນ:</string>
+    <string name="battery_not_fully_connected_charging_popup_title">ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄື່ອງສາກຂອງທ່ານ</string>
+    <string name="battery_not_fully_connected_charging_title">ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄື່ອງສາກຂອງທ່ານ</string>
+    <string name="battery_slow_charging_text">ເພື່ອສາກໄວຂຶ້ນ, ໃຊ້ເຄື່ອງສາກແທ້.</string>
+    <string name="battery_slow_charging_title">ອຸປະກອນກຳລັງສາກຊ້າໆ</string>
+    <string name="battery_slow_charging_toast_text">To charge faster, use the charger and cable that were provided with this phone</string>
+    <string name="battery_slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_phone">ໂທລະສັບຂອງທ່ານຮ້ອນເກີນໄປທີ່ຈະສາກເຕັມ. ຂໍແນະນຳໃຫ້ສາກມັນໃນບ່ອນໃດໜຶ່ງທີ່ເຢັນກວ່າ.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_tablet">ແທັບເລັດຂອງທ່ານຮ້ອນເກີນໄປທີ່ຈະສາກເຕັມ. ຂໍແນະນຳໃຫ້ສາກມັນໃນບ່ອນໃດໜຶ່ງທີ່ເຢັນກວ່າ.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_phone">ການສາກໄດ້ຊ້າລົງແລ້ວ ເພາະວ່າໂທລະສັບຂອງທ່ານເຢັນ. ມັນຈະປ່ຽນກັບໄປເປັນຄວາມໄວປົກກະຕິ ຖ້າໂທລະສັບຂອງທ່ານອຸ່ນຂຶ້ນ.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_tablet">ການສາກໄດ້ຊ້າລົງແລ້ວ ເພາະວ່າແທັບເລັດຂອງທ່ານເຢັນ. ມັນຈະປ່ຽນກັບໄປເປັນຄວາມໄວປົກກະຕິ ຖ້າແທັບເລັດຂອງທ່ານອຸ່ນຂຶ້ນ.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text">ການສາກຈະປ່ຽນກັບໄປເປັນຄວາມໄວປົກກະຕິ ຖ້າໂທລະສັບຂອງທ່ານອຸ່ນຂຶ້ນ.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text_tablet">ການສາກຈະປ່ຽນກັບໄປເປັນຄວາມໄວປົກກະຕິ ຖ້າໂທລະສັບຂອງທ່ານອຸ່ນຂຶ້ນ.</string>
+    <string name="battery_swelling_mode_low_temp_popup_title">ການສາກຊ້າລົງແລ້ວ ເນື່ອງຈາກມີອຸນຫະພູມຕ່ຳ</string>
+    <string name="battery_swelling_mode_noti_title">ອຸປະກອນກຳລັງສາກຊ້າໆ</string>
+    <string name="battery_wireless_charger_fod_text">ການສາກໄວເລສຖືກຢຸດຊົ່ວຄາວ. ລອງເອົາວັດຖຸແປກປອມ ຫຼື ເຄສທີ່ໜາອອກ ເຊິ່ງອາດຈະຢູ່ລະຫວ່າງເຄື່ອງສາກ ແລະ ໂທລະສັບຂອງທ່ານ.</string>
+    <string name="battery_wireless_charger_fod_title">ການສາກແບບໄຮ້ສາຍ​ຢຸດ​ແລ້ວ</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text">ການສາກແບບໄວເລສຢຸດຊົ່ວຄາວເພາະວ່າໂທລະສັບຂອງທ່ານຮ້ອນເກີນໄປ. ລອງໃໝ່ອີກເມື່ອມັນເຢັນລົງ.</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text_tablet">ການສາກແບບໄວເລສຢຸດຊົ່ວຄາວເພາະວ່າແທັບເລັດຂອງທ່ານຮ້ອນເກີນໄປ. ລອງໃໝ່ອີກເມື່ອມັນເຢັນລົງ.</string>
+    <string name="battery_wireless_charging_disconnect_text">ການສາກແບບໄຮ້ສາຍ​ຢຸດ​ແລ້ວ.</string>
+    <string name="battery_wireless_charging_from_cable_to_wireless_text">ການສັບປ່ຽນຈາກການສາກດ້ວຍສາຍສຽບໄປເປັນການສາກດ້ວຍໄວເລສ</string>
+    <string name="battery_wireless_charging_title">ການສາກແບບໄຮ້ສາຍ</string>
+    <string name="blue_light_disable_reason">ປິດ %1$s ເພື່ອໃຊ້ %2$s.</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">ເຊື່ອມຕໍ່ສຳລັບສຽງແລ້ວ</string>
+    <string name="bluetooth_a2dp_profile_summary_connected_battery">ເຊື່ອມຕໍ່ສຳລັບສຽງແລ້ວ, ແບັດເຕີຣີເຫຼືອຢູ່ %d%%</string>
+    <string name="bluetooth_connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="bluetooth_connected_battery">ເຊື່ອມຕໍ່ແລ້ວ, ແບັດເຕີຣີເຫຼືອຢູ່ %d%%</string>
+    <string name="bluetooth_connecting">ກໍາລັງເຊື່ອມຕໍ່…</string>
+    <string name="bluetooth_connecting_error_message">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບ %s ໄດ້.</string>
+    <string name="bluetooth_disable_avc_blacklist">ປິດບັນຊີດຳ AVC</string>
+    <string name="bluetooth_disconnect_message">ການເຊື່ອມຕໍ່ບລູທູດກັບ %s ຈົບແລ້ວ.</string>
+    <string name="bluetooth_disconnecting">ກຳລັງຕັດການເຊື່ອມຕໍ່…</string>
+    <string name="bluetooth_display_remote_device_name_after_pair">ຊື່ອຸປະກອນຈະປະກົດຂຶ້ນ ເມື່ອອຸປະກອນນີ້ຖືກເຊື່ອມຕໍ່.</string>
+    <string name="bluetooth_getting_remote_device_name">ກຳລັງຮັບເອົາຊື່ອຸປະກອນ…</string>
+    <string name="bluetooth_headset_profile_summary_connected">ເຊື່ອມຕໍ່ສໍາລັບການໂທແລ້ວ</string>
+    <string name="bluetooth_headset_profile_summary_connected_battery">ເຊື່ອມຕໍ່ສຳລັບການໂທແລ້ວ, ແບັດເຕີຣີເຫຼືອຢູ່ %d%%</string>
+    <string name="bluetooth_hid_connecting_error_summury">ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້. ລອງເຊື່ອມຕໍ່ຈາກ %s.</string>
+    <string name="bluetooth_hid_profile_summary_connected">ເຊື່ອມຕໍ່ເປັນ​ອຸ​ປະ​ກອນ​ປ້ອນຂໍ້ມູນແລ້ວ</string>
+    <string name="bluetooth_pairing">ກໍາລັງຈັບຄູ່…</string>
+    <string name="bluetooth_pairing_device_down_black_list_error_message">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບ %1$s ໄດ້. ກວດເບິ່ງການຕັ້ງຄ່າຂອງທ່ານໃນ %2$s ແລະລອງໃໝ່ອີກ.</string>
+    <string name="bluetooth_pairing_device_down_error_message">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບ %s ໄດ້.</string>
+    <string name="bluetooth_pairing_error_message">ບໍ່ສາມາດຈັບຄູ່ກັບ %s. ເບິ່ງໃຫ້ແນ່ໃຈວ່າມັນພ້ອມທີ່ຈະຈັບຄູ່ແລ້ວ.</string>
+    <string name="bluetooth_pairing_fail_restored">ວາງອຸປະກອນບລູທູດໃກ້ກັບໂທລະສັບ ຫຼື ກວດເບິ່ງວ່າມັນຢູ່ໃນໂໝດຈັບຄູ່ຫຼືບໍ່.</string>
+    <string name="bluetooth_pairing_fail_restored_tablet">ວາງອຸປະກອນບລູທູດໃກ້ກັບແທັບເລັດ ຫຼື ກວດເບິ່ງວ່າມັນຢູ່ໃນໂໝດຈັບຄູ່ຫຼືບໍ່.</string>
+    <string name="bluetooth_pairing_pin_error_message">ບໍ່ສາມາດຈັບຄູ່ກັບ %s. ເບິ່ງໃຫ້ແນ່ໃຈວ່າມັນພ້ອມທີ່ຈະຈັບຄູ່ແລ້ວ.</string>
+    <string name="bluetooth_pairing_rejected_error_message">ການຈັບຄູ່ຖືກປະຕິເສດໂດຍ %s.</string>
+    <string name="bluetooth_pan_connecting_error_summury">ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້. ເປີດການເຊື່ອມໂຍງບລູທູດໃນ %s.</string>
+    <string name="bluetooth_pan_nap_connected">ເຊື່ອມ​ຕໍ່​ແລ້ວ ເພື່ອ​ໃຫ້​ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ</string>
+    <string name="bluetooth_pan_nap_connecting_error_summury">ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">ການເຊື່ອມຕໍ່ອິນເຕີເນັດກັບທີ່ໃຊ້ຮ່ວມກັບກັບເຄື່ອງ</string>
+    <string name="bluetooth_pan_panu_connected">ເຊື່ອມ​ຕໍ່​ແລ້ວ ເພື່ອ​ເຂົ້າ​ຫາ​ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​ຂອ​ງ​ທ່ານ</string>
+    <string name="bluetooth_pan_profile_summary_use_for">ເປີດ​ການ​ເຊື່ອມ​ໂຍງບ​ລູ​ທູດຢູ່ໃນ​ອຸ​ປະ​ກອນ​ທີ່ຈັບ​ຄູ່​ແລ້ວ ເພື່ອ​ເຂົ້າ​ໃຊ້​ອິນ​ເຕີ​ເນັດ​ຈາກໂທລະສັບນີ້.</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">ເຊື່ອມຕໍ່ກັບເຄື່ອງແລ້ວເພື່ອການເຂົ້າອິນເຕີເນັດ.</string>
+    <string name="bluetooth_profile_a2dp">ສຽງ</string>
+    <string name="bluetooth_profile_headset">ການໂທ</string>
+    <string name="bluetooth_profile_hid">ອຸປະກອນປ້ອນຂໍ້ມູນ</string>
+    <string name="bluetooth_profile_map">ເຂົ້າໃຊ້ຂໍ້ຄວາມ</string>
+    <string name="bluetooth_profile_map_summary">ອະ​ນຸ​ຍາດ​ໃຫ້​ອຸ​ປະ​ກອນ​ທີ່​ຈັບ​ຄູ່​ແລ້ວ​ນີ້​ເຂົ້າໃຊ້ຂໍ້​ຄວາມ​ຂອງ​ທ່ານ.</string>
+    <string name="bluetooth_profile_pan">ການເຂົ້າອິນເຕີເນັດ</string>
+    <string name="bluetooth_profile_pan_nap">ການໃຊ້ການເຊື່ອມຕໍ່ອິນເຕີເນັດຮ່ວມກັນ</string>
+    <string name="bluetooth_profile_pbap">ການເຂົ້າໃຊ້ຜູ້ຕິດຕໍ່</string>
+    <string name="bluetooth_profile_pbap_tts">ຜູ້​ຕິດ​ຕໍ່ແລະ​ບັນ​ທຶກ​ໂທ​ລະ​ສັບ</string>
+    <string name="bluetooth_profile_sap_summary">ອະ​ນຸ​ຍາດ​ໃຫ້​ອຸ​ປະ​ກອນ​ທີ່​ຈັບ​ຄູ່​ແລ້ວ​ນີ້​ເຂົ້າໃຊ້ແຜ່ນ SIM ​ຂອງ​ທ່ານ.</string>
+    <string name="bluetooth_profile_textinput">ປ້ອນຂໍ້ຄວາມ</string>
+    <string name="bluetooth_spp_profile_summary_connected">ເຊື່ອມຕໍ່ຜ່ານ Serial Port Profile ແລ້ວ</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">ເຊື່ອມຕໍ່ສໍາລັບການໂທ ແລະ ສຽງແລ້ວ</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_battery">ເຊື່ອມຕໍ່ສຳລັບການໂທ ແລະ ສຽງແລ້ວ, ແບັດເຕີຣີເຫຼືອຢູ່ %d%%</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_dual_audio">(ສຽງຄູ່)</string>
+    <string name="bluetooth_summary_restored_device">ຈັບຄູ່ໃນໂທລະສັບກ່ອນໜ້າແລ້ວ</string>
+    <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">ບໍ່ສາມາດໃຊ້ການເຊື່ອມໂຍງບລູທູດໄດ້ ໃນຂະນະທີ່ຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi.</string>
+    <string name="bluetooth_tethering_error_with_wifi_phone_summary">ເພື່ອໃຊ້ການເຊື່ອມໂຍງບລູທູດ, ປິດ Wi-Fi ໃນໂທລະສັບນີ້.</string>
+    <string name="bluetooth_tethering_error_with_wifi_tablet_summary">ເພື່ອໃຊ້ການເຊື່ອມໂຍງບລູທູດ, ປິດ Wi-Fi ໃນແທັບເລັດນີ້.</string>
+    <string name="bubble_container_folder_description">ເປີດຄອນເທນເນີແລ້ວ.</string>
+    <string name="bubble_container_pointer_description">ກັບໄອຄອນມຸມມອງປັອບອັບ</string>
+    <string name="button_close">ປິດ</string>
+    <string name="button_yes">ຕົກລົງ</string>
+    <string name="byteShort">B</string>
+    <string name="cant_open_image_viewer_app">ບໍ່​ສາ​ມາດ​ເປີດແອັບ​ເຄື່ອງ​ເບິ່ງ​ຮູບ​ໄດ້.</string>
+    <string name="cant_open_image_viewer_app_in_emergency_mode">ບໍ່​ສາ​ມາດ​ເປີດແອັບ​ເຄື່ອງ​ເບິ່ງ​ຮູບ​ໃນ​ໂໝດ​ສຸກ​ເສີນ​ໄດ້.</string>
+    <string name="cant_open_image_viewer_app_in_mpsm">ບໍ່​ສາ​ມາດ​ເປີດ​ແອັບ​ເຄື່ອງ​ເບິ່ງ​ຮູບ​ໃນ​ໂໝດ​ປະ​ຢັດ​ໄຟ​ສູງ​ສຸດ​ໄດ້.</string>
+    <string name="cant_open_image_viewer_app_in_ps">ບໍ່​ສາ​ມາດ​ເປີດແອັບ​ເຄື່ອງ​ເບິ່ງ​ຮູບ​ໃນ​ %s.</string>
+    <string name="cant_open_photo_editor_in_ps">ບໍ່ສາມາດເປີດເຄື່ອງຕັດຕໍ່ຮູບໃນ %s.</string>
+    <string name="cant_open_ps">ບໍ່ສາມາດເປີດ %s.</string>
+    <string name="cant_screenshot_in_ps">ບໍ່​ສາ​ມາດ​ຖ່າຍ​ຮູບ​ໜ້າ​ຈໍ​ໃນ %s ໄດ້.</string>
+    <string name="card_crash">ແຜ່ນ SIM ຕາຍ</string>
+    <string name="clear_all_text">ລຶບ</string>
+    <string name="colour_adjustment_title">ການປັບສີ</string>
+    <string name="colour_inversion_title">ການ​ສະ​ຫຼັບ​ສີ</string>
+    <string name="colour_lens_title">ເລັນສສີ</string>
+    <string name="cooling_body">"ອຸ​ປະ​ກອນຂອງທ່ານກໍາລັງຮ້ອນເກີນໄປ. ຈະ​ໄດ້​ນຳ​ໃຊ້ຂັ້ນຕອນຕ່າງໆເພື່ອໃຫ້ມັນເຢັນລົງ.
+
+ທ່ານຍັງສາມາດໃຊ້ອຸປະກອນຂອງທ່ານໄດ້, ແຕ່:
+- ໜ້າຈໍອາດຈະມືດລົງ.
+- ອຸປະກອນອາດຈະຊ້າລົງ.
+- ການສາກອາດຈະຢຸດຊົ່ວຄາວ.
+
+ຫຼັງຈາກອຸປະກອນເຢັນລົງ, ການໃຊ້ງານຈະກັບຄືນສູ່ສະພາບປົກກະຕິໂດຍອັດຕະໂນມັດ."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="cooling_body_vzw">"Your phone is getting hot, so it's taking steps to cool itself down.
+
+You can still use it, but you may notice:
+- The screen might dim.
+- The phone might slow down.
+- Charging might pause.
+
+Your phone will return to normal once it cools down."</string>
+    <string name="cooling_noti_text">ແຕະທີ່ນີ້ເພື່ອເບິ່ງລາຍລະອຽດ.</string>
+    <string name="cooling_noti_text_vzw">ແຕະທີ່ນີ້ ເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ.</string>
+    <string name="cooling_popup_title">ອຸ​ປະ​ກອນກໍາລັງເຢັນລົງ</string>
+    <string name="cooling_title">ອຸປະກອນຮ້ອນເກີນໄປ</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="data_connection_error_data_roaming_off_body">ເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ຫຼື ເປີດການໂຣມມິງຂໍ້ມູນ.</string>
+    <string name="data_connection_error_flight_mode_on_body">ໂທລະສັບຂອງທ່ານບໍ່ຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi. ເພື່ອໃຊ້ເຄືອຂ່າຍມືຖືແທນ, ປິດໂໝດເຮືອບິນໃນການຕັ້ງຄ່າ.</string>
+    <string name="data_connection_error_flight_mode_on_body_tablet">ແທັບເລັດຂອງທ່ານບໍ່ຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi. ເພື່ອໃຊ້ເຄືອຂ່າຍມືຖືແທນ, ປິດໂໝດເຮືອບິນໃນການຕັ້ງຄ່າ.</string>
+    <string name="data_connection_error_flight_mode_on_title">ປິດໂໝດເຮືອບິນ</string>
+    <string name="data_connection_error_mobile_data_off">ຂໍ້ມູນໂທລະສັບມືຖືຖືກປິດໃຊ້ງານ. ເຊື່ອມຕໍ່ໃສ່ກັບເຄືອຂ່າຍ Wi-Fi ແທນ, ຫຼືເປີດໃຊ້ຂໍ້ມູນໂທລະສັບມືຖື ແລະລອງໃໝ່ອີກ</string>
+    <string name="data_connection_error_mobile_data_off_body">ເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ຫຼື ເປີດຂໍ້ມູນມືຖື.</string>
+    <string name="data_connection_error_mobile_data_off_title">ເປີດຂໍ້ມູນມືຖືບໍ?</string>
+    <string name="data_connection_error_no_network_connection">ບໍ່ມີການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ</string>
+    <string name="data_connection_error_no_signal_body">ບໍ່ສາມາດຊອກຫາເຄືອຂ່າຍທີ່ມີຢູ່ໃດໜຶ່ງ.</string>
+    <string name="data_connection_error_toast_notification">ຈໍາເປັນຕ້ອງມີການເຊື່ອມຕໍ່ Wi-Fi. ໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບເຄືອຂ່າຍ Wi-Fi ແລະລອງໃໝ່ອີກ.</string>
+    <string name="data_usage_disabled_dialog">ການນຳໃຊ້ຂໍ້ມູນມືຖືໄດ້ຖືກຢຸດຊົ່ວຄາວແລ້ວ ເພາະວ່າທ່ານໄດ້ຮອດຂີດຈຳກັດທີ່ທ່ານຕັ້ງໄວ້ແລ້ວ.</string>
+    <string name="data_usage_disabled_dialog_mobile_title">ເລີ່ມຕໍ່ໂດຍໃຊ້ຂໍ້ມູນມືຖືບໍ?</string>
+    <string name="dcm_lockscreen_active_help_text">ແຕະໄອຄອນລັອກເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕະໄອຄອນລັອກເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics_voice_assistant">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_face">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕະໄອຄອນລັອກເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_face_voice_assistant">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕະໄອຄອນລັອກເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ, ຫຼື ແຕະໄອຄອນລັອກເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າແທນ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face_voice_assistant">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ, ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າແທນ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ, ຫຼື ແຕະໄອຄອນລັອກເພື່ອໃຊ້ການສະແກນທີ່ອັດສະລິຍະແທນ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent_voice_assistant">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ, ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ການສະແກນທີ່ອັດສະລິຍະແທນ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ, ຫຼື ແຕະໄອຄອນລັອກເພື່ອໃຊ້ມ່ານຕາແທນ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris_voice_assistant">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ, ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ມ່ານຕາແທນ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_voice_assistant">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent">ໃຊ້ການສະແກນທີ່ອັດສະລິຍະ ຫຼື ແຕະໄອຄອນລັອກເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent_voice_assistant">ໃຊ້ການສະແກນທີ່ອັດສະລິຍະ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_iris">ໃຊ້ມ່ານຕາ ຫຼື ແຕະໄອຄອນລັອກເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_iris_voice_assistant">ໃຊ້ມ່ານຕາ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_active_help_text_voice_assistant">ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອເປີດ</string>
+    <string name="dcm_lockscreen_unlock_help_text">ແຕະໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face">ແຕະໄອຄອນລັອກເພື່ອປົດລັອກດ້ວຍການຈົດຈຳໃບໜ້າ</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face_voice_assistant">ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກດ້ວຍການຈົດຈຳໃບໜ້າ</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent">ແຕະໄອຄອນເພື່ອປົດລັອກດ້ວຍການສະແກນທີ່ອັດສະລິຍະ</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent_voice_assistant">ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ການສະແກນທີ່ອັດສະລິຍະເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris">ແຕະໄອຄອນລັອກເພື່ອໃຊ້ມ່ານຕາໃນການປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris_voice_assistant">ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ມ່ານຕາໃນການປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕະໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics_voice_assistant">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_face">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕະໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_face_voice_assistant">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕະໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face">ໃຊ້ລາຍນິ້ວມືເພື່ອປົດລັອກ, ຫຼື ແຕະໄອຄອນລັອກເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າແທນ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face_voice_assistant">ໃຊ້ລາຍນິ້ວມືເພື່ອປົດລັອກ, ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າແທນ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent">ໃຊ້ລາຍນິ້ວມືເພື່ອປົດລັອກ, ຫຼື ແຕະໄອຄອນລັອກເພື່ອໃຊ້ການສະແກນທີ່ອັດສະລິຍະແທນ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent_voice_assistant">ໃຊ້ລາຍນິ້ວມືເພື່ອປົດລັອກ, ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ການສະແກນທີ່ອັດສະລິຍະແທນ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris">Use fingerprint to unlock device or tap Lock icon to use irises instead</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris_voice_assistant">ໃຊ້ລາຍນິ້ວມືເພື່ອປົດລັອກ, ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອໃຊ້ມ່ານຕາແທນ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_voice_assistant">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent">ໃຊ້ການສະແກນທີ່ອັດສະລິຍະ ຫຼື ແຕະໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent_voice_assistant">ໃຊ້ການສະແກນທີ່ອັດສະລິຍະ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris">ໃຊ້ມ່ານຕາ ຫຼື ແຕະໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris_voice_assistant">ໃຊ້ມ່ານຕາ ຫຼື ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_unlock_help_text_voice_assistant">ແຕະໄອຄອນລັອກສອງຄັ້ງເພື່ອປົດລັອກ</string>
+    <string name="dcm_lockscreen_voice_assistant_active_instructions">ແຕະປຸ່ມລັອກສອງຄັ້ງ ເພື່ອປົດລັອກໂທລະສັບ</string>
+    <string name="default_media_volume_control_description">ຄວບຄຸມລະດັບສຽງມີເດຍໂດຍມາດຕະຖານ ເມື່ອທ່ານກົດປຸ່ມລະດັບສຽງ.</string>
+    <string name="default_media_volume_control_title">ໃຊ້ປຸ່ມລະດັບສຽງສຳລັບມີເດຍ</string>
+    <string name="development_settings_title">ທາງເລືອກຜູ້ພັດທະນາ</string>
+    <string name="device_disabled">ນະໂຍບາຍຄວາມປອດໄພຂອງທ່ານປ້ອງກັນທ່ານຈາກການໃຊ້ໄບໂອແມັດທຣິກສຳລັບການກວດສອບສອງຂັ້ນຕອນ. ຕິດຕໍ່ຜູ້ເບິ່ງແຍງລະບົບ IT ຂອງທ່ານ ເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ.</string>
+    <string name="direction_lock_too_many_failed_attempts_countdown">ລອງໃໝ່ອີກໃນ %d ວິນາທີ</string>
+    <string name="disagree">ບໍ່ເຫັນດີນໍາ</string>
+    <string name="dnd_noti_action_disable">ປິດ</string>
+    <string name="dnd_noti_message">ໂມງ​ປຸກ​ປິດ​ສຽງ​ແລ້ວ</string>
+    <string name="dnd_noti_title">ຫ້າມລົບກວນ ເປີດຢູ່</string>
+    <string name="download_popup_button_cancel">ຍົກ​ເລີກ</string>
+    <string name="download_popup_button_download">ດາວ​ໂຫຼດ</string>
+    <string name="download_ps">ດາວໂຫຼດ %s ບໍ?</string>
+    <string name="dragndroplist_drag_release">ລາຍການຕົກລົງໄປສູ່ຕໍາແໜ່ງ %d.</string>
+    <string name="dragndroplist_drag_start">ເລີ່ມຕົ້ນລາກລາຍການຢູ່ທີ່ຕໍາແໜ່ງ %d ແລ້ວ.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">ລາຍການຢູ່ທີ່ຕໍາແໜ່ງ %d ບໍ່ສາມາດລາກໄປໄດ້.</string>
+    <string name="dream_cant_use_this_app_in_multi_window_view_tpop">ບໍ່ສາມາດໃຊ້ແອັບນີ້ໃນມຸມມອງມັລຕິວິນໂດໄດ້.</string>
+    <string name="dream_cant_use_this_launcher_in_multi_window_view_tpop">ບໍ່ສາມາດໃຊ້ຕົວເປີດໃຊ້ນີ້ໃນມຸມມອງມັລຕິວິນໂດໄດ້.</string>
+    <string name="durationMinutes">%d ນາທີ</string>
+    <string name="emergency_mode">ໂໝດສຸກເສີນ</string>
+    <string name="facewidget_alarm_in_hours_and_minutes_format">ປຸກໃນ %1$d ຊົ່ວໂມງ %2$d ນາທີ</string>
+    <string name="facewidget_alarm_in_hours_and_one_minute_format">ປຸກໃນ %d ຊົ່ວໂມງ 1 ນາທີ</string>
+    <string name="facewidget_alarm_in_one_hour_and_minutes_format">ປຸກໃນ 1 ຊົ່ວໂມງ %d ນາທີ</string>
+    <string name="facewidget_alarm_in_one_hour_and_one_minute_format">ປຸກໃນ 1 ຊົ່ວໂມງ 1 ນາທີ</string>
+    <string name="facewidget_alarm_next">ໂມງປຸກຕໍ່ໄປ</string>
+    <string name="facewidget_alarm_no_alarm">ບໍ່​ມີ​ໂມງ​ປຸກ​ໃນ 7 ວັນ​ຖັດ​ໄປ</string>
+    <string name="facewidget_alarm_open_clock">ເພີ່ມໂມງປຸກ</string>
+    <string name="facewidget_alarm_will_go_off_soon">ໂມງປຸກຈະປິດໃນໄວໆນີ້</string>
+    <string name="facewidget_event_add_event">ເພີ່ມເຫດການ</string>
+    <string name="facewidget_event_calendar">ປະຕິທິນ</string>
+    <string name="facewidget_event_my_event">ເຫດການຂອງຂ້ອຍ</string>
+    <string name="facewidget_event_no_events">ບໍ່ມີເຫດການມື້ນີ້</string>
+    <string name="facewidget_event_open_ss">ເປີດ %s</string>
+    <string name="facewidget_event_task">ໜ້າວຽກ</string>
+    <string name="facewidget_event_time_all_day">ໝົດມື້</string>
+    <string name="facewidget_music">ເພງ</string>
+    <string name="facewidget_music_closed">ປົດລັອກໂທລະສັບຂອງທ່ານ ແລະ ຫຼິ້ນບາງເພງເພື່ອສະແດງເພງໃນໜ້າຈໍລັອກ.</string>
+    <string name="facewidget_music_description_album_cover">ຕົວປົກອາລະບໍາ</string>
+    <string name="facewidget_music_description_next">ຕໍ່ໄປ</string>
+    <string name="facewidget_music_description_pause">ຢຸດຊົ່ວຄາວ</string>
+    <string name="facewidget_music_description_play">ຫຼິ້ນ</string>
+    <string name="facewidget_music_description_prev">ຜ່ານມາ</string>
+    <string name="facewidget_music_lyrics">ເນື້ອເພງ</string>
+    <string name="facewidget_music_no_content">ບໍ່ໄດ້ຫຼິ້ນເພງ</string>
+    <string name="facewidget_music_play">ຫຼິ້ນເພງ</string>
+    <string name="facewidget_music_play_first">ຫຼັງຈາກທີ່ທ່ານໄດ້ໃຊ້ເຄື່ອງຫຼິ້ນເພງແລ້ວ, ທ່ານຈະສາມາດຄວບຄຸມເພງຂອງທ່ານຈາກໜ້າຈໍລັອກໄດ້.</string>
+    <string name="facewidget_music_select_music_app">ເລືອກແອັບເພງ.</string>
+    <string name="facewidget_music_unknown">ບໍ່ຮູ້ຈັກ</string>
+    <string name="facewidget_noti_btn">ການຕັ້ງຄ່າ</string>
+    <string name="facewidget_noti_exp">ໃຊ້ FaceWidgets ໃນໜ້າຈໍລັອກ ແລະ Always On Display ເພື່ອຮັບການເຂົ້າເຖິງເພງຂອງທ່ານດ່ວນ.</string>
+    <string name="facewidget_noti_title">ການໃຊ້ FaceWidgets</string>
+    <string name="flash_light_disabled_by_low_battery">ບໍ່ສາມາດເປີດໄຟສາຍໄດ້. ໄຟແບັດເຕີຣີອ່ອນ.</string>
+    <string name="flash_light_notification_button">ປິດ</string>
+    <string name="flash_light_notification_title">ໄຟສາຍເປີດ</string>
+    <string name="flash_light_turn_off_by_low_battery">ໄຟແບັດເຕີຣີອ່ອນ. ໄຟ​ສາຍຈະປິດ.</string>
+    <string name="flight_mode_enabled_dialog_body">ໂໝດເຮືອບິນຖືກເປີດຢູ່. ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌ ຫຼື ແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi.</string>
+    <string name="flight_mode_enabled_dialog_body_volte_and_vowifi">ໂໝດເຮືອບິນຖືກເປີດຢູ່. ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌, Wi-Fi calling ຫຼື ແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi.</string>
+    <string name="flight_mode_enabled_dialog_title">ໂໝດເຮືອບິນ</string>
+    <string name="freeform_forced_resizable">ແອັບນີ້ອາດຈະບໍ່ເຮັດວຽກຢ່າງຖືກຕ້ອງໃນມຸມມອງມັລຕິວິນໂດ.</string>
+    <string name="gesture_accessibility_guide_gesture_onboarding">ຮູດຂຶ້ນດ້ວຍມື 2 ນິ້ວຈາກສ່ວນລຸ່ມຂອງໜ້າຈໍເພື່ອໃຊ້ທາງລັດການເຂົ້າເຖິງ.</string>
+    <string name="gesture_recents_device_assistance_onboarding">ຮູດຂຶ້ນແລະຄ້າງໄວ້ ເພື່ອເປີດແອັບການຊ່ວຍເຫຼືອອຸປະກອນ.</string>
+    <string name="gesture_recents_quick_scrub_onboarding">ຮູດໄປຂວາເພື່ອສັບປ່ຽນແອັບຢ່າງວ່ອງໄວ.</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="globalactions_force_restart_message">ກົດປຸ່ມຂ້າງ ແລະ ປຸ່ມເພີ່ມລະດັບສຽງຂຶ້ນໃນເວລາດຽວກັນຄ້າງໄວ້ເປັນເວລາຫຼາຍກວ່າ %d ວິນາທີ ເພື່ອປິດເປີດໂທລະສັບຂອງທ່ານຄືນໃໝ່.</string>
+    <string name="globalactions_screen_capture_popup_description">ກົດປຸ່ມຂ້າງ ແລະ ປຸ່ມຫຼຸດລະດັບສຽງ ແລະ ປ່ອຍອອກຢ່າງວ່ອງໄວໃນເວລາດຽວກັນ.</string>
+    <string name="globalactions_screen_capture_popup_title">ລອງຖ່າຍຮູບໜ້າຈໍບໍ?</string>
+    <string name="go_to_top">ໄປທີ່ດ້ານເທິງສຸດ</string>
+    <string name="greyscale_mode_title">ສີເທົາ</string>
+    <string name="hotspot_disable_wifi_sharing">ປິດການແຊຣ໌ Wi-Fi</string>
+    <string name="hotspot_enable_wifi_sharing">ເປີດການແຊຣ໌ Wi-Fi</string>
+    <string name="hotspot_live_ap_low_battery_summary">ແບັດເຕີຣີອ່ອນ</string>
+    <string name="hotspot_live_status_connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Smart View.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_chn">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Smart View.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_jpn">ເພື່ອໃຊ້ການເຊື່ອມໂຍງ Wi-Fi, ຈຳເປັນຕ້ອງປິດ Smart View.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_spr">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Smart View.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_tmo">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Smart View.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_vzw">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Smart View.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_att">ການເປີດໃຊ້ຮັອດສະປັອດ Wi-Fi ແບບພົກພາ ຈະປິດ Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_chn">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_jpn">ເພື່ອໃຊ້ການເຊື່ອມໂຍງ Wi-Fi, ຈຳເປັນຕ້ອງປິດ Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_mtr">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_spr">ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື, ຈຳເປັນຕ້ອງໄດ້ປິດ Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_tmo">Wi-Fi ຖືກປິດ ເມື່ອການເຊື່ອມໂຍງ USB ຫຼື ຮັອດສະປັອດມືຖືຖືກເປີດໃຊ້ງານ. ເພື່ອເປີດ Wi-Fi, ກະລຸນາປິດການເຊື່ອມໂຍງ USB ຫຼື ຮັອດສະປັອດມືຖື.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_vzw">ຮັອດສະປັອດມືຖືໃຊ້ການເຊື່ອມຕໍ່ຂໍ້ມູນມືຖືຂອງທ່ານ. ການເຊື່ອມຕໍ່ Wi-Fi ຂອງທ່ານຈະຖືກປິດ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_wifisharing_lite">ເຄືອຂ່າຍ Wi-Fi ປະຈຸບັນບໍ່ສາມາດຖືກແຊຣ໌ໂດຍໃຊ້ຮັອດສະປັອດມືຖື. ຂໍ້ມູນມືຖືຈະຖືກໃຊ້ແທນ.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off">ເພື່ອໃຊ້ຮັອດສະປັອດມື​ຖື, ຈຳເປັນຕ້ອງຕັດເຊື່ອມຕໍ່ອຸປະກອນໃດໜຶ່ງທີ່ເຊື່ອມຕໍ່ໃນຂະນະນີ້ໂດຍໃຊ້ Wi-Fi Direct.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_chn">ການເປີດໃຊ້ງານຮັອດສະປັອດ WLAN ແບບພົກພາ ຈະຕັດເຊື່ອມຕໍ່ອຸປະກອນທີ່ເຊື່ອມຕໍ່ຜ່ານ WLAN Direct.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_jpn">ເພື່ອໃຊ້ການເຊື່ອມໂຍງ Wi-Fi, ຈຳເປັນຕ້ອງຕັດເຊື່ອມຕໍ່ອຸປະກອນໃດໜຶ່ງທີ່ເຊື່ອມຕໍ່ໂດຍໃຊ້ Wi-Fi Direct ໃນຂະນະນີ້.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_spr">ເພື່ອໃຊ້ຮັອດສະປັອດມື​ຖື, ຈຳເປັນຕ້ອງຕັດເຊື່ອມຕໍ່ອຸປະກອນໃດໜຶ່ງທີ່ເຊື່ອມຕໍ່ໃນຂະນະນີ້ໂດຍໃຊ້ Wi-Fi Direct.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_tmo">ເພື່ອໃຊ້ຮັອດສະປັອດມື​ຖື, ຈຳເປັນຕ້ອງຕັດເຊື່ອມຕໍ່ອຸປະກອນໃດໜຶ່ງທີ່ເຊື່ອມຕໍ່ໃນຂະນະນີ້ໂດຍໃຊ້ Wi-Fi Direct.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_vzw">ເພື່ອໃຊ້ຮັອດສະປັອດມື​ຖື, ຈຳເປັນຕ້ອງຕັດເຊື່ອມຕໍ່ອຸປະກອນໃດໜຶ່ງທີ່ເຊື່ອມຕໍ່ໃນຂະນະນີ້ໂດຍໃຊ້ Wi-Fi Direct.</string>
+    <string name="hotspot_warning_dialog_title_smartview_off">ປິດ Smart View ບໍ?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off">ປິດ Wi-Fi ບໍ?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_tmo">ຂໍ້ຄວນຄຳນຶງ</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_vzw">ຮັອດສະປັອດມືຖື ແລະ Wi-Fi</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_wifisharing_lite">ຕັດເຊື່ອມຕໍ່ຈາກເຄືອຂ່າຍ Wi-Fi ບໍ?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off">ເປີດຮັອດສະປັອດມືຖືບໍ?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_jpn">ເປີດການເຊື່ອມໂຍງ Wi-Fi ບໍ?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_tmo">ຂໍ້ຄວນຄຳນຶງ</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_vzw">ຮັອດສະປັອດມືຖື ແລະ Wi-Fi</string>
+    <string name="image_viewer">ໂປຣແກຣມເບິ່ງຮູບ</string>
+    <string name="ime_security_warning">%s ອາດຈະສາມາດສະສົມຂໍ້ຄວາມທັງໝົດທີ່ທ່ານພິມ ລວມທັງຂໍ້ມູນສ່ວນຕົວ ເຊັ່ນ ລະຫັດຜ່ານແລະໝາຍເລກບັດເຄຣດິດ.</string>
+    <string name="incompatible_charger_dialog_text">ເຄື່ອງສາກທີ່ເຊື່ອມຕໍ່ບໍ່ເຂົ້າກັນໄດ້ກັບໂທລະສັບໜ່ວຍນີ້. ເພື່ອປ້ອງກັນບໍ່ໃຫ້ໂທລະສັບຂອງທ່ານເພ, ໃຫ້ເຊົາໃຊ້ເຄື່ອງສາກ. ເພື່ອສືບຕໍ່ສາກນັ້ນ, ໃຫ້ໃຊ້ເຄື່ອງສາກແທ້ ແລະສາຍຕໍ່ທີ່ເອົາໃຫ້ມາກັບໂທລະສັບນີ້.</string>
+    <string name="incompatible_charger_notification_text">ສາກບໍ່ໄດ້. ໃຊ້ເຄື່ອງສາກແທ້.</string>
+    <string name="incompatible_charger_ticker">ບໍ່ສາກ</string>
+    <string name="incompatible_charger_title">ບໍ່ສາກ</string>
+    <string name="insert_sim_card">ໃສ່ແຜ່ນ SIM</string>
+    <string name="insert_sim_card_message">ໃສ່ແຜ່ນ SIM ເຂົ້າໄປ ເພື່ອເຂົ້າຫາການບໍລິການເຄືອຂ່າຍ.</string>
+    <string name="install_other_apps">ຕິດຕັ້ງແອັບທີ່ບໍ່ຮູ້ຈັກ</string>
+    <string name="iris_guide_str_enable_toggle">ແຕະທີ່ນີ້ເພື່ອໃຊ້ມ່ານຕາ</string>
+    <string name="iris_guide_str_for_text_preview">ເບິ່ງທີ່ນີ້ເພື່ອໃຊ້ມ່ານຕາ</string>
+    <string name="keyboard_shortcut_group_applications">ເພີ່ມທາງລັດ</string>
+    <string name="keyboard_shortcut_group_applications_bixby">Bixby</string>
+    <string name="keyboard_shortcut_group_applications_browser">ບຣາວເຊີ</string>
+    <string name="keyboard_shortcut_group_applications_calendar">ປະຕິທິນ</string>
+    <string name="keyboard_shortcut_group_applications_contacts">ຜູ້ຕິດຕໍ່</string>
+    <string name="keyboard_shortcut_group_applications_email">ອີເມລ໌</string>
+    <string name="keyboard_shortcut_group_applications_messages">ຂໍ້ຄວາມ</string>
+    <string name="keyboard_shortcut_group_applications_music">ເພງ</string>
+    <string name="keyboard_shortcut_group_system">ທາງລັດຂອງລະບົບ</string>
+    <string name="keyboard_shortcut_group_system_all_apps">ແອັບ</string>
+    <string name="keyboard_shortcut_group_system_back">ກັບ​ຄືນ</string>
+    <string name="keyboard_shortcut_group_system_home">ໜ້າຫຼັກ</string>
+    <string name="keyboard_shortcut_group_system_lock_screen">ໜ້າຈໍລັອກ</string>
+    <string name="keyboard_shortcut_group_system_notifications">ການ​ແຈ້ງ​ເຕືອນ</string>
+    <string name="keyboard_shortcut_group_system_recents">ຫຼ້າສຸດ</string>
+    <string name="keyboard_shortcut_group_system_running_apps">ແອັບທີ່ແລ່ນຢູ່</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">ທາງລັດຄີບອດ</string>
+    <string name="keyboard_shortcut_group_system_start_exit_dex_mode">ເລີ່ມຕົ້ນ/ອອກໂໝດ DeX</string>
+    <string name="keyboard_shortcut_group_system_switch_languages">ສັບປ່ຽນພາສາ</string>
+    <string name="keyboard_shortcut_meta_key_explain">ປຸ່ມ Meta: ປຸ່ມ Windows, ປຸ່ມຄຳສັ່ງ, ປຸ່ມຊອກຫາ ຫຼື ປຸ່ມສັນຍາລັກລະບົບປະຕິບັດການອື່ນໆ.</string>
+    <string name="keyboard_shortcut_popup_help">ປຸ່ມ Meta: ປຸ່ມ Windows, ປຸ່ມຄຳສັ່ງ, ຫຼື ປຸ່ມສັນຍາລັກລະບົບປະຕິບັດການອື່ນໆ.</string>
+    <string name="keyguard_accessibility_call">ໂທ</string>
+    <string name="keyguard_accessibility_direction_lock_unlock">ລັອກ​ທິດ​ທາງ</string>
+    <string name="keyguard_accessibility_dot">ເຄື່ອງໝາຍຈໍ້າ</string>
+    <string name="keyguard_accessibility_pattern_area">ພື້ນທີ່ຮູບແບບ</string>
+    <string name="keyguard_accessibility_pattern_unlock">ຮູບແບບປົດລັອກ</string>
+    <string name="keyguard_cmas_text">ການເຕືອນສຸກເສີນ</string>
+    <string name="keyguard_dualclock_locale_view_home">ໜ້າຫຼັກ</string>
+    <string name="keyguard_dualclock_locale_view_home_skt">ນະຄອນຫຼວງໂຊລ</string>
+    <string name="keyguard_dualclock_locale_view_roaming">ທ້ອງຖິ່ນ</string>
+    <string name="keyguard_dualclock_locale_view_roaming_skt">ໂຣມມິ່ງ</string>
+    <string name="keyguard_fmm_owner_phone">ໝາຍເລກຕົນເອງ</string>
+    <string name="keyguard_fmm_phone_locked_title">ໂທລະສັບລັອກ.</string>
+    <string name="keyguard_progress_erasing_all">Deleting all data…</string>
+    <string name="keyguard_skt_usim_unregistered">ບໍ່ສາມາດໃຊ້ແຜ່ນ USIM. ດາວໂຫຼດຂໍ້ມູນແຜ່ນ USIM.</string>
+    <string name="keyguard_usim_not_used">ບໍ່ສາມາດໃຊ້ແຜ່ນ USIM. ປ້ອນລະຫັດ PIN ປົດລັອກທີ່ບໍ່ຖືກຕ້ອງ (PUK) ເຂົ້າ %d ຄັ້ງ. ຊື້ແຜ່ນ USIM ໃໝ່.</string>
+    <string name="kg_1_attempt_remaining">(ຍັງເຫລືອຄວາມພະຍາຍາມ 1 ຄັ້ງ)</string>
+    <string name="kg_accessibility_password_unlock">ປົດລັອກດ້ວຍລະຫັດຜ່ານ</string>
+    <string name="kg_accessibility_pin_edit_box">ແກ້ໄຂກ່ອງ</string>
+    <string name="kg_accessibility_pin_unlock">ປົດລັອກດ້ວຍ PIN</string>
+    <string name="kg_background_auth_face_instruction_text">ປົດລັອກດ້ວຍການຈົດຈຳໃບໜ້າ.</string>
+    <string name="kg_background_auth_fingerprint_unlock_successed_text">ປົດລັອກໂທລະສັບດ້ວຍລາຍນິ້ວມືແລ້ວ.</string>
+    <string name="kg_background_auth_iris_instruction_text">ປົດລັອກດ້ວຍມ່ານຕາ.</string>
+    <string name="kg_background_auth_tablet_fingerprint_unlock_successed_text">ປົດລັອກແທັບເລັດດ້ວຍລາຍນິ້ວມືແລ້ວ.</string>
+    <string name="kg_background_auth_tablet_unlock_failed_text">ບໍ່ສາມາດປົດລັອກແທັບເລັດໄດ້.</string>
+    <string name="kg_background_auth_tablet_unlock_successed_text">ປົດລັອກແທັບເລັດແລ້ວ.</string>
+    <string name="kg_background_auth_unlock_failed_text">ບໍ່ສາມາດປົດລັອກໂທລະສັບໄດ້.</string>
+    <string name="kg_background_auth_unlock_instruction_text">ປົດລັອກດ້ວຍໄບໂອແມັດທຣິກ.</string>
+    <string name="kg_background_auth_unlock_successed_text">ປົດລັອກໂທລະສັບແລ້ວ.</string>
+    <string name="kg_biometric_error_restart_text">ຖ້າສິ່ງນີ້ຍັງສືບຕໍ່ເກີດຂຶ້ນຢູ່, ປິດເປີດໂທລະສັບຂອງທ່ານຄືນໃໝ່.</string>
+    <string name="kg_biometrics_has_confirmed">ຢືນຢັນໄບໂອແມັດທຣິກຮຽບຮ້ອຍແລ້ວ.</string>
+    <string name="kg_biometrics_swipe_active_instructions">ໃຊ້ໄບໂອແມັດທຣິກເພື່ອເປີດ</string>
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ຮູດໜ້າຈໍດ້ວຍມືສອງນິ້ວເພື່ອເປີດ</string>
+    <string name="kg_biometrics_swipe_unlock_instructions">ໃຊ້ໄບໂອແມັດທຣິກເພື່ອປົດລັອກ</string>
+    <string name="kg_biometrics_swipe_unlock_voice_assistant_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ຮູດໜ້າຈໍດ້ວຍມືສອງນິ້ວເພື່ອປົດລັອກ</string>
+    <string name="kg_carrier_lock_call_owner">ກະ​ລຸ​ນາ​ໂທ​ຫາ​ຂ້ອຍ</string>
+    <string name="kg_carrier_lock_findlostphone">​ໂທ​ລະ​ສັບ​ນີ້​ເສຍ ຫຼື ຖືກ​ລັກ.</string>
+    <string name="kg_carrier_lock_too_many_failed_attempts">ປ້ອນລະຫັດຜ່ານບໍ່ຖືກຕ້ອງເຂົ້າແລ້ວ 5 ຄັ້ງ. ລອງໃໝ່ອີກໃນ 10 ນາທີ.</string>
+    <string name="kg_carrier_lock_unlock">ປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_carrier_lock_wrong_password">ປ້ອນລະຫັດບໍ່ຖືກຕ້ອງເຂົ້າແລ້ວ.</string>
+    <string name="kg_ctc_enter_confirm_pin_hint">Enter new UIM/SIM card unlock PIN again to confirm it</string>
+    <string name="kg_ctc_password_wrong_pin_code_one">Incorrect UIM/SIM card PIN entered. 1 attempt left.</string>
+    <string name="kg_ctc_password_wrong_pin_code_other">Incorrect UIM/SIM card PIN entered. %d attempts left.</string>
+    <string name="kg_ctc_puk_enter_pin_hint">Enter new UIM/SIM card unlock PIN</string>
+    <string name="kg_ctc_sim_puk_instructions">UIM/SIM card locked. Enter PUK. Contact service provider for details.</string>
+    <string name="kg_ctc_sim_puk_remaining_1_attempt">Incorrect PUK entered. If incorrect PUK is entered 1 more time, UIM/SIM card will be locked.</string>
+    <string name="kg_ctc_sim_puk_remaining_attempts">Incorrect PUK entered. If incorrect PUK is entered %d more times, UIM/SIM card will be permanently locked.</string>
+    <string name="kg_ctc_sim_unlock_progress_dialog_message">Unlocking UIM/SIM card…</string>
+    <string name="kg_ctc_unlock_sim_pin_instructions">Enter UIM/SIM card unlock PIN</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN ຖືກບລັອກ. ໃສ່ PUK ເພື່ອສືບຕໍ່.</string>
+    <string name="kg_default_carrier_text_searching">ການຄົ້ນຫາ</string>
+    <string name="kg_direction_lock_instructions_normal_mode">ແຕ້ມຊຸດ​ທິດ​ທາງເພື່ອປົດລອັກໜ້າຈໍ</string>
+    <string name="kg_empty_sim_perso_hint">ບໍ່ມີລະຫັດໃສ່ເຂົ້າໄປ. ປ້ອນລະຫັດ (PIN).</string>
+    <string name="kg_face_1st_active_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າເພື່ອເປີດ</string>
+    <string name="kg_face_1st_unlock_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າເພື່ອປົດລັອກ</string>
+    <string name="kg_face_cancel_for_dex">ຍົກເລີກການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_face_cover_clear_view_toast_for_dex">ການຈົດຈຳໃບໜ້າບໍ່ມີຢູ່ ເມື່ອຝາປິດມຸມມອງແຈ້ງຄັດຕິດຢູ່.</string>
+    <string name="kg_face_cover_led_view_toast_for_dex">ການຈົດຈຳໃບໜ້າບໍ່ມີຢູ່ ເມື່ອຝາປິດມຸມມອງ LED ຄັດຕິດຢູ່.</string>
+    <string name="kg_face_cover_s_view_toast_for_dex">ການຈົດຈຳໃບໜ້າບໍ່ມີຢູ່ ເມື່ອຝາປິດ S View ຄັດຕິດຢູ່.</string>
+    <string name="kg_face_cover_toast_for_dex">ການຈົດຈຳໃບໜ້າບໍ່ມີຢູ່ ໃນຂະນະທີ່ຝາປິດຄັດຕິດຢູ່.</string>
+    <string name="kg_face_direction_active_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອເປີດ</string>
+    <string name="kg_face_direction_none_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງ</string>
+    <string name="kg_face_guide_text_for_enable_toggle">ແຕະບ່ອນນີ້ເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_face_not_supported_at_180_degree">ເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າ, ໝູນແທັບເລັດຂອງທ່ານ ເພື່ອໃຫ້ກ້ອງຖ່າຍຮູບບໍ່ຢູ່ໃນເບື້ອງລຸ່ມສຸດ</string>
+    <string name="kg_face_not_working_text">ການຈົດຈຳໃບໜ້າໃຊ້ບໍ່ໄດ້</string>
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ ຫຼື ຮູດໜ້າຈໍດ້ວຍມືສອງນິ້ວເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າ.</string>
+    <string name="kg_face_password_active_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_face_password_none_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_face_pattern_active_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດ</string>
+    <string name="kg_face_pattern_none_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບ</string>
+    <string name="kg_face_pin_active_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_face_pin_none_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_face_proximity_guide_text">ມືຂອງທ່ານກຳລັງປິດເຊັນເຊີຢູ່ບໍ? ເປີດມັນອອກ ເພື່ອໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_face_retry_text">ແຕະໄອຄອນ ເພື່ອລອງການຈົດຈຳໃບໜ້າອີກຄັ້ງ</string>
+    <string name="kg_face_start_for_dex">ໃຊ້ການຈົດຈຳໃບໜ້າໃນໂທລະສັບຂອງທ່ານ</string>
+    <string name="kg_face_stop">ຢຸດການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_face_toast_preview_for_dex">ໃຊ້ການຈົດຈຳໃບໜ້າໃນໂທລະສັບຂອງທ່ານເພື່ອກວດສອບຕົວຕົນຂອງທ່ານ.</string>
+    <string name="kg_fbe_notification_header">ປິດເປີດໂທລະສັບຄືນໃໝ່ແລ້ວ</string>
+    <string name="kg_fbe_notification_message">ປົດລັອກໂທລະສັບຂອງທ່ານ ເພື່ອຮັບເອົາການແຈ້ງເຕືອນແອັບ.</string>
+    <string name="kg_finger_print_bad_quality_error_message">ເຊັນເຊີລາຍນິ້ວມືອາດຈະເປື້ອນ. ເຮັດຄວາມສະອາດມັນແລະລອງໃໝ່ອີກ.</string>
+    <string name="kg_finger_print_database_error_message">ຂໍ້​ມູນລາຍນີ້ວມືເສຍ​ຫາຍ. ຕັ້ງ​ຄ່າ​ລາຍ​ນີ້ວ​ມື​ໃໝ່​ເປັນ​ປະ​ເພດ​ລັອກ​ໜ້າ​ຈໍ ແລະ​ຈາກນັ້ນ​ເພີ່ມ​ລາຍ​ນີ້ວ​ມື​ຂອງ​ທ່ານ​ອີກ, ຫຼື​ປ່ຽນ​ແປງ​ປະ​ເພດ​ລັອກ​ໜ້າ​ຈໍ.</string>
+    <string name="kg_finger_print_not_responding_error_message">ຕົວເຊັນເຊີລາຍນີ້ວມືບໍ່ຕອບສະໜອງ. ລອງອີກພາຍຫຼັງ.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">ເຊັນເຊີລາຍນິ້ວມືບໍ່ຖືກປ່ຽນແປງຢ່າງຖືກຕ້ອງ. ຕິດຕໍ່ຝ່າຍບໍລິການລູກຄ້າ.</string>
+    <string name="kg_finger_print_sensor_error_message">ເກີດຄວາມຂັດຂ້ອງຂຶ້ນກັບຕົວເຊັນເຊີລາຍນີ້ວມື. ຖ້າຂໍ້ຄວາມນີ້ປະກົດຂຶ້ນຊໍ້າອີກ, ປິດເປີດເຄື່ອງຂອງທ່ານໃໝ່.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">ໃຫ້ແນ່ໃຈວ່າປຸ່ມໂຮມສະອາດ ແລະແຫ້ງ, ຈາກນັ້ນ​ລອງ​ໃໝ່​ອີກ.</string>
+    <string name="kg_finger_print_template_changed_error_message">ເພື່ອໃຊ້ການຈົດຈຳລາຍນິ້ວມື, ລຶບລາຍນິ້ວມືຂອງທ່ານ ແລະ ລົງທະບຽນພວກມັນໃໝ່ອີກ.</string>
+    <string name="kg_fingerprint_acquired_image_dirty">ເຊັດເຊັນເຊີລາຍນິ້ວມື ແລະ ລອງໃໝ່ອີກ</string>
+    <string name="kg_fingerprint_acquired_light">ກົດເນັ້ນລົງໜ້ອຍໜຶ່ງ</string>
+    <string name="kg_fingerprint_acquired_partial">ກວມເອົາເຊັນເຊີລາຍນິ້ວມືທັງໝົດ</string>
+    <string name="kg_fingerprint_acquired_too_fast">ຮັກສານິ້ວມືຂອງທ່ານຢູ່ເທິງເຊັນເຊີອີກໜ້ອຍໜຶ່ງ</string>
+    <string name="kg_fingerprint_acquired_too_wet">ເບິ່ງໃຫ້ແນ່ໃຈວ່ານິ້ວມືຂອງທ່ານແຫ້ງແລ້ວ</string>
+    <string name="kg_fingerprint_bad_quality_popup_checkbox">ຢ່າສະແດງອີກ</string>
+    <string name="kg_fingerprint_bad_quality_popup_message">ເນື່ອງຈາກມີການສຳພັດໂດຍບໍ່ຕັ້ງໃຈຫຼາຍຄັ້ງເກີນໄປ, ເຊັນເຊີລາຍນິ້ວມືຖືກບລັອກເມື່ອໜ້າຈໍຖືກປິດ. ເມື່ອສິ່ງນີ້ເກີດຂຶ້ນ, ທ່ານສາມາດເປີດໜ້າຈໍເພື່ອເປີດໃຊ້ງານເຊັນເຊີຄືນໃໝ່.</string>
+    <string name="kg_fingerprint_bad_quality_popup_title">ເຊັນເຊີລາຍນິ້ວມືຖືກບລັອກແລ້ວ</string>
+    <string name="kg_fingerprint_direction_active_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຊຸດທິດທາງເພື່ອເປີດ</string>
+    <string name="kg_fingerprint_direction_none_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຊຸດການຄວບຄຸມ</string>
+    <string name="kg_fingerprint_no_match">ບໍ່ຖືກຄູ່ກັນ</string>
+    <string name="kg_fingerprint_or_swipe_active_instructions">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ</string>
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ຮູດໜ້າຈໍດ້ວຍມືສອງນິ້ວເພື່ອເປີດ</string>
+    <string name="kg_fingerprint_or_swipe_unlock_instructions">ໃຊ້ລາຍນີ້ວມື ເພື່ອປົດລັອກ</string>
+    <string name="kg_fingerprint_password_active_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_fingerprint_password_none_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_fingerprint_pattern_active_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຮູບແບບເພື່ອເປີດ</string>
+    <string name="kg_fingerprint_pattern_none_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຮູບແບບ</string>
+    <string name="kg_fingerprint_pin_active_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນ PIN ເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_fingerprint_pin_none_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_fingerprint_wireless_charger_warning">ຕັດເຊື່ອມຕໍ່ຈາກເຄື່ອງສາກໄວເລສເພື່ອໃຊ້ລາຍນິ້ວມືຂອງທ່ານ</string>
+    <string name="kg_fingerprints_direction_bouncer_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຊຸດທິດທາງເພື່ອເປີດ</string>
+    <string name="kg_fingerprints_direction_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຊຸດການຄວບຄຸມ</string>
+    <string name="kg_fingerprints_direction_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_fingerprints_password_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_fingerprints_password_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ລະຫັດຜ່ານຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຮູບແບບເພື່ອເປີດ</string>
+    <string name="kg_fingerprints_pattern_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືແຕ້ມຮູບແບບປົດລັອກ</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ຮູບແບບຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນ PIN ເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_fingerprints_pin_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼືປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ PIN ຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_flight_mode">ໂໝດເຮືອບິນ</string>
+    <string name="kg_floating_shortcut_show_app_list">ສະແດງລາຍການແອັບ</string>
+    <string name="kg_hide_password_accessibility">ເຊື່ອງລະຫັດຜ່ານ</string>
+    <string name="kg_ib_cancel_for_dex">ຍົກເລີກການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_ib_cancel_text">ຍົກເລີກການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_ib_cover_toast_for_dex">ບໍ່ສາມາດໃຊ້ສະແກນແບບສະຫຼາດ ໃນຂະນະທີ່ຝາປິດຄັດຕິດຢູ່.</string>
+    <string name="kg_ib_not_supported_at_180_degree">ເພື່ອໃຊ້ສະແກນທີ່ສະຫຼາດ, ໝູນແທັບເລັດຂອງທ່ານ ເພື່ອໃຫ້ກ້ອງຖ່າຍຮູບບໍ່ຢູ່ໃນເບື້ອງລຸ່ມສຸດ</string>
+    <string name="kg_ib_not_working_text">ບໍ່ສາມາດໃຊ້ສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_ib_retry_text">ແຕະໄອຄອນ ເພື່ອລອງການສະແກນທີ່ສະຫຼາດອີກຄັ້ງ</string>
+    <string name="kg_ib_start_for_dex">ໃຊ້ການສະແກນທີ່ສະຫຼາດໃນໂທລະສັບ</string>
+    <string name="kg_ib_stop">ຢຸດການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_ib_toast_preview_for_dex">ໃຊ້ການສະແກນທີ່ສະຫຼາດໃນໂທລະສັບ</string>
+    <string name="kg_incorrect_password">ປ້ອນລະຫັດບໍ່ຖືກຕ້ອງເຂົ້າໄປແລ້ວ</string>
+    <string name="kg_incorrect_pattern">ແຕ້ມຮູບ​ແບບບໍ່​ຖືກ​ຕ້ອງ​ແລ້ວ</string>
+    <string name="kg_incorrect_pin">ປ້ອນ PIN ບໍ່ຖືກຕ້ອງເຂົ້າໄປ</string>
+    <string name="kg_infinity_wallpaper_description">ວອລເປເປີແບບບໍ່ມີຂີດຈຳກັດຈະຖືກນຳໃຊ້ກັບ Always On Display, ໜ້າຈໍຫຼັກ, ແລະໜ້າຈໍລັອກໃນເວລາດຽວກັນ.</string>
+    <string name="kg_infinity_wallpaper_description_without_aod">ວອລເປເປີແບບບໍ່ມີຂີດຈຳກັດຈະຖືກນຳໃຊ້ກັບໜ້າຈໍຫຼັກ, ແລະໜ້າຈໍລັອກໃນເວລາດຽວກັນ.</string>
+    <string name="kg_intelligent_1st_active_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດເພື່ອເປີດ</string>
+    <string name="kg_intelligent_1st_unlock_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດເພື່ອປົດລັອກ</string>
+    <string name="kg_intelligent_direction_active_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອເປີດ</string>
+    <string name="kg_intelligent_direction_none_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງ</string>
+    <string name="kg_intelligent_or_fingerprint_active_voice_assistant_instructions">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ ຫຼື ຮູດໜ້າຈໍດ້ວຍມື 2 ນິ້ວ ເພື່ອໃຊ້ການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_intelligent_password_active_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_intelligent_password_none_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_intelligent_pattern_active_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດ</string>
+    <string name="kg_intelligent_pattern_none_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບ</string>
+    <string name="kg_intelligent_pin_active_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_intelligent_pin_none_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_intelligent_retry_content_description">ແຕະສອງຄັ້ງເພື່ອໃຊ້ສະແກນທີ່ສະຫຼາດ.</string>
+    <string name="kg_intelligent_scan_proximity_guide_text">ມືຂອງທ່ານກຳລັງປິດເຊັນເຊີຢູ່ບໍ? ເປີດມັນອອກ ເພື່ອໃຊ້ສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_iris_1st_active_instructions">ໃຊ້ມ່ານຕາເພື່ອເປີດ</string>
+    <string name="kg_iris_1st_unlock_instructions">ໃຊ້ມ່ານຕາເພື່ອປົດລັອກ</string>
+    <string name="kg_iris_cancel">ຍົກເລີກການຈົດຈຳມ່ານຕາ</string>
+    <string name="kg_iris_cancel_for_dex">ຍົກເລີກການຈົດຈຳມ່ານຕາ</string>
+    <string name="kg_iris_cover_clear_view_toast_for_dex">ການຈົດຈຳມ່ານຕາບໍ່ມີຢູ່ ເມື່ອຝາປິດມຸມມອງແຈ້ງຖືກຄັດຕິດຢູ່.</string>
+    <string name="kg_iris_cover_led_view_toast_for_dex">ການຈົດຈຳມ່ານຕາບໍ່ມີຢູ່ ເມື່ອຝາປິດມຸມມອງ LED ຖືກຄັດຕິດຢູ່.</string>
+    <string name="kg_iris_cover_s_view_toast_for_dex">ການຈົດຈຳມ່ານຕາບໍ່ມີຢູ່ ເມື່ອຝາປິດ S View ຖືກຄັດຕິດຢູ່.</string>
+    <string name="kg_iris_cover_toast_for_dex">ການຈົດຈຳມ່ານຕາບໍ່ມີຢູ່ ໃນຂະນະທີ່ຝາປິດຄັດຕິດຢູ່.</string>
+    <string name="kg_iris_direction_active_instructions">ໃຊ້ມ່ານຕາຫຼືແຕ້ມຊຸດທິດທາງເພື່ອເປີດ</string>
+    <string name="kg_iris_direction_instructions">ໃຊ້ມ່ານຕາຫຼືແຕ້ມຊຸດທິດທາງ</string>
+    <string name="kg_iris_direction_none_instructions">ໃຊ້ມ່ານຕາຫຼືແຕ້ມຊຸດທິດທາງ</string>
+    <string name="kg_iris_no_match">ບໍ່ເຂົ້າກັນ</string>
+    <string name="kg_iris_not_supported_at_180_degree">ເພື່ອໃຊ້ການຈົດຈຳມ່ານຕາ, ໝູນແທັບເລັດຂອງທ່ານ ເພື່ອໃຫ້ເຊັນເຊີບໍ່ຢູ່ໃນເບື້ອງລຸ່ມສຸດ</string>
+    <string name="kg_iris_not_working_text">ການຈົດຈຳມ່ານຕາໃຊ້ບໍ່ໄດ້</string>
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions">ໃຊ້ລາຍນິ້ວມືເພື່ອເປີດ ຫຼື ຮູດໜ້າຈໍດ້ວຍມືສອງນິ້ວເພື່ອໃຊ້ມ່ານຕາ</string>
+    <string name="kg_iris_password_active_instructions">ໃຊ້ມ່ານຕາ ຫຼືປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_iris_password_none_instructions">ໃຊ້ມ່ານຕາ ຫຼືປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_iris_pattern_active_instructions">ໃຊ້ມ່ານຕາ ຫຼືແຕ້ມຮູບແບບເພື່ອເປີດ</string>
+    <string name="kg_iris_pattern_none_instructions">ໃຊ້ມ່ານຕາ ຫຼືແຕ້ມຮູບແບບ</string>
+    <string name="kg_iris_pattern_text_for_mkeyboard">ແຕະທີ່ນີ້ເພື່ອແຕ້ມຮູບແບບ</string>
+    <string name="kg_iris_pin_active_instructions">ໃຊ້ມ່ານຕາ ຫຼືປ້ອນ PIN ເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_iris_pin_none_instructions">ໃຊ້ມ່ານຕາ ຫຼືປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_iris_proximity_guide_text">ມືຂອງທ່ານກຳລັງປິດເຊັນເຊີຢູ່ບໍ? ເປີດມັນອອກ ເພື່ອໃຊ້ການຈົດຈຳມ່ານຕາ</string>
+    <string name="kg_iris_retry_content_description">ແຕະສອງຄັ້ງເພື່ອສະແກນມ່ານຕາ.</string>
+    <string name="kg_iris_retry_text">ແຕະໄອຄອນເພື່ອລອງການຈົດຈຳມ່ານຕາອີກຄັ້ງ</string>
+    <string name="kg_iris_start_for_dex">ໃຊ້ມ່ານຕາໃນໂທລະສັບຂອງທ່ານ</string>
+    <string name="kg_iris_stop">ຢຸດສະແກນມ່ານຕາ</string>
+    <string name="kg_iris_strong_auth_prompt_reason_24_timeout_universal_lock">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ໃຊ້ຊຸດທິດທາງຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ. ທ່ານສາມາດໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານໃນຄັ້ງຕໍ່ໄປ.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_restarting_universal_lock">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ມ່ານຕາຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_universal_lock_security_policy">ແຕ້ມຊຸດທິດທາງແທນການໃຊ້ການຈົດຈຳມ່ານຕາຍ້ອນນະໂຍບາຍດ້ານຄວາມປອດໄພ</string>
+    <string name="kg_iris_toast_preview_for_dex">ໃຊ້ມ່ານຕາຂອງທ່ານໃນໂທລະສັບຂອງທ່ານເພື່ອກວດສອບຕົວຕົນຂອງທ່ານ.</string>
+    <string name="kg_iris_too_many_timeout_error_text">​ອຸນ​ຫະ​ພູມ​ສູງ​ເກີນ​ໄປ​ທີ່​ຈະໃຊ້ການຈົດຈໍາມ່ານຕາ. ລໍ​ຖ້າ​ໃຫ້​ໂທ​ລະ​ສັບ​​ໃຫ້ເຢັນ​ລົງ​ ກ່ອນທີ່ຈະລອງໃໝ່ອີກ.</string>
+    <string name="kg_iris_too_many_timeout_error_toast_text">LED ການຈົດຈຳມ່ານຕາຮ້ອນເກີນໄປແລ້ວ. ລອງໃໝ່ພາຍຫຼັງ.</string>
+    <string name="kg_keycode_delete">ລຶບ</string>
+    <string name="kg_keycode_ok">ຕົກລົງ</string>
+    <string name="kg_knox_guard_mobile_data_button">Turn on Mobile data</string>
+    <string name="kg_knox_guard_mobile_data_turned_on_toast">Mobile data turned on.</string>
+    <string name="kg_knox_guard_no_sim_card_toast">ບໍ່ໄດ້ແຊກແຜ່ນ SIM ໃສ່.</string>
+    <string name="kg_knox_guard_pin_hint">PIN</string>
+    <string name="kg_knox_guard_wifi_button">Turn on Wi-Fi</string>
+    <string name="kg_knox_guard_wifi_turned_on_toast">Wi-Fi turned on.</string>
+    <string name="kg_kor_empty_sim_puk_hint">ບໍ່ໄດ້ປ້ອນລະຫັດ (PUK) ປົດລັອກ PIN ເຂົ້າ. ລອງໃໝ່ອີກ.</string>
+    <string name="kg_kor_enter_confirm_pin_hint">ປ້ອນ PIN ແຜ່ນ USIM ເຂົ້າອີກຄັ້ງເພື່ອຢືນຢັນມັນ.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">PIN ໃໝ່ບໍ່ເຂົ້າກັນ.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">ປ້ອນລະຫັດ (PUK) ປົດລັອກ PIN 8 ຕົວເລກ</string>
+    <string name="kg_kor_password_wrong_pin_code">ປ້ອນ PIN ບໍ່ຖືກຕ້ອງເຂົ້າແລ້ວ. ຄວາມພະຍາຍາມເຫຼືອຢູ່ %d ຄັ້ງ. ຕິດຕໍ່ຝ່າຍບໍລິການລູກຄ້າ.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"ສ້າງ PIN ແຜ່ນ USIM ໃໝ່.
+PIN ຈະຕ້ອງມີຄວາມຍາວ 4 ຫາ 8 ຕົວເລກ."</string>
+    <string name="kg_kor_sim_pin_instructions">ປ້ອນ PIN ປົດລັອກແຜ່ນ USIM (4 ຫາ 8 ຕົວເລກ) ເຂົ້າ</string>
+    <string name="kg_kor_sim_puk_instructions">ປ້ອນ PUK ເຂົ້າ.</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"PUK ທີ່ບໍ່ຖືກຕ້ອງຖືກປ້ອນເຂົ້າ %1$d ຄັ້ງແລ້ວ. ຖ້າ PUK ບໍ່ຖືກຕ້ອງຖືກປ້ອນເຂົ້າອີກ %2$d ຄັ້ງ, ແຜ່ນ USIM ຈະຖືກລັອກຢ່າງຖາວອນ.
+
+ຖ້າທ່ານບໍ່ຮູ້ຈັກ PUK ຂອງທ່ານ, ເຂົ້າເບິ່ງໄດ້ທີ່ສູນບໍລິການລູກຄ້າ."</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">Unlocking SIM card</string>
+    <string name="kg_kor_success_pin_message">ລະຫັດ (PIN) ໃໝ່ຖືກບັນທຶກສໍາເລັດແລ້ວ.</string>
+    <string name="kg_kor_wrong_puk_code">ການປ້ອນລະຫັດປົດລັອກຂັດຂ້ອງ</string>
+    <string name="kg_ktt_sim_perso_instructions">ປ້ອນລະຫັດ (PIN) 4 ຫາ 8 ຕົວເລກ</string>
+    <string name="kg_lockscreen_emergency_call_button_text">ໂທສຸກເສີນ</string>
+    <string name="kg_missing_sim_message_short">ບໍ່ມີແຜ່ນ SIM</string>
+    <string name="kg_multi_biometrics_direction_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງ</string>
+    <string name="kg_multi_biometrics_prompt_reason_timeout_universal_lock_strong_auth">ແຕ້ມຊຸດທິດທາງ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານ</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_24_timeout_universal_lock">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ໃຊ້ຊຸດທິດທາງຂອງທ່ານເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ. ທ່ານສາມາດໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານໃນຄັ້ງຕໍ່ໄປ.</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_restarting_universal_lock">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_multi_direction_active_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອເປີດ</string>
+    <string name="kg_multi_direction_none_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງ</string>
+    <string name="kg_multi_password_active_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_multi_password_none_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າ</string>
+    <string name="kg_multi_pattern_active_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດ</string>
+    <string name="kg_multi_pattern_none_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບ</string>
+    <string name="kg_multi_pin_active_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_multi_pin_none_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_n_attempts_remaining">(%d ຍັງເຫລືອຄວາມພະຍາຍາມ)</string>
+    <string name="kg_no_match">ບໍ່ເຂົ້າກັນ</string>
+    <string name="kg_none_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຊຸດ​ທິດ​ທາງທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_direction_active_instructions">ແຕ້ມຊຸດ​ທິດ​ທາງເພື່ອເປີດ</string>
+    <string name="kg_none_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_none_instructions">ແຕ້ມຊຸດ​ທິດ​ທາງເພື່ອປົດລອັກໜ້າຈໍ</string>
+    <string name="kg_none_direction_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຊຸດ​ທິ​ດ​ທາງທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_face_direction_deviceadmin_instructions">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ແຕ້ມຊຸດທິດທາງຂອງທ່ານ.</string>
+    <string name="kg_none_face_direction_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_direction_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_direction_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_face_password_deviceadmin_instructions">ປ້ອນລະຫັດຜ່ານຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_none_face_password_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_password_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_password_reboot_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_face_password_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_face_pattern_deviceadmin_instructions">ແຕ້ມຮູບແບບຂອງທ່ານ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_none_face_pattern_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_pattern_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_pattern_reboot_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_face_pattern_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_face_pin_deviceadmin_instructions">ປ້ອນ PIN ຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_none_face_pin_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_pin_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_face_pin_reboot_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດໂທລະສັບໃໝ່ອີກ</string>
+    <string name="kg_none_face_pin_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_facefingerprint_direction_itpolicy_instructions">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ແຕ້ມຊຸດທິດທາງຂອງທ່ານ.</string>
+    <string name="kg_none_facefingerprint_password_itpolicy_instructions">ໃຊ້ລາຍນິ້ວມືຂອງທ່ານ ຫຼື ປ້ອນລະຫັດຜ່ານຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_none_facefingerprint_pattern_itpolicy_instructions">ໃຊ້ລາຍນິ້ວມືຂອງທ່ານ ຫຼື ແຕ້ມຮູບແບບຂອງທ່ານ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_none_facefingerprint_pin_itpolicy_instructions">ໃຊ້ລາຍນິ້ວມືຂອງທ່ານ ຫຼື ປ້ອນ PIN ຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າ</string>
+    <string name="kg_none_fingerprint_direction_deviceadmin_instructions">ແຕ້ມຊຸດທິດທາງ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ລາຍນິ້ວມືຂອງທ່ານ</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_direction_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_fingerprint_password_deviceadmin_instructions">ປ້ອນລະຫັດຜ່ານຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ລາຍນິ້ວມືຂອງທ່ານ</string>
+    <string name="kg_none_fingerprint_password_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_password_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_password_reboot_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດໂທລະສັບໃໝ່ອີກ</string>
+    <string name="kg_none_fingerprint_password_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_fingerprint_pattern_deviceadmin_instructions">ແຕ້ມຮູບແບບຂອງທ່ານ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ລາຍນິ້ວມືຂອງທ່ານ</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_pattern_reboot_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດໂທລະສັບໃໝ່ອີກ</string>
+    <string name="kg_none_fingerprint_pattern_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_fingerprint_pin_deviceadmin_instructions">ປ້ອນ PIN ຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ລາຍນິ້ວມືຂອງທ່ານ</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_fingerprint_pin_reboot_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_fingerprint_pin_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_intelligent_direction_deviceadmin_instructions">ແຕ້ມຊຸດທິດທາງ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການຈົດຈຳໃບໜ້າຂອງທ່ານ</string>
+    <string name="kg_none_intelligent_direction_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_direction_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_direction_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_intelligent_password_deviceadmin_instructions">ປ້ອນລະຫັດຜ່ານຂອງທ່ານເຂົ້າ, ຕາມທີ່ກຳນົດໄວ້ໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_none_intelligent_password_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_password_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_password_reboot_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດໂທລະສັບໃໝ່ອີກ</string>
+    <string name="kg_none_intelligent_password_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_intelligent_pattern_deviceadmin_instructions">ແຕ້ມຮູບແບບຂອງທ່ານ, ຕາມທີ່ກຳນົດໄວ້ໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_pattern_reboot_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດໂທລະສັບໃໝ່ອີກ</string>
+    <string name="kg_none_intelligent_pattern_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_intelligent_pin_deviceadmin_instructions">ປ້ອນ PIN ຂອງທ່ານເຂົ້າ, ຕາມທີ່ກຳນົດໄວ້ໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ການສະແກນທີ່ສະຫຼາດ</string>
+    <string name="kg_none_intelligent_pin_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_pin_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_intelligent_pin_reboot_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດໂທລະສັບໃໝ່ອີກ</string>
+    <string name="kg_none_intelligent_pin_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_iris_direction_deviceadmin_instructions">ແຕ້ມຊຸດທິດທາງ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ມ່ານຕາຂອງທ່ານ</string>
+    <string name="kg_none_iris_direction_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_direction_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_direction_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_iris_password_deviceadmin_instructions">ປ້ອນລະຫັດຜ່ານຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ມ່ານຕາຂອງທ່ານ</string>
+    <string name="kg_none_iris_password_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_password_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_password_reboot_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_iris_password_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_iris_pattern_deviceadmin_instructions">ແຕ້ມຮູບແບບຂອງທ່ານ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ມ່ານຕາຂອງທ່ານ</string>
+    <string name="kg_none_iris_pattern_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_pattern_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_pattern_reboot_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_iris_pattern_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_iris_pin_deviceadmin_instructions">ປ້ອນ PIN ຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ມ່ານຕາຂອງທ່ານ</string>
+    <string name="kg_none_iris_pin_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_pin_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_iris_pin_reboot_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_iris_pin_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_multi_direction_deviceadmin_instructions">ແຕ້ມຊຸດທິດທາງ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານ</string>
+    <string name="kg_none_multi_direction_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_direction_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_direction_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_multi_password_deviceadmin_instructions">ປ້ອນລະຫັດຜ່ານຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານ</string>
+    <string name="kg_none_multi_password_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_password_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_password_reboot_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_multi_password_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_multi_pattern_deviceadmin_instructions">ແຕ້ມຮູບແບບຂອງທ່ານ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານ</string>
+    <string name="kg_none_multi_pattern_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_pattern_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_pattern_reboot_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_multi_pattern_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_multi_pin_deviceadmin_instructions">ປ້ອນ PIN ຂອງທ່ານເຂົ້າ, ຕາມຂໍ້ກຳນົດໃນນະໂຍບາຍຄວາມປອດໄພ, ແທນການໃຊ້ໄບໂອແມັດທຣິກຂອງທ່ານ</string>
+    <string name="kg_none_multi_pin_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_pin_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_multi_pin_reboot_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_multi_pin_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_none_direction_emergencymodeoff_instructions">ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_direction_emergencymodeon_instructions">ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_direction_restart_instructions">ໃຊ້ຊຸດທິດທາງຫຼັງຈາກປິດເປີດຄືນໃໝ່.</string>
+    <string name="kg_none_none_direction_shutdown_instructions">ແຕ້ມຊຸດ​ທິດ​ທາງເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_none_direction_timeout_instructions">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ແຕ້ມຊຸດທິດທາງຂອງທ່ານ.</string>
+    <string name="kg_none_none_password_emergencymodeoff_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າ ເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_password_emergencymodeon_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າ ເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_password_reboot_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າ ເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_none_password_restart_instructions">ໃຊ້ລະຫັດຜ່ານຫຼັງຈາກເປີດປິດຄືນໃໝ່ແລ້ວ.</string>
+    <string name="kg_none_none_password_shutdown_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_none_password_timeout_instructions">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ໃຊ້ລະຫັດຜ່ານຂອງທ່ານ.</string>
+    <string name="kg_none_none_pattern_emergencymodeoff_instructions">ແຕ້ມຮູບແບບ ເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_pattern_emergencymodeon_instructions">ແຕ້ມຮູບແບບ ເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_pattern_reboot_instructions">ແຕ້ມຮູບແບບເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_none_pattern_restart_instructions">ແຕ້ມຮູບແບບຫຼັງຈາກເປີດປິດຄືນໃໝ່.</string>
+    <string name="kg_none_none_pattern_shutdown_instructions">ແຕ້ມຮູບແບບເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_none_pattern_timeout_instructions">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ແຕ້ມຮູບແບບຂອງທ່ານ.</string>
+    <string name="kg_none_none_pin_emergencymodeoff_instructions">ປ້ອນ PIN ເຂົ້າ ເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_pin_emergencymodeon_instructions">ປ້ອນ PIN ເຂົ້າ ເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_none_none_pin_reboot_instructions">ປ້ອນ PIN ເຂົ້າ ເພື່ອປິດເປີດໂທລະສັບຄືນໃໝ່</string>
+    <string name="kg_none_none_pin_restart_instructions">ໃຊ້ PIN ຫຼັງຈາກເປີດປິດຄືນໃໝ່.</string>
+    <string name="kg_none_none_pin_shutdown_instructions">ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂທລະສັບ</string>
+    <string name="kg_none_none_pin_timeout_instructions">ເພື່ອຄວາມປອດໄພຂອງທ່ານ, ໃຊ້ PIN ຂອງທ່ານ.</string>
+    <string name="kg_none_password_1_frp">"If you do not enter the correct password in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນລະຫັດຜ່ານທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ແທັບເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າ​ແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_password_active_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດ</string>
+    <string name="kg_none_password_none_frp">"If you do not enter the correct password within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_none_instructions">ໃສ່ລະຫັດເຂົ້າໄປ</string>
+    <string name="kg_none_password_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນລະຫັດຜ່ານທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ແທັບ​ເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບ​ແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_pattern_1_frp">"If you do not enter the correct pattern in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຮູບແບບທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອທີ່ຈະສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_pattern_active_instructions">ແຕ້ມຮູບແບບການປົດລັອກເພື່ອເປີດ</string>
+    <string name="kg_none_pattern_none_frp">"If you do not enter the correct pattern within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_none_instructions">ແຕ້ມຮູບແບບປົດລັອກ</string>
+    <string name="kg_none_pattern_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຮູບແບບທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອທີ່ຈະສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນ PIN ທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອທີ່ຈະສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_pin_active_instructions">ປ້ອນ PIN ເຂົ້າ ເພື່ອເປີດ</string>
+    <string name="kg_none_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_none_instructions">​ໃສ່ PIN</string>
+    <string name="kg_none_pin_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນ PIN ທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອທີ່ຈະສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_none_recovery_none_instructions">ໃສ່ລະຫັດເອົາກັບຄືນເພື່ອປົດລັອກ.</string>
+    <string name="kg_password_hint">ການບອກໄບ້</string>
+    <string name="kg_password_hint_show">ການເຕືອນ: %s</string>
+    <string name="kg_password_perso_failed">ລະຫັດ PIN ບໍ່ຖືກຕ້ອງ. ກວດເບິ່ງ PIN ທີ່ໄດ້ໃສ່ເຂົ້າໄປ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="kg_password_perso_max_failed">ໃສ່ PIN ບໍ່ຖືກຕ້ອງເຂົ້າໄປສໍາລັບການລັອກແຜ່ນ USIM. ຮອດຈໍານວນການລອງໃສ່ເຂົ້າໄປສູງສຸດແລ້ວ. ປິດເປີດເຄື່ອງໃໝ່ ຫຼືເຂົ້າໄປເບິ່ງສູນ CS.</string>
+    <string name="kg_password_sub_instructions">ລະຫັດຜ່ານຂອງທ່ານຕ້ອງມີຢ່າງໜ້ອຍ %d ຕົວອັກສອນ, ລວມທັງຢ່າງ​ໜ້ອຍ​ 1 ຕົວ​ໜັງ​ສື​.</string>
+    <string name="kg_password_sub_instructions_vzw">ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​ລວມ​ມີ​ຕົວ​ໜັງ​ສື ແລະ ຍາວ​ຢ່າງ​ໜ້ອຍ %d ​ຕົວ​ອັກ​ສອນ​.</string>
+    <string name="kg_password_wrong_pin_code_one">ປ້ອນ PIN ຂອງ SIM ບໍ່ຖືກຕ້ອງເຂົ້າໄປແລ້ວ. ທ່ານຍັງລອງໄດ້ອີກ 1 ຄັ້ງ.</string>
+    <string name="kg_password_wrong_pin_code_other">ປ້ອນ PIN ຂອງ SIM ບໍ່ຖືກຕ້ອງເຂົ້າໄປແລ້ວ. ທ່ານຍັງລອງໄດ້ອີກ %d ຄັ້ງ.</string>
+    <string name="kg_perso_locked_message">ບລັອກ USIM ອື່ນ</string>
+    <string name="kg_phone_unlocked">ປົດລັອກໂທລະສັບແລ້ວ</string>
+    <string name="kg_pin_locked_message">ປ້ອນ PIN ເຂົ້າ</string>
+    <string name="kg_pin_sub_instructions">PIN ຂອງທ່ານຕ້ອງມີຢ່າງໜ້ອຍ 4 ຕົວເລກ.</string>
+    <string name="kg_pin_sub_instructions_vzw">PIN ຂອງ​ທ່ານ​ຖືກ​ສ້າງ​ຂື້ນ​ຈາກ %d ຕົວ​ເລກ ຫຼື ຫຼາຍກວ່າ​ນັ້ນ.</string>
+    <string name="kg_power_charging">ກໍາລັງສາກ: %d%%</string>
+    <string name="kg_power_charging_wirelessly">ກໍາລັງສາກແບບໄຮ້ສາຍ: %d%%</string>
+    <string name="kg_power_connect_charger">ເຊື່ອມຕໍ່ເຄື່ອງສາກ</string>
+    <string name="kg_power_fast_charging">ກຳລັງສາກໄວ: %d%%</string>
+    <string name="kg_power_fast_charging_chn">ການສາກຂັ້ນສູງ: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly">ກຳລັງສາກແບບໄວເລສຄວາມໄວສູງ: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly_chn">ການສາກແບບໄວເລສຂັ້ນສູງ: %d%%</string>
+    <string name="kg_power_fully_charged">ສາກເຕັມແລ້ວ</string>
+    <string name="kg_power_time_format_hour">%d ຊມ ຈົນກວ່າຈະເຕັມ</string>
+    <string name="kg_power_time_format_hour_minute">%1$d ຊມ %2$d ນທ ຈົນກວ່າຈະເຕັມ</string>
+    <string name="kg_power_time_format_minute">%d ນທ ຈົນກວ່າຈະເຕັມ</string>
+    <string name="kg_prompt_reason_timeout_password_strong_auth">ປ້ອນລະຫັດຜ່ານເຂົ້າແທນການໃຊ້ການຈົດຈຳລາຍນິ້ວມືຍ້ອນນະໂຍບາຍດ້ານຄວາມປອດໄພ</string>
+    <string name="kg_prompt_reason_timeout_pattern_strong_auth">ແຕ້ມຮູບແບບແທນການໃຊ້ການຈົດຈຳລາຍນິ້ວມືຍ້ອນນະໂຍບາຍດ້ານຄວາມປອດໄພ</string>
+    <string name="kg_prompt_reason_timeout_pin_strong_auth">ປ້ອນ PIN ເຂົ້າແທນການໃຊ້ການຈົດຈຳລາຍນິ້ວມືຍ້ອນນະໂຍບາຍດ້ານຄວາມປອດໄພ</string>
+    <string name="kg_prompt_reason_timeout_universal_lock_strong_auth">ແຕ້ມຊຸດທິດທາງແທນການໃຊ້ການຈົດຈຳລາຍນິ້ວມືຍ້ອນນະໂຍບາຍດ້ານຄວາມປອດໄພ</string>
+    <string name="kg_puk_locked_message">ປ້ອນ PUK ເຂົ້າ</string>
+    <string name="kg_remote_lock_accessibility_call">ໂທ %s</string>
+    <string name="kg_remote_lock_accessibility_email">ອີເມລ໌ຫາ %s</string>
+    <string name="kg_remote_lock_incorrect_pin">PIN ບໍ່ຖືກຕ້ອງ.</string>
+    <string name="kg_rmm_lock_instructions">ປ້ອນ PIN ຈາກ %s ເຂົ້າ</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">ໄດ້ມີຄວາມພະຍາຍາມທີ່ຈະປົດລັອກອຸປະກອນ. ທ່ານມີຄວາມພະຍາຍາມເຫຼືອອີກ %d ຄັ້ງ ກ່ອນອຸປະກອນຈະຖືກຕັ້ງຄືນໃໝ່ ໄປຍັງການຕັ້ງຄ່າມາດຕະຖານຂອງໂຮງງານແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມທັງໄຟລ໌ແລະແອັບທີ່ຖືກດາວໂຫຼດ.</string>
+    <string name="kg_sec_1_remaining_count_almost_at_wipe">ໄດ້ມີຄວາມພະຍາຍາມທີ່ຈະປົດລັອກອຸປະກອນ %d ຄັ້ງ. ທ່ານມີຄວາມພະຍາຍາມເຫຼືອອີກ 1 ຄັ້ງ ກ່ອນອຸປະກອນຈະຖືກຕັ້ງຄືນໃໝ່ ໄປຍັງການຕັ້ງຄ່າມາດຕະຖານຂອງໂຮງງານແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມທັງໄຟລ໌ແລະແອັບຕ່າງໆທີ່ຖືກດາວໂຫຼດ.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">ໄດ້ມີຄວາມພະຍາຍາມທີ່ຈະປົດລັອກອຸປະກອນ %1$d ຄັ້ງແລ້ວ. ທ່ານມີຄວາມພະຍາຍາມເຫຼືອອີກ %2$d ຄັ້ງ ກ່ອນອຸປະກອນຈະຖືກຕັ້ງຄືນໃໝ່ ໄປຍັງການຕັ້ງຄ່າມາດຕະຖານຂອງໂຮງງານແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມທັງໄຟລ໌ແລະແອັບທີ່ຖືກດາວໂຫຼດ.</string>
+    <string name="kg_sec_puk_enter_confirm_pin_hint">ປ້ອນ PIN ແຜ່ນ SIM ໃໝ່ເຂົ້າໄປອີກເພື່ອຢືນຢັນມັນ.</string>
+    <string name="kg_sec_puk_enter_pin_hint">ປ້ອນ PIN ແຜ່ນ SIM ໃໝ່ເຂົ້າໄປ.</string>
+    <string name="kg_sec_sim_unlock_progress_dialog_message">ກໍາລັງປົດລັອກແຜ່ນ SIM…</string>
+    <string name="kg_secure_password">ລະຫັດຜ່ານ</string>
+    <string name="kg_secure_pattern">ຮູບແບບ</string>
+    <string name="kg_secure_pin">PIN</string>
+    <string name="kg_secure_using_ppp_instead_of_fingerprints">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ %1$d ຄັ້ງແລ້ວ ໂດຍການໃຊ້ລາຍນິ້ວມື. ປົດລັອກໂດຍການໃຊ້ %2$s ຂອງທ່ານແທນ.</string>
+    <string name="kg_secure_using_swipe_instead_of_fingerprints">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ໂດຍການໃຊ້ລາຍນິ້ວມື %d ຄັ້ງແລ້ວ. ຮູດເພື່ອປົດລັອກແທນ.</string>
+    <string name="kg_set_on_lock_screen_button">ຕັ້ງຢູ່ໃນໜ້າຈໍລັອກ</string>
+    <string name="kg_show_password_accessibility">ສະແດງລະຫັດຜ່ານ</string>
+    <string name="kg_sim_lock_accepted">PIN ບໍ່ຖືກບລັອກ.</string>
+    <string name="kg_sim_lock_verified">ລະຫັດໄດ້ຍອມຮັບ.</string>
+    <string name="kg_sim_locked_message">ລັອກແຜ່ນ SIM ແລ້ວ</string>
+    <string name="kg_sim_pin_remaining_1_attempt">ທ່ານຍັງລອງໄດ້ອີກ 1 ຄັ້ງ.</string>
+    <string name="kg_sim_pin_remaining_attempts">ທ່ານຍັງພະຍາຍາມໄດ້ອີກ %d ຄັ້ງ.</string>
+    <string name="kg_sim_puk_instructions">ລັອກແຜ່ນ SIM ແລ້ວ. ປ້ອນ PUK ເຂົ້າ. ຕິດຕໍ່ຜູ້ໃຫ້ການບໍລິການຂອງທ່ານສຳລັບລາຍລະອຽດຕ່າງໆ.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">ຖ້າ​ທ່ານ​ປ້ອນ PUK ບໍ່​ຖືກ​ຕ້ອງ​ອີກ 1 ຄັ້ງ, SIM ຈະ​ຖືກ​ລັອກ.</string>
+    <string name="kg_sim_puk_remaining_attempts">ຖ້າ​ທ່ານ​ປ້ອນ PUK ບໍ່​ຖືກ​ຕ້ອງ​ອີກ %d ຄັ້ງ, SIM ຈະ​ຖືກ​ລັອກ.</string>
+    <string name="kg_sim_puk_tmo_help_contact_service_provider">Your PIN has been blocked. To unlock your device, contact your service provider.</string>
+    <string name="kg_sim_puk_tmo_sos_call">SOS</string>
+    <string name="kg_skt_sim_perso_instructions">ປ້ອນ PIN ປົດລັອກແຜ່ນ USIM (4 ຕົວເລກ) ເຂົ້າ</string>
+    <string name="kg_smart_lock_content_description">ແຕະສອງຄັ້ງແລະລາກໄປຫາອຸປະກອນລັອກ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_direction_lock">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ລະຫັດຜ່ານຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ຮູບແບບຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ PIN ຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_swipe_active_instructions">ຮູດເພື່ອເປີດ</string>
+    <string name="kg_swipe_unlock_instructions">ຮູດເພື່ອປົດລັອກ</string>
+    <string name="kg_swipe_unlock_smart_lock_instructions">ໂທລະສັບຖືກປົດລັອກໂດຍ Smart Lock ແລ້ວ</string>
+    <string name="kg_swipe_unlock_strong_auth_instructions">ຮູດເພື່ອປົດລັອກ</string>
+    <string name="kg_tablet_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຊຸດ​ທິດ​ທາງທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ​ແທັບ​ເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນ​ແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າ​ແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຮູບແບບທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ​ແທັບເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນ​ແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_face_direction_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_direction_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_direction_shutdown_instructions">ແທັບເລັດຂອງທ່ານຖືກປິດເປີດຄືນໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກແທັບເລັດຂອງທ່ານ.</string>
+    <string name="kg_tablet_face_password_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_password_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_password_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_face_pattern_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_pattern_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_pattern_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_face_pin_emergencymodeoff_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_pin_emergencymodeon_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_face_pin_shutdown_instructions">ໃຊ້ການຈົດຈຳໃບໜ້າ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_direction_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_password_reboot_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_fingerprint_password_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_pattern_reboot_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_fingerprint_pattern_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeoff_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeon_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_fingerprint_pin_reboot_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_fingerprint_pin_shutdown_instructions">ໃຊ້ລາຍນິ້ວມື ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_fingerprints_direction_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_fingerprints_password_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ລະຫັດຜ່ານຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_fingerprints_pattern_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ຮູບແບບຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_fingerprints_pin_unabled_instructions">ອຸປະກອນຂອງທ່ານຖືກປິດເປີດໃໝ່ແລ້ວ ແລະຈຳເປັນຕ້ອງໄດ້ປົດລັອກໂດຍໃຊ້ PIN ຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_direction_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_password_reboot_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_intelligent_password_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_pattern_reboot_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_intelligent_pattern_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeoff_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeon_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_intelligent_pin_reboot_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_intelligent_pin_shutdown_instructions">ໃຊ້ການສະແກນທີ່ສະຫຼາດ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_iris_direction_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_direction_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_direction_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_iris_password_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_password_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_password_reboot_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_iris_password_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_pattern_reboot_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_iris_pattern_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_iris_pin_emergencymodeoff_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_pin_emergencymodeon_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_iris_pin_reboot_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_iris_pin_shutdown_instructions">ໃຊ້ມ່ານຕາ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_multi_direction_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_direction_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_direction_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຊຸດທິດທາງເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_multi_password_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_password_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_password_reboot_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_multi_password_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_pattern_reboot_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_multi_pattern_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ແຕ້ມຮູບແບບເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_multi_pin_emergencymodeoff_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_pin_emergencymodeon_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_multi_pin_reboot_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_multi_pin_shutdown_instructions">ໃຊ້ໄບໂອແມັດທຣິກ ຫຼື ປ້ອນ PIN ເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_none_direction_emergencymodeoff_instructions">ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_direction_emergencymodeon_instructions">ແຕ້ມຊຸດທິດທາງຂອງທ່ານເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_direction_shutdown_instructions">ແຕ້ມຊຸດ​ທິດ​ທາງເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_none_password_emergencymodeoff_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າ ເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_password_emergencymodeon_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າ ເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_password_reboot_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_none_password_shutdown_instructions">ປ້ອນລະຫັດຜ່ານເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_none_pattern_emergencymodeoff_instructions">ແຕ້ມຮູບແບບ ເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_pattern_emergencymodeon_instructions">ແຕ້ມຮູບແບບ ເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_pattern_reboot_instructions">ແຕ້ມຮູບແບບເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_none_pattern_shutdown_instructions">ແຕ້ມຮູບແບບເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_none_pin_emergencymodeoff_instructions">ປ້ອນ PIN ເຂົ້າ ເພື່ອປິດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_pin_emergencymodeon_instructions">ປ້ອນ PIN ເຂົ້າ ເພື່ອເປີດໂໝດສຸກເສີນ</string>
+    <string name="kg_tablet_none_pin_reboot_instructions">ປ້ອນ PIN ເຂົ້າເພື່ອປິດເປີດແທັບເລັດຄືນໃໝ່</string>
+    <string name="kg_tablet_none_pin_shutdown_instructions">ປ້ອນ PIN ເຂົ້າເພື່ອປິດແທັບເລັດ</string>
+    <string name="kg_tablet_password_1_frp">"If you do not enter the correct password in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນລະຫັດຜ່ານທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອທີ່ຈະສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_password_none_frp">"If you do not enter the correct password within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນລະຫັດຜ່ານທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ໂທລະສັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນໂທລະສັບຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບນີ້ເຂົ້າ ເພື່ອທີ່ຈະສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_pattern_1_frp">"If you do not draw the correct pattern in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຮູບແບບທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ແທັບ​ເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນ​ແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າ​ແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອ​ໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_pattern_none_frp">"If you do not draw the correct pattern within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນຮູບແບບທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ແທັບເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນ​ແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າໂທລະສັບຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອ​ໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_1_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນ PIN ທີ່ຖືກຕ້ອງເຂົ້າໃນຄັ້ງຕໍ່ໄປ, ແທັບ​ເລັດຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນ​ແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າ​ແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອ​ໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_none_reactivation">"ຖ້າທ່ານບໍ່ປ້ອນ PIN ທີ່ຖືກຕ້ອງເຂົ້າພາຍໃນ %d ຄັ້ງຕໍ່ໄປ, ແທັບເລັບຂອງທ່ານຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າໂຮງງານໂດຍອັດຕະໂນມັດ ແລະຂໍ້ມູນທັງໝົດໃນ​ແທັບ​ເລັດຈະຖືກລຶບ.
+
+ຖ້າ​ແທັບ​ເລັດຂອງທ່ານຖືກຕັ້ງຄືນໃໝ່, ທ່ານອາດຈະຈຳເປັນຕ້ອງໄດ້ປ້ອນຂໍ້ມູນ Samsung account (ທີ່ຢູ່ອີເມລ໌ ແລະລະຫັດຜ່ານ) ທີ່ກ່ຽວຂ້ອງກັບແທັບ​ເລັດນີ້ເຂົ້າ ເພື່ອ​ໃຫ້ສາມາດໃຊ້ມັນອີກຄັ້ງ."</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_direction_lock">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ຊຸດທິດທາງຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_password">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ລະຫັດຜ່ານຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pattern">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ຮູບແບບຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pin">ອຸປະກອນຂອງທ່ານບໍ່ຖືກໃຊ້ເປັນເວລາຫຼາຍກວ່າ 24 ຊົ່ວໂມງແລະຈຳເປັນຕ້ອງໄດ້ຖືກປົດລັອກໂດຍໃຊ້ PIN ຂອງທ່ານ. ທ່ານສາມາດໃຊ້ລາຍນິ້ວມືຂອງທ່ານໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານປົດລັອກອຸປະກອນຂອງທ່ານ.</string>
+    <string name="kg_tts_shortcut_app">ແຕະສອງຄັ້ງແລະລາກເພື່ອເປີດ %s.</string>
+    <string name="kg_ucm_enter_confirm_pin_hint">ປ້ອນ PIN ເຂົ້າອີກຄັ້ງເພື່ອຢືນຢັນມັນ</string>
+    <string name="kg_ucm_invalid_confirm_pin_hint">PIN ບໍ່ກົງກັນ</string>
+    <string name="kg_ucm_loading">ກໍາລັງໂຫຼດ…</string>
+    <string name="kg_ucm_password_not_matching">ລະຫັດຜ່ານໃນ Smartcard ບໍ່ເຂົ້າກັນກັບລະຫັດຜ່ານທີ່ຈັດເກັບໄວ້ໃນໂທລະສັບ</string>
+    <string name="kg_ucm_password_wrong_puk_code">ປ້ອນ PUK ບໍ່ຖືກຕ້ອງເຂົ້າ</string>
+    <string name="kg_ucm_puk_enter_pin_hint">ປ້ອນ PIN ໃໝ່ເຂົ້າ</string>
+    <string name="kg_ucm_unknown_error_occurred">ເກີດຄວາມຜິດພາດທີ່ບໍ່ຮູ້ຈັກຂຶ້ນ.</string>
+    <string name="kg_ucm_unlocking">ກໍາລັງປົດລັອກ…</string>
+    <string name="kg_unlock_sim_pin_instructions">ປ້ອນ PIN ຂອງແຜ່ນ SIM ເຂົ້າ</string>
+    <string name="kg_unlock_sim_pin_remaining_1_attempt">ປ້ອນ PIN ປົດລັອກແຜ່ນ SIM ເຂົ້າ. ຄວາມພະຍາຍາມເຫຼືອ 1 ຄັ້ງ.</string>
+    <string name="kg_unlock_sim_pin_remaining_attempts">ປ້ອນ PIN ປົດລັອກແຜ່ນ SIM ເຂົ້າ. ຄວາມພະຍາຍາມເຫຼືອ %d ຄັ້ງ.</string>
+    <string name="kg_use_biometrics_first">ໃຊ້ໄບໂອແມັດທຣິກກ່ອນ</string>
+    <string name="kg_use_fingerprint_first">ໃຊ້ລາຍນິ້ວມືກ່ອນ</string>
+    <string name="kg_use_irises_first">ໃຊ້ມ່ານຕາກ່ອນ</string>
+    <string name="kg_voice_assistant_active_instructions">ຮູດດ້ວຍມື 2 ນິ້ວ ເພື່ອເປີດ</string>
+    <string name="kg_voice_assistant_unlock_instructions">ຮູດດ້ວຍມື 2 ນິ້ວ ເພື່ອປົດລັອກ</string>
+    <string name="kg_voice_assistant_unlock_strong_auth_instructions">ເລື່ອນດ້ວຍນີ້ວມືສອງນີ້ວ ເພື່ອປົດລັອກໜ້າຈໍ.</string>
+    <string name="kg_wallpaper_applied_toast">ວອລເປເປີທີ່ໃຊ້ກັບໜ້າຈໍລັອກ.</string>
+    <string name="kg_wallpaper_applied_toast_infinity">ນຳໃຊ້ວອລເປເປີແບບບໍ່ມີຂີດຈຳກັດກັບ Always On Display, ໜ້າຈໍຫຼັກ, ແລະໜ້າຈໍລັອກແລ້ວ.</string>
+    <string name="kg_wallpaper_applied_toast_infinity_without_aod">ນຳໃຊ້ວອລເປເປີແບບບໍ່ມີຂີດຈຳກັດກັບໜ້າຈໍຫຼັກ, ແລະໜ້າຈໍລັອກແລ້ວ.</string>
+    <string name="kg_wallpaper_change_wallpaper_when_infinity_applied">ເອັບເຝັກທີ່ບໍ່ສິ້ນສຸດຈະຖືກປິດ ຖ້າທ່ານໃຊ້ວອລເປເປີນີ້.</string>
+    <string name="kg_wallpaper_changes_restrict_toast">ນະໂຍບາຍດ້ານຄວາມປອດໄພຫ້າມທ່ານປ່ຽນວອລເປເປີ.</string>
+    <string name="kg_wallpaper_confirm_dialog_apply">ນຳ​ໃຊ້</string>
+    <string name="kg_wallpaper_confirm_dialog_message">ເອັບເຝັກທີ່ບໍ່ສິ້ນສຸດຈະຖືກປິດ ຖ້າທ່ານໃຊ້ວອລເປເປີນີ້.</string>
+    <string name="kg_wallpaper_download_guide_popup_phone_body">ເພື່ອໃຊ້ຟັງຄ໌ຊັນນີ້, ດາວໂຫຼດ %s.</string>
+    <string name="kg_wallpaper_download_guide_popup_title">ດາວໂຫຼດ %s ບໍ?</string>
+    <string name="kg_wallpaper_foldable_main_settting_description">ສິ່ງນີ້ຈະຕັ້ງວອລເປເປີສຳລັບໜ້າຈໍຫຼັກເທົ່ານັ້ນ. ປິດໂທລະສັບເພື່ອຕັ້ງວອລເປເປີສຳລັບໜ້າຈໍດ້ານໜ້າ.</string>
+    <string name="kg_wallpaper_foldable_sub_settting_description">ສິ່ງນີ້ຈະຕັ້ງວອລເປເປີສຳລັບໜ້າຈໍດ້ານໜ້າເທົ່ານັ້ນ. ເປີດໂທລະສັບເພື່ອຕັ້ງວອລເປເປີສຳລັບໜ້າຈໍຫຼັກ.</string>
+    <string name="kg_wallpaper_preview_button">ຕັ້ງ​ເປັນ​ວອລເປເປີ</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_body">ຈຳເປັນຕ້ອງໄດ້ປ່ຽນ GIF ນີ້ເປັນວິດີໂອ ເພື່ອຕັ້ງເປັນວອລເປເປີຂອງທ່ານ.</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_title">ກໍາລັງປ່ຽນ…</string>
+    <string name="kg_wallpaper_preview_infinity_motion_effect">ເອັບເຝັກການເຄື່ອນໄຫວໃນໜ້າຈໍຫຼັກ</string>
+    <string name="kg_wallpaper_preview_title">ໜ້າຈໍລັອກ</string>
+    <string name="kg_wallpaper_preview_title_infinity">ວອລເປເປີແບບບໍ່ມີຂີດຈຳກັດ</string>
+    <string name="kg_wallpaper_preview_video_big_size_info">ວິດີໂອທີ່ທ່ານເລືອກໄວ້ຍາວເກີນໄປ. ແຕະປຸ່ມລຸ່ມນີ້ ເພື່ອຕັດແຕ່ງມັນລົງໃຫ້ໄດ້ 100 MB.</string>
+    <string name="kg_wallpaper_preview_video_info">ວິດີໂອບໍ່ເກີນ 15 ວິນາທີຈະຖືກສະແດງເປັນວອລເປເປີໃນໜ້າຈໍລັອກ.</string>
+    <string name="kg_wallpaper_preview_video_long_info">ວິດີໂອທີ່ທ່ານເລືອກຍາວເກີນໄປ. ແຕະປຸ່ມລຸ່ມນີ້ ເພື່ອຕັດແຕ່ງມັນລົງໃຫ້ໄດ້ສູງສຸດ 15 ວິນາທີ.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper">ວອລເປເປີວິດີໂອ</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_original_video_error_toast">ບໍ່ສາມາດແກ້ໄຂວອລເປເປີວິດີໂອໄດ້. ຄວາມລະອຽດຂອງວິດີໂອຕ່ຳເກີນໄປ.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_trimmer_error_toast">ບໍ່ສາມາດແກ້ໄຂວອລເປເປີວິດີໂອ ໃນຂະນະທີ່ກຳລັງຫຼິ້ນວິດີໂອທີ່ມີຄຸນນະພາບສູງ.</string>
+    <string name="kg_wallpaper_unsupported_file">ໄຟລ໌ບໍ່ຮອງຮັບ.</string>
+    <string name="kg_wallpaper_video_trimmer">ເຄື່ອງຕັດວິດີໂອ</string>
+    <string name="kg_warning_none_1_none_auto_wipe">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ 1 ຄັ້ງແລ້ວ. ທ່ານມີພະຍາຍາມເຫຼືອອີກ %d ຄັ້ງ ກ່ອນໂທລະສັບຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າມາດຕະຖານໂຮງງານ ແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມ​ທັງ​ໄຟ​ລ໌ ແລະ​ແອັບ​ທີ່​ດາວ​ໂຫຼດ​ແລ້ວ.</string>
+    <string name="kg_warning_none_none_1_auto_wipe">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ %d ຄັ້ງແລ້ວ. ທ່ານມີພະຍາຍາມເຫຼືອອີກ 1 ຄັ້ງ ກ່ອນໂທລະສັບຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າມາດຕະຖານໂຮງງານ ແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມ​ທັງ​ໄຟ​ລ໌ ແລະ​ແອັບ​ທີ່​ດາວ​ໂຫຼດ​ແລ້ວ.</string>
+    <string name="kg_warning_none_none_none_auto_wipe">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກໂທລະສັບນີ້ %1$d ຄັ້ງແລ້ວ. ທ່ານມີພະຍາຍາມເຫຼືອອີກ %2$d ຄັ້ງ ກ່ອນໂທລະສັບຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າມາດຕະຖານໂຮງງານ ແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມ​ທັງ​ໄຟ​ລ໌ ແລະ​ແອັບ​ທີ່​ດາວ​ໂຫຼດ​ແລ້ວ.</string>
+    <string name="kg_warning_tablet_1_none_auto_wipe">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກແທັບເລັດນີ້ 1 ຄັ້ງແລ້ວ. ທ່ານມີພະຍາຍາມເຫຼືອອີກ %d ຄັ້ງ ກ່ອນແທັບເລັດຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າມາດຕະຖານໂຮງງານ ແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມ​ທັງ​ໄຟ​ລ໌ ແລະ​ແອັບ​ທີ່​ດາວ​ໂຫຼດ​ແລ້ວ.</string>
+    <string name="kg_warning_tablet_none_1_auto_wipe">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກແທັບເລັດນີ້ %d ຄັ້ງແລ້ວ. ທ່ານມີພະຍາຍາມເຫຼືອອີກ 1 ຄັ້ງ ກ່ອນແທັບເລັດຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າມາດຕະຖານໂຮງງານ ແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມ​ທັງ​ໄຟ​ລ໌ ແລະ​ແອັບ​ທີ່​ດາວ​ໂຫຼດ​ແລ້ວ.</string>
+    <string name="kg_warning_tablet_none_none_auto_wipe">ໄດ້ມີຄວາມພະຍາຍາມປົດລັອກແທັບເລັດນີ້ %1$d ຄັ້ງ. ທ່ານມີພະຍາຍາມເຫຼືອອີກ %2$d ຄັ້ງ ກ່ອນແທັບເລັດຈະຖືກຕັ້ງຄືນໃໝ່ເປັນການຕັ້ງຄ່າມາດຕະຖານໂຮງງານ ແລະຂໍ້ມູນທັງໝົດຈະຖືກລຶບ, ລວມ​ທັງ​ໄຟ​ລ໌ ແລະ​ແອັບ​ທີ່​ດາວ​ໂຫຼດ​ແລ້ວ.</string>
+    <string name="kg_wrong_direction_lock">ແຕ້ມ​ທິດ​ທາງບໍ່​ຖືກ​ຕ້ອງ​ແລ້ວ</string>
+    <string name="kg_wrong_direction_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="later">ທີຫຼັງ</string>
+    <string name="lock_app_shortcut_dnd_app_label">ແຕະສອງຄັ້ງແລະລາກເພື່ອເປີດ %s.</string>
+    <string name="lock_app_shortcut_flashlight_app_label">ໄຟສາຍ</string>
+    <string name="lock_to_app_dex_desc">ຟັງ​ຄ໌​ຊັນ​ນີ້​ບໍ່​ມີ​ຢູ່​ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ໂໝດ Samsung DeX.</string>
+    <string name="lock_to_app_dex_title">ບໍ່ສາມາດປັກໝຸດໜ້າຕ່າງໄດ້</string>
+    <string name="lock_to_app_positive">ຕົກລົງ</string>
+    <string name="lock_to_app_recent_and_back">ເພື່ອຖອນປັກໝຸດແອັບນີ້, ສຳພັດປຸ່ມຫຼ້າສຸດແລະປຸ່ມກັບຄືນຄ້າງໄວ້ໃນເວລາດຽວກັນ.</string>
+    <string name="lock_to_app_recent_and_back_accessibility">ເພື່ອ​ຖອນ​ປັກ​ໝຸດ​ແອ​ພ​ພ​ລິ​ເຄ​ຊັນ​ນີ້, ກົດປຸ່ມບໍ່​ດົນ​ມາ​ນີ້ຄ້າງໄວ້.</string>
+    <string name="lock_to_app_recent_and_back_softkey">ເພື່ອຖອນປັກໝຸດແອັບນີ້, ສຳພັດປຸ່ມຫຼ້າສຸດແລະປຸ່ມກັບຄືນຄ້າງໄວ້ໃນເວລາດຽວກັນ.</string>
+    <string name="lock_to_app_recent_and_back_softkey_accessibility">ເພື່ອຖອນປັກໝຸດແອັບ, ສຳພັດປຸ່ມຫຼ້າ​ສຸດຄ້າງໄວ້.</string>
+    <string name="lock_to_app_title">ເປີດປັກໝຸດໜ້າຕ່າງ</string>
+    <string name="lock_to_app_unable_to_pin_desc">ແອັບນີ້ບໍ່ຮອງຮັບ Pin windows.</string>
+    <string name="lock_to_app_unable_to_pin_title">ບໍ່ສາມາດປັກໝຸດ %s ໄດ້</string>
+    <string name="lock_to_app_unable_to_pin_toast">ບໍ່ສາມາດປັກໝຸດແອັບໄດ້. ປິດ %s ແລ້ວ. ເກີດຄວາມຜິດພາດບໍ່ຮູ້ຈັກຂຶ້ນ.</string>
+    <string name="lockscreen_nosim_text_kor_only">"ກວດບໍ່ພົບແຜ່ນ USIM
+ໂທສຸກເສີນເທົ່ານັ້ນ"</string>
+    <string name="maximum_power_saving_mode">ໂໝດປະຢັດໄຟສູງສຸດ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="memory_full_dialog_msg">ບໍ່ມີພື້ນທີ່ພຽງພໍໃນບ່ອນເກັບຂໍ້ມູນພາຍໃນຂອງທ່ານ. ລຶບບາງໄຟລ໌ແລະລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="memory_full_dialog_title">ບໍ່​ສາ​ມາດ​ຖ່າຍ​ພາບ​ໜ້າ​ຈໍ​ໄດ້</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">ການໂຣມມິງຂໍ້ມູນປິດໃຊ້ງານ</string>
+    <string name="mobile_data_roaming_title">ໂຣມມິງ ຂໍ້ມູນ</string>
+    <string name="mobile_data_show_popup_disable">ທ່ານຈະບໍ່ສາມາດໃຊ້ແອັບໃດໜຶ່ງທີ່ຕ້ອງການການເຊື່ອມຕໍ່ອິນເຕີເນັດ ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi.</string>
+    <string name="mobile_data_show_popup_disable_att">AT&amp;T Video Call won’t work if mobile data is off. Also, you won’t be able to use the internet, email or other apps that need a data connection unless you use Wi-Fi.</string>
+    <string name="mobile_data_show_popup_disable_dcm">"If Mobile data is turned off, your device must be connected to a Wi-Fi network to use services that require a network connection.
+
+Mobile data will be turned off."</string>
+    <string name="mobile_data_show_popup_disable_jpn">ນອກຈາກທ່ານເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi, ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌, ຫຼື ແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມເຄືອຂ່າຍໄດ້.</string>
+    <string name="mobile_data_show_popup_disable_kor">"ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi, ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌ ຫຼືແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ.
+
+ຂໍ້ມູນມືຖືຈະປິດ."</string>
+    <string name="mobile_data_show_popup_disable_kor_kt">ຂໍ້ມູນມືຖື (WCDMA/LTE) ຈະຖືກປິດ. ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi, ທ່ານຈະບໍ່ສາມາດໃຊ້ແອັບຕ່າງໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນອີກຕໍ່ໄປ. ການສົ່ງ ຫຼື ການຮັບຂໍ້ຄວາມມັລຕິມີເດຍຈະຖືກຈຳກັດ.</string>
+    <string name="mobile_data_show_popup_disable_kor_lgt">"ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi, ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌ ຫຼືແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ.
+
+ຂໍ້ມູນມືຖືຈະປິດ."</string>
+    <string name="mobile_data_show_popup_disable_vzw">"Unless you use Wi-Fi, you won't be able to use the Internet, Email or other apps that require a data connection. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte">"Your phone's Video Calling function won't work when mobile data is off. Also, you won't be able to use the Internet, Email or other apps that need a data connection unless you use Wi-Fi. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte_tablet">ຟັງຄ໌ຊັນການໂທວິດີໂອໃນແທັບເລັດຂອງທ່ານຈະໃຊ້ບໍ່ໄດ້ ໃນເວລາຂໍ້ມູນມືຖືປິດຢູ່. ນອກຈາກນີ້, ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌ ຫຼື ແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi. ປິດການເຊື່ອມຕໍ່ຂໍ້ມູນມືຖື?</string>
+    <string name="mobile_data_show_popup_enable_kor">ຂໍ້ມູນ ມືຖືຈະເປີດໃຊ້ງານ. ການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ ຂຶ້ນກັບແຜນການຊໍາລະຂອງທ່ານ.</string>
+    <string name="mobile_data_show_popup_enable_kor_kt">ຂໍ້ມູນ ມືຖືຈະເປີດໃຊ້ງານ. ການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ ຂຶ້ນກັບແຜນການຊໍາລະຂອງທ່ານ.</string>
+    <string name="mobile_data_show_popup_enable_kor_lgt">ຂໍ້ມູນ ມືຖືຈະເປີດໃຊ້ງານ. ການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ ຂຶ້ນກັບແຜນການຊໍາລະຂອງທ່ານ.</string>
+    <string name="mobile_data_show_popup_enable_kor_skt_kt">ຂໍ້ມູນ ມືຖືຈະເປີດໃຊ້ງານ. ການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ ຂຶ້ນກັບແຜນການຊໍາລະຂອງທ່ານ.</string>
+    <string name="mobile_data_show_popup_roaming_enable">ການໂຣມມິງຂໍ້ມູນຈະເປີດໃຊ້ງານ. ການໃຊ້ຂໍ້ມູນມືຖືໃນຂະນະທີ່ໂຣມມິງອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ ຂຶ້ນກັບແຜນການຊໍາລະຂອງທ່ານ.</string>
+    <string name="mobile_data_show_toast_airplane_mode">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືໄດ້ ໃນຂະນະທີ່ໂໝດເຮືອບິນເປີດຢູ່. ປິດໂໝດເຮືອບິນ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="mobile_data_show_toast_not_disable_during_voltecall">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_title">ຂໍ້ມູນມືຖື</string>
+    <string name="mobile_data_trun_off_title">ປິດຂໍ້ມູນມືຖືບໍ?</string>
+    <string name="mobile_device_warning_toast_notification">ການໃຊ້ອຸປະກອນມືຖືໃນຂະນະຍ່າງ ຫຼືຂັບລົດມີຄວາມສ່ຽງເກີດອຸປະຕິເຫດໄດ້.</string>
+    <string name="mobile_hotspot_detail_connected_device">ເຄື່ອງເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="mobile_hotspot_detail_connected_devices">ອຸປະກອນທີ່ຖືກເຊື່ອມຕໍ່</string>
+    <string name="mobile_hotspot_detail_connection_mode_allow_all">ອະນຸຍາດໃຫ້ທຸກເຄື່ອງເຊື່ອມຕໍ່</string>
+    <string name="mobile_hotspot_detail_connection_mode_allowed_device">ເຄື່ອງທີ່ໄດ້ຮັບອະນຸຍາດເທົ່ານັ້ນ</string>
+    <string name="mobile_hotspot_detail_password">ລະຫັດຜ່ານ</string>
+    <string name="mobile_hotspot_detail_title">ຮັອດສະປ໋ອດມືຖື</string>
+    <string name="mobile_hotspot_detail_title_jpn">ການຕໍ່ສາຍ Wi-Fi</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message">ແຊກແຜ່ນ SIM ໃສ່ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື ແລະຕົວເລືອກການເຊື່ອມໂຍງອື່ນໆ.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message_jpn">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">ບໍ່ມີແຜ່ນ SIM</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Unable to enable Wi-Fi tethering</string>
+    <string name="mobile_hotspot_dialog_nousim_or_nosim_warning">ແຊກແຜ່ນ UIM/SIM ໃສ່ເພື່ອໃຊ້ຮັອດສະປັອດມືຖື ແລະຟັງຄ໌ຊັນການເຊື່ອມໂຍງອື່ນໆ.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn">ຮັອດສະປັອດມືຖື ແລະ Smart View ບໍ່ສາມາດຖືກເປີດໃນເວລາດຽວກັນໄດ້. Smart View ຈະຖືກປິດ.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_chn">ຮັອດສະປັອດ WLAN ແລະ Smart View ບໍ່ສາມາດຖືກເປີດໃຊ້ງານໃນເວລາດຽວກັນໄດ້. Smart View ຈະຖືກປິດໃຊ້ງານ.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_jpn">ການເຊື່ອມໂຍງ Wi-Fi ແລະ Smart View ບໍ່ສາມາດຖືກເປີດໃນເວລາດຽວກັນ. Smart View ຈະຖືກປິດ.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_text">ເບິ່ງໃຫ້ແນ່ໃຈວ່າທ່ານມີການອະນຸຍາດຈາກຜູ້ໃຫ້ບໍລິການ Wi-Fi ກ່ອນແຊຣ໌ການເຊື່ອມຕໍ່ຂອງທ່ານ.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_title">ເປີດການແຊຣ໌ Wi-Fi ບໍ?</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_lite_enable_text">ບາງເຄືອຂ່າຍ Wi-Fi ອາດຈະບໍ່ມີຢູ່ ໃນຂະນະທີ່ການແຊຣ໌ Wi-Fi ເປີດຢູ່.</string>
+    <string name="mobile_hotspot_toast_disable_airplne_mode">ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືໄດ້ ໃນຂະນະທີ່ໂໝດເຮືອບິນເປີດຢູ່. ປິດໂໝດເຮືອບິນ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="mobile_hotspot_toast_internet_sharing">ການແຊຣ໌ອິນເຕີເນັດ</string>
+    <string name="mobile_hotspot_wifi_sharing">ການແຊຣ໌ Wi-Fi</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_disabled">ມອດ</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_enabled">ເປີດ</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_message">ເຄືອຂ່າຍ Wi-Fi ໃນໂທລະສັບຂອງທ່ານຈະຖືກແຊຣ໌ ຖ້າທ່ານເປີດຮັອດສະປັອດມືຖືໃນຂະນະທີ່ຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi. ເບິ່ງໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ຮັບການອະນຸຍາດຈາກເຈົ້າຂອງເຄືອຂ່າຍກ່ອນການແຊຣ໌.</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_title">ຮັອດສະປັອດມືຖືແຊຣ໌ເຄືອຂ່າຍ Wi-Fi ຂອງທ່ານ</string>
+    <string name="mobileap">ຮັອດສະປັອດມືຖື</string>
+    <string name="monitoring_description_do_body_vpn">ທ່ານໄດ້ຖືກເຊື່ອມຕໍ່ກັບ VPN %s ແລ້ວ, ເຊິ່ງສາມາດຕິດຕາມກິດຈະກຳເຄືອຂ່າຍຂອງທ່ານ, ລວມທັງອີເມລ໌, ແອັບ, ແລະ ເວັບໄຊທ໌ຕ່າງໆ.</string>
+    <string name="monitoring_description_named_vpn">ທ່ານໄດ້ຖືກເຊື່ອມຕໍ່ກັບ VPN %s ແລ້ວ, ເຊິ່ງສາມາດຕິດຕາມກິດຈະກຳເຄືອຂ່າຍຂອງທ່ານ, ລວມທັງອີເມລ໌, ແອັບ, ແລະ ເວັບໄຊທ໌ຕ່າງໆ.</string>
+    <string name="monitoring_description_vpn_settings">ການຕັ້ງຄ່າ VPN</string>
+    <string name="multiwindow_overheat_warning_dialog_body_phone">ໂທລະສັບຂອງທ່ານຮ້ອນເກີນໄປ. ປ່ອຍໃຫ້ມັນເຢັນລົງກ່ອນໃຊ້ມັລຕິວິນໂດອີກຄັ້ງ.</string>
+    <string name="multiwindow_overheat_warning_dialog_body_tablet">ແທັບເລັດຂອງທ່ານຮ້ອນເກີນໄປ. ປ່ອຍໃຫ້ມັນເຢັນລົງກ່ອນໃຊ້ມັລຕິວິນໂດອີກຄັ້ງ.</string>
+    <string name="multiwindow_overheat_warning_dialog_title">ປິດມັລຕິວິນໂດແລ້ວ</string>
+    <string name="mw_divider_button_close">ປິດ​ແອັບ</string>
+    <string name="negative_color_title">ສີເນກະທີບ</string>
+    <string name="no">ຍົກເລີກ</string>
+    <string name="no_app_can_perform_this_action">ບໍ່ສາມາດຊອກຫາແອພພລິເຄຊັນເພື່ອດໍາເນີນການນີ້ໄດ້.</string>
+    <string name="no_sim_notification_text">ໃສ່ແຜ່ນ SIM.</string>
+    <string name="no_sim_notification_text_cct">ແຊກ SIM ມືຖື Xfinity ໃສ່. ເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ, ເຂົ້າເບິ່ງ xfinitymobile.com/activate ຫຼື ໂທຫາ 888-936-4968.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="no_sim_notification_title">ບໍ່ມີ SIM</string>
+    <string name="no_sim_notification_title_cct">No SIM card detected</string>
+    <string name="no_sim_notification_title_tmo">ບໍ່ໄດ້ແຊກແຜ່ນ SIM ເຂົ້າ</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_such_item">ບໍ່ສາມາດຊອກຫາຮູບໄດ້.</string>
+    <string name="noti_direct_reply_exceed_text_limit_toast">ບໍ່ສາມາດປ້ອນຂໍ້ຄວາມເຂົ້າເພີ່ມເຕີມອີກ.</string>
+    <string name="noti_setting_text">ການຕັ້ງຄ່າການແຈ້ງເຕືອນ</string>
+    <string name="noti_toast_wifi_is_not_available">ບໍ່ມີ WLAN ຢູ່. ການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືອາດຈະເຮັດໃຫ້ມີການເສຍເງິນເພີ່ມ ຂຶ້ນກັບແຜນການຊໍາລະຂອງທ່ານ.</string>
+    <string name="notification_cancel">ຍົກ​ເລີກ</string>
+    <string name="notification_channel_blocked">ບລັອກການແຈ້ງເຕືອນ ແລະ ກາໝາຍໄອຄອນແລ້ວ</string>
+    <string name="notification_channel_ongoing">ຍັງດໍາເນີນຢູ່</string>
+    <string name="notification_done">ສໍາເລັດ</string>
+    <string name="notification_info_detail_button">ລາຍລະອຽດ</string>
+    <string name="notification_info_radio_alert_text">ການເຕືອນ</string>
+    <string name="notification_info_radio_silent_text">ງຽບ</string>
+    <string name="notification_info_save_button">ບັກທຶກ</string>
+    <string name="notification_save">ບັກທຶກ</string>
+    <string name="notification_section_header_gentle">ການແຈ້ງເຕືອນບໍ່ມີສຽງ</string>
+    <string name="notification_settings_icon_description">ຕັ້ງຄ່າການແຈ້ງເຕືອນແອັບ</string>
+    <string name="notification_unblockable_desc">ການແຈ້ງເຕືອນເຫຼົ່ານີ້ບໍ່ສາມາດຖືກປິດໄດ້.</string>
+    <string name="ok">ຕົກລົງ</string>
+    <string name="one_item_will_be_deleted">ລຶບ​ພາບ​ໜ້າ​ຈໍ​ນີ້​ບໍ?</string>
+    <string name="overheat_poweroff_notice_text">"ອຸປະກອນຂອງທ່ານຮ້ອນເກີນໄປ. ມັນປິດເພື່ອປ້ອງກັນຄວາມເສຍຫາຍ.
+
+ການມີຄວາມຮ້ອນເກີນສາມາດເກີດຂຶ້ນໄດ້ໂດຍ:
+-ການໃຊ້ແອັບທີ່ເນັ້ນໃສ່ກຣາບຟິກ, ເຊັ່ນ ເກມ ແລະແອັບນໍາທິດທາງເປັນເວລາດົນ.
+-ການໂອນໄຟລ໌ໃຫຍ່.
+-ການໃຊ້ອຸ​ປະ​ກອນຂອງທ່ານຢູ່ສະພາບແວດລ້ອມທີ່ມີຄວາມຮ້ອນ."</string>
+    <string name="overheat_poweroff_notice_title">ເຄື່ອງປິດໂດຍອັດຕະໂນມັດແລ້ວ</string>
+    <string name="overheat_poweroff_warning_text_append">ທ່ານຈະບໍ່ສາມາດເປີດອຸປະກອນອີກຄັ້ງຈົນກວ່າມັນເຢັນລົງແລ້ວ.</string>
+    <string name="overheat_poweroff_warning_text_new">ອຸ​ປະ​ກອນຂອງທ່ານກໍາລັງຮ້ອນເກີນໄປ. ເພື່ອເຮັດໃຫ້ເຢັນລົງ, ມັນຈະປິດໃນ %d ວິນາທີ.</string>
+    <string name="overheat_poweroff_warning_title">ປິດອຸປະກອນ</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got hot. It turned off to prevent damage to the phone.
+
+This can be caused by:
+Using graphics-intensive apps, like video games and navigation apps, for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_warning_text">"Your phone is getting hot.
+It will now turn off to cool down."</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_title">Turning off</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_editor">ເຄື່ອງຕັດຕໍ່ຮູບ</string>
+    <string name="popupui_dialog_turn_on_button">ເປີດ</string>
+    <string name="powerui_power_sharing_alert_dialog_body">"You must download the app in order to control the amount of power shared. If you connect your device to another device with the Samsung's Power Sharing Cable EP-SG900 without the app, the entire battery amount will be transferred to the other device. 
+Connect to Samsung Apps and download the application."</string>
+    <string name="private_dns_mode_off">ປິດ</string>
+    <string name="private_dns_mode_opportunistic">ອັດຕະໂນມັດ</string>
+    <string name="private_dns_mode_provider">ຊື່ແມ່ຂ່າຍຜູ້ໃຫ້ບໍລິການ DNS ສ່ວນຕົວ</string>
+    <string name="private_dns_mode_provider_hostname_hint">ປ້ອນຊື່ແມ່ຂ່າຍຂອງຜູ້ໃຫ້ບໍລິການ DNS</string>
+    <string name="qs_detail_capture_mode">Screen capture mode</string>
+    <string name="qs_detail_capture_mode_text">Select the function you want to add to the quick settings panel.</string>
+    <string name="qs_detail_capture_screen">ແຄັບເຈີໜ້າຈໍ</string>
+    <string name="qs_detail_flashlight_title">ໄຟສາຍ</string>
+    <string name="qs_detail_palm_capture_description">ຮູດຂອບມືຂອງທ່ານຜ່ານໜ້າຈໍເພື່ອຖ່າຍຮູບໜ້າຈໍ.</string>
+    <string name="qs_detail_palm_capture_title">ໃຊ້ຝາມືປັດເພື່ອແຄັບເຈີ</string>
+    <string name="qs_detail_recorder_screen">Record screen</string>
+    <string name="qs_detail_smart_capture_description">ລວມທັງພື້ນທີ່ຂອງໜ້າຈໍທີ່ຖືກເຊື່ອງໃນຮູບໜ້າຈໍຂອງທ່ານ. ນອກຈາກນີ້ ທ່ານສາມາດແກ້ໄຂ ຫຼືແຊຣ໌ຮູບໜ້າຈໍຫຼັງຈາກຖ່າຍຮູບເຫຼົ່ານັ້ນ.</string>
+    <string name="qs_detail_smart_capture_title">ແຄັບເຈີອັດສະລິຍະ</string>
+    <string name="qs_edit_panel_badge_text">N</string>
+    <string name="qs_edit_setting_active_area_tapped">ໃນແຜງການຕັ້ງຄ່າດ່ວນ.</string>
+    <string name="qs_edit_setting_available_area_tapped">ບໍ່ໄດ້ຢູ່ໃນແຜງການຕັ້ງຄ່າດ່ວນ.</string>
+    <string name="qs_edit_summary">ລາກເພື່ອເພີ່ມປຸ່ມ</string>
+    <string name="qs_location_consent_dialog_body_message_dcm">ສະຖານທີ່ GPS ແລະການໃຊ້ຂໍ້ມູນສະຖານທີ່ຂອງທ່ານຖືກຄວບຄຸມໂດຍແອບທີ່ທ່່ານໃຊ້.</string>
+    <string name="qs_location_consent_dialog_body_message_vzw">"ໂທລະສັບຂອງທ່ານສາມາດແຊຣ໌ຈຸດທີ່ຕັ້ງໂດຍປະມານຂອງມັນທີ່ມີແອັບແລະການບໍລິການຕ່າງໆ ເຊັ່ນ ແຜນທີ່, ການຊັອບປິ້ງ ແລະສະພາບອາກາດ.
+
+ແອັບແລະການບໍລິການຕ່າງໆທີ່ໃຊ້ຈຸດທີ່ຕັ້ງຂອງທ່ານ ຄວນຈະແຈ້ງໃຫ້ທ່ານຊາບກ່ອນ. ອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງແອັບ ຫຼື ຜູ້ໃຫ້ການບໍລິການໃດໜຶ່ງທີ່ທ່ານກຳລັງພິຈາລະນາເພື່ອໃຫ້ເຂົ້າໃຈວິທີການທີ່ພວກມັນສະສົມ, ໃຊ້ ແລະແຊຣ໌ຂໍ້ມູນຈຸດທີ່ຕັ້ງຂອງທ່ານກ່ອນທີ່ທ່ານໃຊ້ພວກມັນ.
+
+ການກຳນົດຈຸດທີ່ຕັ້ງຂອງທ່ານ ຈະໃຊ້ເຄືອຂ່າຍມືຖື. ຈະມີຄ່າໃຊ້ຈ່າຍການນຳໃຊ້ຂໍ້ມູນ."</string>
+    <string name="qs_location_consent_dialog_body_message_vzw_tablet">"ແທັບເລັດຂອງທ່ານສາມາດແຊຣ໌ຈຸດທີ່ຕັ້ງໂດຍປະມານຂອງມັນທີ່ມີແອັບແລະການບໍລິການຕ່າງໆ ເຊັ່ນ ແຜນທີ່, ການຊັອບປິ້ງ ແລະສະພາບອາກາດ.
+
+ແອັບແລະການບໍລິການຕ່າງໆທີ່ໃຊ້ຈຸດທີ່ຕັ້ງຂອງທ່ານ ຄວນຈະແຈ້ງໃຫ້ທ່ານຊາບກ່ອນ. ອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງແອັບ ຫຼື ຜູ້ໃຫ້ການບໍລິການໃດໜຶ່ງທີ່ທ່ານກຳລັງພິຈາລະນາເພື່ອໃຫ້ເຂົ້າໃຈວິທີການທີ່ພວກມັນສະສົມ, ໃຊ້ ແລະແຊຣ໌ຂໍ້ມູນຈຸດທີ່ຕັ້ງຂອງທ່ານກ່ອນທີ່ທ່ານໃຊ້ພວກມັນ.
+
+ການກຳນົດຈຸດທີ່ຕັ້ງຂອງທ່ານ ຈະໃຊ້ເຄືອຂ່າຍມືຖື. ຈະມີຄ່າໃຊ້ຈ່າຍການນຳໃຊ້ຂໍ້ມູນ."</string>
+    <string name="qs_location_consent_dialog_title_dcm">ຄໍາຍິນຍອມຂອງຜູ້ໃຊ້</string>
+    <string name="qs_location_consent_dialog_title_vzw">ຄໍາຍິນຍອມສະຖານທີ່</string>
+    <string name="qs_location_detail_default_title">ທີ່ຕັ້ງ</string>
+    <string name="qs_location_detail_gps_title">GPS</string>
+    <string name="qs_location_detail_mode_battery_saving">ການປະຫຍັດແບັດເຕີຣີ</string>
+    <string name="qs_location_detail_mode_battery_saving_description">ໃຊ້ Wi-Fi ແລະເຄືອຂ່າຍມືຖື ເພື່ອປະເມີນທີ່ຕັ້ງຂອງທ່ານ</string>
+    <string name="qs_location_detail_mode_high_accuracy">ຄວາມຖືກຕ້ອງສູງ</string>
+    <string name="qs_location_detail_mode_high_accuracy_description">ໃຊ້ GPS, Wi-Fi ແລະເຄືອຂ່າຍມືຖື ເພື່ອປະເມີນທີ່ຕັ້ງຂອງທ່ານ</string>
+    <string name="qs_location_detail_mode_sensors_only_description">ໃຊ້ GPS ເພື່ອປະເມີນທີ່ຕັ້ງຂອງທ່ານ</string>
+    <string name="qs_location_detail_mode_sensors_only_phone">ໂທລະສັບເທົ່ານັ້ນ</string>
+    <string name="qs_location_detail_mode_sensors_only_tablet">ແທັບເລັດເທົ່ານັ້ນ</string>
+    <string name="qs_location_detail_mode_summary_title">ວິທີການກໍານົດທີ່ຕັ້ງ</string>
+    <string name="qs_location_detail_summary_default">ໃຊ້ GPS, Wi-Fi ແລະເຄືອຂ່າຍມືຖື ເພື່ອປະເມີນທີ່ຕັ້ງຂອງທ່ານ</string>
+    <string name="qs_multisim_data_preffered_btn_title">ຂໍ້ມູນມືຖື</string>
+    <string name="qs_multisim_data_switching">"ຍັງຄົງກຳລັງສັບປ່ຽນແຜ່ນ SIM…
+ລອງໃໝ່ພາຍຫຼັງ."</string>
+    <string name="qs_multisim_data_turned_off">ປິດແລ້ວ</string>
+    <string name="qs_multisim_sim_card_manager">ຕົວຈັດການແຜ່ນ SIM</string>
+    <string name="qs_multisim_sms_preffered_btn_title">ຂໍ້ຄວາມໜັງສື</string>
+    <string name="qs_multisim_voice_ask_always">ຖາມທຸກຄັ້ງ</string>
+    <string name="qs_multisim_voice_others">ອື່ນໆ</string>
+    <string name="qs_multisim_voice_preffered_btn_title">ໂທ</string>
+    <string name="qs_navigation_bar_detail_description">ທ່ານສາມາດເຊື່ອງແຖບການກຳນົດທິດທາງ ແລະ ໃຊ້ທ່າທາງການຮູດເພື່ອກັບຄືນໄປ, ໄປທີ່ໜ້າຈໍຫຼັກ, ຫຼື ເບິ່ງແອັບຫຼ້າສຸດເມື່ອທ່ານເລືອກ [ທ່າທາງໜ້າຈໍເຕັມ].</string>
+    <string name="qs_navigation_bar_detail_full_screen_gestures_options">ທ່າທາງໜ້າຈໍເຕັມ</string>
+    <string name="qs_navigation_bar_detail_navigation_buttons_options">ປຸ່ມການກຳນົດທິດທາງ</string>
+    <string name="qs_navigation_bar_detail_title">ແຖບການກຳນົດທິດທາງ</string>
+    <string name="qs_navigation_bar_detail_title_option">ເລືອກປະເພດການກຳນົດທິດທາງ.</string>
+    <string name="qs_navigation_bar_exclusive_function_turn_off_onehand_mode_desc">ເພື່ອໃຊ້ທ່າທາງໜ້າຈໍເຕັມ, ຈຳເປັນຕ້ອງໄດ້ປ່ຽນການຕັ້ງຄ່າໂໝດມືຂ້າງດຽວເປັນທ່າທາງ.</string>
+    <string name="qs_navigation_bar_label">"ແຖບ
+ການກຳນົດທິດທາງ"</string>
+    <string name="qs_navigation_bar_setting_button">ການຕັ້ງຄ່າ</string>
+    <string name="qs_navigation_bar_toast_acceesibility">ບໍ່ສາມາດປິດແຖບການກຳນົດທິດທາງ ໃນຂະນະທີ່ປຸ່ມຄວາມສາມາດເຂົ້າໃຊ້ສະແດງຢູ່.</string>
+    <string name="qs_navigation_bar_toast_voice_assistant_enabled">ບໍ່ສາມາດປິດແຖບການກຳນົດທິດທາງ ໃນຂະນະທີ່ Voice Assistant ເປີດຢູ່.</string>
+    <string name="qspanel_brightness_auto_brightness_summary">ຕິດຕາມການປັບປ່ຽນຄວາມແຈ້ງຂອງທ່ານ ແລະນຳໃຊ້ພວກມັນໂດຍອັດຕະໂນມັດໃນສະພາບແສງທີ່ຄ້າຍກັນ.</string>
+    <string name="qspanel_brightness_auto_brightness_summary_nopac">ປັບປ່ຽນຄວາມແຈ້ງໜ້າຈໍໂດຍອັດຕະໂນມັດຕາມສະພາບຄວາມແຈ້ງໃນປະຈຸບັນ.</string>
+    <string name="qspanel_brightness_auto_brightness_title">ຄວາມແຈ້ງທີ່ປັບໄດ້</string>
+    <string name="qspanel_brightness_detail_level">ລະດັບ</string>
+    <string name="qspanel_brightness_detail_title">ຄວາມແຈ້ງ</string>
+    <string name="qspanel_brightness_outdoor_mode_summary">ເຮັດໃຫ້ໜ້າຈໍແຈ້ງຂຶ້ນສຳລັບການເບິ່ງຢູ່ກາງແຈ້ງ. ຫຼັງຈາກ 15 ນາທີ, ໂໝດກາງແຈ້ງຈະປິດ ຍົກເວັ້ນແຕ່ທ່ານກຳລັງຍັງຄົງໃຊ້ໜ້າຈໍຢູ່.</string>
+    <string name="qspanel_brightness_outdoor_mode_title">ໂໝດຢູ່ຂ້າງນອກ</string>
+    <string name="qspanel_media_button_text">ມີເດຍ</string>
+    <string name="qspanel_media_devices_button_hide_text">ເຊື່ອງມີເດຍ ແລະ ອຸປະກອນ</string>
+    <string name="qspanel_media_devices_button_show_text">ສະແດງມີເດຍ ແລະ ອຸປະກອນ</string>
+    <string name="qspanel_quickcontrol_button_text">ອຸປະກອນ</string>
+    <string name="qspanel_show_brightness_on_top_summary">ສະແດງການຄວບຄຸມຄວາມແຈ້ງຢູ່ເທິງແຜງການແຈ້ງເຕືອນ.</string>
+    <string name="qspanel_show_brightness_on_top_title">ສະແດງຄວາມແຈ້ງຢູ່ເທິງສຸດ</string>
+    <string name="qspanel_show_multi_sim_info_title">ສະແດງຂໍ້ມູນຫຼາຍ SIM</string>
+    <string name="quick_panel_data_usage">ໃຊ້ຂໍ້ມູນແລ້ວ</string>
+    <string name="quick_settings_airplane_mode_label">"ໂໝດ
+ເຮືອບິນ"</string>
+    <string name="quick_settings_allow">ອະນຸຍາດ</string>
+    <string name="quick_settings_blf_detail_seekbar">ຄວາມມົວແສງ</string>
+    <string name="quick_settings_blf_detail_summary">ຫຼຸດຜ່ອນການເຈັບຕາໂດຍການຈຳກັດປະລິມານຂອງແສງສີຟ້າທີ່ປ່ອຍອອກມາຈາກໜ້າຈໍ.</string>
+    <string name="quick_settings_block">ບລັອກ</string>
+    <string name="quick_settings_bluelightfilter_detail_title">ຕົວກັ່ນຕອງແສງສີຟ້າ</string>
+    <string name="quick_settings_bluelightfilter_label">"ຕົວກັ່ນຕອງ
+ແສງສີຟ້າ"</string>
+    <string name="quick_settings_bluetooth_connected_devices">"ເຊື່ອມຕໍ່ %d ອຸປະກອນ
+ແລ້ວ"</string>
+    <string name="quick_settings_bluetooth_detail_available_devices_title">ເຄື່ອງທີ່ໃຊ້ງານໄດ້</string>
+    <string name="quick_settings_bluetooth_detail_empty_text_available">ບໍ່ພົບເຄື່ອງບລູທູດທີ່ຢູ່ໃກ້ຄຽງ</string>
+    <string name="quick_settings_bluetooth_detail_off_text">ເປີດບລູທູດເພື່ອເບິ່ງລາຍການອຸປະກອນທີ່ທ່ານສາມາດຈັບຄູ່ກັບ ຫຼືໄດ້ຈັບຄູ່ແລ້ວ.</string>
+    <string name="quick_settings_bluetooth_detail_paired_devices_title">ອຸປະກອນຈັບຄູ່ແລ້ວ</string>
+    <string name="quick_settings_bluetooth_label">ບລູທູດ</string>
+    <string name="quick_settings_bluetooth_scanning">ກໍາລັງສະແກນຫາອຸປະກອນບລູທູດ…</string>
+    <string name="quick_settings_cancel">ຍົກ​ເລີກ</string>
+    <string name="quick_settings_data_roaming_detail_title">ການໂຣມມິ່ງຂໍ້ມູນ</string>
+    <string name="quick_settings_data_roaming_label">"ການໂຣມມິງ
+ຂໍ້ມູນ"</string>
+    <string name="quick_settings_dnd_detail_title">ຢ່າລົບກວນ</string>
+    <string name="quick_settings_dnd_summary">ປິດ​ສຽງ​ທຸກ​ສາຍ​ໂທແລະ​ການ​ເຕືອນ, ຍົກ​ເວັ້ນສຳລັບຂໍ້ຍົກເວັ້ນທີ່ກຳນົດເອງຂອງທ່ານ.</string>
+    <string name="quick_settings_done">ສໍາເລັດ</string>
+    <string name="quick_settings_dual_label_content_description">%s, ເຄື່ອງໝາຍປຸ່ມ, ແຕະສອງຄັ້ງເພື່ອເບິ່ງການຕັ້ງຄ່າດ່ວນທີ່ກ່ຽວຂ້ອງ.</string>
+    <string name="quick_settings_enable">ເປີດໃຫ້ໃຊ້ງານໄດ້</string>
+    <string name="quick_settings_flashlight_detail_level">ລະດັບ</string>
+    <string name="quick_settings_flashlight_detail_title">ຄວາມແຈ້ງ</string>
+    <string name="quick_settings_flashlight_detail_warning">ແສງໄຟກ້ອງຖ່າຍຮູບອາດອາດເຮັດໃຫ້ເກີດການເຜົາໄໝ້ດ້ວຍອຸນຫະພູມຕ່ຳ ເມື່ອມີການສຳຜັດກັບຜິວໜັງ. ຫຼີກຫຼ່ຽງການປ່ອຍໃຫ້ %s ຖືກເປີດຢູ່ເປັນໄລຍະເວລາຍາວນານ.</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_non_volte_vzw">"ເມື່ອໂໝດເຮືອບິນເປີດຢູ່, ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌, ຫຼື ແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi.
+
+ເປີດໂໝດເຮືອບິນບໍ?"</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_volte_vzw">"ເມື່ອໂໝດເຮືອບິນເປີດຢູ່, ທ່ານຈະບໍ່ສາມາດໃຊ້ອິນເຕີເນັດ, ອີເມລ໌, Wi-Fi calling, ຫຼື ແອັບອື່ນໆທີ່ຕ້ອງການການເຊື່ອມຕໍ່ຂໍ້ມູນ ນອກຈາກວ່າທ່ານໃຊ້ Wi-Fi.
+
+ເປີດໂໝດເຮືອບິນບໍ?"</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_non_volte_vzw">Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_volte_vzw">Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Airplane mode is on.</string>
+    <string name="quick_settings_flight_mode_detail_summary">"ປິດການເຊື່ອມຕໍ່ເຄືອຂ່າຍທັງໝົດ ລວມທັງການໂທ, ການສົ່ງຂໍ້ຄວາມ, ການເຂົ້າໃຊ້ອິນເຕີເນັດ, Wi-Fi, ແລະ ບລູທູດ.
+
+ໃນຂະນະທີ່ໂໝດເຮືອບິນເປີດຢູ່, ທ່ານສາມາດເປີດ Wi-Fi ແລະ ບລູທູດອີກຄັ້ງໃນການຕັ້ງຄ່າ ຫຼື ແຜງການຕັ້ງຄ່າດ່ວນ."</string>
+    <string name="quick_settings_flight_mode_detail_summary_lte_without_call_feature_tablet">"ປິດຂໍ້ມູນມືຖື.
+
+ນອກຈາກນີ້ Wi-Fi ແລະ​ບ​ລູ​ທູດ​ຈະຖືກປິດອີກດ້ວຍ, ແຕ່​ທ່ານສາ​ມາດ​ເປີດພວກມັນອີກຄັ້ງໃນການຕັ້ງຄ່າ ຫຼື ໃນແຜງການຕັ້ງຄ່າດ່ວນ."</string>
+    <string name="quick_settings_flight_mode_detail_summary_wifi_tablet">"ປິດ Wi-Fi ແລະ ບລູທູດ.
+
+ທ່ານສາມາດເປີດພວກມັນອີກຄັ້ງໃນການຕັ້ງຄ່າ ຫຼື ໃນແຜງການຕັ້ງຄ່າດ່ວນ."</string>
+    <string name="quick_settings_flight_mode_detail_title">ໂໝດເຮືອບິນ</string>
+    <string name="quick_settings_it_policy_prevents">ນະໂຍບາຍຄວາມປອດໄພປ້ອງກັນການໃຊ້ %s.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_summary">ອະນຸຍາດໃຫ້ໝູນໜ້າຈໍແບບກຳນົດເອງ ເມື່ອມີການປ່ຽນແປງທິດທາງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_title">ໝູນປຸ່ມຢູ່ເທິງແຖບການກຳນົດທິດທາງ</string>
+    <string name="quick_settings_manual_rotation_category">ການໝູນແບບກຳນົດເອງ</string>
+    <string name="quick_settings_mobile_data_detail_summary">ເຂົ້າໃຊ້ອິນເຕີເນັດຜ່ານເຄືອຂ່າຍມືຖືຂອງທ່ານ.</string>
+    <string name="quick_settings_mobile_data_detail_title">"ຂໍ້ມູນ
+ມືຖື"</string>
+    <string name="quick_settings_mobile_data_label">"ຂໍ້ມູນ
+ມືຖື"</string>
+    <string name="quick_settings_mobile_hotspot_label">"ຮັອດສະປັອດ
+ມືຖື"</string>
+    <string name="quick_settings_mobile_hotspot_label_jpn">"ການເຊື່ອມໂຍງ
+Wi-Fi"</string>
+    <string name="quick_settings_phone_visibility_label">"ການເບິ່ງເຫັນ
+ໂທລະສັບ"</string>
+    <string name="quick_settings_reading_mode_detail_title">ໂໝດອ່ານ</string>
+    <string name="quick_settings_reading_mode_label">"ໂໝດ
+ການອ່ານ"</string>
+    <string name="quick_settings_reading_mode_summary">ໜ້າຈໍໄດ້ຖືກປັບໃຫ້ອ່ານໄດ້ພໍດີ. ຈະມີໂໝດນີ້ຢູ່ໃຫ້ກັບແຕ່ແອັບທີ່ໄດ້ເລືອກໄວ້ເທົ່ານັ້ນ.</string>
+    <string name="quick_settings_reset">ຕັ້ງຄືນ​ໃໝ່</string>
+    <string name="quick_settings_rotation_category">ໝູນເປັນໂໝດລວງນອນ</string>
+    <string name="quick_settings_rotation_detail_call_screen">ໜ້າຈໍການໂທດ້ວຍສຽງ</string>
+    <string name="quick_settings_rotation_detail_home_screen">ໜ້າຈໍຫຼັກ</string>
+    <string name="quick_settings_rotation_detail_lock_screen">ໜ້າຈໍລັອກ</string>
+    <string name="quick_settings_rotation_lock_auto_rotate">ໝູນອັດຕະໂນມັດ</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary">ໝູນໜ້າຈໍໂດຍອັດຕະໂນມັດເມື່ອທິດທາງໃນໂທລະສັບຂອງທ່ານປ່ຽນແປງ.</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary_for_tablet">ໝູນໜ້າຈໍໂດຍອັດຕະໂນມັດເມື່ອທິດທາງໃນແທັບເລັດຂອງທ່ານປ່ຽນແປງ.</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_sec_dnd_label">"ຢ່າ
+ລົບ​ກວນ"</string>
+    <string name="quick_settings_sec_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_sound_mode_detail_label">ໂໝດສຽງ</string>
+    <string name="quick_settings_sound_mode_detail_mixer_dnd_turned_on">ຫ້າມລົບກວນ ເປີດຢູ່</string>
+    <string name="quick_settings_sound_mode_detail_mixer_title">ລະດັບສຽງ</string>
+    <string name="quick_settings_sound_mode_detail_mute_remaining">ເວລາທີ່ຍັງເຫຼືອ: %s</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_duration">ໄລຍະເວລາປິດສຽງ</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_summary">ປ່ຽນກັບຄືນເປັນໂໝດສຽງກ່ອນໜ້າຫຼັງຈາກເວລາທີ່ທ່ານຕັ້ງໄດ້ຜ່ານໄປແລ້ວ. ແຕະ [ລາຍລະອຽດ] ເພື່ອຕັ້ງເວລາ.</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_title">ປິດສຽງຊົ່ວຄາວ</string>
+    <string name="quick_settings_sound_mode_mute_label">ປິດສຽງ</string>
+    <string name="quick_settings_sound_mode_sound_label">ສຽງ</string>
+    <string name="quick_settings_sound_mode_vibrate_label">ສັ່ນ</string>
+    <string name="quick_settings_tablet_visibility_label">"ການເບິ່ງເຫັນ
+ແທັບເລັດ"</string>
+    <string name="quick_settings_wifi_detail_available_networks_title">ມີເຄືອຂ່າຍຢູ່</string>
+    <string name="quick_settings_wifi_detail_current_network_title">ເຄືອຂ່າຍປະຈຸບັນ</string>
+    <string name="quick_settings_wifi_detail_off_text">ເພື່ອເບິ່ງເຄືອຂ່າຍທີ່ມີຢູ່, ເປີດ Wi-Fi.</string>
+    <string name="quick_settings_wifi_detail_scanning_text">ກໍາລັງສະແກນຫາເຄືອຂ່າຍ Wi-Fi…</string>
+    <string name="quick_settings_work_mode_label">ໂປຣໄຟລ໌ວຽກ</string>
+    <string name="quick_settings_workmode_detail_summary">"ເປີດ %1$s ເພື່ອເປີດໃຊ້ງານແອັບທີ່ໃຊ້ງານຢູ່ທັງໝົດ ແລະ ອະນຸຍາດການຊິງຄ໌ພື້ນຫຼັງ ແລະ ການແຈ້ງເຕືອນ.
+
+ປິດ %2$s ເພື່ອໃຊ້ໂທລະສັບຂອງທ່ານໂດຍບໍ່ຕ້ອງມີການຂັດຈັງຫວະຈາກການເຮັດວຽກ."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet">"ເປີດ %1$s ເພື່ອເປີດໃຊ້ງານແອັບທີ່ໃຊ້ງານຢູ່ທັງໝົດ ແລະ ອະນຸຍາດການຊິງຄ໌ພື້ນຫຼັງ ແລະ ການແຈ້ງເຕືອນ.
+
+ປິດ %2$s ເພື່ອໃຊ້ແທັບເລັດຂອງທ່ານໂດຍບໍ່ຕ້ອງມີການຂັດຈັງຫວະຈາກການເຮັດວຽກ."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet_work">"ເປີດໂປຣໄຟລ໌ບ່ອນເຮັດວຽກ ເພື່ອເປີດໃຊ້ງານແອັບທີ່ໃຊ້ງານຢູ່ທັງໝົດ ແລະ ອະນຸຍາດການຊິງຄ໌ພື້ນຫຼັງ ແລະ ການແຈ້ງເຕືອນ.
+
+ປິດໂປຣໄຟລ໌ບ່ອນເຮັດວຽກເພື່ອໃຊ້ແທັບເລັດຂອງທ່ານໂດຍບໍ່ຕ້ອງມີການຂັດຈັງຫວະຈາກການເຮັດວຽກ."</string>
+    <string name="quick_settings_workmode_detail_summary_work">"ເປີດໂປຣໄຟລ໌ບ່ອນເຮັດວຽກ ເພື່ອເປີດໃຊ້ງານແອັບທີ່ໃຊ້ງານຢູ່ທັງໝົດ ແລະ ອະນຸຍາດການຊິງຄ໌ພື້ນຫຼັງ ແລະ ການແຈ້ງເຕືອນ.
+
+ປິດໂປຣໄຟລ໌ບ່ອນເຮັດວຽກເພື່ອໃຊ້ໂທລະສັບຂອງທ່ານໂດຍບໍ່ຕ້ອງມີການຂັດຈັງຫວະຈາກການເຮັດວຽກ."</string>
+    <string name="remove">ເອົາອອກ</string>
+    <string name="reserve_battery_mode">ໂໝດສຳຮອງແບັດເຕີຣີ</string>
+    <string name="retry">ລອງໃໝ່ອີກ</string>
+    <string name="rotation_lock_auto_rotate">ໝູນອັດຕະໂນມັດ</string>
+    <string name="rotation_lock_show_toast_mobile_keyboard_message">ເພື່ອເປີດໃຊ້ງານ %s, ແຍກໜ້າປົກ ຄີບອດ ອອກຈາກ ອຸປະກອນ.</string>
+    <string name="safe_mode_alert_body">ໂທລະສັບຂອງທ່ານຈະຖືກປິດເປີດຄືນໃໝ່ແລະແອັບທັງໝົດຂອງທ່ານຈະບໍ່ມີຢູ່ອີກຄັ້ງ.</string>
+    <string name="safe_mode_alert_body_tablet">ແທັບເລັດຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ ແລະ ແອັບຂອງທ່ານທັງໝົດຈະມີຢູ່ອີກຄັ້ງ.</string>
+    <string name="safe_mode_alert_positive_button">ປິດ</string>
+    <string name="safe_mode_alert_title">ປິດໂໝດປອດໄພບໍ?</string>
+    <string name="safe_mode_noti_body">ແຕະທີ່ນີ້ ເພື່ອປິດໂໝດປອດໄພ.</string>
+    <string name="safe_mode_noti_title">ໂໝດປອດໄພເປີດຢູ່</string>
+    <string name="sanitized_content_text">ແຕະທີ່ນີ້ ເພື່ອປ້ອນ %s.</string>
+    <string name="screen_capture_delete">ລຶບອອກ</string>
+    <string name="screen_capture_edit">ແກ້ໄຂ</string>
+    <string name="screen_capture_fail_for_security_policy">ບໍ່​ສາ​ມາດ​ຖ່າຍ​ພາບ​ໜ້າ​ຈໍ​ໄດ້​ເນື່ອງ​ຈາກ​ນະ​ໂຍ​ບາຍ​ດ້ານ​ຄວາມ​ປອດ​ໄພ.</string>
+    <string name="screen_capture_fail_for_storage_capacity">ເນື້ອທີ່ບໍ່ພຽງພໍຢູ່ໃນບ່ອນເກັບຂໍ້ມູນເຄື່ອງ. ລຶບບາງໄຟລ໌ອອກ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="screen_capture_share">ແຊຣ໌</string>
+    <string name="screen_pinning_dialog_toast">ເພື່ອຖອນປັກໝຸດແອັບນີ້, ສຳພັດປຸ່ມຫຼ້າສຸດແລະປຸ່ມກັບຄືນຄ້າງໄວ້ໃນເວລາດຽວກັນ.</string>
+    <string name="screen_pinning_msg_in_gesture">ເພື່ອຖອນປັກໝຸດແອັບນີ້, ຮູດຂຶ້ນແລະຄ້າງໄວ້.</string>
+    <string name="screenshot_cancel">ຍົກເລີກ</string>
+    <string name="screenshot_guide_dialog_msg">ກົດປຸ່ມເປີດປິດ ແລະ ປຸ່ມລະດັບສຽງລົງພ້ອມກັນຄ້າງໄວ້ເພື່ອຖ່າຍຮູບໜ້າຈໍ.</string>
+    <string name="screenshot_guide_dialog_title">ການຖ່າຍຮູບໜ້າຈໍ</string>
+    <string name="screenshot_saved_text">ແຕະທີ່ນີ້ເພື່ອເບິ່ງມັນ.</string>
+    <string name="screenshot_saved_title">ແຄັບເຈີຮູບໜ້າຈໍແລ້ວ</string>
+    <string name="sec_accessibility_back">ກັບ​ຄືນ</string>
+    <string name="sec_accessibility_home">ໜ້າຫຼັກ</string>
+    <string name="sec_accessibility_quick_settings_finder">ຊອກຫາດ້ວຍ Finder</string>
+    <string name="sec_accessibility_quick_settings_more_option">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="sec_accessibility_quick_settings_power_off">ປິດເຄື່ອງ</string>
+    <string name="sec_accessibility_recent">ຫຼ້າສຸດ</string>
+    <string name="sec_battery_discharging_duration">ອາຍຸແບັດເຕີຣີທີ່ຄາດຄະເນ: %s</string>
+    <string name="sec_battery_history_days_no_hours">%d d</string>
+    <string name="sec_battery_history_days_with_hours">%1$d ວ %2$d ຊມ</string>
+    <string name="sec_battery_history_hours_no_minutes">%d ຊມ</string>
+    <string name="sec_battery_history_hours_no_seconds">%1$d ຊມ %2$d ນ​ທ</string>
+    <string name="sec_battery_history_minutes_no_seconds">%d ນ​ທ</string>
+    <string name="sec_bluetooth_show_le_devices_without_names">ສະແດງອຸປະກອນ BLE ໂດຍບໍ່ມີຊື່</string>
+    <string name="sec_bluetooth_show_le_devices_without_names_summary">ອຸປະກອນບລູທູດທີ່ໃຊ້ພະລັງງານຕ່ຳທີ່ບໍ່ມີຊື່ (ທີ່ຢູ່ MAC ເທົ່ານັ້ນ) ຈະຖືກສະແດງຂຶ້ນ.</string>
+    <string name="sec_brightness_eye_strain_dialog_message">ການໃຊ້ຄວາມແຈ້ງສູງເປັນໄລຍະເວລາດົນຈະເພີ່ມການໃຊ້ແບັດເຕີຣີຂຶ້ນ.</string>
+    <string name="sec_brightness_slider_hbm_text">ສູງສູດສຳລັບການເບິ່ງທີ່ດີສຸດຢູ່ບ່ອນທີ່ມີແສງສະຫວ່າງ</string>
+    <string name="sec_data_usage_disabled_dialog_body">ການນຳໃຊ້ຂໍ້ມູນມືຖືໄດ້ຖືກຢຸດຊົ່ວຄາວແລ້ວ ເພາະວ່າທ່ານໄດ້ຮອດຂີດຈຳກັດທີ່ທ່ານຕັ້ງໄວ້ແລ້ວ.</string>
+    <string name="sec_data_usage_disabled_dialog_body_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="sec_data_usage_disabled_dialog_enable">ເລີ່ມຕໍ່</string>
+    <string name="sec_data_usage_disabled_dialog_enable_vzw">Turn on data</string>
+    <string name="sec_data_usage_disabled_dialog_keep_off">ຮັກສາໃຫ້ປິດຢູ່</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title">ເລີ່ມຕໍ່ໂດຍໃຊ້ຂໍ້ມູນມືຖືບໍ?</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title_vzw">Mobile data is now off</string>
+    <string name="sec_data_usage_disabled_dialog_turn_off">ປິດ</string>
+    <string name="sec_default_app">ຕັ້ງເປັນຄ່າມາດຕະຖານ</string>
+    <string name="sec_device_info_copied">ກັອບປີ້ໃສ່ຄລິບບອດແລ້ວ.</string>
+    <string name="sec_more_button_menu_contact_us">ຕິດຕໍ່ພວກເຮົາ</string>
+    <string name="sec_more_button_menu_edit">ລຳດັບປຸ່ມ</string>
+    <string name="sec_more_button_menu_noti_settings">ແຖບສະແດງສະຖານະ</string>
+    <string name="sec_more_button_menu_qspanel_layout">ແຜນຜັງແຜງດ່ວນ</string>
+    <string name="sec_no_default_app">ບໍ່ມີການຕັ້ງເປັນມາດຕະຖານ</string>
+    <string name="sec_qs_edit_panel_reset_dialog_message">ຕັ້ງປຸ່ມຂອງທ່ານຄືນໃໝ່ເປັນລຳດັບມາດຕະຖານບໍ?</string>
+    <string name="sec_qs_unable_remove_minimum">ບໍ່ສາມາດເອົາປຸ່ມອອກໄປໄດ້. ຈຳເປັນຕ້ອງມີຢ່າງ %d ປຸ່ມໃນແຜງດ່ວນ.</string>
+    <string name="sec_qspanel_brightness_disabled_toast_message">ບໍ່ສາມາດປ່ຽນຄວາມແຈ້ງໄດ້ຍ້ອນແອັບອື່ນກຳລັງຄວບຄຸມມັນຢູ່.</string>
+    <string name="sec_qspanel_layout_detail_title">ແຜນຜັງແຜງດ່ວນ</string>
+    <string name="sec_quick_settings_details">ລາຍລະອຽດ</string>
+    <string name="sec_quick_settings_finder_disabled">ບໍ່ສາມາດເລີ່ມຕົ້ນຊອກຫາໄດ້. ລອງໃໝ່ອີກພາຍຫຼັງ.</string>
+    <string name="sec_quick_settings_flashlight_label">ໄຟສາຍ</string>
+    <string name="sec_quick_settings_rotation_locked_landscape_label">ແນວນອນ</string>
+    <string name="sec_quick_settings_rotation_locked_portrait_label">ແນວຕັ້ງ</string>
+    <string name="sec_quick_settings_rotation_unlocked_label">"ໝຸນ
+ອັດຕະໂນມັດ"</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_button">ລອງເບິ່ງຕິ</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_text">ໃຊ້ທາງລັດຄີບອດສຳລັບໜ້າຫຼັກ, ກັບຄືນ, ແລະອື່ນໆ.</string>
+    <string name="sec_samsung_cloud_title">Samsung Cloud</string>
+    <string name="sec_video_call_title">ການໂທວີດີໂອ</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title">ຮັອດສະປັອດອັດຕະໂນມັດ</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title_jpn">ການເຊື່ອມໂຍງ Wi-Fi ອັດຕະໂນມັດ</string>
+    <string name="select_private_dns_configuration_dialog_title">DNS ສ່ວນຕົວ</string>
+    <string name="select_private_dns_configuration_title">DNS ສ່ວນຕົວ</string>
+    <string name="sesl_action_bar_up_description">ກຳ​ນົດ​ທິດ​ທາງ​ຂຶ້ນ</string>
+    <string name="sesl_action_menu_overflow_badge_description">ເນື້ອໃນໃໝ່ມີຢູ່</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="sesl_preferencecategory_added_title">ສ່ວນຫົວ</string>
+    <string name="sesl_search_hint">ຄົ້ນຫາ</string>
+    <string name="sesl_searchview_description_clear">ລຶບຊ່ອງຊອກຫາ</string>
+    <string name="sesl_searchview_description_query">ຄົ້ນຫາການສືບຖາມ</string>
+    <string name="sesl_searchview_description_search">ຄົ້ນຫາ</string>
+    <string name="sesl_searchview_description_submit">ສົ່ງການສືບຖາມ</string>
+    <string name="sesl_searchview_description_voice">ຄົ້ນຫາດ້ວຍສຽງ</string>
+    <string name="sesl_switch_off">ປິດ</string>
+    <string name="sesl_switch_on">ເປີດ</string>
+    <string name="sim_card_tray_empty_water_protection_dialog_body">ເພື່ອປ້ອງກັນຄວາມເສຍຫາຍຈາກນ້ຳ, ໃຫ້ແນ່ໃຈວ່າຖາດແຜ່ນ SIM ຖືກປິດຢ່າງແໜ້ນໜາ.</string>
+    <string name="sim_card_tray_water_protection_dialog_body">"ກວດບໍ່ພົບແຜ່ນ SIM. ທ່ານຈະບໍ່ສາມາດໂທອອກ, ສົ່ງຂໍ້ຄວາມ, ຫຼື ໃຊ້ຂໍ້ມູນມືຖືໄດ້.
+
+ເພື່ອປ້ອງກັນຄວາມເສຍຫາຍຈາກນ້ຳ, ເບິ່ງໃຫ້ແນ່ໃຈວ່າຖາດແຜ່ນ SIM ຖືກປິດຢ່າງແໜ້ນໜ້າແລ້ວ."</string>
+    <string name="sim_card_tray_water_protection_dialog_title">ກວດເບິ່ງຖາດແຜ່ນ SIM</string>
+    <string name="sim_sd_card_tray_empty_water_protection_dialog_body">ເພື່ອປ້ອງກັນຄວາມເສຍຫາຍຈາກນ້ຳ, ໃຫ້ແນ່ໃຈວ່າຖາດແຜ່ນ SIM/SD ຖືກປິດຢ່າງແໜ້ນໜາ.</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_body">"ບໍ່ສາມາດກວດພົບແຜ່ນ SIM ໄດ້. ອຸປະກອນຂອງທ່ານຈະບໍ່ສາມາດດຳເນີນການກະທຳເຊັ່ນ ການໂທອອກ ແລະການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖື.
+
+ເພື່ອປ້ອງກັນຄວາມເສຍຫາຍຈາກນ້ຳ, ໃຫ້ແນ່ໃຈວ່າຖາດແຜ່ນ SIM/SD ຖືກປິດຢ່າງແໜ້ນໜາ."</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_title">ກວດເບິ່ງຖາດແຜ່ນ SIM/SD</string>
+    <string name="smart_tethering_ap_connected_summary">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="smart_tethering_ap_connecting_summary">ກໍາລັງເຊື່ອມຕໍ່…</string>
+    <string name="smart_tethering_ap_connection_failed_summary">ການເຊື່ອມຕໍ່ໝົດເວລາ</string>
+    <string name="smart_tethering_ap_low_battery_summary">ແບັດເຕີຣີອ່ອນ</string>
+    <string name="snooze_icon_description">ເລື່ອນການແຈ້ງເຕືອນອອກໄປ</string>
+    <string name="snooze_notification_guide_text">ສະແດງການແຈ້ງເຕືອນນີ້ໃນ:</string>
+    <string name="snooze_title">ເລື່ອນການແຈ້ງເຕືອນອອກໄປ</string>
+    <string name="speed_label_fast">ໄວ</string>
+    <string name="speed_label_very_fast">ໄວຫຼາຍ</string>
+    <string name="status_bar_airplane">ໂໝດເຮືອບິນ</string>
+    <string name="status_bar_high_performance_mode_description">ໂໝດການປະຕິບັດງານສູງຖືກເປີດແລ້ວ.</string>
+    <string name="status_bar_maximum_power_saving_description">ໂໝດປະຢັດໄຟສູງສຸດ ເປີດຢູ່</string>
+    <string name="status_bar_power_saving_description">ໂໝດປະຢັດໄຟ ເປີດຢູ່</string>
+    <string name="status_icon_alarm">ສຽງເຕືອນ</string>
+    <string name="status_unavailable">ບໍ່ມີຢູ່</string>
+    <string name="str_smart_pop_up_view_description">"ເລືອກແອັບທີ່ສາມາດສົ່ງການແຈ້ງເຕືອນຫາທ່ານ ທີ່ທ່ານສາມາດແຕະເພື່ອຂະຫຍາຍໃນມຸມມອງປັອບອັບ.
+
+ສິ່ງນີ້ມີຢູ່ສຳລັບແອັບທີ່ຮອງຮັບມັລຕິວິນໂດເທົ່ານັ້ນ."</string>
+    <string name="str_smart_pop_up_view_description_at_setting">ຮັບການແຈ້ງເຕືອນເປັນໄອຄອນທີ່ສາມາດແຕະ ແລະ ຂະຫຍາຍໃນມຸມມອງປັອບອັບໄດ້.</string>
+    <string name="str_smart_pop_up_view_name">ມຸມມອງປັອບອັບອັດສະລິຍະ</string>
+    <string name="str_smart_pop_up_view_name_at_setting">ມຸມມອງປັອບອັບອັດສະລິຍະ</string>
+    <string name="str_suggested_app">ແອັບທີ່ແນະນຳ</string>
+    <string name="suggestion_to_minimize">ຕ້ອງການຫຼຸດການແຈ້ງເຕືອນເຫຼົ່ານີ້ໃຫ້ໜ້ອຍລົງບໍ?</string>
+    <string name="switch_bar_off">ປິດ</string>
+    <string name="switch_bar_on">ເປີດ</string>
+    <string name="switched_to_onephone_mode">ໂໝດຖືກສັບປ່ຽນເປັນໂໝດສອງຕົວເລກ.</string>
+    <string name="switched_to_twophone_mode">ໂໝດສັບປ່ຽນເປັນໂໝດສອງຕົວເລກ.</string>
+    <string name="sysui_in_app_search_app_name">ແຜງດ່ວນ</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tether_settings_title_all">ຮັອດສະປັອດມືຖື ແລະ ການ​ເຊື່ອມ​ໂຍງ</string>
+    <string name="time_format_hour">%d ຊມ</string>
+    <string name="time_format_hour_minute">%1$d ຊມ %2$d ນ​ທ</string>
+    <string name="time_format_minute">%d ນ​ທ</string>
+    <string name="to_use_this_function_download_ps">ເພື່ອໃຊ້ຟັງຄ໌ຊັນນີ້, ດາວໂຫຼດ %s.</string>
+    <string name="to_use_this_function_download_the_following_application">"ເພື່ອໃຊ້ຟັງຄ໌ຊັນນີ້, ດາວໂຫຼດແອພພລິເຄຊັນຕໍ່ໄປນີ້:
+
+%s"</string>
+    <string name="tts_default_lang_title">ພາສາ</string>
+    <string name="tts_default_pitch_title">ລະດັບສຽງ</string>
+    <string name="tts_default_rate_title">ອັດຕາຄໍາເວົ້າ</string>
+    <string name="tts_lang_use_system">ໃຊ້ພາສາລະບົບ</string>
+    <string name="tts_settings">ຂໍ້ຄວາມເປັນຄໍາເວົ້າ</string>
+    <string name="tts_settings_title">ຂໍ້ຄວາມເປັນຄໍາເວົ້າ</string>
+    <string name="tw_safe_media_volume_warning">ການຟັງສຽງດັງໆເປັນເວລາດົນນານອາດຈະເຮັດທ່ານເສຍຫູໄດ້. ແຕະ [ຕົກລົງ] ເພື່ອອະນຸຍາດໃຫ້ລະດັບສຽງເພີ່ມຂຶ້ນເກີນລະດັບຄວາມປອດໄພ.</string>
+    <string name="unable_to_capture_screen_emergencymode">ບໍ່ສາມາດແຄັບເຈີ້ໜ້າຈໍໄດ້ ໃນຂະນະທີ່ຢູ່ໃນໂໝດສຸກເສີນ.</string>
+    <string name="unable_to_capture_screen_ultrapowersaving_mode">ບໍ່ສາມາດແຄັບເຈີໜ້າຈໍໄດ້.</string>
+    <string name="unable_to_open_ps_in_emergency_mode">ບໍ່ສາມາດເປີດ %s ໃນໂໝດສຸກເສີນໄດ້.</string>
+    <string name="unable_to_open_ps_in_mpsm">ບໍ່ສາມາດເປີດ %s ໃນໂໝດປະຢັດໄຟສູງສຸດ.</string>
+    <string name="unable_to_open_ps_in_upsm">ບໍ່ສາມາດເປີດ %s ໃນໂໝດປະຢັດໄຟພິເສດໄດ້.</string>
+    <string name="unable_to_turn_on_being_used_by_camera">ບໍ່ສາມາດເປີດໄຟສາຍໄດ້ ເພາະວ່າແສງໄຟຖືກໃຊ້ໂດຍແອັບອື່ນ.</string>
+    <string name="unintentional_lcd_on_alert_title">ການປ້ອງກັນການສຳຜັດແບບບັງເອີນ</string>
+    <string name="unintentional_lcd_on_alert_window_body">ໂທລະສັບຂອງທ່ານກຳລັງຖືກປົກປ້ອງຈາກການສຳພັດແບບບັງເອີນ.</string>
+    <string name="unintentional_lcd_on_alert_window_body2">ຮັກສາໃຫ້ເບື້ອງເທິງຂອງໂທລະສັບຂອງທ່ານສະອາດ ເພື່ອປົກປ້ອງບໍ່ໃຫ້ສິ່ງນີ້ເກີດຂຶ້ນ.</string>
+    <string name="unintentional_lcd_on_alert_window_body2_tablet">ຮັກສາໃຫ້ເບື້ອງເທິງຂອງແທັບເລັດຂອງທ່ານສະອາດ ເພື່ອປົກປ້ອງບໍ່ໃຫ້ສິ່ງນີ້ເກີດຂຶ້ນ.</string>
+    <string name="unintentional_lcd_on_alert_window_body_drag_to_unlock">ລາກໄອຄອນລັອກເພື່ອປົດລັອກ</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity">ໂທລະສັບຂອງທ່ານກຳລັງຖືກປົກປ້ອງຈາກການສຳພັດແບບບັງເອີນ ໃນຂະນະທີ່ມັນຢູ່ໃນສະຖານທີ່ມືດ ເຊັ່ນ ຖົງໂສ້ງ ຫຼື ກະເປົາ.</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity_tablet">ແທັບເລັດຂອງທ່ານກຳລັງຖືກປົກປ້ອງຈາກການສຳພັດແບບບັງເອີນ ໃນຂະນະທີ່ມັນຢູ່ໃນສະຖານທີ່ມືດ ເຊັ່ນ ຖົງໂສ້ງ ຫຼື ກະເປົາ.</string>
+    <string name="unintentional_lcd_on_alert_window_body_tablet">ແທັບເລັດຂອງທ່ານກຳລັງຖືກປົກປ້ອງຈາກການສຳພັດແບບບັງເອີນ.</string>
+    <string name="unknown">ບໍ່ຮູ້</string>
+    <string name="unlock_workwindow_appname">ແຕະທີ່ນີ້ ເພື່ອປົດລັອກ %s.</string>
+    <string name="usb_damage_protection_alert_body1">ລະມັດລະວັງ, ເພາະວ່າປລັກສາຍໄຟອາດຈະຮ້ອນ.</string>
+    <string name="usb_damage_protection_alert_body2_phone">ການສາກຢຸດແລ້ວເພາະວ່າໂທລະສັບຂອງທ່ານຮ້ອນເກີນໄປ. ຫຼັງຈາກຕັດເຊື່ອມຕໍ່ແລ້ວ, ກວດເບິ່ງສາຍໄຟ ແລະ ຜອດສາກເພື່ອຫາສິ່ງທີ່ອາດຈະບລັອກການເຊື່ອມຕໍ່. ຈາກນັ້ນ ທ່ານສາມາດເຊື່ອມຕໍ່ສາຍໄຟຄືນໃໝ່ເພື່ອກວດເບິ່ງວ່າໂທລະສັບຂອງທ່ານສາກໄດ້ປົກກະຕິ ຫຼື ບໍ່. ຖ້າຍັງເກີດບັນຫາຂຶ້ນຢູ່, ເຂົ້າໄປຫາຈຸດທີ່ຕັ້ງຝ່າຍບໍລິການລູກຄ້າຊຳຊຸງ.</string>
+    <string name="usb_damage_protection_alert_body2_tablet">ການສາກຢຸດແລ້ວເພາະວ່າແທັບເລັດຂອງທ່ານຮ້ອນເກີນໄປ. ຫຼັງຈາກຕັດເຊື່ອມຕໍ່ແລ້ວ, ກວດເບິ່ງສາຍໄຟ ແລະ ຜອດສາກເພື່ອຫາສິ່ງທີ່ອາດຈະບລັອກການເຊື່ອມຕໍ່. ຈາກນັ້ນ ທ່ານສາມາດເຊື່ອມຕໍ່ສາຍໄຟຄືນໃໝ່ເພື່ອກວດເບິ່ງວ່າແທັບເລັດຂອງທ່ານສາກໄດ້ປົກກະຕິ ຫຼື ບໍ່. ຖ້າຍັງເກີດບັນຫາຂຶ້ນຢູ່, ເຂົ້າໄປຫາຈຸດທີ່ຕັ້ງຝ່າຍບໍລິການລູກຄ້າຊຳຊຸງ.</string>
+    <string name="usb_damage_protection_alert_title">ຕັດເຊື່ອມຕໍ່ສາຍໄຟ</string>
+    <string name="user_guest">ແຂກ</string>
+    <string name="volume_alarm">ລະດັບສຽງການເຕືອນ</string>
+    <string name="volume_amplify_ambient_sound_title">ຂະຫຍາຍສຽງອ້ອມຮອບ</string>
+    <string name="volume_icon_content_description_ringtone_to_mute">ຕັ້ງໂໝດສຽງເປັນປິດສຽງ</string>
+    <string name="volume_icon_content_description_ringtone_to_sound">ຕັ້ງໂໝດສຽງເປັນສຽງ</string>
+    <string name="volume_icon_content_description_ringtone_to_vib">ຕັ້ງໂໝດສຽງເປັນສັ່ນ</string>
+    <string name="volume_icon_content_description_to_mute">ປິດລະດັບສຽງ %s</string>
+    <string name="volume_icon_content_description_to_unmute">ເປີດລະດັບສຽງ %s</string>
+    <string name="volume_icon_description_incall">ລະດັບສຽງໃນການໂທ</string>
+    <string name="volume_limiter_button_settings">ການຕັ້ງຄ່າ</string>
+    <string name="volume_limiter_notice_toast">ເພື່ອເພີ່ມລະດັບສຽງຂຶ້ນ, ໄປທີ່ການຕັ້ງຄ່າ ແລະປິດຂີດຈຳກັດລະດັບສຽງມີເດຍ ຫຼື ປ່ຽນແປງຂີດຈຳກັດລະດັບສຽງຂອງທ່ານ.</string>
+    <string name="volume_limiter_open_cover_toast">ເປີດໜ້າປົກ ເພື່ອສືບຕໍ່.</string>
+    <string name="volume_limiter_toast_title">ຮອດຂີດຈໍາກັດລະດັບສຽງແລ້ວ</string>
+    <string name="volume_mute_all_sounds_on">ປິດສຽງທັງໝົດ ເປີດຢູ່</string>
+    <string name="volume_panel_view_title">ລະ​ດັບ​ສຽງ</string>
+    <string name="volume_use_your_phone_volume_smart_view">ໃຊ້ປຸ່ມລະດັບສຽງໂທລະສັບຂອງທ່ານເພື່ອຄວບຄຸມລະດັບສຽງໃນ %s.</string>
+    <string name="volume_zen_mode_on">ຫ້າມລົບກວນ ເປີດຢູ່</string>
+    <string name="volumepanel_bixby_voice">Bixby Voice</string>
+    <string name="volumepanel_media">ສື່</string>
+    <string name="volumepanel_notification">ແຈ້ງເຕືອນ</string>
+    <string name="volumepanel_ringtone">ສຽງເອີ້ນເຂົ້າ</string>
+    <string name="volumepanel_system">ລະບົບ</string>
+    <string name="warning_alert_check">ບໍ່ຕ້ອງສະແດງອີກ</string>
+    <string name="water_protection_notification_body">ໄດ້ກວດພົບຄວາມຊຸ່ມແລ້ວ. ຖອດເຄື່ອງສາກອອກ ແລະ ລໍຖ້າຈົນກວ່າທັງເຄື່ອງສາກແລະພອດ USB ແຫ້ງດີ.</string>
+    <string name="water_protection_notification_title">ຖອດເຄື່ອງສາກ</string>
+    <string name="wifi_adps_summary">ຫຼຸດການນຳໃຊ້ແບັດເຕີຣີລົງໂດຍການວິເຄາະຮູບແບບການຮັບສົ່ງຂໍ້ມູນ Wi-Fi.</string>
+    <string name="wifi_adps_title">ໂໝດປະຢັດໄຟຂອງ Wi-Fi</string>
+    <string name="wifi_auto_reconnect_disabled">ເຊື່ອມຕໍ່ຄືນໃໝ່ອັດຕະໂນມັດ ປິດຢູ່</string>
+    <string name="wifi_connected_checking_quality">ກໍາລັງກວດສອບຄຸນນະພາບການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານ…</string>
+    <string name="wifi_disabled_captive_portal">ຈໍາເປັນຕ້ອງໄດ້ລົງຊື່ເຂົ້າໃຊ້.</string>
+    <string name="wifi_disabled_no_internet">ບໍ່ມີອິນເຕີເນັດຢູ່</string>
+    <string name="wifi_disabled_password_failure">ເກີດຄວາມຜິດພາດຂຶ້ນໃນການຮັບຮອງ</string>
+    <string name="wifi_failed_connect_message">ເຊື່ອມຕໍ່ໃສ່ເຄືອຂ່າຍບໍ່ສໍາເລັດ.</string>
+    <string name="wifi_failed_to_obtain_IP">ຮັບເອົາທີ່ຢູ່ IP ບໍ່ສໍາເລັດ.</string>
+    <string name="wifi_internet_may_not_be_available">ເຊື່ອມຕໍ່ໂດຍບໍ່ໃຊ້ອິນເຕີເນັດ</string>
+    <string name="wifi_open_network_summary">ບໍ່ປອດໄພ</string>
+    <string name="wifi_preference_details">ການຕັ້ງຄ່າ</string>
+    <string name="wifi_reconnecting">ພ້ອມເຊື່ອມຕໍ່ ເມື່ອຄຸນນະພາບເຄືອຂ່າຍດີຂຶ້ນ</string>
+    <string name="wifi_risk_ap_warning">ບໍ່ປອດໄພ</string>
+    <string name="wifi_safe_mode">ໂໝດປອດໄພຂອງ Wi-Fi</string>
+    <string name="wifi_safe_mode_summary">ຈັດລໍາດັບຄວາມສໍາຄັນຄວາມສະຖຽນຂອງ Wi-Fi ຫຼາຍກວ່າການປະຕິບັດງານ.</string>
+    <string name="wifi_scan_throttling">ການຄວບຄຸມການສະແກນ Wi-Fi</string>
+    <string name="wifi_scan_throttling_summary">ປະຢັດແບັດເຕີຣີ ແລະ ປັບປຸງການປະຕິບັດງານຂອງເຄືອຂ່າຍ.</string>
+    <string name="wifi_secured_summary">ປອດໄພ. ແຕະປຸ່ມການກວດຫາຄວາມປອດໄພ ເພື່ອເບິ່ງລາຍລະອຽດຂໍ້ມູນຄວາມປອດໄພ.</string>
+    <string name="wifi_security_detection">ການກວດຫາຄວາມປອດໄພ</string>
+    <string name="wifi_sign_in_to_the_network">ລົງຊື່ເຂົ້າໃຊ້ເຄືອຂ່າຍ.</string>
+    <string name="wifi_tips_ap_guide_connection_blocked">ບລັອກການເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="wifi_tips_ap_guide_couldnt_authenticate_connection">ບໍ່ສາມາດຮັບຮອງການເຊື່ອມຕໍ່ໄດ້</string>
+    <string name="wifi_tips_ap_guide_couldnt_get_ip_address">ບໍ່ສາມາດຮັບເອົາທີ່ຢູ່ IP</string>
+    <string name="wifi_tips_ap_guide_incorrect_password">ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ</string>
+    <string name="wifi_tips_ap_guide_keeps_disconnecting">Wi-Fi ຮັກສາການຕັດເຊື່ອມຕໍ່ໄວ້</string>
+    <string name="wifi_unknown_secured_ap">ປະເພດຄວາມປອດໄພທີ່ບໍ່ຮູ້ຈັກ. ທ່ານບໍ່ສາມາດເຊື່ອມຕໍ່ໃສ່ຈຸດເຊື່ອມຕໍ່ນີ້ໄດ້.</string>
+    <string name="wifi_unknown_security_type">ປະເພດຄວາມປອດໄພທີ່ບໍ່ຮູ້ຈັກ.</string>
+    <string name="wifi_unsecured_summary">ບໍ່ປອດໄພ. ແຕະປຸ່ມການກວດຫາຄວາມປອດໄພ ເພື່ອເບິ່ງລາຍລະອຽດຂໍ້ມູນຄວາມປອດໄພ.</string>
+    <string name="yes">ຕົກລົງ</string>
+    <string name="zen_mode_duration_settings_title">ໄລຍະເວລາ</string>
+    <string name="zen_mode_forever">ຈົນກວ່າຂ້ອຍປິດມັນ</string>
+</resources>

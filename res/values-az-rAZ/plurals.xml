@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Siqnal %d günə</item>
+        <item quantity="one">Siqnal %d günə</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Siqnal %d saata</item>
+        <item quantity="one">Siqnal %d saata</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Siqnal %d dəqiqə</item>
+        <item quantity="one">Siqnal %d dəqiqə</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d cəhd qalıb.</item>
+        <item quantity="one">%d cəhd qalıb.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d cəhd qalır)</item>
+        <item quantity="one">(1 cəhd qalır)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Bu telefonu kiliddən açmaq üçün %1$d cəhd edildi. %2$d saata yenidən cəhd edin.</item>
+        <item quantity="one">Bu telefonu kiliddən açmaq üçün %d cəhd edildi. 1 saata yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Bu telefonu kiliddən açmaq üçün %1$d cəhd edildi. %2$d dəqiqəyə yenidən cəhd edin.</item>
+        <item quantity="one">Bu telefonu kiliddən açmaq üçün %d cəhd edildi. 1 dəqiqəyə yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Bu telefonu kiliddən açmaq üçün %1$d cəhd edildi. %2$d saniyə sonra yenidən cəhd edin.</item>
+        <item quantity="one">Bu telefonu kiliddən açmaq üçün %d cəhd edildi. 1 saniyə sonra yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d saniyəyə bioölçüləri bir daha sınayın</item>
+        <item quantity="one">%d saniyəyə bioölçüləri bir daha sınayın</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d saniyəyə üz tanınmasını yenidən sınayın</item>
+        <item quantity="one">%d saniyəyə üz tanınmasını yenidən sınayın</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d saniyəyə barmaq izlərini bir daha sınayın</item>
+        <item quantity="one">%d saniyəyə barmaq izlərini bir daha sınayın</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d saniyəyə Intelligent Scan yenidən sınayın</item>
+        <item quantity="one">%d saniyəyə Intelligent Scan yenidən sınayın</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d saniyəyə göz qüzehi tanınmasını yenidən sınayın</item>
+        <item quantity="one">%d saniyəyə göz qüzehi tanınmasını yenidən sınayın</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d dəqiqə sonra yenidən cəhd et</item>
+        <item quantity="one">%d dəqiqə sonra yenidən cəhd et</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d saniyə sonra yenidən cəhd et</item>
+        <item quantity="one">%d saniyə sonra yenidən cəhd et</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Bioölçünü təsdiq etmək üçün %1$d yanlış cəhd. %2$d saniyə sonra yenidən cəhd edin.</item>
+        <item quantity="one">Bioölçünü təsdiq etmək üçün %1$d yanlış cəhd. %2$d dəqiqə sonra yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">Üzünüzü təsdiq etmək üçün %1$d yanlış cəhd edilib. %2$d saniyəyə yenidən cəhd edin.</item>
+        <item quantity="one">Üzünüzü təsdiq etmək üçün %1$d yanlış cəhd edilib. %2$d saniyəyə yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Barmaq izini təsdiq etmək üçün %1$d yanlış cəhd. %2$d saniyə sonra yenidən cəhd edin.</item>
+        <item quantity="one">Barmaq izini təsdiq etmək üçün %1$d yanlış cəhd. %2$d dəqiqə sonra yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">Intelligent Scan təsdiq etmək üçün %1$d yanlış cəhd edilib. %2$d saniyəyə yenidən cəhd edin.</item>
+        <item quantity="one">Intelligent Scan təsdiq etmək üçün %1$d yanlış cəhd edildi. %2$d saniyəyə yenidən cəhd edin.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">Göz qüzehlərini təsdiq etmək üçün %1$d yanlış cəhd edilib. %2$d saniyəyə yenidən cəhd edin.</item>
+        <item quantity="one">Göz qüzehlərini təsdiq etmək üçün %1$d yanlış cəhd edilib. %2$d saniyəyə yenidən cəhd edin.</item>
+    </plurals>
+</resources>

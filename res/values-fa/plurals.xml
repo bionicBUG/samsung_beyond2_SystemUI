@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d روز قبل</item>
+        <item quantity="one">%d روز قبل</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d دقیقه قبل</item>
+        <item quantity="one">%d دقیقه قبل</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d سال قبل</item>
+        <item quantity="one">%d سال قبل</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">زنگ هشدار %d روز دیگر</item>
+        <item quantity="one">زنگ هشدار %d روز دیگر</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">زنگ هشدار %d ساعت دیگر</item>
+        <item quantity="one">زنگ هشدار %d ساعت دیگر</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">زنگ هشدار %d دقیقه دیگر</item>
+        <item quantity="one">زنگ هشدار %d دقیقه دیگر</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d فرصت دارید.</item>
+        <item quantity="one">%d فرصت داريد.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(‎%d فرصت باقی‌مانده)</item>
+        <item quantity="one">(۱ فرصت باقی‌مانده)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">%1$d تلاش برای بازگشایی قفل این تلفن صورت گرفته است. %2$d ساعت دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%d تلاش برای بازگشایی قفل این تلفن صورت گرفته است. ۱ ساعت دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">%1$d تلاش برای بازگشایی قفل این تلفن صورت گرفته است. %2$d دقیقه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%d تلاش برای بازگشایی قفل این تلفن صورت گرفته است. ۱ دقیقه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">%1$d تلاش برای بازگشایی قفل این تلفن انجام شده است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%d تلاش برای بازگشایی قفل این تلفن انجام شده است. ۱ ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">پین سیم‌کارت را وارد کنید. %d تلاش دیگری باقی مانده است.</item>
+        <item quantity="one">پین سیم‌کارت را وارد کنید. %d تلاش دیگری باقی مانده است.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">‏سیم‌کارت اکنون غیرفعال است. برای ادامه دادن کد PUK را وارد کنید. %d تلاش دیگر باقی مانده است و پس از آن سیم‌کارت برای همیشه غیرقابل‌استفاده می‌شود. برای اطلاع از جزئیات با شرکت مخابراتی تماس بگیرید.</item>
+        <item quantity="one">‏سیم‌کارت اکنون غیرفعال است. برای ادامه دادن کد PUK را وارد کنید. %d تلاش دیگر باقی مانده است و پس از آن سیم‌کارت برای همیشه غیرقابل‌استفاده می‌شود. برای اطلاع از جزئیات با شرکت مخابراتی تماس بگیرید.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+        <item quantity="one">کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏کد PUK سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید و پس از آن سیم‌کارت برای همیشه غیرقابل استفاده می‌شود.</item>
+        <item quantity="one">‏کد PUK سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید و پس از آن سیم‌کارت برای همیشه غیرقابل استفاده می‌شود.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">قفل دستگاه %d ساعت باز نشده است. گذرواژه را تأیید کنید.</item>
+        <item quantity="one">قفل دستگاه %d ساعت باز نشده است. گذرواژه را تأیید کنید.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">قفل دستگاه %d ساعت باز نشده است. الگو را تأیید کنید.</item>
+        <item quantity="one">قفل دستگاه %d ساعت باز نشده است. الگو را تأیید کنید.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">قفل دستگاه %d ساعت باز نشده است. پین را تأیید کنید.</item>
+        <item quantity="one">قفل دستگاه %d ساعت باز نشده است. پین را تأیید کنید.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%d ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d ثانیه دیگر دوباره بیومتریک خود را امتحان کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره بیومتریک خود را امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d ثانیه دیگر دوباره شناسایی چهره را امتحان کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره شناسایی چهره را امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d ثانیه دیگر دوباره اثر انگشت خود را امتحان کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره اثر انگشت خود را امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d ثانیه دیگر دوباره اسکن هوشمند را امتحان کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره اسکن هوشمند را امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d ثانیه دیگر دوباره شناسایی چشم را امتحان کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره شناسایی چشم را امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d دقیقه دیگر دوباره امتحان کنید</item>
+        <item quantity="one">%d دقیقه دیگر دوباره امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d ثانیه دیگر دوباره امتحان کنید</item>
+        <item quantity="one">%d ثانیه دیگر دوباره امتحان کنید</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d تلاش نادرست برای تأیید اطلاعات بیومتریک انجام شد. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%1$d تلاش نادرست برای تأیید اطلاعات بیومتریک انجام شده است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d تلاش ناموفق برای تایید چهره شما صورت گرفته است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%1$d تلاش ناموفق برای تایید چهره شما صورت گرفته است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d تلاش نادرست برای تأیید اثر انگشت انجام شد. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%1$d تلاش نادرست برای تأیید اثر انگشت انجام شده است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d تلاش ناموفق برای تایید اسکن هوشمند صورت گرفته است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%1$d تلاش ناموفق برای تایید اسکن هوشمند صورت گرفته است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d تلاش ناموفق برای تایید چشم‌های شما صورت گرفته است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+        <item quantity="one">%1$d تلاش ناموفق برای تایید چشم‌های شما صورت گرفته است. %2$d ثانیه دیگر دوباره امتحان کنید.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s اعلان دیگر در گروه.</item>
+        <item quantity="one">%s اعلان دیگر در گروه.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">‏%d دستگاه</item>
+        <item quantity="one">‏%d دستگاه</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">‏%d ساعت</item>
+        <item quantity="one">‏%d ساعت</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">‏%d دقیقه</item>
+        <item quantity="one">‏%d دقیقه</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">می‌توانید حداکثر %d کاربر اضافه کنید.</item>
+        <item quantity="one">می‌توانید حداکثر %d کاربر اضافه کنید.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏%1$d دستگاه متصل</item>
+        <item quantity="one">‏%1$d دستگاه متصل</item>
+    </plurals>
+</resources>

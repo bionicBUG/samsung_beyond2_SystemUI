@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">%d दिवसांत अलार्म</item>
+        <item quantity="one">%d दिवसात अलार्म</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">%d तासांत अलार्म</item>
+        <item quantity="one">%d तासात अलार्म</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">%d मिनिटांत अलार्म</item>
+        <item quantity="one">%d मिनिटात अलार्म</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d प्रयत्न शिल्लक.</item>
+        <item quantity="one">%d प्रयत्न शिल्लक.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d प्रयत्‍न शिल्‍लक आहेत)</item>
+        <item quantity="one">(1 प्रयत्‍न शिल्‍लक आहे)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">हा फोन अनलॉक करण्याचे %1$d प्रयत्न झाले आहेत. %2$d तासां मध्ये पुन्‍हा प्रयत्‍न करा.</item>
+        <item quantity="one">हा फोन अनलॉक करण्या साठी %d प्रयत्न झाले आहेत. 1 तासात पुन्‍हा प्रयत्‍न करा.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">हा फोन अनलॉक करण्याचे %1$d प्रयत्न झाले आहेत. %2$d मिनिटां मध्ये पुन्‍हा प्रयत्‍न करा.</item>
+        <item quantity="one">हा फोन अनलॉक करण्या साठी %d प्रयत्न झाले आहेत. 1 मिनिटा मध्ये पुन्‍हा प्रयत्‍न करा.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">हा फोन अनलॉक करण्या साठी %1$d प्रयत्न केले आहेत. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+        <item quantity="one">हा फोन अनलॉक करण्या साठी %d प्रयत्न केले आहेत. 1 सेकंदा मध्ये पुन्हा प्रयत्न करा.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d सेकंदां मध्ये आपल्या बायोमेट्रिकचा पुन्हा प्रयत्न करा</item>
+        <item quantity="one">%d सेकंदा मध्ये आपल्या बायोमेट्रिकचा पुन्हा प्रयत्न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d सेकंदां मध्ये चेहरा ओळखीचा पुन्हा प्रयत्न करा</item>
+        <item quantity="one">%d सेकंदा मध्ये चेहरा ओळखीचा पुन्हा प्रयत्न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d सेकंदां मध्ये आपल्या फिंगरप्रिंटचा पुन्हा प्रयत्न करा</item>
+        <item quantity="one">%d सेकंदा मध्ये आपल्या फिंगरप्रिंटचा पुन्हा प्रयत्न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d सेकंदां मध्ये इंटेलिजंट स्कॅनचा पुन्हा प्रयत्न करा</item>
+        <item quantity="one">%d सेकंदा मध्ये इंटेलिजंट स्कॅनचा पुन्हा प्रयत्न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d सेकंदां मध्ये इरिस ओळखीचा पुन्हा प्रयत्न करा</item>
+        <item quantity="one">%d सेकंदा मध्ये इरिस ओळखचा पुन्हा प्रयत्न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d मिनिटांमध्‍ये पुन्‍हा प्रयत्‍न करा</item>
+        <item quantity="one">%d मिनिटां मध्‍ये पुन्‍हा प्रयत्‍न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d सेकंदांमध्‍ये पुन्‍हा प्रयत्‍न करा</item>
+        <item quantity="one">%d सेकंदां मध्ये पुन्हा प्रयत्न करा</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">आपल्या बायोमॅट्रिक्सची पडताळणी करण्‍या साठी %1$d चुकीचे प्रयत्‍न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+        <item quantity="one">बायोमॅट्रिक्सची पडताळणी करण्‍या साठी %1$d चुकीचे प्रयत्‍न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">आपल्या चेहर्‍याची पडताळणी करण्‍या साठी %1$d चुकीचे प्रयत्‍न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+        <item quantity="one">आपल्या चेहर्‍याची पडताळणी करण्‍या साठी %1$d चुकीचे प्रयत्‍न. %2$d सेकंदा मध्ये पुन्हा प्रयत्न करा.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">फिंगरप्रिंट्सची पडताळणी करण्याचे %1$d चुकीचे प्रयत्न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+        <item quantity="one">फिंगरप्रिंट्सची पडताळणी करण्याचे %1$d चुकीचे प्रयत्न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">इंटेलिजेंट स्कॅन पडताळणी करण्या साठी %1$d चुकीचे प्रयत्न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+        <item quantity="one">इंटेलिजेंट स्कॅन पडताळणी करण्या साठी %1$d चुकीचे प्रयत्न. %2$d सेकंदा मध्ये पुन्हा प्रयत्न करा.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">आपल्या इरिसेसची पडताळणी करण्‍या साठी %1$d चुकीचे प्रयत्‍न. %2$d सेकंदां मध्ये पुन्हा प्रयत्न करा.</item>
+        <item quantity="one">आपल्या इरिसेसची पडताळणी करण्‍या साठी %1$d चुकीचे प्रयत्‍न. %2$d सेकंदा मध्ये पुन्हा प्रयत्न करा.</item>
+    </plurals>
+</resources>

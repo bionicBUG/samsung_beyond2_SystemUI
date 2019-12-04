@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">acum %d de zile</item>
+        <item quantity="one">acum %d zi</item>
+        <item quantity="few">acum %d zile</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">acum %d de min.</item>
+        <item quantity="one">acum %d min.</item>
+        <item quantity="few">acum %d min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">acum %d de ani</item>
+        <item quantity="one">acum %d an</item>
+        <item quantity="few">acum %d ani</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarmă peste %d zile</item>
+        <item quantity="one">Alarmă peste %d zi</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarmă peste %d ore</item>
+        <item quantity="one">Alarmă peste %d oră</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarmă peste %d minute</item>
+        <item quantity="one">Alarmă peste %d minut</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d încercări rămase.</item>
+        <item quantity="one">%d încercare rămasă.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d încercări rămase)</item>
+        <item quantity="one">(1 încercare rămasă)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Au existat %1$d încercări de a debloca telefonul. Încercați din nou peste %2$d ore.</item>
+        <item quantity="one">Au existat %d încercări de a debloca telefonul. Încercați din nou peste 1 oră.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Au existat %1$d încercări de a debloca telefonul. Încercați din nou peste %2$d minute.</item>
+        <item quantity="one">Au existat %d încercări de a debloca telefonul. Încercați din nou peste 1 minut.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Au existat %1$d încercări de a debloca telefonul. Încercați din nou peste %2$d secunde.</item>
+        <item quantity="one">Au existat %d încercări de a debloca telefonul. Încercați din nou peste 1 secundă.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Introduceți codul PIN pentru cardul SIM. V-au mai rămas %d de încercări.</item>
+        <item quantity="one">Introduceți codul PIN pentru cardul SIM. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">Cardul SIM este dezactivat acum. Introduceți codul PUK pentru a continua. V-au mai rămas %d de încercări până când cardul SIM va deveni inutilizabil definitiv. Contactați operatorul pentru detalii.</item>
+        <item quantity="one">Cardul SIM este dezactivat acum. Introduceți codul PUK pentru a continua. V-a mai rămas %d încercare până când cardul SIM va deveni inutilizabil definitiv. Contactați operatorul pentru detalii.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Codul PIN pentru cardul SIM este incorect. V-au mai rămas %d de încercări.</item>
+        <item quantity="one">Codul PIN pentru cardul SIM este incorect. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Codul PUK pentru cardul SIM este incorect. V-au mai rămas %d de încercări până când cardul SIM va deveni inutilizabil definitiv.</item>
+        <item quantity="one">Codul PUK pentru cardul SIM este incorect. V-a mai rămas %d încercare până când cardul SIM va deveni inutilizabil definitiv.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Dispozitivul nu a fost deblocat de %d de ore. Confirmați parola.</item>
+        <item quantity="one">Dispozitivul nu a fost deblocat de %d oră. Confirmați parola.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Dispozitivul nu a fost deblocat de %d de ore. Confirmați modelul.</item>
+        <item quantity="one">Dispozitivul nu a fost deblocat de %d oră. Confirmați modelul.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Dispozitivul nu a fost deblocat de %d de ore. Confirmați codul PIN.</item>
+        <item quantity="one">Dispozitivul nu a fost deblocat de %d oră. Confirmați codul PIN.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Încercați din nou în %d de secunde.</item>
+        <item quantity="one">Încercați din nou într-o secundă.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Încercați din nou datele biometrice în %d secunde</item>
+        <item quantity="one">Încercați din nou datele biometrice în %d secundă</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Încercați din nou recunoașterea facială peste %d secunde</item>
+        <item quantity="one">Încercați din nou recunoașterea facială peste %d secundă</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Încercați din nou amprenta în %d secunde</item>
+        <item quantity="one">Încercați din nou amprenta în %d secundă</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Încercați din nou Scanarea inteligentă peste %d secunde</item>
+        <item quantity="one">Încercați din nou Scanarea inteligentă peste %d secundă</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Încercați din nou recunoașterea prin iris peste %d secunde</item>
+        <item quantity="one">Încercați din nou recunoașterea prin iris peste %d secundă</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Încercați din nou peste %d minute</item>
+        <item quantity="one">Încercați din nou peste %d minut</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Încercați din nou peste %d secunde</item>
+        <item quantity="one">Încercați din nou peste %d secundă</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d încercări greșite de verificare a datelor biometrice. Încercați din nou peste %2$d secunde.</item>
+        <item quantity="one">%1$d încercări greșite de verificare a datelor biometrice. Încercați din nou peste %2$d secunde.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d încercări greșite de verificare a feței dvs. Încercați din nou peste %2$d secunde.</item>
+        <item quantity="one">%1$d încercări greșite de verificare a feței dvs. Încercați din nou peste %2$d secundă.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d încercări greșite de verificare a amprentelor. Încercați din nou peste %2$d secunde.</item>
+        <item quantity="one">%1$d încercări greșite de verificare a amprentelor. Încercați din nou peste %2$d secundă.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d încercări greșite de verificare a funcției Scanare inteligentă. Încercați din nou peste %2$d secunde.</item>
+        <item quantity="one">%1$d încercări greșite de verificare a funcției Scanare inteligentă. Încercați din nou peste %2$d secundă.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d încercări greșite de verificare a irisurilor dvs. Încercați din nou peste %2$d secunde.</item>
+        <item quantity="one">%1$d încercări greșite de verificare a irisurilor dvs. Încercați din nou peste %2$d secundă.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Încă %s de notificări în grup.</item>
+        <item quantity="one">Încă %s notificare în grup.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d de dispozitive</item>
+        <item quantity="one">%d dispozitiv</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">%d oră</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Puteți adăuga maximum %d de utilizatori.</item>
+        <item quantity="one">Poate fi creat doar un utilizator.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d de dispozitive conectate</item>
+        <item quantity="one">%1$d dispozitiv conectat</item>
+    </plurals>
+</resources>

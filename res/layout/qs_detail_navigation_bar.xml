@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.AlphaOptimizedLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.QS.DetailEmpty" android:id="@id/navigation_summary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/sec_qs_detail_settings_padding_bottom" android:text="@string/qs_navigation_bar_detail_description" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" android:paddingEnd="@dimen/sec_qs_detail_items_side_padding" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <TextView android:textAppearance="@style/TextAppearance.QS.DetailItemCategory" android:id="@id/qs_navigation_bar_detail_title_option" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qs_navigation_bar_detail_title_option" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" />
+        <View android:layout_gravity="center" android:background="@drawable/sec_qs_detail_sub_header_divider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/sec_qs_detail_category_divider_start" android:layout_marginEnd="@dimen/sec_qs_detail_category_divider_end" />
+    </LinearLayout>
+    <RadioGroup android:id="@id/navigation_option_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/navigation_button_container" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" android:paddingEnd="@dimen/sec_qs_detail_items_side_padding">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RadioButton android:theme="@android:style/Theme.DeviceDefault.Light" android:id="@id/navigation_button" android:background="@null" android:clickable="false" style="@style/TextAppearance.QS.DetailRadioItem" />
+                <TextView android:textAppearance="@style/TextAppearance.QS.DetailCatetoryItem" android:id="@id/navigation_button_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qs_navigation_bar_detail_navigation_buttons_options" />
+            </LinearLayout>
+            <ImageView android:id="@id/navigation_button_image" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/screen_gesture_container" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:paddingStart="@dimen/sec_qs_detail_items_side_padding" android:paddingEnd="@dimen/sec_qs_detail_items_side_padding">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RadioButton android:theme="@android:style/Theme.DeviceDefault.Light" android:id="@id/screen_gesture" android:background="@null" android:clickable="false" style="@style/TextAppearance.QS.DetailRadioItem" />
+                <TextView android:textAppearance="@style/TextAppearance.QS.DetailCatetoryItem" android:gravity="center_vertical" android:id="@id/screen_gesture_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qs_navigation_bar_detail_full_screen_gestures_options" />
+            </LinearLayout>
+            <ImageView android:id="@id/screen_gesture_image" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <ImageView android:id="@id/screen_gesture_hint_1key_image" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-100.0dip" android:src="@drawable/quick_gesture_hint_visual_cue_1key" />
+            <ImageView android:id="@id/screen_gesture_hint_3key_image" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-100.0dip" android:src="@drawable/quick_gesture_hint_visual_cue_3key" />
+        </LinearLayout>
+    </RadioGroup>
+</com.android.keyguard.AlphaOptimizedLinearLayout>

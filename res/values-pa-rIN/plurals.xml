@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">ਅਲਾਰਮ %d ਦਿਨ ਬਾਅਦ ਦਾ ਹੈ</item>
+        <item quantity="one">ਅਲਾਰਮ %d ਦਿਨ ਬਾਅਦ ਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">ਅਲਾਰਮ %d ਘੰਟੇ ਬਾਅਦ ਦਾ ਹੈ</item>
+        <item quantity="one">ਅਲਾਰਮ %d ਘੰਟੇ ਬਾਅਦ ਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">ਅਲਾਰਮ %d ਮਿੰਟ ਬਾਅਦ ਦਾ ਹੈ</item>
+        <item quantity="one">ਅਲਾਰਮ %d ਮਿੰਟ ਬਾਅਦ ਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d ਯਤਨ ਬਾਕੀ ਹਨ।</item>
+        <item quantity="one">%d ਯਤਨ ਬਾਕੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d ਯਤਨ ਬਾਕੀ)</item>
+        <item quantity="one">(1 ਯਤਨ ਬਾਕੀ)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">ਇਸ ਫ਼ੋਨ ਨੂੰ %1$d ਵਾਰ ਅਨਲੌਕ ਕਰਨ ਦਾ ਯਤਨ ਕੀਤਾ ਗਿਆ ਹੈ। %2$d ਘੰਟੇ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਇਸ ਫ਼ੋਨ ਨੂੰ %d ਵਾਰ ਅਨਲੌਕ ਕਰਨ ਦਾ ਯਤਨ ਕੀਤਾ ਗਿਆ ਹੈ। 1 ਘੰਟੇ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">ਇਸ ਫ਼ੋਨ ਨੂੰ %1$d ਵਾਰ ਅਨਲੌਕ ਕਰਨ ਦੇ ਯਤਨ ਕੀਤਾ ਗਿਆ ਹੈ। %2$d ਮਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਇਸ ਫ਼ੋਨ ਨੂੰ %d ਵਾਰ ਅਨਲੌਕ ਕਰਨ ਦਾ ਯਤਨ ਕੀਤਾ ਗਿਆ ਹੈ। 1 ਮਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">ਇਸ ਫ਼ੋਨ ਨੂੰ %1$d ਵਾਰ ਅਨਲੌਕ ਕਰਨ ਦੇ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਇਸ ਫ਼ੋਨ ਨੂੰ %d ਵਾਰ ਅਨਲੌਕ ਕਰਨ ਦੇ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। 1 ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">ਸਿਮ ਪਿੰਨ ਦਾਖਲ ਕਰੋ। ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ ਹਨ।</item>
+        <item quantity="one">ਸਿਮ ਪਿੰਨ ਦਾਖਲ ਕਰੋ। ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">"ਸਿਮ ਹੁਣ ਬੰਦ ਹੋ ਗਿਆ ਹੈ। ਜਾਰੀ ਰੱਖਣ ਲਈ PUK ਕੋਡ ਦਾਖਲ ਕਰੋ। ਸਿਮ ਦੇ ਪੱਕੇ ਤੌਰ 'ਤੇ ਬੇਕਾਰ ਹੋ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ ਹਨ। ਵੇਰਵਿਆਂ ਲਈ ਕੈਰੀਅਰ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।"</item>
+        <item quantity="one">"ਸਿਮ ਹੁਣ ਬੰਦ ਹੋ ਗਿਆ ਹੈ। ਜਾਰੀ ਰੱਖਣ ਲਈ PUK ਕੋਡ ਦਾਖਲ ਕਰੋ। ਸਿਮ ਦੇ ਪੱਕੇ ਤੌਰ 'ਤੇ ਬੇਕਾਰ ਹੋ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ। ਵੇਰਵਿਆਂ ਲਈ ਕੈਰੀਅਰ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।"</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">ਗਲਤ ਸਿਮ ਪਿੰਨ ਕੋਡ, ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ।</item>
+        <item quantity="one">ਗਲਤ ਸਿਮ ਪਿੰਨ ਕੋਡ, ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">"ਗਲਤ ਸਿਮ PUK ਕੋਡ, ਇਸਤੋਂ ਪਹਿਲਾਂ ਕਿ ਸਿਮ ਸਥਾਈ ਤੌਰ 'ਤੇ ਵਰਤਣਯੋਗ ਨਾ ਰਹੇ, ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ ਹਨ।"</item>
+        <item quantity="one">"ਗਲਤ ਸਿਮ PUK ਕੋਡ, ਇਸਤੋਂ ਪਹਿਲਾਂ ਕਿ ਸਿਮ ਸਥਾਈ ਤੌਰ 'ਤੇ ਵਰਤਣਯੋਗ ਨਾ ਰਹੇ, ਤੁਹਾਡੇ ਕੋਲ %d ਕੋਸ਼ਿਸ਼ ਬਾਕੀ ਹੈ।"</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">ਡੀਵਾਈਸ %d ਘੰਟਿਆਂ ਤੋਂ ਅਣਲਾਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</item>
+        <item quantity="one">ਡੀਵਾਈਸ %d ਘੰਟੇ ਤੋਂ ਅਣਲਾਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">ਡੀਵਾਈਸ %d ਘੰਟਿਆਂ ਤੋਂ ਅਣਲਾਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਪੈਟਰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।</item>
+        <item quantity="one">ਡੀਵਾਈਸ %d ਘੰਟੇ ਤੋਂ ਅਣਲਾਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਪੈਟਰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">ਡੀਵਾਈਸ %d ਘੰਟਿਆਂ ਤੋਂ ਅਣਲਾਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਪਿੰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।</item>
+        <item quantity="one">ਡੀਵਾਈਸ %d ਘੰਟੇ ਤੋਂ ਅਣਲਾਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਪਿੰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਆਪਣੀ ਬਾਇਓਮੀਟ੍ਰਿਕਸ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਆਪਣੀ ਬਾਇਓਮੀਟ੍ਰਿਕਸ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਚਿਹਰਾ ਪਛਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਚਿਹਰਾ ਪਛਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਆਪਣੀ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਆਪਣੀ ਫਿੰਗਰਪ੍ਰਿੰਟ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਸੂਝਵਾਨ ਸਕੈਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਸੂਝਵਾਨ ਸਕੈਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਆਈਰਿਸ ਪਛਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਆਈਰਿਸ ਪਛਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d ਮਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਮਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">ਤੁਹਾਡੇ ਬਾਇਓਮੀਟ੍ਰਿਕਸ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਬਾਇਓਮੀਟ੍ਰਿਕਸ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">ਤੁਹਾਡੇ ਚਿਹਰੇ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਚਿਹਰੇ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">ਫਿੰਗਰਪ੍ਰਿੰਟਸ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਫਿੰਗਰਪ੍ਰਿੰਟਸ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">ਸੂਝਵਾਨ ਸਕੈਨ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਸੂਝਵਾਨ ਸਕੈਨ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">ਤੁਹਾਡੇ ਆਈਰਿਸਜ਼ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+        <item quantity="one">ਤੁਹਾਡੇ ਆਈਰਿਸਜ਼ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ %1$d ਗਲਤ ਯਤਨ ਕੀਤੇ ਗਏ ਹਨ। %2$d ਸਕਿੰਟ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">ਅੰਦਰ %s ਹੋਰ ਸੂਚਨਾਵਾਂ।</item>
+        <item quantity="one">ਅੰਦਰ %s ਹੋਰ ਸੂਚਨਾਵਾਂ।</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d ਡੀਵਾਈਸਾਂ</item>
+        <item quantity="one">%d ਡੀਵਾਈਸ</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟਾ</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">ਤੁਸੀਂ %d ਤੱਕ ਵਰਤੋਂਕਾਰਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ।</item>
+        <item quantity="one">ਤੁਸੀਂ %d ਤੱਕ ਵਰਤੋਂਕਾਰ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ।</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d ਡੀਵਾਈਸ ਕਨੈਕਟ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%1$d ਡੀਵਾਈਸ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+</resources>

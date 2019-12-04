@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_brightness_detail_button">სიკაშკაშის პარამეტრების დაფა</string>
+    <string name="accessibility_button">ღილაკი</string>
+    <string name="accessibility_display_daltonizer_preference_title">ფერის შესწორება</string>
+    <string name="accessibility_phone_four_bars">ტელეფონის სიგნალის ოთხი ზოლი</string>
+    <string name="accessibility_qspanel_brightness_detail_button">სიკაშკაშის პარამეტრების დაფა</string>
+    <string name="agree">თანხმობა</string>
+    <string name="airplane_mode_show_popup_message">თვითმფრინავის რეჟიმის ჩართვის შედეგად გამოირთვება ყველა ქსელური ფუნქცია, მათ შორის ზარები, შეტყობინებები, მობილური მონაცემები, Wi-Fi და Bluetooth. თუ გსურთ კვლავ გამოიყენოთ Wi-Fi და Bluetooth, ჩართეთ ისინი პარამეტრებში ან შეტყობინებათა დაფაზე.</string>
+    <string name="airplane_mode_show_popup_message_cmcc">ფრენის რეჟიმი საშუალებას გაძლევთ გამორთოთ ზარების, მიმოწერისა და მონაცემთა ქსელის ფუნქციები. იგი ასევე გამორთავს დაკავშირების საშუალებებს, როგორიცაა Wi-Fi და Bluetooth. თუ გსურთ გამოიყენოთ Wi-Fi და Bluetooth, ჩართეთ ისინი პარამეტრებში ან შეტყობინებათა დაფაზე.</string>
+    <string name="airplane_mode_show_popup_message_lte_without_call_feature_tablet">თქვენ ვერ გამოიყენებთ მობილურ მონაცემებს.</string>
+    <string name="airplane_mode_show_popup_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_show_popup_message_wifi">Wi-Fi და Bluetooth გამოირთვება, მაგრამ მათ ჩართვას კვლავ შეძლებთ „პარამეტრებში“ ან სწრაფი პარამეტრების დაფაზე.</string>
+    <string name="airplane_mode_show_popup_safelock">ფრენის რეჟიმს ვერ ჩართავთ, როცა ჩართულია გამორთვის დაბლოკვა ჩაკეტილზე. ისევ სცადეთ, ეკრანის განბლოკვის შემდეგ.</string>
+    <string name="airplane_mode_show_popup_summary">თვითმფრინავის რეჟიმის ჩართვის შედეგად გამოირთვება ყველა ქსელური ფუნქცია, მათ შორის ზარები, შეტყობინებები, მობილური მონაცემები, Wi-Fi და Bluetooth. თუ გსურთ კვლავ გამოიყენოთ Wi-Fi და Bluetooth, ჩართეთ ისინი პარამეტრებში ან შეტყობინებათა დაფაზე.</string>
+    <string name="airplane_mode_show_popup_summary_lte_without_call_feature_tablet">გამორთეთ „მობილური მონაცემები“.</string>
+    <string name="airplane_mode_show_popup_summary_wifi_tablet">გამორთეთ Wi-Fi და Bluetooth.</string>
+    <string name="airplane_mode_show_popup_title">ჩაირთოს თვითმფრინავის რეჟიმი?</string>
+    <string name="airplane_mode_show_popup_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_show_toast_turn_on_wifi_for_wificalling">ჩართეთ Wi-Fi, რომ გამოიყენოთ Wi-Fi ზარი.</string>
+    <string name="airplane_mode_toast_impossible_during_call">თვითმფრინავის რეჟიმის ჩართვა შეუძლებელია ზარის დროს.</string>
+    <string name="allow_notifications_guide_text">შეტყობინებების ჩვენება</string>
+    <string name="app_label">სისტემის UI</string>
+    <string name="assistance_app_setting_alert_dialog_title">Select an app to open when you press and hold the Home key. To change the selected app later, go to Device assistance app in Settings.</string>
+    <string name="assistance_app_setting_item_none">არც ერთი</string>
+    <string name="battery_cable_charging_from_wireless_to_cable_text">უსადენო დატენვიდან სადენით დატენვაზე გადართვა</string>
+    <string name="battery_cable_charging_title">იმუხტება სადენით</string>
+    <string name="battery_charging_level_and_time_text">"იმუხტება: %1$d%%
+(სრულ შევსებამდე დარჩა დაახლოებით %2$s)"</string>
+    <string name="battery_charging_level_text">იმუხტება: %d%%</string>
+    <string name="battery_charging_time_text">(დაახლებით %s დარჩა სრულ დამუხტვამდე)</string>
+    <string name="battery_charging_title">იმუხტება</string>
+    <string name="battery_fast_charging_title">სწრაფი დამუხტვა</string>
+    <string name="battery_fast_charging_title_chn">გაუმჯობესებული დატენვა</string>
+    <string name="battery_fast_wireless_charging_title">სწრაფი უსადენო დამუხტვა</string>
+    <string name="battery_fast_wireless_charging_title_chn">გაუმჯობესებული უსადენო დატენვა</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_phone">"დამუხტვა გაჩერდა. ტელეფონის ტემპერატურა ძალიან მაღალია. სიფრთხილე გმართებთ დამტენის გამოძრობის დროს. ის შეიძლება ძალიან ცხელი იყოს.
+
+დამტენის გამოძრობითა და მიერთებით, შესაძლოა, დამუხტვა გაგრძელდეს ნორმალურად. თუ გადახურების პრობლემა კვლავ არის, მიმართეთ მომხმარებელთა დახმარების სამსახურს, რადგან შეიძლება იყოს ხანძრის ან დაზიანების რისკი."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_tablet">"დამუხტვა გაჩერდა. პლანშეტის ტემპერატურა ძალიან მაღალია. სიფრთხილე გმართებთ დამტენის გამოძრობის დროს. ის შეიძლება ძალიან ცხელი იყოს.
+
+დამტენის გამოძრობითა და მიერთებით, შესაძლოა, დამუხტვა გაგრძელდეს ნორმალურად. თუ გადახურების პრობლემა კვლავ არის, მიმართეთ მომხმარებელთა დახმარების სამსახურს, რადგან შეიძლება იყოს ხანძრის ან დაზიანების რისკი."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_title">გამორთეთ დამტენი</string>
+    <string name="battery_health_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="battery_health_interruption_by_terminal_open_text">თქვენი მოწყობილობის დამუხტვა შეუძლებელია. დარწმუნდით, რომ იყენებთ Samsung-თან თავსებად კვების ელემენტსა და დამტენს და აპარატზე სწორადაა მიერთებული დამტენი.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_phone">ტელეფონის ტემპერატურა ძალიან მაღალია. დამუხტვა გაგრძელდება, როდესაც ტემპერატურა დაუბრუნდება ნორმალურ მნიშვნელობას.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_tablet">პლანშეტის ტემპერატურა ძალიან მაღალია. დამუხტვა გაგრძელდება, როდესაც ტემპერატურა დაუბრუნდება ნორმალურ მნიშვნელობას.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_phone">ტელეფონის ტემპერატურა ძალიან დაბალია. დამუხტვა გაგრძელდება, როდესაც ტემპერატურა დაუბრუნდება ნორმალურ მნიშვნელობას.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_tablet">პლანშეტის ტემპერატურა ძალიან დაბალია. დამუხტვა გაგრძელდება, როდესაც ტემპერატურა დაუბრუნდება ნორმალურ მნიშვნელობას.</string>
+    <string name="battery_health_interruption_title">დამუხტვა შეწყდა</string>
+    <string name="battery_info_status_charging">იმუხტება</string>
+    <string name="battery_info_status_discharging">არ იმუხტება</string>
+    <string name="battery_info_status_full">შევსებულია</string>
+    <string name="battery_low_sec_app_name">მოწყობილობის მოვლა</string>
+    <string name="battery_low_sec_body_phone">დამუხტეთ ტელეფონი, ან შეეხეთ აქ, რომ ჩართოთ „ენერგიის დაზოგვის რეჟიმი“.</string>
+    <string name="battery_low_sec_body_phone_psm">დამუხტეთ ტელეფონი.</string>
+    <string name="battery_low_sec_body_tablet">დამუხტეთ პლანშეტი, ან შეეხეთ აქ, რომ ჩართოთ „ენერგიის დაზოგვის რეჟიმი“.</string>
+    <string name="battery_low_sec_body_tablet_psm">დამუხტეთ პლანშეტი.</string>
+    <string name="battery_low_sec_noti_channel">კვების ელემენტი იცლება</string>
+    <string name="battery_low_sec_title">ენერგიის დონეა %d%%</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger">გამოიყენეთ დამტენი, რომელიც მოჰყვა ტელეფონს.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_jpn">უფრო სწრაფად დასატენად, გამოიყენეთ 9 ვოლტიანი დამტენი.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_tablet">გამოიყენეთ დამტენი, რომელიც მოჰყვა პლანშეტს.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_connection">დარწმუნდით, რომ კაბელი და დამტენი სწორადაა მიერთებული.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_cover">თუ საფარს იყენებთ, სცადეთ მისი მოცილება.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_damage">დარწმუნდით, რომ კაბელი არ არის დაზიანებული.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_faster">უფრო სწრაფად დასამუხტად:</string>
+    <string name="battery_not_fully_connected_charging_popup_title">შეამოწმეთ დამტენთან კავშირი</string>
+    <string name="battery_not_fully_connected_charging_title">შეამოწმეთ დამტენთან კავშირი</string>
+    <string name="battery_slow_charging_text">უფრო სწრაფად რომ დამუხტოთ, გამოიყენეთ ორიგინალი დამტენი.</string>
+    <string name="battery_slow_charging_title">მოწყობილობა ნელა იმუხტება</string>
+    <string name="battery_slow_charging_toast_text">To charge faster, use the charger and cable that were provided with this phone</string>
+    <string name="battery_slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_phone">ტელეფონი იმდენად ცხელია, რომ ბოლომდე ვერ დაიტენება. გირჩევთ, დატენოთ იგი შედარებით გრილ ადგილზე.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_tablet">პლანშეტი იმდენად ცხელია, რომ ბოლომდე ვერ დაიტენება. გირჩევთ, დატენოთ იგი შედარებით გრილ ადგილზე.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_phone">დატენვა შენელდა, რადგან ტელეფონი ცივია. სიჩქარე ისევ ნორმალური გახდება, თუ ტელეფონი გათბება.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_tablet">დატენვა შენელდა, რადგან პლანშეტი ცივია. დატენვის სიჩქარე ისევ ნორმალური გახდება, თუ პლანშეტი გათბება.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text">დატენვის სიჩქარე ისევ ნორმალური გახდება, თუ ტელეფონი გათბება.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text_tablet">დატენვის სიჩქარე ისევ ნორმალური გახდება, თუ ტელეფონი გათბება.</string>
+    <string name="battery_swelling_mode_low_temp_popup_title">დამუხტვა შენელდა დაბალი ტემპერატურის გამო</string>
+    <string name="battery_swelling_mode_noti_title">მოწყობილობა ნელა იმუხტება</string>
+    <string name="battery_wireless_charger_fod_text">უსადენო დამუხტვა დაპაუზებულია. შეეცადეთ მოაცილოთ უცხო ობიექტები ან სქელი ყუთები, თუ ისინი არის დამტენსა და ტელეფონს შორის.</string>
+    <string name="battery_wireless_charger_fod_title">უსადენო დამუხტვა დაპაუზდა</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text">ტელეფონი იმდენად ცხელია, რომ უსადენო დატენვა დაპაუზდა. ისევ სცადეთ, როდესაც გაგრილდება.</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text_tablet">პლანშეტი იმდენად ცხელია, რომ უსადენო დატენვა დაპაუზდა. ისევ სცადეთ, როდესაც გაგრილდება.</string>
+    <string name="battery_wireless_charging_disconnect_text">უსადენო დამუხტვა დაპაუზდა.</string>
+    <string name="battery_wireless_charging_from_cable_to_wireless_text">სადენიანი დატენვიდან უსადენო დატენვაზე გადართვა</string>
+    <string name="battery_wireless_charging_title">უსადენო დამუხტვა</string>
+    <string name="blue_light_disable_reason">გამორთეთ „%1$s“, რომ გამოიყენოთ „%2$s“.</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">დაკავშირებულია აუდიოსთვის</string>
+    <string name="bluetooth_a2dp_profile_summary_connected_battery">დაკავშირდა აუდიოსთვის, დარჩენილია ენერგიის %d%%</string>
+    <string name="bluetooth_connected">დაკავშირებული</string>
+    <string name="bluetooth_connected_battery">დაკავშირდა, დარჩენილია ენერგიის %d%%</string>
+    <string name="bluetooth_connecting">უკავშირდება…</string>
+    <string name="bluetooth_connecting_error_message">%s-თან დაკავშირება შეუძლებელია.</string>
+    <string name="bluetooth_disable_avc_blacklist">AVC-ის შავის სიის გამორთვა</string>
+    <string name="bluetooth_disconnect_message">დასრულდა Bluetooth კავშირი %s-თან.</string>
+    <string name="bluetooth_disconnecting">გამორთვა…</string>
+    <string name="bluetooth_display_remote_device_name_after_pair">მოწყობილობის სახელი გამოჩნდება, როდესაც ეს მოწყობილობა დაკავშირდება.</string>
+    <string name="bluetooth_getting_remote_device_name">მიმდინარეობს მოწყობილობის სახელის მიღება…</string>
+    <string name="bluetooth_headset_profile_summary_connected">დაკავშირებულია ზარებისთვის</string>
+    <string name="bluetooth_headset_profile_summary_connected_battery">დაკავშირდა ზარებისთვის, დარჩენილია ენერგიის %d%%</string>
+    <string name="bluetooth_hid_connecting_error_summury">ვერ დაკავშირდა. სცადეთ, დაუკავშირდეთ %s-ით.</string>
+    <string name="bluetooth_hid_profile_summary_connected">დაკავშირებულია, როგორც მიმღები</string>
+    <string name="bluetooth_pairing">წყვილდება…</string>
+    <string name="bluetooth_pairing_device_down_black_list_error_message">%1$s-თან დაკავშირება შეუძლებელია. შეამოწმეთ პარამეტრები „%2$s“-ში და ისევ სცადეთ.</string>
+    <string name="bluetooth_pairing_device_down_error_message">%s-თან დაკავშირება შეუძლებელია.</string>
+    <string name="bluetooth_pairing_error_message">%s ვერ დაწყვილდა. დარწმუნდით, რომ ის მზადაა დასაწყვილებლად.</string>
+    <string name="bluetooth_pairing_fail_restored">Bluetooth მოწყობილობა მიიტანეთ ტელეფონთან, ან დარწმუნდით, რომ ის დაწყვილების რეჟიმშია.</string>
+    <string name="bluetooth_pairing_fail_restored_tablet">Bluetooth მოწყობილობა მიიტანეთ პლანშეტთან, ან დარწმუნდით, რომ ის დაწყვილების რეჟიმშია.</string>
+    <string name="bluetooth_pairing_pin_error_message">%s ვერ დაწყვილდა. დარწმუნდით, რომ ის მზადაა დასაწყვილებლად.</string>
+    <string name="bluetooth_pairing_rejected_error_message">დაწყვილება უარყო: %s.</string>
+    <string name="bluetooth_pan_connecting_error_summury">ვერ დაკავშირდა. %s-ში ჩართეთ მობილური ინტერნეტის გაზიარება Bluetooth-ით.</string>
+    <string name="bluetooth_pan_nap_connected">დაკავშირდა ინტერნეტზე წვდომის უზრუნველსაყოფად</string>
+    <string name="bluetooth_pan_nap_connecting_error_summury">ვერ დაკავშირდა</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">ადგილობრივი ინტერნეტ-კავშირი გაზიარებულია მოწყობილობასთან</string>
+    <string name="bluetooth_pan_panu_connected">დაკავშირდა ინტერნეტზე წვდომისთვის</string>
+    <string name="bluetooth_pan_profile_summary_use_for">დაწყვილებულ მოწყობილობაში ჩართეთ მობილური ინტერნეტის გაზიარება Bluetooth-ით, რომ დაუკავშირდეთ ინტერნეტს ამ ტელეფონით.</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">დაკავშირებულია აპარატთან ინტერნეტ-კავშირისთვის.</string>
+    <string name="bluetooth_profile_a2dp">აუდიო</string>
+    <string name="bluetooth_profile_headset">ზარები</string>
+    <string name="bluetooth_profile_hid">მიმღები მოწყობილობა</string>
+    <string name="bluetooth_profile_map">შეტყობინებაზე წვდომა</string>
+    <string name="bluetooth_profile_map_summary">ამ დაწყვილებულ მოწყობილობას მიეცით თქვენს შეტყობინებებზე წვდომის ნებართვა.</string>
+    <string name="bluetooth_profile_pan">ინტერნეტზე წვდომა</string>
+    <string name="bluetooth_profile_pan_nap">ინტერნეტთან კავშირის გაზიარება</string>
+    <string name="bluetooth_profile_pbap">კონტაქტზე წვდომა</string>
+    <string name="bluetooth_profile_pbap_tts">კონტაქტები და სატელეფონო ჟურნალი</string>
+    <string name="bluetooth_profile_sap_summary">ამ დაწყვილებულ მოწყობილობას მიეცით თქვენს SIM ბარათზე წვდომის ნებართვა.</string>
+    <string name="bluetooth_profile_textinput">ტექსტის აკრეფა</string>
+    <string name="bluetooth_spp_profile_summary_connected">დაკავშირდა Serial Port Profile-ით</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">დაკავშირებულია ზარებისა და აუდიოსთვის</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_battery">დაკავშირდა ზარებისა და აუდიოსთვის, დარჩენილია %d%% ენერგია</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_dual_audio">(ორი აუდიო)</string>
+    <string name="bluetooth_summary_restored_device">დაწყვილდა წინა ტელეფონში</string>
+    <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">Bluetooth-ით მობილურ ინტერნეტს ვერ გამოიყენებთ კომპიუტერში, როდესაც კავშირი დამყარებულია Wi-Fi ქსელთან.</string>
+    <string name="bluetooth_tethering_error_with_wifi_phone_summary">მობილური ინტერნეტის Bluetooth-ით გაზიარების გამოსაყენებლად, ამ ტელეფონში გამორთეთ Wi-Fi.</string>
+    <string name="bluetooth_tethering_error_with_wifi_tablet_summary">მობილური ინტერნეტის Bluetooth-ით გაზიარების გამოსაყენებლად, ამ პლანშეტში გამორთეთ Wi-Fi.</string>
+    <string name="bubble_container_folder_description">კონტეინერი გახსნილია.</string>
+    <string name="bubble_container_pointer_description">ნიშნების კონტეინერის ხედი სარკმლით</string>
+    <string name="button_close">დახურვა</string>
+    <string name="button_yes">კი</string>
+    <string name="byteShort">B</string>
+    <string name="cant_open_image_viewer_app">სურათის დამთვალიერებელი აპის გახსნა შეუძლებელია.</string>
+    <string name="cant_open_image_viewer_app_in_emergency_mode">სურათის დათვალიერების აპლიკაციის გახსნა „საგანგებო რეჟიმში“ შეუძლებელია.</string>
+    <string name="cant_open_image_viewer_app_in_mpsm">სურათის დათვალიერების აპლიკაციის გახსნა „ენერგიის მაქსიმალური დაზოგვის რეჟიმში“ შეუძლებელია.</string>
+    <string name="cant_open_image_viewer_app_in_ps">სურათის დათვალიერების აპლიკაციის გახსნა „%s“-ში.</string>
+    <string name="cant_open_photo_editor_in_ps">„ფოტო რედაქტორი“ ვერ გაიხსნება „%s“-ში.</string>
+    <string name="cant_open_ps">„%s“ ვერ იხსნება.</string>
+    <string name="cant_screenshot_in_ps">ეკრანის ანაბეჭდის გადაღება შეუძლებელია „%s“-ში.</string>
+    <string name="card_crash">SIM ბარათი დაზიანდა</string>
+    <string name="clear_all_text">წაშლა</string>
+    <string name="colour_adjustment_title">ფერის მორგება</string>
+    <string name="colour_inversion_title">ფერის ნეგატივი</string>
+    <string name="colour_lens_title">ფერადი ლინზა</string>
+    <string name="cooling_body">"თქვენი მოწყობილობა გადახურების პირასაა. მის გასაგრილებლად შესრულდება სათანადო ეტაპები.
+
+თქვენ კვლავ შეძლებთ მოწყობილობის გამოყენებას, მაგრამ:
+- შეიძლება ეკრანის განათებულობა შემცირდეს.
+- შეიძლება მოწყობილობის მუშაობა შენელდეს.
+- შეიძლება დამუხტვა დაპაუზდეს.
+
+მოწყობილობის გაგრილების შემდეგ, მისი ნორმალური მუშაობა ავტომატურად აღდგება."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="cooling_body_vzw">"Your phone is getting hot, so it's taking steps to cool itself down.
+
+You can still use it, but you may notice:
+- The screen might dim.
+- The phone might slow down.
+- Charging might pause.
+
+Your phone will return to normal once it cools down."</string>
+    <string name="cooling_noti_text">შეეხეთ და ნახეთ დეტალები.</string>
+    <string name="cooling_noti_text_vzw">შეეხეთ აქ და შეიტყვეთ მეტი.</string>
+    <string name="cooling_popup_title">მოწყობილობა გრილდება</string>
+    <string name="cooling_title">მოწყობილობა გადახურდება</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="data_connection_error_data_roaming_off_body">დაუკავშირდით Wi-Fi ქსელს, ან ჩართეთ „მონაცემთა როუმინგი“.</string>
+    <string name="data_connection_error_flight_mode_on_body">ტელეფონი არ არის დაკავშირებული Wi-Fi ქსელთან. თუ გსურთ სანაცვლოდ გამოიყენოთ მობილური ქსელი, „პარამეტრებში“ გამორთეთ „თვითმფრინავის რეჟიმი“.</string>
+    <string name="data_connection_error_flight_mode_on_body_tablet">პლანშეტი არ არის დაკავშირებული Wi-Fi ქსელთან. თუ გსურთ სანაცვლოდ გამოიყენოთ მობილური ქსელი, „პარამეტრებში“ გამორთეთ „თვითმფრინავის რეჟიმი“.</string>
+    <string name="data_connection_error_flight_mode_on_title">გამორთეთ თვითმფრინავის რეჟიმი</string>
+    <string name="data_connection_error_mobile_data_off">მობილური მონაცემები გამორთულია. სანაცვლოდ, დაუკავშირდით Wi-Fi ქსელს, ან გაააქტიურეთ მობილური მონაცემები და ისევ ცადეთ</string>
+    <string name="data_connection_error_mobile_data_off_body">დაუკავშირდით Wi-Fi ქსელს, ან ჩართეთ „მობილური მონაცემები“.</string>
+    <string name="data_connection_error_mobile_data_off_title">გამოირთოს მობილური მონაცემები?</string>
+    <string name="data_connection_error_no_network_connection">ქსელთან კავშირი არ არის</string>
+    <string name="data_connection_error_no_signal_body">ხელმისაწვდომი ქსელები ვერ მოიძებნა.</string>
+    <string name="data_connection_error_toast_notification">საჭიროა Wi-Fi კავშირი. დაუკავშირდით Wi-Fi ქსელს და ისევ ცადეთ.</string>
+    <string name="data_usage_disabled_dialog">მობილური მონაცემების გამოყენება დაპაუზებულია, რადგან მიღწეულია თქვენ მიერ დაყენებული ლიმიტი.</string>
+    <string name="data_usage_disabled_dialog_mobile_title">განაგრძობთ მობილური მონაცემებით?</string>
+    <string name="dcm_lockscreen_active_help_text">გასახსნელად შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics">გამოიყენეთ ბიომეტრიული მონაცემები, ან შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics_voice_assistant">გამოიყენეთ ბიომეტრიული მონაცემები, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_face">გამოიყენეთ სახის ამოცნობა, ან შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_face_voice_assistant">გამოიყენეთ სახის ამოცნობა, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints">გამოიყენეთ თითის ანაბეჭდი, ან შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face">გახსენით თითის ანაბეჭდით, ან შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ სახის ამოცნობა</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face_voice_assistant">გახსენით თითის ანაბეჭდით, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ სახის ამოცნობა</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent">გახსენით თითის ანაბეჭდით, ან შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ Intelligent Scan</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent_voice_assistant">გახსენით თითის ანაბეჭდით, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ Intelligent Scan</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris">გახსენით თითის ანაბეჭდით, ან შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენეთ თვალის ირისები</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris_voice_assistant">გახსენით თითის ანაბეჭდით, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენეთ თვალის ირისები</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_voice_assistant">გამოიყენეთ თითის ანაბეჭდი, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent">გამოიყენეთ Intelligent Scan, ან შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent_voice_assistant">გამოიყენეთ Intelligent Scan, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_iris">გამოიყენეთ თვალის ირისები, ან შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_iris_voice_assistant">გამოიყენეთ თვალის ირისები, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ გახსნათ</string>
+    <string name="dcm_lockscreen_active_help_text_voice_assistant">გასახსნელად ორჯერ შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_unlock_help_text">განსაბლოკად შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face">სახის ამოცნობით განსაბლოკად შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face_voice_assistant">სახის ამოცნობით განსაბლოკად, ორჯერ შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent">Intelligent Scan-ით განსაბლოკად შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent_voice_assistant">ორჯერ შეეხეთ საკეტის ნიშანს, რომ განსაბლოკად გამოიყენოთ Intelligent Scan</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris">შეეხეთ საკეტის ნიშანს, რომ განსაბლოკად გამოიყენოთ თვალის ირისები</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris_voice_assistant">ორჯერ შეეხეთ საკეტის ნიშანს, რომ განსაბლოკად გამოიყენოთ თვალის ირისები</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics">გამოიყენეთ ბიომეტრიული მონაცემები, ან შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics_voice_assistant">გამოიყენეთ ბიომეტრიული მონაცემები, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_face">გამოიყენეთ სახის ამოცნობა, ან შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_face_voice_assistant">გამოიყენეთ სახის ამოცნობა, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints">გამოიყენეთ თითის ანაბეჭდი, ან შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face">განბლოკეთ თითის ანაბეჭდით, ან შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ სახის ამოცნობა</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face_voice_assistant">განბლოკეთ თითის ანაბეჭდით, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ სახის ამოცნობა</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent">განბლოკეთ თითის ანაბეჭდით, ან შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ Intelligent Scan</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent_voice_assistant">განბლოკეთ თითის ანაბეჭდით, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენოთ Intelligent Scan</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris">Use fingerprint to unlock device or tap Lock icon to use irises instead</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris_voice_assistant">განბლოკეთ თითის ანაბეჭდით, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ სანაცვლოდ გამოიყენეთ თვალის ირისები</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_voice_assistant">გამოიყენეთ თითის ანაბეჭდი, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent">გამოიყენეთ Intelligent Scan, ან შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent_voice_assistant">გამოიყენეთ Intelligent Scan, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris">გამოიყენეთ თვალის ირისები, ან შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris_voice_assistant">გამოიყენეთ თვალის ირისები, ან ორჯერ შეეხეთ საკეტის ნიშანს, რომ განბლოკოთ</string>
+    <string name="dcm_lockscreen_unlock_help_text_voice_assistant">განსაბლოკად ორჯერ შეეხეთ საკეტის ნიშანს</string>
+    <string name="dcm_lockscreen_voice_assistant_active_instructions">ტელეფონის განსაბლოკად ორჯერ შეეხეთ დაბლოკვის ღილაკს</string>
+    <string name="default_media_volume_control_description">ხმის რეგულირების ღილაკებზე დაჭერით ნაგულისხმევად მართეთ მედიის ხმის სიმაღლე.</string>
+    <string name="default_media_volume_control_title">ხმის ღილაკები მედიისთვის</string>
+    <string name="development_settings_title">დეველოპერის ოფციები</string>
+    <string name="device_disabled">თქვენი უსაფრთხოების პოლიტიკა გიკრძალავთ ბიომეტრიული მონაცემების გამოყენებას ორეტაპიანი დამოწმებისთვის. ტელეფონის განსაბლოკად, მიმართეთ თქვენს IT ადმინისტრატორს.</string>
+    <string name="direction_lock_too_many_failed_attempts_countdown">კიდევ ცადეთ %d წამში</string>
+    <string name="disagree">არ ვეთანხმები</string>
+    <string name="dnd_noti_action_disable">გამორთვა</string>
+    <string name="dnd_noti_message">სიგნალების ხმა გამორთულია</string>
+    <string name="dnd_noti_title">„არ შემაწუხო“ ჩართულია</string>
+    <string name="download_popup_button_cancel">გაუქმება</string>
+    <string name="download_popup_button_download">ჩამოტვირ.</string>
+    <string name="download_ps">ჩამოიტვირთოს %s?</string>
+    <string name="dragndroplist_drag_release">ელემენტი გადასულია პოზიცია %d-ში.</string>
+    <string name="dragndroplist_drag_start">დაწყებულია ელემენტის გადატანა პოზიცია %d-ში.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">პოზიცია %d-ში მყოფი ელემენტის გადატანა შეუძლებელია.</string>
+    <string name="dream_cant_use_this_app_in_multi_window_view_tpop">ამ აპლიკაციის გამოყენება შეუძლებელია „მრავალფანჯრიან ხედში“.</string>
+    <string name="dream_cant_use_this_launcher_in_multi_window_view_tpop">ამ გამშვების გამოყენება შეუძლებელია „მრავალფანჯრიან ხედში“.</string>
+    <string name="durationMinutes">%d წუთი</string>
+    <string name="emergency_mode">საგანგებო რეჟიმი</string>
+    <string name="facewidget_alarm_in_hours_and_minutes_format">სიგნალი ჩაირთვება %1$d საათსა და %2$d წუთში</string>
+    <string name="facewidget_alarm_in_hours_and_one_minute_format">სიგნალი ჩაირთვება %d საათსა და 1 წუთში</string>
+    <string name="facewidget_alarm_in_one_hour_and_minutes_format">სიგნალი ჩაირთვება 1 საათსა და %d წუთში</string>
+    <string name="facewidget_alarm_in_one_hour_and_one_minute_format">სიგნალი ჩაირთვება 1 საათსა და 1 წუთში</string>
+    <string name="facewidget_alarm_next">შემდეგი სიგნალი</string>
+    <string name="facewidget_alarm_no_alarm">გამაფრთხილებელი სიგნალები არ არის შემდეგ 7 დღეში</string>
+    <string name="facewidget_alarm_open_clock">სიგნალის დამატება</string>
+    <string name="facewidget_alarm_will_go_off_soon">სიგნალი მალე ჩაირთვება</string>
+    <string name="facewidget_event_add_event">მოვლენის დამატება</string>
+    <string name="facewidget_event_calendar">კალენდარი</string>
+    <string name="facewidget_event_my_event">ჩემი მოვლენა</string>
+    <string name="facewidget_event_no_events">დღეს ღონისძიებები არ არის</string>
+    <string name="facewidget_event_open_ss">გახსენით %s</string>
+    <string name="facewidget_event_task">დავალება</string>
+    <string name="facewidget_event_time_all_day">მთელი დღე</string>
+    <string name="facewidget_music">მუსიკა</string>
+    <string name="facewidget_music_closed">განბლოკეთ ტელეფონი და დაუკარით მუსიკა, რომ მუსიკა გამოჩნდეს დაბლოკილ ეკრანზე.</string>
+    <string name="facewidget_music_description_album_cover">ალბომის ყდა</string>
+    <string name="facewidget_music_description_next">შემდეგი</string>
+    <string name="facewidget_music_description_pause">პაუზა</string>
+    <string name="facewidget_music_description_play">დაკვრა</string>
+    <string name="facewidget_music_description_prev">წინა</string>
+    <string name="facewidget_music_lyrics">ლექსები</string>
+    <string name="facewidget_music_no_content">მუსიკა არ უკრავს</string>
+    <string name="facewidget_music_play">მუსიკის დაკვრა</string>
+    <string name="facewidget_music_play_first">პლეერის გამოყენების შემდეგ, მუსიკის მართას შეძლებთ „დაბლოკილი ეკრანიან“.</string>
+    <string name="facewidget_music_select_music_app">აირჩიეთ მუსიკის აპლიკაცია.</string>
+    <string name="facewidget_music_unknown">უცნობი</string>
+    <string name="facewidget_noti_btn">პარამეტრები</string>
+    <string name="facewidget_noti_exp">FaceWidgets გამოიყენეთ „დაბლოკილ ეკრანსა“ და Always On Display-ში, რომ სწრაფად გახსნათ მუსიკა.</string>
+    <string name="facewidget_noti_title">FaceWidgets-ის გამოყენება</string>
+    <string name="flash_light_disabled_by_low_battery">ფანარს ვერ ჩართავთ. კვების ელემენტი იცლება.</string>
+    <string name="flash_light_notification_button">გამორთვა</string>
+    <string name="flash_light_notification_title">ფანარი ჩართულია</string>
+    <string name="flash_light_turn_off_by_low_battery">კვების ელემენტი იცლება. ფანარი გამოირთვება.</string>
+    <string name="flight_mode_enabled_dialog_body">თვითმფრინავის რეჟიმი ჩართულია. ვერ შეძლებთ გამოიყენოთ „ინტერნეტი“, „ელფოსტა“ ან სხვა აპლიკაციები, რომლებისთვისაც საჭიროა მონაცემთა კავშირი, თუ არ იყენებთ Wi-Fi-ს.</string>
+    <string name="flight_mode_enabled_dialog_body_volte_and_vowifi">თვითმფრინავის რეჟიმი ჩართულია. ვერ შეძლებთ გამოიყენოთ „ინტერნეტი“, „ელფოსტა“, „Wi-Fi ზარი“ ან სხვა აპლიკაციები, რომლებისთვისაც საჭიროა მონაცემთა კავშირი, თუ არ იყენებთ Wi-Fi-ს.</string>
+    <string name="flight_mode_enabled_dialog_title">თვითმფრინავის რეჟიმი</string>
+    <string name="freeform_forced_resizable">შესაძლოა, ამ აპლიკაციის მუშაობა შეფერხდეს „მრავალფანჯრიან ხედში“.</string>
+    <string name="gesture_accessibility_guide_gesture_onboarding">2 თითი აუსვით ეკრანს ქვემოდან ზემოთ, რომ გამოიყენეთ წვდომის ღილაკი.</string>
+    <string name="gesture_recents_device_assistance_onboarding">მოწყობილობის დამხმარე აპლიკაციის გასახსნელად, ზემოთ აუსვით თითი და დააყოვნეთ.</string>
+    <string name="gesture_recents_quick_scrub_onboarding">აპლიკაციების სწრაფად გადასართავად, გადაუსვით თითი მარჯვნივ.</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="globalactions_force_restart_message">ტელეფონის გადასატვირთად, ერთდროულად დააჭირეთ გვერდით და ხმის დაწევის ღილაკებს %d წამზე მეტი ხნით.</string>
+    <string name="globalactions_screen_capture_popup_description">ერთდროულად სწრაფად დააჭირეთ და აუშვით გვერდით და ხმის დაწევის ღილაკებს.</string>
+    <string name="globalactions_screen_capture_popup_title">ეკრანის ანაბეჭდის გადაღებას ცდილობთ?</string>
+    <string name="go_to_top">დასაწყისზე გადასვლა</string>
+    <string name="greyscale_mode_title">შავ-თეთრი</string>
+    <string name="hotspot_disable_wifi_sharing">Wi-Fi გაზიარების გამორთვა</string>
+    <string name="hotspot_enable_wifi_sharing">Wi-Fi გაზიარების ჩართვა</string>
+    <string name="hotspot_live_ap_low_battery_summary">ენერგია იცლება</string>
+    <string name="hotspot_live_status_connected">დაკავშირებული</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Smart View უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_chn">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Smart View უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_jpn">Wi-Fi მობილური ინტერნეტი რომ გამოიყენოთ, Smart View უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_spr">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Smart View უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_tmo">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Smart View უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_vzw">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Smart View უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Wi-Fi უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_att">პორტატული Wi-Fi ცხელი წერტილის ჩართვით გამოირთვება Wi-Fi.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_chn">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Wi-Fi უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_jpn">მობილური ინტერნეტის Wi-Fi-თ გაზიარება რომ გამოიყენოთ, Wi-Fi უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_mtr">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Wi-Fi უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_spr">„მობილური ცხელი წერტილი“ რომ გამოიყენოთ, Wi-Fi უნდა გამორთოთ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_tmo">Wi-Fi გამოირთულია, როცა USB მობილური ინტერნეტი ან მობილური ცხელი წერტილი არის აქტიური. Wi-Fi-ის ჩასართავად, გთხოვთ, გამორთოთ USB მობილური ინტერნეტი ან მობილური ცხელი წერტილი.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_vzw">მობილური ცხელი წერტილი იყენებს მობილური მონაცემების კავშირს. თქვენი Wi-Fi დაკავშირება გამოირთვება.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_wifisharing_lite">მიმდინარე Wi-Fi ქსელი ვერ გაზიარდება „მობილური ცხელი წერტილის“ გამოყენებით. სანაცვლოდ გამოყენებული იქნება „მობილური მონაცემები“.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off">მობილური ცხელი წერტილის გამოსაყენებლად, უნდა შეწყდება კავშირი ამჟამად Wi-Fi Direct-ით დაკავშირებულ ყველა მოწყობილობასთან.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_chn">პორტატული WLAN-ის ცხელი წერტილის ჩართვით შეწყდება კავშირი WLAN Direct-ით დაკავშირებულ მოწყობილობებთან.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_jpn">Wi-Fi მობილური ინტერნეტის გამოსაყენებლად, უნდა შეწყდება კავშირი ამჟამად Wi-Fi Direct-თი დაკავშირებულ ყველა მოწყობილობასთან.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_spr">მობილური ცხელი წერტილის გამოსაყენებლად, უნდა შეწყდება კავშირი ამჟამად Wi-Fi Direct-ით დაკავშირებულ ყველა მოწყობილობასთან.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_tmo">მობილური ცხელი წერტილის გამოსაყენებლად, უნდა შეწყდება კავშირი ამჟამად Wi-Fi Direct-ით დაკავშირებულ ყველა მოწყობილობასთან.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_vzw">მობილური ცხელი წერტილის გამოსაყენებლად, უნდა შეწყდება კავშირი ამჟამად Wi-Fi Direct-ით დაკავშირებულ ყველა მოწყობილობასთან.</string>
+    <string name="hotspot_warning_dialog_title_smartview_off">გამოირთოს Smart View?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off">გამოირთოს Wi-Fi?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_tmo">ყურადღება</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_vzw">მობილური ცხელი წერტილი და Wi-Fi</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_wifisharing_lite">შეწყდეს კავშირი Wi-Fi ქსელთან?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off">ჩაირთოს „მობილური ცხელი წერტილი“?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_jpn">ჩაირთოს Wi-Fi მობილური ინტერნეტი?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_tmo">ყურადღება</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_vzw">მობილური ცხელი წერტილი და Wi-Fi</string>
+    <string name="image_viewer">სურათის დამთვალიერებელი</string>
+    <string name="ime_security_warning">%s-მ შეიძლება შეაგროვოს თქვენ მიერ აკრეფილი ყველა ტექსტი, პერსონალური მონაცემების ჩათვლით, როგორიცაა პაროლები და საკრედიტო ბარათების ნომრები.</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">არ იმუხტება.</string>
+    <string name="incompatible_charger_title">არ იმუხტება.</string>
+    <string name="insert_sim_card">ჩადეთ SIM ბარათი</string>
+    <string name="insert_sim_card_message">ქსელის მომსახურების მისაღებად ჩასვით SIM ბარათი.</string>
+    <string name="install_other_apps">უცნობი აპების დაინსტალირება</string>
+    <string name="iris_guide_str_enable_toggle">თვალის ირისებისთვის, შეეხეთ აქ</string>
+    <string name="iris_guide_str_for_text_preview">შეხედე, თვალის ამოსაცნ.</string>
+    <string name="keyboard_shortcut_group_applications">აპლიკაციის ღილაკები</string>
+    <string name="keyboard_shortcut_group_applications_bixby">Bixby</string>
+    <string name="keyboard_shortcut_group_applications_browser">ბრაუზერი</string>
+    <string name="keyboard_shortcut_group_applications_calendar">კალენდარი</string>
+    <string name="keyboard_shortcut_group_applications_contacts">კონტაქტები</string>
+    <string name="keyboard_shortcut_group_applications_email">ელფოსტა</string>
+    <string name="keyboard_shortcut_group_applications_messages">შეტყობინებები</string>
+    <string name="keyboard_shortcut_group_applications_music">მუსიკა</string>
+    <string name="keyboard_shortcut_group_system">სისტემის ღილაკები</string>
+    <string name="keyboard_shortcut_group_system_all_apps">აპლიკაციები</string>
+    <string name="keyboard_shortcut_group_system_back">უკან</string>
+    <string name="keyboard_shortcut_group_system_home">სახლი</string>
+    <string name="keyboard_shortcut_group_system_lock_screen">დაბლოკილი ეკრანი</string>
+    <string name="keyboard_shortcut_group_system_notifications">შეტყობინებები</string>
+    <string name="keyboard_shortcut_group_system_recents">ბოლოდროინდელები</string>
+    <string name="keyboard_shortcut_group_system_running_apps">გაშვებული აპლიკაციები</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">კლავიატურის მალსახმობები</string>
+    <string name="keyboard_shortcut_group_system_start_exit_dex_mode">DeX რეჟიმის დაწყება/გასვლა</string>
+    <string name="keyboard_shortcut_group_system_switch_languages">ენების გადართვა</string>
+    <string name="keyboard_shortcut_meta_key_explain">მეტა კოდი: Windows, Command, Search, ან სხვა ოპერაციული სისტემის სიმბოლოს კოდი.</string>
+    <string name="keyboard_shortcut_popup_help">Meta კოდი: Windows, Command, ან სხვა ოპერაციული სისტემის სიმბოლოს კოდი.</string>
+    <string name="keyguard_accessibility_call">დარეკვა</string>
+    <string name="keyguard_accessibility_direction_lock_unlock">მიმართულების დაბლოკვა</string>
+    <string name="keyguard_accessibility_dot">წერტილი</string>
+    <string name="keyguard_accessibility_pattern_area">ნიმუშის არე</string>
+    <string name="keyguard_accessibility_pattern_unlock">განბლოკვის ნიშანი</string>
+    <string name="keyguard_cmas_text">საგანგებო სიგნალი</string>
+    <string name="keyguard_dualclock_locale_view_home">საწყისი გვერდი</string>
+    <string name="keyguard_dualclock_locale_view_home_skt">სეული</string>
+    <string name="keyguard_dualclock_locale_view_roaming">ადგილობრივი</string>
+    <string name="keyguard_dualclock_locale_view_roaming_skt">როუმინგი</string>
+    <string name="keyguard_fmm_owner_phone">მფლობელის ნომერი</string>
+    <string name="keyguard_fmm_phone_locked_title">ტელეფონი ბლოკირებ.</string>
+    <string name="keyguard_progress_erasing_all">ყველა მონაცემის წაშლა…</string>
+    <string name="keyguard_skt_usim_unregistered">USIM ბარათის გამოყენება შეუძლებელია. ჩამოტვირთეთ USIM ბარათის ინფორმაცია.</string>
+    <string name="keyguard_usim_not_used">USIM ბარათის გამოყენება შეუძლებელია. განბლოკვის PIN (PUK) კოდი არასწორადაა მითითებული %d-ჯერ. შეიძინეთ ახალი USIM ბარათი.</string>
+    <string name="kg_1_attempt_remaining">(დარჩა 1 ცდა)</string>
+    <string name="kg_accessibility_password_unlock">პაროლით განბლოკვა</string>
+    <string name="kg_accessibility_pin_edit_box">რედაქტირების ველი</string>
+    <string name="kg_accessibility_pin_unlock">PIN-ით განბლოკვა</string>
+    <string name="kg_background_auth_face_instruction_text">განბლოკეთ სახის ამოცნობით.</string>
+    <string name="kg_background_auth_fingerprint_unlock_successed_text">ტელეფონი განიბლოკა თითის ანაბეჭდით.</string>
+    <string name="kg_background_auth_iris_instruction_text">განბლოკეთ თვალის ირისით.</string>
+    <string name="kg_background_auth_tablet_fingerprint_unlock_successed_text">პლანშეტი განიბლოკა თითის ანაბეჭდით.</string>
+    <string name="kg_background_auth_tablet_unlock_failed_text">პლანშეტი ვერ განიბლოკა.</string>
+    <string name="kg_background_auth_tablet_unlock_successed_text">პლანშეტი განბლოკილია.</string>
+    <string name="kg_background_auth_unlock_failed_text">ტელეფონი ვერ განიბლოკა.</string>
+    <string name="kg_background_auth_unlock_instruction_text">ბიომეტრული მონაცემებით განბლოკვა.</string>
+    <string name="kg_background_auth_unlock_successed_text">ტელეფონი განბლოკილია.</string>
+    <string name="kg_biometric_error_restart_text">თუ პრობლემა არ მოგვარდება, გადატვირთეთ ტელეფონი.</string>
+    <string name="kg_biometrics_has_confirmed">ბიომეტრული მონაცემები უკვე დამოწმებულია.</string>
+    <string name="kg_biometrics_swipe_active_instructions">ბიომეტრიული მონაცემებით გახსნა</string>
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions">გასახსნელად გამოიყენეთ ბიომეტრული მონაცემები, ან ორი თითი გადაუსვით ეკრანს</string>
+    <string name="kg_biometrics_swipe_unlock_instructions">ბიომეტრიული მონაცემებით განბლოკვა</string>
+    <string name="kg_biometrics_swipe_unlock_voice_assistant_instructions">განსაბლოკად გამოიყენეთ ბიომეტრული მონაცემები, ან ორი თითი გადაუსვით ეკრანს</string>
+    <string name="kg_carrier_lock_call_owner">გთხოვ, დამირეკე</string>
+    <string name="kg_carrier_lock_findlostphone">ეს ტელეფონი დაკარგული ან მოპარულია.</string>
+    <string name="kg_carrier_lock_too_many_failed_attempts">არასწორი პაროლი ჩაიწერა 5-ჯერ. კიდევ სცადეთ 10 წუთში.</string>
+    <string name="kg_carrier_lock_unlock">შეიყვანეთ პაროლი</string>
+    <string name="kg_carrier_lock_wrong_password">შეყვანილი პაროლი არასწორია.</string>
+    <string name="kg_ctc_enter_confirm_pin_hint">Enter new UIM/SIM card unlock PIN again to confirm it</string>
+    <string name="kg_ctc_password_wrong_pin_code_one">Incorrect UIM/SIM card PIN entered. 1 attempt left.</string>
+    <string name="kg_ctc_password_wrong_pin_code_other">Incorrect UIM/SIM card PIN entered. %d attempts left.</string>
+    <string name="kg_ctc_puk_enter_pin_hint">Enter new UIM/SIM card unlock PIN</string>
+    <string name="kg_ctc_sim_puk_instructions">UIM/SIM card locked. Enter PUK. Contact service provider for details.</string>
+    <string name="kg_ctc_sim_puk_remaining_1_attempt">Incorrect PUK entered. If incorrect PUK is entered 1 more time, UIM/SIM card will be locked.</string>
+    <string name="kg_ctc_sim_puk_remaining_attempts">Incorrect PUK entered. If incorrect PUK is entered %d more times, UIM/SIM card will be permanently locked.</string>
+    <string name="kg_ctc_sim_unlock_progress_dialog_message">Unlocking UIM/SIM card…</string>
+    <string name="kg_ctc_unlock_sim_pin_instructions">Enter UIM/SIM card unlock PIN</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN დაიბლოკა. შეიყვანეთ PUK კოდი და განაგრძეთ.</string>
+    <string name="kg_default_carrier_text_searching">იძებნება</string>
+    <string name="kg_direction_lock_instructions_normal_mode">ეკრანის განსაბლოკად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_empty_sim_perso_hint">No password entered. Enter password (PIN).</string>
+    <string name="kg_face_1st_active_instructions">სახის ამოცნობით გახსნა</string>
+    <string name="kg_face_1st_unlock_instructions">სახის ამოცნობით განბლოკვა</string>
+    <string name="kg_face_cancel_for_dex">სახის ამოცნობის გაუქმება</string>
+    <string name="kg_face_cover_clear_view_toast_for_dex">„სახის ამოცნობა“ მიუწვდომელია, როდესაც „სუფთა ყდის ხედი“ მიმაგრებულია.</string>
+    <string name="kg_face_cover_led_view_toast_for_dex">„სახის ამოცნობა“ მიუწვდომელია, როდესაც „LED View Cover“ მიმაგრებულია.</string>
+    <string name="kg_face_cover_s_view_toast_for_dex">„სახის ამოცნობა“ მიუწვდომელია, როდესაც „S View-ს ყდა“ მიმაგრებულია.</string>
+    <string name="kg_face_cover_toast_for_dex">სახის ამოცნობა შეუძლებელია, როდესაც ყდა მიმაგრებულია.</string>
+    <string name="kg_face_direction_active_instructions">გასახსნელად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_face_direction_none_instructions">გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_face_guide_text_for_enable_toggle">სახის ამოსაცნობად, შეეხეთ აქ</string>
+    <string name="kg_face_not_supported_at_180_degree">სახის ამოცნობა რომ გამოიყენოთ, მოაბრუნეთ პლანშეტი ისე, რომ კამერა ქვემოთ არ იყოს</string>
+    <string name="kg_face_not_working_text">სახის ამოცნობა არ მუშაობს</string>
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions">გახსენით თითის ანაბეჭდით, ან გადაუსვით ორი თითი ეკრანს, რომ გამოიყენოთ სახის ამოცნობა.</string>
+    <string name="kg_face_password_active_instructions">გასახსნელად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_face_password_none_instructions">გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_face_pattern_active_instructions">გასახსნელად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_face_pattern_none_instructions">გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_face_pin_active_instructions">გასახსნელად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_face_pin_none_instructions">გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_face_proximity_guide_text">თქვენი ხელი ფარავს სენსორს? აიღეთ ხელი, სახის ამოსაცნობად</string>
+    <string name="kg_face_retry_text">შეეხეთ ღილაკს, რომ ისევ სცადოთ სახის ამოცნობა</string>
+    <string name="kg_face_start_for_dex">ტელეფონში გამოიყენეთ სახის ამოცნობა</string>
+    <string name="kg_face_stop">სახის ამოცნობის შეწყვეტა</string>
+    <string name="kg_face_toast_preview_for_dex">პირადობის დასამოწმებლად ტელეფონში გამოიყენეთ სახის ამოცნობა.</string>
+    <string name="kg_fbe_notification_header">ტელეფონი ხელახლა ჩაირთო</string>
+    <string name="kg_fbe_notification_message">განბლოკეთ ტელეფონი, რომ მიიღოთ აპლიკაციის შეტყობინებები.</string>
+    <string name="kg_finger_print_bad_quality_error_message">შესაძლოა, თითის ანაბეჭდის სენსორი ჭუჭყიანია. გაწმინდეთ და ისევ სცადეთ.</string>
+    <string name="kg_finger_print_database_error_message">თითის ანაბეჭდის მონაცემები დაზიანებულია. თითის ანაბეჭდი დააყენეთ ეკრანის დაბლოკვის ტიპად, შემდეგ კი თავიდან დაამატეთ თითის ანაბეჭდი, ან შეცვალეთ ეკრანის დაბლოკვის ტიპი.</string>
+    <string name="kg_finger_print_not_responding_error_message">თითის ანაბეჭდის სენსორი არ რეაგირებს. მოგვიანებით მოსინჯეთ.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">თითის ანაბეჭდის სენსორი არ შეიცვალა სწორად. დაუკავშირდით მომხმარებელთა მომსახურების სამსახურს.</string>
+    <string name="kg_finger_print_sensor_error_message">მოხდა თითის ანაბეჭდის სენსორის შეცდომა. თუ ეს შეტყობინება განმეორებით გამოჩნდება, გადატვირთეთ მოწყობილობა.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">დარწმუნდით, რომ საწყისი ეკრანის ღილაკი სუფთა და მშრალია, შემდეგ კი ისევ სცადეთ.</string>
+    <string name="kg_finger_print_template_changed_error_message">თითის ანაბეჭდის ამოცნობის გამოსაყენებლად, წაშალეთ თითის ანაბეჭდები და ხელახლა დაარეგისტრირეთ ისინი.</string>
+    <string name="kg_fingerprint_acquired_image_dirty">გაწმინდეთ თითის ანაბეჭდის სენსორი და ისევ სცადეთ</string>
+    <string name="kg_fingerprint_acquired_light">ცოტათი მეტად დააჭირეთ</string>
+    <string name="kg_fingerprint_acquired_partial">დაფარეთ თითის ანაბეჭდის მთლიანი სენსორი</string>
+    <string name="kg_fingerprint_acquired_too_fast">ცოტათი მეტხანს დადეთ თითი სენსორზე</string>
+    <string name="kg_fingerprint_acquired_too_wet">დარწმუნდით, რომ თითი მშრალი გაქვთ</string>
+    <string name="kg_fingerprint_bad_quality_popup_checkbox">აღარ მაჩვენო</string>
+    <string name="kg_fingerprint_bad_quality_popup_message">ზედმეტად ბევრი შემთხვევითი შეხების გამო, თითის ანაბეჭდის სენსორი დაიბლოკა, როდესაც ეკრანი გამოირთო. ამ შემთხვევაში, სენსორის ხელახლა გასააქტიურებლად შეგიძლიათ ჩართოთ ეკრანი.</string>
+    <string name="kg_fingerprint_bad_quality_popup_title">თითის ანაბეჭდის სენსორი დაიბლოკა</string>
+    <string name="kg_fingerprint_direction_active_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_fingerprint_direction_none_instructions">გამოიყენეთ თითის ანაბეჭდი, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_fingerprint_no_match">შესაბამისი არ არის</string>
+    <string name="kg_fingerprint_or_swipe_active_instructions">თითის ანაბეჭდით გახსნა</string>
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან ორი თითი გადაუსვით ეკრანს</string>
+    <string name="kg_fingerprint_or_swipe_unlock_instructions">თითის ანაბეჭდით განბლოკვა</string>
+    <string name="kg_fingerprint_password_active_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_fingerprint_password_none_instructions">გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_fingerprint_pattern_active_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_fingerprint_pattern_none_instructions">გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_fingerprint_pin_active_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_fingerprint_pin_none_instructions">გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_fingerprint_wireless_charger_warning">შეწყვიტეთ კავშირი უსადენო დამტენთან, რომ გამოიყენოთ თითის ანაბეჭდი</string>
+    <string name="kg_fingerprints_direction_bouncer_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_fingerprints_direction_instructions">გამოიყენეთ თითის ანაბეჭდი, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_fingerprints_direction_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_fingerprints_password_instructions">გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_fingerprints_password_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა პაროლი. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_fingerprints_pattern_instructions">გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ განბლოკვის ნიმუში</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა ნიმუში. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">გასახსნელად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_fingerprints_pin_instructions">გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა PIN. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_flight_mode">თვითმფრინავის რეჟიმი</string>
+    <string name="kg_floating_shortcut_show_app_list">აპლიკაციების სიის ჩვენება</string>
+    <string name="kg_hide_password_accessibility">პაროლის დამალვა</string>
+    <string name="kg_ib_cancel_for_dex">Intelligent Scan-ის გაუქმება</string>
+    <string name="kg_ib_cancel_text">Intelligent Scan-ის გაუქმება</string>
+    <string name="kg_ib_cover_toast_for_dex">შეუძლებელია Intelligent Scan-ის გამოყენება, სანამ მოწყობილობაზე გარეკანია.</string>
+    <string name="kg_ib_not_supported_at_180_degree">Intelligent Scan რომ გამოიყენოთ, მოაბრუნეთ პლანშეტი ისე, რომ კამერა ქვემოთ არ იყოს</string>
+    <string name="kg_ib_not_working_text">Intelligent Scan-ის გამოყენება შეუძლებელია</string>
+    <string name="kg_ib_retry_text">შეეხეთ ღილაკს, რომ ისევ სცადოთ Intelligent Scan-ის გამოყენება</string>
+    <string name="kg_ib_start_for_dex">Intelligent Scan-ის გამოყენება ტელეფონში</string>
+    <string name="kg_ib_stop">Intelligent Scan-ის გაჩერება</string>
+    <string name="kg_ib_toast_preview_for_dex">Intelligent Scan-ის გამოყენება ტელეფონში</string>
+    <string name="kg_incorrect_password">მითითებული პაროლი არასწორია</string>
+    <string name="kg_incorrect_pattern">დახაზული ნიმუში არასწორია</string>
+    <string name="kg_incorrect_pin">შეყვანილი PIN არასწორია</string>
+    <string name="kg_infinity_wallpaper_description">„უსასრულო ფონი“ ერთდროულად იქნება გამოყენებული Always On Display-ზე, საწყის ეკრანზე და დაბლოკილ ეკრანზე.</string>
+    <string name="kg_infinity_wallpaper_description_without_aod">„უსასრულო ფონი“ ერთდროულად იქნება გამოყენებული საწყის და დაბლოკილ ეკრანებზე.</string>
+    <string name="kg_intelligent_1st_active_instructions">Intelligent Scan-ით გახსნა</string>
+    <string name="kg_intelligent_1st_unlock_instructions">Intelligent Scan-ით განბლოკვა</string>
+    <string name="kg_intelligent_direction_active_instructions">გამოიყენეთ Intelligent Scan, ან დახაზეთ მიმართულებების სერია, რომ გახსნათ</string>
+    <string name="kg_intelligent_direction_none_instructions">გამოიყენეთ Intelligent Scan, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_intelligent_or_fingerprint_active_voice_assistant_instructions">გახსენით თითის ანაბეჭდით, ან გადაუსვით 2 თითი ეკრანს, რომ გამოიყენოთ Intelligent Scan</string>
+    <string name="kg_intelligent_password_active_instructions">გასახსნელად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_intelligent_password_none_instructions">გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_intelligent_pattern_active_instructions">გასახსნელად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_intelligent_pattern_none_instructions">გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_intelligent_pin_active_instructions">გასახსნელად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_intelligent_pin_none_instructions">გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_intelligent_retry_content_description">Intelligent Scan-ის გამოსაყენებლად, შეეხეთ ორჯერ.</string>
+    <string name="kg_intelligent_scan_proximity_guide_text">თქვენი ხელი ფარავს სენსორს? აიღეთ ხელი, Intelligent Scan-ის გამოსაყენებლად</string>
+    <string name="kg_iris_1st_active_instructions">თვალის ირისებით გახსნა</string>
+    <string name="kg_iris_1st_unlock_instructions">თვალის ირისებით განბლოკვა</string>
+    <string name="kg_iris_cancel">თვალის ირისის ამოცნობის გაუქმება</string>
+    <string name="kg_iris_cancel_for_dex">თვალის ირისის ამოცნობის გაუქმება</string>
+    <string name="kg_iris_cover_clear_view_toast_for_dex">„თვალის ირისის ამოცნობა“ მიუწვდომელია, როდესაც „სუფთა ყდის ხედი“ მიმაგრებულია.</string>
+    <string name="kg_iris_cover_led_view_toast_for_dex">„თვალის ირისის ამოცნობა“ მიუწვდომელია, როდესაც „LED View Cover“ მიმაგრებულია.</string>
+    <string name="kg_iris_cover_s_view_toast_for_dex">„თვალის ირისის ამოცნობა“ მიუწვდომელია, როდესაც „S View-ს ყდა“ მიმაგრებულია.</string>
+    <string name="kg_iris_cover_toast_for_dex">თვალის ირისის ამოცნობა შეუძლებელია, როდესაც ყდა მიმაგრებულია.</string>
+    <string name="kg_iris_direction_active_instructions">გასახსნელად თვალის ირისები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_iris_direction_instructions">გამოიყენეთ თვალის ირისები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_iris_direction_none_instructions">გამოიყენეთ თვალის ირისები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_iris_no_match">შესაბამისი არ არის</string>
+    <string name="kg_iris_not_supported_at_180_degree">თვალის ირისის ამოცნობა რომ გამოიყენოთ, მოაბრუნეთ პლანშეტი ისე, რომ სენსორი ქვემოთ არ იყოს</string>
+    <string name="kg_iris_not_working_text">თვალის ირისის ამოცნობა არ მუშაობს</string>
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions">გახსენით თითის ანაბეჭდით, ან გადაუსვით ორი თითი ეკრანს, რომ გამოიყენოთ თვალის ირისები</string>
+    <string name="kg_iris_password_active_instructions">გასახსნელად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_iris_password_none_instructions">გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_iris_pattern_active_instructions">გასახსნელად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_iris_pattern_none_instructions">გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_iris_pattern_text_for_mkeyboard">ნიმუშის მოსახაზად, შეეხეთ აქ</string>
+    <string name="kg_iris_pin_active_instructions">გასახსნელად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_iris_pin_none_instructions">გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_iris_proximity_guide_text">თქვენი ხელი ფარავს სენსორს? აიღეთ ხელი, თვალის ირისის ამოსაცნობად</string>
+    <string name="kg_iris_retry_content_description">თვალის ირისების დასასკანერებლად, შეეხეთ ორჯერ.</string>
+    <string name="kg_iris_retry_text">შეეხეთ ღილაკს, რომ ისევ სცადოთ თვალის ირისის ამოცნობა</string>
+    <string name="kg_iris_start_for_dex">ტელეფონში გამოიყენეთ თვალის ირისები</string>
+    <string name="kg_iris_stop">თვალის ირისის დასკანერების შეწყვეტა</string>
+    <string name="kg_iris_strong_auth_prompt_reason_24_timeout_universal_lock">თქვენი უსაფრთხოების მიზნით, ტელეფონის განსაბლოკად გამოიყენეთ მიმართულებების სერია. შემდეგ ჯერზე შეგიძლიათ გამოიყენოთ ბიომეტრული მონაცემები.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_restarting_universal_lock">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თვალის ირისები.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_universal_lock_security_policy">უსაფრთხოების პოლიტიკის გამო, დახაზეთ მიმართულებების სერია, თვალის ირისის ამოცნობის ნაცვლად</string>
+    <string name="kg_iris_toast_preview_for_dex">თქვენი პირადობის ტელეფონში დასადასტურებლად, გამოიყენეთ თვალის ირისები.</string>
+    <string name="kg_iris_too_many_timeout_error_text">ტემპერატურა იმდენად მაღალია, რომ თვალის ირისის ამოცნობა შეუძლებელია. მცდელობის გამეორებამდე, დააცადეთ ტელეფონს გაგრილება.</string>
+    <string name="kg_iris_too_many_timeout_error_toast_text">თვალის ირისის ამომცნობი LED გადახურდა. მოგვიანებით სცადეთ.</string>
+    <string name="kg_keycode_delete">წაშლა</string>
+    <string name="kg_keycode_ok">OK</string>
+    <string name="kg_knox_guard_mobile_data_button">Turn on Mobile data</string>
+    <string name="kg_knox_guard_mobile_data_turned_on_toast">Mobile data turned on.</string>
+    <string name="kg_knox_guard_no_sim_card_toast">SIM ბარათი არ დევს.</string>
+    <string name="kg_knox_guard_pin_hint">PIN</string>
+    <string name="kg_knox_guard_wifi_button">Turn on Wi-Fi</string>
+    <string name="kg_knox_guard_wifi_turned_on_toast">Wi-Fi turned on.</string>
+    <string name="kg_kor_empty_sim_puk_hint">PIN განბლოკვის (PUK) კოდი არ არის შეყვანილი. ისევ სცადეთ.</string>
+    <string name="kg_kor_enter_confirm_pin_hint">მის დასამოწმებლად შეიყვანეთ USIM ბარათის PIN კოდი.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">ახალი PIN-ები არ თანხვდება.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">Enter 8-digit PIN unlock (PUK) code</string>
+    <string name="kg_kor_password_wrong_pin_code">შეყვანილი PIN არასწორია. დარჩა %d ცდა. დაუკავშირდით მომხმარებელთა მომსახურების სამსახურს.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"შექმენით ახალი USIM ბარათის PIN.
+PIN უნდა შეიცავდეს 4-8 ციფრს."</string>
+    <string name="kg_kor_sim_pin_instructions">შეიყვანეთ USIM ბარათს განბლოკვის PIN (4-8 ციფრი)</string>
+    <string name="kg_kor_sim_puk_instructions">შეიყვანეთ PUK.</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"PUK არასწორად იქნა შეყვანილი %1$d-ჯერ. არასწორი PUK-ის კიდევ %2$d-ჯერ შეყვანის შემთხვევაში, USIM ბარათი სამუდამოდ დაიბლოკება.
+
+თუ არ იცით თქვენი PUK, ეწვიეთ მომხმარებელთა მომსახურების ცენტრს."</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">SIM ბარათის განბლოკვა</string>
+    <string name="kg_kor_success_pin_message">New password (PIN) saved successfully.</string>
+    <string name="kg_kor_wrong_puk_code">Unlock code input error</string>
+    <string name="kg_ktt_sim_perso_instructions">Enter 4- to 8-digit password (PIN)</string>
+    <string name="kg_lockscreen_emergency_call_button_text">საგანგებო ზარი</string>
+    <string name="kg_missing_sim_message_short">SIM ბარათი არ დევს</string>
+    <string name="kg_multi_biometrics_direction_instructions">გამოიყენეთ ბიომეტრული მონაცემები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_multi_biometrics_prompt_reason_timeout_universal_lock_strong_auth">ბიომეტრული მონაცემების გამოყენების ნაცვლად, მოხაზეთ მიმართულებების სერია, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_24_timeout_universal_lock">თქვენი უსაფრთხოების მიზნით, ტელეფონის განსაბლოკად გამოიყენეთ მიმართულებების სერია. შემდეგ ჯერზე შეგიძლიათ გამოიყენოთ ბიომეტრული მონაცემები.</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_restarting_universal_lock">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ ბიომეტრული ამოცნობა.</string>
+    <string name="kg_multi_direction_active_instructions">გასახსნელად გამოიყენეთ ბიომეტრული მონაცემები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_multi_direction_none_instructions">გამოიყენეთ ბიომეტრული მონაცემები, ან დახაზეთ მიმართულებების სერია</string>
+    <string name="kg_multi_password_active_instructions">გასახსნელად გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_multi_password_none_instructions">გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_multi_pattern_active_instructions">გასახსნელად გამოიყენეთ ბიომეტრული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_multi_pattern_none_instructions">გამოიყენეთ ბიომეტრული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_multi_pin_active_instructions">გასახსნელად გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_multi_pin_none_instructions">გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_n_attempts_remaining">(დარჩა %d ცდა)</string>
+    <string name="kg_no_match">შესაბამისი არ არის</string>
+    <string name="kg_none_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_1_reactivation">"თუ შემდეგი მცდელობის დროს არ შეიყვანთ სწორ მიმართულებების სერიას, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_direction_active_instructions">იმისათვის რომ გახსნათ, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_none_instructions">ეკრანის განსაბლოკად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_direction_none_reactivation">"თუ შემდეგი %d მცდელობის დროს არ შეიყვანთ სწორ მიმართულებების სერიას, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_face_direction_deviceadmin_instructions">თქვენი უსაფრთხოების მიზნით, მოხაზეთ მიმართულებების სერია.</string>
+    <string name="kg_none_face_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_face_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ სახის ამოცნობა ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_face_direction_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_face_password_deviceadmin_instructions">სახის ამოცნობის გამოყენების ნაცვლად, შეიყვანეთ პაროლი, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_face_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_face_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_face_password_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_face_password_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_face_pattern_deviceadmin_instructions">სახის ამოცნობის გამოყენების ნაცვლად, მოხაზეთ თქვენი ნიმუში, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_face_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_face_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_face_pattern_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_face_pattern_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_face_pin_deviceadmin_instructions">სახის ამოცნობის გამოყენების ნაცვლად, შეიყვანეთ PIN, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_face_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_face_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_face_pin_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_face_pin_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_facefingerprint_direction_itpolicy_instructions">თქვენი უსაფრთხოების მიზნით, მოხაზეთ მიმართულებების სერია.</string>
+    <string name="kg_none_facefingerprint_password_itpolicy_instructions">სახის ამოცნობის გამოყენების ნაცვლად, გამოიყენეთ თითის ანაბეჭდი ან შეიყვანეთ პაროლი, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_facefingerprint_pattern_itpolicy_instructions">სახის ამოცნობის გამოყენების ნაცვლად, გამოიყენეთ თითის ანაბეჭდი ან მოხაზეთ ნიმუში, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_facefingerprint_pin_itpolicy_instructions">სახის ამოცნობის გამოყენების ნაცვლად, გამოიყენეთ თითის ანაბეჭდი ან შეიყვანეთ PIN, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_fingerprint_direction_deviceadmin_instructions">თითის ანაბეჭდების გამოყენების ნაცვლად, მოხაზეთ მიმართულებების სერია, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ თითის ანაბეჭდი ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_fingerprint_direction_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თითის ანაბეჭდები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_fingerprint_password_deviceadmin_instructions">თითის ანაბეჭდების გამოყენების ნაცვლად, შეიყვანეთ პაროლი, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_fingerprint_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_fingerprint_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_fingerprint_password_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_fingerprint_password_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_fingerprint_pattern_deviceadmin_instructions">თითის ანაბეჭდების გამოყენების ნაცვლად, მოხაზეთ თქვენი ნიმუში, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_fingerprint_pattern_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_fingerprint_pattern_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_fingerprint_pin_deviceadmin_instructions">თითის ანაბეჭდების გამოყენების ნაცვლად, შეიყვანეთ PIN, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_fingerprint_pin_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_fingerprint_pin_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_intelligent_direction_deviceadmin_instructions">სახის ამოცნობის გამოყენების ნაცვლად, მოხაზეთ მიმართულებების სერია, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_intelligent_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_intelligent_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ Intelligent Scan ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_intelligent_direction_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_intelligent_password_deviceadmin_instructions">Intelligent Scan-ის გამოყენების ნაცვლად, შეიყვანეთ პაროლი, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_intelligent_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_intelligent_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_intelligent_password_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_intelligent_password_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_intelligent_pattern_deviceadmin_instructions">Intelligent Scan-ის გამოყენების ნაცვლად, მოხაზეთ თქვენი ნიმუში, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_intelligent_pattern_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_intelligent_pattern_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_intelligent_pin_deviceadmin_instructions">Intelligent Scan-ის გამოყენების ნაცვლად, შეიყვანეთ PIN, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_intelligent_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_intelligent_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_intelligent_pin_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_intelligent_pin_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_iris_direction_deviceadmin_instructions">თვალის ირისების გამოყენების ნაცვლად, მოხაზეთ მიმართულებების სერია, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_iris_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალის ირისები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_iris_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ თვალის ირისები ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_iris_direction_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_iris_password_deviceadmin_instructions">თვალის ირისების გამოყენების ნაცვლად, შეიყვანეთ პაროლი, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_iris_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალი ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_iris_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_iris_password_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_iris_password_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_iris_pattern_deviceadmin_instructions">თვალის ირისების გამოყენების ნაცვლად, მოხაზეთ თქვენი ნიმუში, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_iris_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_iris_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_iris_pattern_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_iris_pattern_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_iris_pin_deviceadmin_instructions">თვალის ირისების გამოყენების ნაცვლად, შეიყვანეთ PIN, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_iris_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_iris_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_iris_pin_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_iris_pin_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_multi_direction_deviceadmin_instructions">ბიომეტრული მონაცემების გამოყენების ნაცვლად, მოხაზეთ მიმართულებების სერია, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_multi_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_multi_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ ბიომეტრიული მონაცემები ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_multi_direction_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_multi_password_deviceadmin_instructions">ბიომეტრული მონაცემების გამოყენების ნაცვლად, შეიყვანეთ პაროლი, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკ</string>
+    <string name="kg_none_multi_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_multi_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_multi_password_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_multi_password_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_none_multi_pattern_deviceadmin_instructions">ბიომეტრული მონაცემების გამოყენების ნაცვლად, მოხაზეთ თქვენი ნიმუში, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_multi_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_multi_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_multi_pattern_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_multi_pattern_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_none_multi_pin_deviceadmin_instructions">ბიომეტრული მონაცემების გამოყენების ნაცვლად, შეიყვანეთ PIN, როგორც ამას ითხოვს უსაფრთხოების პოლიტიკა</string>
+    <string name="kg_none_multi_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_multi_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_multi_pin_reboot_instructions">ტელეფონის ხელახლა ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_multi_pin_shutdown_instructions">ტელეფონის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_none_none_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_none_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_none_direction_restart_instructions">გადატვირთვის შემდეგ გამოიყენეთ მიმართულებების სერია.</string>
+    <string name="kg_none_none_direction_shutdown_instructions">ტელეფონის გამოსართავად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_none_none_direction_timeout_instructions">თქვენი უსაფრთხოების მიზნით, მოხაზეთ მიმართულებების სერია.</string>
+    <string name="kg_none_none_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, შეიყვანეთ პაროლი</string>
+    <string name="kg_none_none_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, შეიყვანეთ პაროლი</string>
+    <string name="kg_none_none_password_reboot_instructions">ტელეფონის ხელახლა ჩასართავად შეიყვანეთ პაროლი</string>
+    <string name="kg_none_none_password_restart_instructions">გადატვირთვის შემდეგ გამოიყენეთ პაროლი.</string>
+    <string name="kg_none_none_password_shutdown_instructions">ტელეფონის გამოსართავად, შეიყვანეთ პაროლი</string>
+    <string name="kg_none_none_password_timeout_instructions">უსაფრთხოების მიზნით, გამოიყენეთ პაროლი.</string>
+    <string name="kg_none_none_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_none_none_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_none_none_pattern_reboot_instructions">ტელეფონის ხელახლა ჩასართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_none_none_pattern_restart_instructions">გადატვირთვის შემდეგ მოხაზეთ ნიმუში.</string>
+    <string name="kg_none_none_pattern_shutdown_instructions">ტელეფონის გამოსართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_none_none_pattern_timeout_instructions">უსაფრთხოების მიზნით, მოხაზეთ ნიმუში.</string>
+    <string name="kg_none_none_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, შეიყვანეთ PIN</string>
+    <string name="kg_none_none_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, შეიყვანეთ PIN</string>
+    <string name="kg_none_none_pin_reboot_instructions">ტელეფონის ხელახლა ჩასართავად შეიყვანეთ PIN</string>
+    <string name="kg_none_none_pin_restart_instructions">გადატვირთვის შემდეგ გამოიყენეთ PIN.</string>
+    <string name="kg_none_none_pin_shutdown_instructions">ტელეფონის გამოსართავად, შეიყვანეთ PIN</string>
+    <string name="kg_none_none_pin_timeout_instructions">უსაფრთხოების მიზნით, გამოიყენეთ PIN.</string>
+    <string name="kg_none_password_1_frp">"If you do not enter the correct password in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_1_reactivation">"თუ შემდეგი %d მცდელობის დროს არ შეიყვანთ სწორ პაროლს, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_password_active_instructions">შეიყვანეთ პაროლი, რომ გაიხსნას</string>
+    <string name="kg_none_password_none_frp">"If you do not enter the correct password within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_none_instructions">შეიყვანეთ პაროლი</string>
+    <string name="kg_none_password_none_reactivation">"თუ შემდეგი მცდელობის დროს არ შეიყვანთ სწორ პაროლს, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_pattern_1_frp">"If you do not enter the correct pattern in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_1_reactivation">"თუ შემდეგი მცდელობის დროს არ მოხაზავთ სწორ ნიმუშს, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_pattern_active_instructions">მოხაზეთ განბლოკვის ნიშანი, რომ გაიხსნას</string>
+    <string name="kg_none_pattern_none_frp">"If you do not enter the correct pattern within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_none_instructions">მოხაზეთ განბლოკვის ნიშანი</string>
+    <string name="kg_none_pattern_none_reactivation">"თუ შემდეგი %d მცდელობის დროს არ მოხაზავთ სწორ ნიმუშს, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_1_reactivation">"თუ შემდეგი მცდელობის დროს არ შეიყვანთ სწორ PIN-ს, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_pin_active_instructions">შეიყვანეთ PIN, რომ გაიხსნას</string>
+    <string name="kg_none_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_none_instructions">შეიყვანეთ PIN</string>
+    <string name="kg_none_pin_none_reactivation">"თუ შემდეგი %d მცდელობის დროს არ შეიყვანთ სწორ PIN-ს, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_none_recovery_none_instructions">შეიყვანეთ აღდგენილი პაროლი და განბლოკეთ.</string>
+    <string name="kg_password_hint">მინიშნება</string>
+    <string name="kg_password_hint_show">მინიშნება: %s</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="kg_password_sub_instructions">პაროლი შეიცავს მინიმუმ %d სიმბოლოს, მათ შორის მინიმუმ 1 ასოს.</string>
+    <string name="kg_password_sub_instructions_vzw">პაროლი შეიცავს ასოებს და მინიმუმ %d სიმბოლოს.</string>
+    <string name="kg_password_wrong_pin_code_one">შეყვანილი SIM ბარათის PIN არასწორია. დარჩენილია 1 მცდელობა.</string>
+    <string name="kg_password_wrong_pin_code_other">შეყვანილი SIM ბარათის PIN არასწორია. დარჩენილია %d მცდელობა.</string>
+    <string name="kg_perso_locked_message">Block other USIM</string>
+    <string name="kg_phone_unlocked">ტელეფონი განბლოკილია</string>
+    <string name="kg_pin_locked_message">შეიყვანეთ PIN</string>
+    <string name="kg_pin_sub_instructions">PIN შეიცავს მინიმუმ 4 ციფრს.</string>
+    <string name="kg_pin_sub_instructions_vzw">PIN შედგება %d ან მეტი ციფრისგან.</string>
+    <string name="kg_power_charging">იმუხტება: %d%%</string>
+    <string name="kg_power_charging_wirelessly">იმუხტება უსადენოდ: %d%%</string>
+    <string name="kg_power_connect_charger">მიუერთეთ დამტენი</string>
+    <string name="kg_power_fast_charging">სწრაფი დამუხტვა: %d%%</string>
+    <string name="kg_power_fast_charging_chn">გაუმჯობესებული დატენვა: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly">სწრაფად დამუხტვა უსადენოდ: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly_chn">გაუმჯობესებული უსადენო დატენვა: %d%%</string>
+    <string name="kg_power_fully_charged">სრულადაა დამუხტული</string>
+    <string name="kg_power_time_format_hour">შევსებამდე დარჩა %d სთ</string>
+    <string name="kg_power_time_format_hour_minute">დასრულებამდე დარჩა %1$d სთ და %2$d წთ</string>
+    <string name="kg_power_time_format_minute">შევსებამდე დარჩა %d წთ</string>
+    <string name="kg_prompt_reason_timeout_password_strong_auth">უსაფრთხოების პოლიტიკის გამო, შეიყვანეთ პაროლი, თითის ანაბეჭდის ამოცნობის ნაცვლად</string>
+    <string name="kg_prompt_reason_timeout_pattern_strong_auth">უსაფრთხოების პოლიტიკის გამო, მოხაზეთ ნიმუში, თითის ანაბეჭდის ამოცნობის ნაცვლად</string>
+    <string name="kg_prompt_reason_timeout_pin_strong_auth">უსაფრთხოების პოლიტიკის გამო, შეიყვანეთ PIN, თითის ანაბეჭდის ამოცნობის ნაცვლად</string>
+    <string name="kg_prompt_reason_timeout_universal_lock_strong_auth">უსაფრთხოების პოლიტიკის გამო, დახაზეთ მიმართულებების სერია, თითის ანაბეჭდის ამოცნობის ნაცვლად</string>
+    <string name="kg_puk_locked_message">შეიყვანეთ PUK</string>
+    <string name="kg_remote_lock_accessibility_call">ზარი: %s</string>
+    <string name="kg_remote_lock_accessibility_email">გაუგზავნეთ ელწერილი: %s</string>
+    <string name="kg_remote_lock_incorrect_pin">PIN არასწორია.</string>
+    <string name="kg_rmm_lock_instructions">PIN შეიყვანეთ %s-დან</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">ადგილი ჰქონდა მოწყობილობის განბლოკვის მცდელობას. თქვენ დაგრჩათ %d მცდელობა, სანამ დაბრუნდება მოწყობილობის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_sec_1_remaining_count_almost_at_wipe">ადგილი ჰქონდა მოწყობილობის განბლოკვის %d მცდელობას. თქვენ დაგრჩათ 1 მცდელობა, სანამ დაბრუნდება მოწყობილობის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">ადგილი ჰქონდა მოწყობილობის განბლოკვის %1$d მცდელობას. თქვენ დაგრჩათ %2$d მცდელობა, სანამ დაბრუნდება მოწყობილობის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_sec_puk_enter_confirm_pin_hint">მის დასამოწმებლად ისევ აკრიფეთ SIM ბარათის PIN კოდი.</string>
+    <string name="kg_sec_puk_enter_pin_hint">შეიყვანეთ ახალი SIM ბარათის PIN.</string>
+    <string name="kg_sec_sim_unlock_progress_dialog_message">სრულდება SIM ბარათის განბლოკვა…</string>
+    <string name="kg_secure_password">პაროლი</string>
+    <string name="kg_secure_pattern">ნიმუში</string>
+    <string name="kg_secure_pin">PIN</string>
+    <string name="kg_secure_using_ppp_instead_of_fingerprints">ადგილი ჰქონდა თითის ანაბეჭდებით ტელეფონის განბლოკვის %1$d მცდელობას. სანაცვლოდ, განსაბლოკად გამოიყენეთ %2$s.</string>
+    <string name="kg_secure_using_swipe_instead_of_fingerprints">ადგილი ჰქონდა თითის ანაბეჭდებით ტელეფონის განბლოკვის %d მცდელობას. სანაცვლოდ, განსაბლოკად გადაუსვით თითი.</string>
+    <string name="kg_set_on_lock_screen_button">დაბლოკილ ეკრანზე დაყენება</string>
+    <string name="kg_show_password_accessibility">პაროლის ჩვენება</string>
+    <string name="kg_sim_lock_accepted">PIN დებლოკირებულია.</string>
+    <string name="kg_sim_lock_verified">კოდი მიღებულია.</string>
+    <string name="kg_sim_locked_message">SIM ბარათი დაბლოკილია</string>
+    <string name="kg_sim_pin_remaining_1_attempt">დარჩენილია 1 მცდელობა.</string>
+    <string name="kg_sim_pin_remaining_attempts">დარჩენილი გაქვთ %d მცდელობა.</string>
+    <string name="kg_sim_puk_instructions">SIM ბარათი დაბლოკილია. შეიყვანეთ PUK. დეტალური ინფორმაციისთვის დაუკავშირდით თქვენს პროვაიდერს.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">თუ კიდევ 1-ხელ შეიყვანთ არასწორ PUK-ს, SIM დაიბლოკება.</string>
+    <string name="kg_sim_puk_remaining_attempts">თუ კიდევ %d-ჯერ შეიყვანთ არასწორ PUK-ს, SIM დაიბლოკება.</string>
+    <string name="kg_sim_puk_tmo_help_contact_service_provider">Your PIN has been blocked. To unlock your device, contact your service provider.</string>
+    <string name="kg_sim_puk_tmo_sos_call">SOS</string>
+    <string name="kg_skt_sim_perso_instructions">შეიყვანეთ USIM ბარათს განბლოკვის PIN (4 ციფრი)</string>
+    <string name="kg_smart_lock_content_description">მოწყობილობის დასაბლოკად, შეეხეთ ორჯერ და გადაიტანეთ თითით.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_direction_lock">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა პაროლი. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა ნიმუში. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა PIN. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_swipe_active_instructions">გადაუსვით თითი და გაიხსნება</string>
+    <string name="kg_swipe_unlock_instructions">გადაუსვით თითი და განიბლოკება</string>
+    <string name="kg_swipe_unlock_smart_lock_instructions">ტელეფონი განბლოკილია Smart Lock-ით</string>
+    <string name="kg_swipe_unlock_strong_auth_instructions">გადაუსვით თითი და განიბლოკება</string>
+    <string name="kg_tablet_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_1_reactivation">"თუ შემდეგი მცდელობის დროს არ შეიყვანთ სწორ მიმართულებების სერიას, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_none_reactivation">"თუ შემდეგი %d მცდელობის დროს არ შეიყვანთ სწორ მიმართულებების სერიას, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_face_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_face_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ სახის ამოცნობა ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_face_direction_shutdown_instructions">პლანშეტი თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე პლანშეტის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_face_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_face_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_face_password_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_face_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_face_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_face_pattern_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_face_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_face_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_face_pin_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ სახის ამოცნობა, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ თითის ანაბეჭდი ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_fingerprint_direction_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თითის ანაბეჭდები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_fingerprint_password_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_fingerprint_password_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_fingerprint_pattern_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_fingerprint_pattern_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თითის ანაბეჭდი, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_fingerprint_pin_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_fingerprint_pin_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თითის ანაბეჭდი, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_fingerprints_direction_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_fingerprints_password_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა პაროლი. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_fingerprints_pattern_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა ნიმუში. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_fingerprints_pin_unabled_instructions">მოწყობილობა თავიდან ჩაიტვირთა და მის განსაბლოკად საჭიროა PIN. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ Intelligent Scan ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_intelligent_direction_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_intelligent_password_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_intelligent_password_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_intelligent_pattern_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_intelligent_pattern_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ Intelligent Scan, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_intelligent_pin_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_intelligent_pin_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ Intelligent Scan, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_iris_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალის ირისები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_iris_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ თვალის ირისები ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_iris_direction_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_iris_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალი ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_iris_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_iris_password_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_iris_password_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_iris_pattern_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_iris_pattern_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თვალის ირისები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_iris_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_iris_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_iris_pin_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_iris_pin_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ თვალის ირისები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_multi_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_multi_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, გამოიყენეთ ბიომეტრიული მონაცემები ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_multi_direction_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_multi_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_multi_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_multi_password_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_multi_password_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_multi_pattern_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_multi_pattern_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_multi_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_multi_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_multi_pin_reboot_instructions">პლანშეტის ხელახლა ჩასართავად გამოიყენეთ ბიომეტრიული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_multi_pin_shutdown_instructions">პლანშეტის გამოსართავად გამოიყენეთ ბიომეტრული მონაცემები, ან შეიყვანეთ PIN</string>
+    <string name="kg_tablet_none_direction_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_none_direction_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_none_direction_shutdown_instructions">პლანშეტის გამოსართავად, მოხაზეთ მიმართულებების სერია</string>
+    <string name="kg_tablet_none_password_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_none_password_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_none_password_reboot_instructions">პლანშეტის ხელახლა ჩასართავად შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_none_password_shutdown_instructions">პლანშეტის გამოსართავად, შეიყვანეთ პაროლი</string>
+    <string name="kg_tablet_none_pattern_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_none_pattern_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_none_pattern_reboot_instructions">პლანშეტის ხელახლა ჩასართავად მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_none_pattern_shutdown_instructions">პლანშეტის გამოსართავად, მოხაზეთ ნიმუში</string>
+    <string name="kg_tablet_none_pin_emergencymodeoff_instructions">საგანგებო რეჟიმის გამოსართავად, შეიყვანეთ PIN</string>
+    <string name="kg_tablet_none_pin_emergencymodeon_instructions">საგანგებო რეჟიმის ჩასართავად, შეიყვანეთ PIN</string>
+    <string name="kg_tablet_none_pin_reboot_instructions">პლანშეტის ხელახლა ჩასართავად შეიყვანეთ PIN</string>
+    <string name="kg_tablet_none_pin_shutdown_instructions">პლანშეტის გამოსართავად, შეიყვანეთ PIN</string>
+    <string name="kg_tablet_password_1_frp">"If you do not enter the correct password in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_1_reactivation">"თუ შემდეგი %d მცდელობის დროს არ შეიყვანთ სწორ პაროლს, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_password_none_frp">"If you do not enter the correct password within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_none_reactivation">"თუ შემდეგი მცდელობის დროს არ შეიყვანთ სწორ პაროლს, ტელეფონში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და ტელეფონში წაიშლება ინფორმაცია.
+
+თუ ტელეფონში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ ტელეფონთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_pattern_1_frp">"If you do not draw the correct pattern in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_1_reactivation">"თუ შემდეგი მცდელობის დროს არ მოხაზავთ სწორ ნიმუშს, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_pattern_none_frp">"If you do not draw the correct pattern within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_none_reactivation">"თუ შემდეგი %d მცდელობის დროს არ მოხაზავთ სწორ ნიმუშს, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_1_reactivation">"თუ შემდეგი მცდელობის დროს არ შეიყვანთ სწორ PIN-ს, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_none_reactivation">"თუ შემდეგი %d მცდელობის დროს არ შეიყვანთ სწორ PIN-ს, პლანშეტში ავტომატურად დაბრუნდება ქარხნული პარამეტრები და პლანშეტში წაიშლება ინფორმაცია.
+
+თუ პლანშეტში დაბრუნდება საწყისი პარამეტრები, შეიძლება დაგჭირდეთ Samsung account-ის იმ ინფორმაციის (ელფოსტის მისამართისა და პაროლის) შეყვანა, რომელიც დაკავშირებულია ამ პლანშეტთან, რომ კვლავ შეძლოთ მისი გამოყენება."</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_direction_lock">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა მიმართულებების სერია. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_password">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა პაროლი. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pattern">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა ნიმუში. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pin">24 საათზე მეტია, რაც მოწყობილობა არ არის გამოყენებული და მის განსაბლოკად საჭიროა PIN. შემდეგ ჯერზე მოწყობილობის განსაბლოკად, შეგიძლიათ გამოიყენოთ თითის ანაბეჭდები.</string>
+    <string name="kg_tts_shortcut_app">%s რომ გახსნათ, შეეხეთ ორჯერ და გადაიტანეთ თითით.</string>
+    <string name="kg_ucm_enter_confirm_pin_hint">დასადასტურებლად ისევ შეიყვანეთ PIN</string>
+    <string name="kg_ucm_invalid_confirm_pin_hint">PIN-ები არ თანხვდება</string>
+    <string name="kg_ucm_loading">იტვირთება…</string>
+    <string name="kg_ucm_password_not_matching">სმარტბარათის პაროლი არ თანხვდება ტელეფონში შენახულ პაროლს</string>
+    <string name="kg_ucm_password_wrong_puk_code">შეყვანილი PUK არასწორია</string>
+    <string name="kg_ucm_puk_enter_pin_hint">შეიყვანეთ ახალი PIN</string>
+    <string name="kg_ucm_unknown_error_occurred">მოხდა უცნობი შეცდომა.</string>
+    <string name="kg_ucm_unlocking">მიმდინარეობს განბლოკვა…</string>
+    <string name="kg_unlock_sim_pin_instructions">შეიყვანეთ SIM ბარათს PIN</string>
+    <string name="kg_unlock_sim_pin_remaining_1_attempt">შეიყვანეთ SIM-ის განბლოკვის PIN. დარჩა 1 მცდელობა.</string>
+    <string name="kg_unlock_sim_pin_remaining_attempts">შეიყვანეთ SIM-ის განბლოკვის PIN. დარჩა %d მცდელობა.</string>
+    <string name="kg_use_biometrics_first">ჯერ გამოიყენეთ ბიომეტრული მონაცემები</string>
+    <string name="kg_use_fingerprint_first">ჯერ გამოიყენეთ თითის ანაბეჭდი</string>
+    <string name="kg_use_irises_first">ჯერ გამოიყენეთ თვალის ირისები</string>
+    <string name="kg_voice_assistant_active_instructions">გასახსნელად, გადაუსვით 2 თითი</string>
+    <string name="kg_voice_assistant_unlock_instructions">განსაბლოკად, გადაუსვით 2 თითი</string>
+    <string name="kg_voice_assistant_unlock_strong_auth_instructions">ეკრანის განსაბლოკად გადაუსვით ორი თითით.</string>
+    <string name="kg_wallpaper_applied_toast">ფონი გამოყენებულია დაბლოკილ ეკრანზე.</string>
+    <string name="kg_wallpaper_applied_toast_infinity">„უსასრულო ფონი“ გამოყენებულია Always On Display-ზე, საწყის ეკრანზე და დაბლოკილ ეკრანზე.</string>
+    <string name="kg_wallpaper_applied_toast_infinity_without_aod">„უსასრულო ფონი“ გამოყენებულია საწყის და დაბლოკილ ეკრანებზე.</string>
+    <string name="kg_wallpaper_change_wallpaper_when_infinity_applied">უსასრულო ეფექტები გამოირთვება, თუ ამ ფონს გამოიყენებთ.</string>
+    <string name="kg_wallpaper_changes_restrict_toast">უსაფრთხოების პოლიტიკა ზღუდავს ფონის გამოცვლას.</string>
+    <string name="kg_wallpaper_confirm_dialog_apply">გამოყენება</string>
+    <string name="kg_wallpaper_confirm_dialog_message">უსასრულო ეფექტები გამოირთვება, თუ ამ ფონს გამოიყენებთ.</string>
+    <string name="kg_wallpaper_download_guide_popup_phone_body">ამ ფუნქციის გამოსაყენებლად, ჩამოტვირთეთ %s.</string>
+    <string name="kg_wallpaper_download_guide_popup_title">ჩამოიტვირთოს %s?</string>
+    <string name="kg_wallpaper_foldable_main_settting_description">ამით დაყენდება ფონი მხოლოდ მთავარ ეკრანზე. დახურეთ ტელეფონი, რომ დააყენოთ ფონი წინა ეკრანზე.</string>
+    <string name="kg_wallpaper_foldable_sub_settting_description">ამით დაყენდება ფონი მხოლოდ წინა ეკრანზე. გახსენით ტელეფონი, რომ დააყენოთ ფონი მთავარ ეკრანზე.</string>
+    <string name="kg_wallpaper_preview_button">ფონად დაყენება</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_body">ფონად რომ დაყენდეს, ეს GIF უნდა გარდაიქმნას ვიდეოდ.</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_title">მიმდინარეობს გარდაქმნა…</string>
+    <string name="kg_wallpaper_preview_infinity_motion_effect">მოძრაობის ეფექტი „საწყის ეკრანზე“</string>
+    <string name="kg_wallpaper_preview_title">ეკრანის დაბლოკვა</string>
+    <string name="kg_wallpaper_preview_title_infinity">უსასრულო ფონი</string>
+    <string name="kg_wallpaper_preview_video_big_size_info">არჩეული ვიდეო ზედმეტად დიდია. შეეხეთ ქვემოთ მოცემულ ღილაკს, რომ შეამციროთ იგი 100 მბ-მდე.</string>
+    <string name="kg_wallpaper_preview_video_info">15 წამამდე ვიდეო ფონად დაედება დაბლოკილ ეკრანს.</string>
+    <string name="kg_wallpaper_preview_video_long_info">თქვენ მიერ არჩეული ვიდეო ძალიან გრძელია. შეეხეთ ქვემოთ მოცემულ ღილაკს, რომ მაქსიმუმ 15 წამამდე შეამოკლოთ იგი.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper">ვიდეო ფონი</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_original_video_error_toast">ვიდეო ფონის რედაქტირება შეუძლებელია. ვიდეოს გარჩევადობა ძალიან დაბალია.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_trimmer_error_toast">ვიდეო ფონის რედაქტირება შესაძლებელია, როცა გაშვებულია მაღალი ხარისხის ვიდეო.</string>
+    <string name="kg_wallpaper_unsupported_file">ფაილი გაუთვალისწინებელია.</string>
+    <string name="kg_wallpaper_video_trimmer">ვიდეოს გამსწორებელი</string>
+    <string name="kg_warning_none_1_none_auto_wipe">ადგილი ჰქონდა ტელეფონის განბლოკვის 1 მცდელობას. თქვენ დაგრჩათ %d მცდელობა, სანამ დაბრუნდება ტელეფონის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_warning_none_none_1_auto_wipe">ადგილი ჰქონდა ტელეფონის განბლოკვის %d მცდელობას. დაგრჩათ 1 მცდელობა, სანამ დაბრუნდება ტელეფონის ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_warning_none_none_none_auto_wipe">ადგილი ჰქონდა ტელეფონის განბლოკვის %1$d მცდელობას. თქვენ დაგრჩათ %2$d მცდელობა, სანამ დაბრუნდება ტელეფონის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_warning_tablet_1_none_auto_wipe">ადგილი ჰქონდა პლანშეტის განბლოკვის 1 მცდელობას. თქვენ დაგრჩათ %d მცდელობა, სანამ დაბრუნდება პლანშეტის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_warning_tablet_none_1_auto_wipe">ადგილი ჰქონდა პლანშეტის განბლოკვის %d მცდელობას. დაგრჩათ 1 მცდელობა, სანამ დაბრუნდება პლანშეტის ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_warning_tablet_none_none_auto_wipe">ადგილი ჰქონდა პლანშეტის განბლოკვის %1$d მცდელობას. თქვენ დაგრჩათ %2$d მცდელობა, სანამ დაბრუნდება პლანშეტის საწყისი ქარხნული პარამეტრები და წაიშლება ყველა მონაცემი, მათ შორის ფაილები და ჩამოტვირთული აპლიკაციები.</string>
+    <string name="kg_wrong_direction_lock">დახაზული მიმართულება არასწორია</string>
+    <string name="kg_wrong_direction_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="later">შემდგომში</string>
+    <string name="lock_app_shortcut_dnd_app_label">%s რომ გახსნათ, შეეხეთ ორჯერ და გადაიტანეთ თითით.</string>
+    <string name="lock_app_shortcut_flashlight_app_label">ფანარი</string>
+    <string name="lock_to_app_dex_desc">ეს ფუნქცია მიუწვდომელია Samsung DeX რეჟიმში.</string>
+    <string name="lock_to_app_dex_title">ფანჯრები ვერ ჩამაგრდება</string>
+    <string name="lock_to_app_positive">OK</string>
+    <string name="lock_to_app_recent_and_back">ამ ჩამაგრებული აპლიკაციის მოსახსნელად, ერთდროულად ხანგრძლივად შეეხეთ ღილაკებს „ბოლოდროინდელები“ და „უკან“.</string>
+    <string name="lock_to_app_recent_and_back_accessibility">ჩამაგრებული აპლიკაციის მოსახსნელად, ხანგრძლივად დააჭირეთ ბოლოდროინდელთა ღილაკს.</string>
+    <string name="lock_to_app_recent_and_back_softkey">ამ ჩამაგრებული აპლიკაციის მოსახსნელად, ერთდროულად ხანგრძლივად შეეხეთ ღილაკებს „ბოლოდროინდელები“ და „უკან“.</string>
+    <string name="lock_to_app_recent_and_back_softkey_accessibility">ჩამაგრებული აპლიკაციის მოსახსნელად, ხანგრძლივად შეეხეთ ბოლოდროინდელთა ღილაკს.</string>
+    <string name="lock_to_app_title">„ფანჯრების ჩამაგრების“ ჩართვა</string>
+    <string name="lock_to_app_unable_to_pin_desc">ამ აპლიკაციას არ აქვს ფანჯრების ჩამაგრების შესაძლებლობა.</string>
+    <string name="lock_to_app_unable_to_pin_title">%s ვერ ჩამაგრდება</string>
+    <string name="lock_to_app_unable_to_pin_toast">აპლიკაციის ჩამაგრება შეუძლებელია. %s დახურულია. მოხდა უცნობი შეცდომა.</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIM ბარათი არ არის ამოცნობილი
+მხოლოდ გადაუდებელი ზარები"</string>
+    <string name="maximum_power_saving_mode">ენერგიის მაქსიმალური დაზოგვის რეჟიმი</string>
+    <string name="megabyteShort">MB</string>
+    <string name="memory_full_dialog_msg">შიდა მეხსიერებაში არ არის საკმარისი ადგილი. წაშალეთ ზოგიერთი ფაილი და ისევ სცადეთ.</string>
+    <string name="memory_full_dialog_title">ეკრანის ანაბეჭდის გადაღება შეუძლებელია</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">მონაცემთა როუმინგი გამორთულია</string>
+    <string name="mobile_data_roaming_title">მონაცემთა გადაცემა როუმინგის დროს</string>
+    <string name="mobile_data_show_popup_disable">თქვენ ვერ შეძლებთ ისეთი აპლიკაციების გამოყენებას, რომლებისთვისაც საჭიროა ინტერნეტთან კავშირი, თუ არ იყენებთ Wi-Fi-ს.</string>
+    <string name="mobile_data_show_popup_disable_att">AT&amp;T Video Call won’t work if mobile data is off. Also, you won’t be able to use the internet, email or other apps that need a data connection unless you use Wi-Fi.</string>
+    <string name="mobile_data_show_popup_disable_dcm">"If Mobile data is turned off, your device must be connected to a Wi-Fi network to use services that require a network connection.
+
+Mobile data will be turned off."</string>
+    <string name="mobile_data_show_popup_disable_jpn">თუ არ დაუკავშირდებით Wi-Fi ქსელს, ვერ შეძლებთ გამოიყენოთ ინტერნეტი, ელფოსტა ან სხვა აპლიკაცია, რომელთათვისაც საჭიროა ქსელთან კავშირი.</string>
+    <string name="mobile_data_show_popup_disable_kor">"თუ არ გამოიყენებთ Wi-Fi ქსელს, ვეღარ შეძლებთ გამოიყენოთ ინტერნეტი, ელფოსტა ან სხვა პროგრამები, რომელთათვისაც საჭიროა მონაცემთა კავშირი.
+
+მობილურ მონაცემთა ქსელი გამოირთვება."</string>
+    <string name="mobile_data_show_popup_disable_kor_kt">მობილური მონაცემები (WCDMA/LTE) გამოირთვება. თუ არ გამოიყენებთ Wi-Fi-ს, ვერ შეძლებთ გამოიყენოთ ისეთი აპლიკაციები, რომლებსაც სჭირდება მონაცემთა კავშირი. მულტიმედიური შეტყობინებების გაგზავნა ან მიღება შეიზღუდება.</string>
+    <string name="mobile_data_show_popup_disable_kor_lgt">"თუ არ გამოიყენებთ Wi-Fi ქსელს, ვეღარ შეძლებთ გამოიყენოთ ინტერნეტი, ელფოსტა ან სხვა პროგრამები, რომელთათვისაც საჭიროა მონაცემთა კავშირი.
+
+მობილურ მონაცემთა ქსელი გამოირთვება."</string>
+    <string name="mobile_data_show_popup_disable_vzw">"Unless you use Wi-Fi, you won't be able to use the Internet, Email or other apps that require a data connection. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte">"Your phone's Video Calling function won't work when mobile data is off. Also, you won't be able to use the Internet, Email or other apps that need a data connection unless you use Wi-Fi. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte_tablet">თქვენი პლანშეტის „ვიდეო ზარების“ ფუნქცია არ მუშაობს, როდესაც მობილური მონაცემები გამორთულია. აგრეთვე, ვერ შეძლებთ გამოიყენოთ „ინტერნეტი“, „ელფოსტა“ ან სხვა აპლიკაციები, რომელთათვისაც საჭიროა მონაცემთა კავშირი, თუ არ იყენებთ Wi-Fi-ს. გამოირთოს მობილურ მონაცემთა კავშირი?</string>
+    <string name="mobile_data_show_popup_enable_kor">მობილურ მონაცემთა ქსელი ჩაირთვება. მობილურ ქსელებთან დაკავშირებისთვის შეიძლება დაგერიცხოთ დამატებითი გადასახადი, თქვენი სატარიფო გეგმის შესაბამისად.</string>
+    <string name="mobile_data_show_popup_enable_kor_kt">მობილურ მონაცემთა ქსელი ჩაირთვება. მობილურ ქსელებთან დაკავშირებისთვის შეიძლება დაგერიცხოთ დამატებითი გადასახადი, თქვენი სატარიფო გეგმის შესაბამისად.</string>
+    <string name="mobile_data_show_popup_enable_kor_lgt">მობილურ მონაცემთა ქსელი ჩაირთვება. მობილურ ქსელებთან დაკავშირებისთვის შეიძლება დაგერიცხოთ დამატებითი გადასახადი, თქვენი სატარიფო გეგმის შესაბამისად.</string>
+    <string name="mobile_data_show_popup_enable_kor_skt_kt">მობილურ მონაცემთა ქსელი ჩაირთვება. მობილურ ქსელებთან დაკავშირებისთვის შეიძლება დაგერიცხოთ დამატებითი გადასახადი, თქვენი სატარიფო გეგმის შესაბამისად.</string>
+    <string name="mobile_data_show_popup_roaming_enable">ჩაირთვება მონაცემთა როუმინგი. შესაძლოა, როუმინგში მობილურ მონაცემთა ქსელის გამოყენებისთვის დაგერიცხოთ დამატებითი გადასახადი, თქვენი სატარიფო გეგმის მიხედვით.</string>
+    <string name="mobile_data_show_toast_airplane_mode">მობილურ ქსელებთან დაკავშირება შეუძლებელია, სანამ ჩართულია თვითმფრინავის რეჟიმი. გამორთეთ თვითმფრინავის რეჟიმი და ისევ სცადეთ.</string>
+    <string name="mobile_data_show_toast_not_disable_during_voltecall">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_title">მობილური ქსელი</string>
+    <string name="mobile_data_trun_off_title">გამოირთოს „მობილური მონაცემები“?</string>
+    <string name="mobile_device_warning_toast_notification">მოწყობილობის გამოყენება ფეხით სიარულის ან საჭესთან ყოფნის დროს უბედური შემთხვევის საფრთხეს შეიცავს.</string>
+    <string name="mobile_hotspot_detail_connected_device">დაკავშირებული მოწყობილობა</string>
+    <string name="mobile_hotspot_detail_connected_devices">დაკავშირებული მოწყობილობები</string>
+    <string name="mobile_hotspot_detail_connection_mode_allow_all">ყველა მოწყობილობას მიეცეს დაკავშირების უფლება</string>
+    <string name="mobile_hotspot_detail_connection_mode_allowed_device">მხოლოდ ნებადართული მოწყობილობები</string>
+    <string name="mobile_hotspot_detail_password">პაროლი</string>
+    <string name="mobile_hotspot_detail_title">მობილური ცხელი წერტილი</string>
+    <string name="mobile_hotspot_detail_title_jpn">Wi-Fi მობილური ინტერნეტი</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message">ჩადეთ SIM ბარათი, რომ გამოიყენოთ მობილური ცხელი წერტილი და მობილური ინტერნეტის გაზიარების სხვა ვარიანტები.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message_jpn">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">SIM ბარათი არ დევს</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Unable to enable Wi-Fi tethering</string>
+    <string name="mobile_hotspot_dialog_nousim_or_nosim_warning">ჩადეთ UIM/SIM ბარათი, რომ გამოიყენოთ მობილური ცხელი წერტილი და მობილური ინტერნეტის კომპიუტერთან გაზიარების სხვა ფუნქციები.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn">„მობილური ცხელი წერილი“ და Smart View ერთდროულად ვერ ჩაირთვება. Smart View გამოირთვება.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_chn">WLAN „ცხელი წერილი“ და Smart View ერთდროულად ვერ ჩაირთვება. Smart View გამოირთვება.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_jpn">„Wi-Fi მობილური ინტერნეტი“ და „Smart View“ ერთდროულად ვერ ჩაირთვება. Smart View გამოირთვება.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_text">დარწმუნდით, რომ Wi-Fi პროვაიდერისგან გაქვთ ნებართვა, სანამ გააზიარებთ თქვენს კავშირს.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_title">ჩაირთოს Wi-Fi გაზიარება?</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_lite_enable_text">ზოგიერთი Wi-Fi ქსელი შეიძლება მიუწვდომელი იყოს, როდესაც Wi-Fi გაზიარება ჩართულია.</string>
+    <string name="mobile_hotspot_toast_disable_airplne_mode">მობილურ ქსელებთან დაკავშირება შეუძლებელია, სანამ ჩართულია თვითმფრინავის რეჟიმი. გამორთეთ თვითმფრინავის რეჟიმი და ისევ სცადეთ.</string>
+    <string name="mobile_hotspot_toast_internet_sharing">ინტერნეტით გაზიარება</string>
+    <string name="mobile_hotspot_wifi_sharing">Wi-Fi გაზიარება</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_disabled">გამორთვა</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_enabled">ჩართვა</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_message">თქვენი ტელეფონის Wi-Fi ქსელი გაზიარდება, თუ მობილურ ცხელ წერტილს ჩართავთ, როდესაც დაკავშირებულია Wi-Fi ქსელი. გაზიარებამდე დარწმუნდით, რომ გაქვთ ნებართვა ქსელის მფლობელისგან.</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_title">მობილური ცხელი წერილი აზიარებს Wi-Fi ქსელს</string>
+    <string name="mobileap">მობილური ცხელი წერტილი</string>
+    <string name="monitoring_description_do_body_vpn">თქვენ დაკავშირებული ხართ %s VPN-თან, რომელსაც შეუძლია თვალი ადევნოს თქვენ ქსელში აქტივობას, მათ შორის ელფოსტებს, აპლიკაციებსა და ვებსაიტებს.</string>
+    <string name="monitoring_description_named_vpn">თქვენ დაკავშირებული ხართ %s VPN-თან, რომელსაც შეუძლია თვალი ადევნოს თქვენ ქსელში აქტივობას, მათ შორის ელფოსტებს, აპლიკაციებსა და ვებსაიტებს.</string>
+    <string name="monitoring_description_vpn_settings">VPN პარამეტრები</string>
+    <string name="multiwindow_overheat_warning_dialog_body_phone">ტელეფონი ზედმეტად ცხელია. დააცადეთ გაგრილება, სანამ ისევ გამოიყენებთ მრავალფანჯრიან რეჟიმს.</string>
+    <string name="multiwindow_overheat_warning_dialog_body_tablet">პლანშეტი ზედმეტად ცხელია. დააცადეთ გაგრილება, სანამ ისევ გამოიყენებთ მრავალფანჯრიან რეჟიმს.</string>
+    <string name="multiwindow_overheat_warning_dialog_title">მრავალფანჯრიანი რეჟიმი დაიხურა</string>
+    <string name="mw_divider_button_close">აპლიკაციის დახურვა</string>
+    <string name="negative_color_title">ნეგატივის ფერები</string>
+    <string name="no">გაუქმება</string>
+    <string name="no_app_can_perform_this_action">პროგრამა ვერ მოიძებნა ამ მოქმედების შესასრულებლად.</string>
+    <string name="no_sim_notification_text">ჩადეთ SIM ბარათი.</string>
+    <string name="no_sim_notification_text_cct">ჩადეთ Xfinity მობილურის SIM. დამატებითი ინფორმაციის მისაღებად, ეწვიეთ საიტს xfinitymobile.com/activate ან დაგვირეკეთ ნომერზე 888-936-4968.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="no_sim_notification_title">SIM არაა</string>
+    <string name="no_sim_notification_title_cct">No SIM card detected</string>
+    <string name="no_sim_notification_title_tmo">SIM ბარათი არ დევს</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_such_item">სურათი ვერ იძებნება.</string>
+    <string name="noti_direct_reply_exceed_text_limit_toast">ტექსტს ვეღარ შეიყვანთ.</string>
+    <string name="noti_setting_text">შეტყობინების პარამეტ.</string>
+    <string name="noti_toast_wifi_is_not_available">WLAN-ი მიუწვდომელია. მობილურ ქსელებთან დაკავშირებისთვის, შეიძლება დაგერიცხოთ დამატებითი გადასახადი, თქვენი სატარიფო გეგმის შესაბამისად.</string>
+    <string name="notification_cancel">გაუქმება</string>
+    <string name="notification_channel_blocked">შეტყობინებები და ღილაკის ნიშნები დაბლოკილია</string>
+    <string name="notification_channel_ongoing">მიმდინარე</string>
+    <string name="notification_done">მზადაა</string>
+    <string name="notification_info_detail_button">დეტალები</string>
+    <string name="notification_info_radio_alert_text">გამაფრთხილებელი სიგნალი</string>
+    <string name="notification_info_radio_silent_text">სიჩუმე</string>
+    <string name="notification_info_save_button">შენახვა</string>
+    <string name="notification_save">შენახვა</string>
+    <string name="notification_section_header_gentle">ჩუმი შეტყობინებები</string>
+    <string name="notification_settings_icon_description">აპლიკაციის შეტყობინების პარამეტრები</string>
+    <string name="notification_unblockable_desc">ამ შეტყობინებების გამორთვა შეუძლებელია.</string>
+    <string name="ok">კი</string>
+    <string name="one_item_will_be_deleted">წაიშალოს ეს ეკრანის ანაბეჭდი?</string>
+    <string name="overheat_poweroff_notice_text">"თქვენი მოწყობილობა გადახურდა. ის გამოირთო, რომ არ დაზიანებულიყო.
+
+გადახურების მიზეზი შეიძლება იყოს:
+- გრაფიკულად დატვირთული ისეთი პროგრამების ხანგრძლივი გამოყენება, როგორიცაა თამაში და ნავიგაციის პროგრამები.
+- დიდი ფაილების გადაცემა.
+- მოწყობილობის გამოყენება ცხელ გარემოში."</string>
+    <string name="overheat_poweroff_notice_title">მოწყობილობა ავტომატურად გამოირთო</string>
+    <string name="overheat_poweroff_warning_text_append">მოწყობილობის ჩართვას მხოლოდ მისი გაგრილების შემდეგ შეძლებთ.</string>
+    <string name="overheat_poweroff_warning_text_new">თქვენი მოწყობილობა გადახურების პირასაა. იმისათვის რომ გაგრილდეს, ის გამოირთვება %d წამში.</string>
+    <string name="overheat_poweroff_warning_title">გამორთეთ მოწყობილობა</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got hot. It turned off to prevent damage to the phone.
+
+This can be caused by:
+Using graphics-intensive apps, like video games and navigation apps, for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_warning_text">"Your phone is getting hot.
+It will now turn off to cool down."</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_title">Turning off</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_editor">ფოტო რედაქტორი</string>
+    <string name="popupui_dialog_turn_on_button">ჩართვა</string>
+    <string name="powerui_power_sharing_alert_dialog_body">"You must download the app in order to control the amount of power shared. If you connect your device to another device with the Samsung's Power Sharing Cable EP-SG900 without the app, the entire battery amount will be transferred to the other device. 
+Connect to Samsung Apps and download the application."</string>
+    <string name="private_dns_mode_off">გამორთვა</string>
+    <string name="private_dns_mode_opportunistic">ავტომატური</string>
+    <string name="private_dns_mode_provider">პირადი DNS-ის პროვაიდერის ჰოსტინგის სახელი</string>
+    <string name="private_dns_mode_provider_hostname_hint">შეიყვანეთ DNS პროვაიდერის ჰოსტინგის სახელი</string>
+    <string name="qs_detail_capture_mode">Screen capture mode</string>
+    <string name="qs_detail_capture_mode_text">Select the function you want to add to the quick settings panel.</string>
+    <string name="qs_detail_capture_screen">ეკრანის სურათის გადაღება</string>
+    <string name="qs_detail_flashlight_title">ფანარი</string>
+    <string name="qs_detail_palm_capture_description">ეკრანის ანაბეჭდის გადასაღებად, გადაუსვით ხელის გვერდი ეკრანს.</string>
+    <string name="qs_detail_palm_capture_title">გადაიღეთ მტევნის გადასმით</string>
+    <string name="qs_detail_recorder_screen">Record screen</string>
+    <string name="qs_detail_smart_capture_description">ეკრანის ანაბეჭდებს დაურთეთ ეკრანზე დამალული ადგილები. ასევე შეგიძლიათ დაარედაქტიროთ ან გააზიაროთ ეკრანის ანაბეჭდები, მათი გადაღების შემდეგ.</string>
+    <string name="qs_detail_smart_capture_title">ინტელექტუალური გადაღება</string>
+    <string name="qs_edit_panel_badge_text">ა</string>
+    <string name="qs_edit_setting_active_area_tapped">სწრაფი პარამეტრების დაფაზეა.</string>
+    <string name="qs_edit_setting_available_area_tapped">სწრაფი პარამეტრების დაფაზე არ არის.</string>
+    <string name="qs_edit_summary">თითით გადაიტანეთ, რომ დაამატოთ ღილაკები</string>
+    <string name="qs_location_consent_dialog_body_message_dcm">GPS ლოკაცია და თქვენი ლოკაციის მონაცემების გამოყენება იმართება თქვენს მიერ გამოყენებული პროგრამების მიერ.</string>
+    <string name="qs_location_consent_dialog_body_message_vzw">"თქვენს ტელეფონს შეუძლია მისი დაახლოებითი ლოკაციის გაზიარება აპებთან და სერვისებთან, როგორიცაა რუკები, შოპინგი და ამინდი.
+
+აპები და სერვისები, რომლებიც იყენებენ თქვენს ლოკაციას, უნდა გაცნობებდნენ ამის შესახებ. გამოყენების დაწყებამდე წაიკითხეთ აპის ან სერვისის მომწოდებლის კონფიდენციალურობის დებულება, რომ იცოდეთმის მიერ თქვენი ინფორმაციის შეგროვების, გამოყენების და გაზიარების წესები.
+
+თქვენი ლოკაციის განსაზღვრა გამოიყენებს მობილურ ქსელს. დაგეკისრებათ მონაცემთა საფასური."</string>
+    <string name="qs_location_consent_dialog_body_message_vzw_tablet">"თქვენს პლანშეტს შეუძლია მისი დაახლოებითი ლოკაციის გაზიარება აპებთან და სერვისებთან, როგორიცაა რუკები, შოპინგი და ამინდი.
+
+აპები და სერვისები, რომლებიც იყენებენ თქვენს ლოკაციას, უნდა გაცნობებდნენ ამის შესახებ. გამოყენების დაწყებამდე წაიკითხეთ აპის ან სერვისის მომწოდებლის კონფიდენციალურობის დებულება, რომ იცოდეთმის მიერ თქვენი ინფორმაციის შეგროვების, გამოყენების და გაზიარების წესები.
+
+თქვენი ლოკაციის განსაზღვრა გამოიყენებს მობილურ ქსელს. დაგეკისრებათ მონაცემთა საფასური."</string>
+    <string name="qs_location_consent_dialog_title_dcm">მომხმარებლის თანხმობა</string>
+    <string name="qs_location_consent_dialog_title_vzw">ლოკაციის შესახებ თანხმობა</string>
+    <string name="qs_location_detail_default_title">ლოკაცია</string>
+    <string name="qs_location_detail_gps_title">GPS</string>
+    <string name="qs_location_detail_mode_battery_saving">ენერგიის დაზოგვა</string>
+    <string name="qs_location_detail_mode_battery_saving_description">თქვენი ლოკაციის დასადგენად იყენებს Wi-Fi-სა და მობილურ ქსელებს</string>
+    <string name="qs_location_detail_mode_high_accuracy">მაღალი სიზუსტე</string>
+    <string name="qs_location_detail_mode_high_accuracy_description">თქვენი ლოკაციის დასადგენად იყენებს GPS-ს, Wi-Fi-სა და მობილურ ქსელებს</string>
+    <string name="qs_location_detail_mode_sensors_only_description">თქვენი ლოკაციის დასადგენად იყენებს GPS-ს</string>
+    <string name="qs_location_detail_mode_sensors_only_phone">მხოლოდ ტელეფონი</string>
+    <string name="qs_location_detail_mode_sensors_only_tablet">მხოლოდ პლანშეტი</string>
+    <string name="qs_location_detail_mode_summary_title">ლოკაციის მეთოდი</string>
+    <string name="qs_location_detail_summary_default">თქვენი ლოკაციის დასადგენად იყენებს GPS-ს, Wi-Fi-სა და მობილურ ქსელებს</string>
+    <string name="qs_multisim_data_preffered_btn_title">მობილური მონაცემები</string>
+    <string name="qs_multisim_data_switching">"ჯერ ისევ მიმდინარეობს SIM ბარათზე გადართვა…
+მოგვიანებით სცადეთ."</string>
+    <string name="qs_multisim_data_turned_off">გამორთულია</string>
+    <string name="qs_multisim_sim_card_manager">SIM ბარათების მმართველი</string>
+    <string name="qs_multisim_sms_preffered_btn_title">ტექსტური წერილი</string>
+    <string name="qs_multisim_voice_ask_always">ყოველთვის მკითხე</string>
+    <string name="qs_multisim_voice_others">სხვები</string>
+    <string name="qs_multisim_voice_preffered_btn_title">ზარები</string>
+    <string name="qs_navigation_bar_detail_description">როდესაც არჩეულია „ჟესტები სრულ ეკრანზე“, შეგიძლიათ დამალოთ ნავიგაციის ზოლი და გამოიყენოთ თითის გადასმის ჟესტები, რომ დაბრუნდეთ უკან, გადახვიდეთ საწყის გვერდზე, ან ნახოთ ბოლოდროინდელი აპლიკაციები.</string>
+    <string name="qs_navigation_bar_detail_full_screen_gestures_options">ჟესტები სრულ ეკრანზე</string>
+    <string name="qs_navigation_bar_detail_navigation_buttons_options">ნავიგაციის ღილაკები</string>
+    <string name="qs_navigation_bar_detail_title">ნავიგაციის დაფა</string>
+    <string name="qs_navigation_bar_detail_title_option">აირჩიეთ ნავიგაციის ტიპი.</string>
+    <string name="qs_navigation_bar_exclusive_function_turn_off_onehand_mode_desc">„ჟესტები სრულ ეკრანზე“ რომ გამოიყენოთ, „ცალი ხელით მოქმედების რეჟიმის“ პარამეტრი უნდა შეცვალოთ „ჟესტით“.</string>
+    <string name="qs_navigation_bar_label">"ნავიგაციის
+ზოლი"</string>
+    <string name="qs_navigation_bar_setting_button">პარამეტრები</string>
+    <string name="qs_navigation_bar_toast_acceesibility">ნავიგაციის ზოლის გამორთვა შეუძლებელია, როდესაც ჩანს წვდომის ღილაკი.</string>
+    <string name="qs_navigation_bar_toast_voice_assistant_enabled">ნავიგაციის ზოლის გამორთვა შეუძლებელია, როდესაც Voice Assistant ჩართულია.</string>
+    <string name="qspanel_brightness_auto_brightness_summary">აღრიცხეთ თქვენ მიერ მორგებული სიკაშკაშე და ავტომატურად გამოიყენეთ ისინი მსგავსი განათების პირობებში.</string>
+    <string name="qspanel_brightness_auto_brightness_summary_nopac">ავტომატურად შეარჩიეთ ეკრანის განათებულობა, განათების მიმდინარე პირობებზე დაყრდნობით.</string>
+    <string name="qspanel_brightness_auto_brightness_title">ადაპტირებადი სიკაშკაშე</string>
+    <string name="qspanel_brightness_detail_level">დონე</string>
+    <string name="qspanel_brightness_detail_title">განათება</string>
+    <string name="qspanel_brightness_outdoor_mode_summary">გაზარდეთ ეკრანის სიკაშკაშე, რომ დაინახოთ შენობის გარეთ. 15 წუთის შემდეგ, „ქუჩის რეჟიმი“ გამოირთვება, თუ ეკრანის გამოყენებას არ განაგრძობთ.</string>
+    <string name="qspanel_brightness_outdoor_mode_title">შენობის გარეთ რეჟიმი</string>
+    <string name="qspanel_media_button_text">მედია</string>
+    <string name="qspanel_media_devices_button_hide_text">მედია/მოწყობ-ების დამალვა</string>
+    <string name="qspanel_media_devices_button_show_text">მედია/მოწყობ-ების ჩვენება</string>
+    <string name="qspanel_quickcontrol_button_text">მოწყობილობები</string>
+    <string name="qspanel_show_brightness_on_top_summary">განათებულობის დამარეგულირებელი გამოჩნდეს შეტყობინებათა დაფის ზემოთ.</string>
+    <string name="qspanel_show_brightness_on_top_title">განათებულობის ჩვენება ზემოთ</string>
+    <string name="qspanel_show_multi_sim_info_title">მულტი-SIM-ის ინფოს ჩვენება</string>
+    <string name="quick_panel_data_usage">გამოყენებული მონაცემები</string>
+    <string name="quick_settings_airplane_mode_label">"ფრენის
+რეჟიმი"</string>
+    <string name="quick_settings_allow">დაშვება</string>
+    <string name="quick_settings_blf_detail_seekbar">გამჭვირვალობა</string>
+    <string name="quick_settings_blf_detail_summary">თვალის დაძაბვის შესამცირებლად, შეამცირეთ ეკრანიდან ცისფერი გამოსხივება.</string>
+    <string name="quick_settings_block">დაბლოკვა</string>
+    <string name="quick_settings_bluelightfilter_detail_title">ლურჯი გამოსხივების ფილტრი</string>
+    <string name="quick_settings_bluelightfilter_label">"ლურჯის
+ფილტრი"</string>
+    <string name="quick_settings_bluetooth_connected_devices">"დაკავშირდა %d
+მოწყობილობა"</string>
+    <string name="quick_settings_bluetooth_detail_available_devices_title">ხელმისაწვდომები</string>
+    <string name="quick_settings_bluetooth_detail_empty_text_available">Bluetooth მოწყობილობები ვერ მოიძებნა ახლომახლო</string>
+    <string name="quick_settings_bluetooth_detail_off_text">ჩართეთ Bluetooth და ნახეთ მოწყობილობები, რომლებთანაც შეიძლება დაწყვილება, ან რომლებიც უკვე დაწყვილებულია.</string>
+    <string name="quick_settings_bluetooth_detail_paired_devices_title">დაწყვილებული მოწყობილობები</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_scanning">იძებნება Bluetooth მოწყობილობები…</string>
+    <string name="quick_settings_cancel">გაუქმება</string>
+    <string name="quick_settings_data_roaming_detail_title">მონაცემთა როუმინგი</string>
+    <string name="quick_settings_data_roaming_label">"მონაცემ.
+როუმინგი"</string>
+    <string name="quick_settings_dnd_detail_title">არ შემაწუხოთ</string>
+    <string name="quick_settings_dnd_summary">გამორთეთ ყველა ზარისა და სიგნალის ხმა, თქვენ მიერ შერჩეული გამონაკლისების გარდა.</string>
+    <string name="quick_settings_done">მზადაა</string>
+    <string name="quick_settings_dual_label_content_description">შესაბამისი სწრაფი პარამეტრების სანახავად, გამოიყენეთ „%s“, „ღილაკის იარლიყი“, „ორჯერ შეხება“.</string>
+    <string name="quick_settings_enable">ჩართვა</string>
+    <string name="quick_settings_flashlight_detail_level">დონე</string>
+    <string name="quick_settings_flashlight_detail_title">განათება</string>
+    <string name="quick_settings_flashlight_detail_warning">კანთან ხანგრძლივი კონტაქტის შედეგად, კამერის ნათებამ შეიძლება გამოიწვიოს კანის დაბალტემპერატურული დამწვრობა. შეეცადეთ, არ დატოვოთ %s ჩართული ხანგრძლივი დროის განმავლობაში.</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_non_volte_vzw">"როდესაც თვითმფრინავის რეჟიმი ჩართულია, ვერ გამოიყენებთ ინტერნეტს, ელფოსტას, ან სხვა აპლიკაციებს, რომლებისთვისაც საჭიროა მონაცემთა კავშირი, თუ არ იყენებთ Wi-Fi-ს.
+
+ჩართავთ თვითმფრინავის რეჟიმს?"</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_volte_vzw">"როდესაც თვითმფრინავის რეჟიმი ჩართულია, ვერ გამოიყენებთ ინტერნეტს, ელფოსტას, Wi-Fi ზარს, ან სხვა აპლიკაციებს, რომლებისთვისაც საჭიროა მონაცემთა კავშირი, თუ არ იყენებთ Wi-Fi-ს.
+
+ჩართავთ თვითმფრინავის რეჟიმს?"</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_non_volte_vzw">Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_volte_vzw">Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Airplane mode is on.</string>
+    <string name="quick_settings_flight_mode_detail_summary">"გამორთავს ყელა ქსელურ კავშირს, მათ შორის, ზარის განხორციელებას, ტექსტურ შეტყობინებას, ინტერნეტთან წვდომას, Wi-Fi-სა და Bluetooth-ს.
+
+როდესაც თვითმფრინავის რეჟიმი ჩართულია, შეგიძლიათ პარამეტრებში ან სწრაფი პარამეტრების დაფაზე ისევ ჩართოთ Wi-Fi და Bluetooth."</string>
+    <string name="quick_settings_flight_mode_detail_summary_lte_without_call_feature_tablet">"გამორთეთ „მობილური მონაცემები“.
+
+Wi-Fi და Bluetooth ასევე გამოირთვება, მაგრამ მათ ჩართვას კვლავ შეძლებთ „პარამეტრებში“ ან სწრაფი პარამეტრების დაფაზე."</string>
+    <string name="quick_settings_flight_mode_detail_summary_wifi_tablet">"გამორთეთ Wi-Fi და Bluetooth.
+
+მათ ჩართვას კვლავ შეძლებთ „პარამეტრებში“ ან სწრაფი პარამეტრების დაფაზე."</string>
+    <string name="quick_settings_flight_mode_detail_title">თვითმფრინავის რეჟიმი</string>
+    <string name="quick_settings_it_policy_prevents">უსაფრთხოების პოლიტიკა კრძალავს %s-ის გამოყენებას.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_summary">დაუშვით ეკრანის მობრუნება ხელით, როდესაც ტელეფონის ორიენტაცია შეიცვლება.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_title">რუნვის ღილაკი ნავიგაციის ზოლზე</string>
+    <string name="quick_settings_manual_rotation_category">ხელით მობრუნება</string>
+    <string name="quick_settings_mobile_data_detail_summary">დაუკავშირდით ინტერნეტს მობილური ქსელით.</string>
+    <string name="quick_settings_mobile_data_detail_title">მობილური მონაცემები</string>
+    <string name="quick_settings_mobile_data_label">"მობილ.
+მონაცემ."</string>
+    <string name="quick_settings_mobile_hotspot_label">"მობ. ცხელი
+წერტილი"</string>
+    <string name="quick_settings_mobile_hotspot_label_jpn">"Wi-Fi
+წერტილი"</string>
+    <string name="quick_settings_phone_visibility_label">"ტელეფონის
+ხილვადობა"</string>
+    <string name="quick_settings_reading_mode_detail_title">წაკითხვის რეჟიმი</string>
+    <string name="quick_settings_reading_mode_label">"კითხვის
+რეჟ."</string>
+    <string name="quick_settings_reading_mode_summary">ეკრანი ოპტიმიზირებულია წაკითხვისთვის. ეს რეჟიმი მუშაობს მხოლოდ შერჩეულ პროგრამებში.</string>
+    <string name="quick_settings_reset">თავიდან დააყენე</string>
+    <string name="quick_settings_rotation_category">ეკრანის მობრუნება პანორამის რეჟიმში</string>
+    <string name="quick_settings_rotation_detail_call_screen">ხმოვანი ზარის ეკრანი</string>
+    <string name="quick_settings_rotation_detail_home_screen">საწყისი გვერდი</string>
+    <string name="quick_settings_rotation_detail_lock_screen">დაბლოკილი ეკრანი</string>
+    <string name="quick_settings_rotation_lock_auto_rotate">ავტომატური ბრუნვა</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary">ავტომატურად მობრუნდეს ეკრანი, როდესაც შეიცვლება ტელეფონის ორიენტაცია.</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary_for_tablet">ავტომატურად მობრუნდეს ეკრანი, როდესაც შეიცვლება პლანშეტის ორიენტაცია.</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_sec_dnd_label">"არ
+შემაწუხო"</string>
+    <string name="quick_settings_sec_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_sound_mode_detail_label">ხმის რეჟიმი</string>
+    <string name="quick_settings_sound_mode_detail_mixer_dnd_turned_on">„არ შემაწუხო“ ჩართულია</string>
+    <string name="quick_settings_sound_mode_detail_mixer_title">ხმის სიმაღლე</string>
+    <string name="quick_settings_sound_mode_detail_mute_remaining">დარჩენილი დრო: %s</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_duration">უხმო რეჟიმის ხანგრძლივობა</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_summary">დაბრუნდეს ხმის წინა რეჟიმი, როდესაც გავა თქვენ მიერ დაყენებული დრო. დროის დასაყენებლად შეეხეთ დეტალებს.</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_title">ხმის გამორთვა დროებით</string>
+    <string name="quick_settings_sound_mode_mute_label">უხმო რეჟიმი</string>
+    <string name="quick_settings_sound_mode_sound_label">ხმა</string>
+    <string name="quick_settings_sound_mode_vibrate_label">ვიბრაცია</string>
+    <string name="quick_settings_tablet_visibility_label">"პლანშეტის
+ხილვადობა"</string>
+    <string name="quick_settings_wifi_detail_available_networks_title">არსებული ქსელები</string>
+    <string name="quick_settings_wifi_detail_current_network_title">მიმდინარე ქსელი</string>
+    <string name="quick_settings_wifi_detail_off_text">არსებული ქსელების სანახავად, ჩართეთ Wi-Fi.</string>
+    <string name="quick_settings_wifi_detail_scanning_text">იძებნება Wi-Fi ქსელები…</string>
+    <string name="quick_settings_work_mode_label">სამსახურის პროფილი</string>
+    <string name="quick_settings_workmode_detail_summary">"ჩართეთ %1$s, რომ ჩართოთ სამსახურის ყველა აპლიკაცია და დაუშვით ფონური სინქრონიზაცია და შეტყობინებები.
+
+გამორთეთ %2$s, რომ გამოიყენოთ ტელეფონი სამსახურიდან შეწყვეტების გარეშე."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet">"ჩართეთ %1$s, რომ ჩართოთ სამსახურის ყველა აპლიკაცია და დაუშვით ფონური სინქრონიზაცია და შეტყობინებები.
+
+გამორთეთ %2$s, რომ გამოიყენოთ პლანშეტი სამსახურიდან შეწყვეტების გარეშე."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet_work">"ჩართეთ სამსახურის პროფილი, რომ ჩართოთ სამსახურის ყველა აპლიკაცია და დაუშვათ ფონური სინქრონიზაცია და შეტყობინებები.
+
+გამორთეთ სამსახურის პროფილი, რომ გამოიყენოთ პლანშეტი სამსახურიდან ხელის შეშლის გარეშე."</string>
+    <string name="quick_settings_workmode_detail_summary_work">"ჩართეთ სამსახურის პროფილი, რომ ჩართოთ სამსახურის ყველა აპლიკაცია და დაუშვათ ფონური სინქრონიზაცია და შეტყობინებები.
+
+გამორთეთ სამსახურის პროფილი, რომ გამოიყენოთ ტელეფონი სამსახურიდან ხელის შეშლის გარეშე."</string>
+    <string name="remove">წაშლა</string>
+    <string name="reserve_battery_mode">ენერგიის დარეზერვების რეჟიმი</string>
+    <string name="retry">ხელახალი ცდა</string>
+    <string name="rotation_lock_auto_rotate">ავტომატური ბრუნვა</string>
+    <string name="rotation_lock_show_toast_mobile_keyboard_message">%s რომ ჩართოთ, მოწყობილობას მოხსენით კლავიატურის ყდა.</string>
+    <string name="safe_mode_alert_body">ტელეფონი გადაიტვირთება და ყველა აპლიკაცია ისევ მისაწვდომი გახდება.</string>
+    <string name="safe_mode_alert_body_tablet">პლანშეტი გადაიტვირთება და ყველა აპლიკაცია ისევ მისაწვდომი გახდება.</string>
+    <string name="safe_mode_alert_positive_button">გამორთვა</string>
+    <string name="safe_mode_alert_title">გამოირთოს „უსაფრთხო რეჟიმი“?</string>
+    <string name="safe_mode_noti_body">შეეხეთ აქ და გამოირთვება „უსაფრთხო რეჟიმი“.</string>
+    <string name="safe_mode_noti_title">უსაფრთხო რეჟიმი ჩართულია</string>
+    <string name="sanitized_content_text">შეეხეთ აქ და შეიყვანეთ %s.</string>
+    <string name="screen_capture_delete">წაშლა</string>
+    <string name="screen_capture_edit">შესწორება</string>
+    <string name="screen_capture_fail_for_security_policy">ეკრანის ასლის გადაღება შეუძლებელია, უსაფრთხოების პოლიტიკის გამო.</string>
+    <string name="screen_capture_fail_for_storage_capacity">აპარატის მეხსიერებაში არ არის საკმარისი ადგილი. წაშალეთ ზოგიერთი ფაილი და ისევ სცადეთ.</string>
+    <string name="screen_capture_share">გაზიარება</string>
+    <string name="screen_pinning_dialog_toast">ამ ჩამაგრებული აპლიკაციის მოსახსნელად, ერთდროულად ხანგრძლივად შეეხეთ ღილაკებს „ბოლოდროინდელები“ და „უკან“.</string>
+    <string name="screen_pinning_msg_in_gesture">ეს აპლიკაცია რომ ჩაამაგროთ, აუსვით თითი და დააყოვნეთ.</string>
+    <string name="screenshot_cancel">გაუქმება</string>
+    <string name="screenshot_guide_dialog_msg">ეკრანის ანაბეჭდის გადასაღებად, ერთდროულად ხანგრძლივად დააჭირეთ „ჩართვა-გამორთვის ღილაკსა“ და „ხმის დაწევის ღილაკს“.</string>
+    <string name="screenshot_guide_dialog_title">ეკრანის ასლების გადაღება</string>
+    <string name="screenshot_saved_text">შეეხეთ აქ და ნახეთ იგი.</string>
+    <string name="screenshot_saved_title">ეკრანის სურათი გადაღებულ.</string>
+    <string name="sec_accessibility_back">უკან</string>
+    <string name="sec_accessibility_home">სახლი</string>
+    <string name="sec_accessibility_quick_settings_finder">Finder-ით ძიება</string>
+    <string name="sec_accessibility_quick_settings_more_option">სხვა ვარიანტები</string>
+    <string name="sec_accessibility_quick_settings_power_off">გამორთვა</string>
+    <string name="sec_accessibility_recent">ბოლოდროინდელები</string>
+    <string name="sec_battery_discharging_duration">დარჩენილი ენერგიის გამოყენების სავარაუდო დრო: %s</string>
+    <string name="sec_battery_history_days_no_hours">%d დღე</string>
+    <string name="sec_battery_history_days_with_hours">%1$d დღე და %2$d სთ</string>
+    <string name="sec_battery_history_hours_no_minutes">%d სთ</string>
+    <string name="sec_battery_history_hours_no_seconds">%1$dსთ და %2$dწთ</string>
+    <string name="sec_battery_history_minutes_no_seconds">%d წთ</string>
+    <string name="sec_bluetooth_show_le_devices_without_names">BLE მოწყ-ების გამოჩენა უსახელოდ</string>
+    <string name="sec_bluetooth_show_le_devices_without_names_summary">გამოჩნდება Bluetooth-ის დაბალენერგიული მოწყობილობები, რომლებსაც არ აქვს სახელი (მხოლოდ MAC მისამართები აქვს).</string>
+    <string name="sec_brightness_eye_strain_dialog_message">მაღალი განათებულობის ხანგრძლივი პერიოდებით გამოყენებამ შეიძლება გაზარდოს ენერგიის ხარჯვა.</string>
+    <string name="sec_brightness_slider_hbm_text">მაქსიმალურადაა მორგებული საუკეთესო ხედვისთვის მაღალი განათების პირობებში</string>
+    <string name="sec_data_usage_disabled_dialog_body">მობილური მონაცემების გამოყენება დაპაუზებულია, რადგან მიღწეულია თქვენ მიერ დაყენებული ლიმიტი.</string>
+    <string name="sec_data_usage_disabled_dialog_body_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="sec_data_usage_disabled_dialog_enable">გაგრძელება</string>
+    <string name="sec_data_usage_disabled_dialog_enable_vzw">Turn on data</string>
+    <string name="sec_data_usage_disabled_dialog_keep_off">იყოს გმრთ.</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title">განაგრძობთ მობილური მონაცემებით?</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title_vzw">Mobile data is now off</string>
+    <string name="sec_data_usage_disabled_dialog_turn_off">გამორთვა</string>
+    <string name="sec_default_app">ნაგულისხმევად დაყენება</string>
+    <string name="sec_device_info_copied">ასლი შენახულია ბუფერში.</string>
+    <string name="sec_more_button_menu_contact_us">დაგვიკავშირდით</string>
+    <string name="sec_more_button_menu_edit">ღილაკების რიგი</string>
+    <string name="sec_more_button_menu_noti_settings">სტატუსის ზოლი</string>
+    <string name="sec_more_button_menu_qspanel_layout">სწრაფი დაფის განლაგება</string>
+    <string name="sec_no_default_app">არცერთი არ არის დაყენებული ნაგულისხმევად</string>
+    <string name="sec_qs_edit_panel_reset_dialog_message">დავაბრუნო ღილაკების საწყისი მიმდევრობა?</string>
+    <string name="sec_qs_unable_remove_minimum">ღილაკის წაშლა შეუძლებელია. სწრაფ დაფაზე უნდა იყოს მინიმუმ %d ღილაკი.</string>
+    <string name="sec_qspanel_brightness_disabled_toast_message">განათებულობის შეცვლა შეუძლებელია, როცა სხვა აპლიკაცია აკონტროლებს მას.</string>
+    <string name="sec_qspanel_layout_detail_title">სწრაფი დაფის განლაგება</string>
+    <string name="sec_quick_settings_details">დეტალები</string>
+    <string name="sec_quick_settings_finder_disabled">ძებნა ვერ დაიწყო. მოგვიანებით სცადეთ.</string>
+    <string name="sec_quick_settings_flashlight_label">ფანარი</string>
+    <string name="sec_quick_settings_rotation_locked_landscape_label">პანორამა</string>
+    <string name="sec_quick_settings_rotation_locked_portrait_label">პორტრეტი</string>
+    <string name="sec_quick_settings_rotation_unlocked_label">"ავტო
+ბრუნვა"</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_button">შეხედეთ</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_text">კლავიატურის ღილაკები გამოიყენეთ ფუნქციებისთვის: „საწყისი გვერდი“, „უკან“ და სხვა.</string>
+    <string name="sec_samsung_cloud_title">Samsung Cloud</string>
+    <string name="sec_video_call_title">ვიდეოზარი</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title">Auto ცხელი წერტილი</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title_jpn">ავტომატური Wi-Fi მობილური ინტერნეტი</string>
+    <string name="select_private_dns_configuration_dialog_title">პირადი DNS</string>
+    <string name="select_private_dns_configuration_title">პირადი DNS</string>
+    <string name="sesl_action_bar_up_description">ზემოთ გადასვლა</string>
+    <string name="sesl_action_menu_overflow_badge_description">გამოვიდა ახალი მასალა</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">ა</string>
+    <string name="sesl_action_menu_overflow_description">სხვა ოფციები</string>
+    <string name="sesl_preferencecategory_added_title">თავსართი</string>
+    <string name="sesl_search_hint">ძებნა</string>
+    <string name="sesl_searchview_description_clear">საძიებო ველის გასუფთავება</string>
+    <string name="sesl_searchview_description_query">საძიებო ფრაზა</string>
+    <string name="sesl_searchview_description_search">ძებნა</string>
+    <string name="sesl_searchview_description_submit">მოთხოვნის გაგზავნა</string>
+    <string name="sesl_searchview_description_voice">ძებნა ხმით</string>
+    <string name="sesl_switch_off">გამორთული</string>
+    <string name="sesl_switch_on">ჩართული</string>
+    <string name="sim_card_tray_empty_water_protection_dialog_body">წყლისგან დაზიანების ასარიდებლად, დარწმუნდით, რომ SIM ბარათის ლანგარი მჭიდროდაა დახურული.</string>
+    <string name="sim_card_tray_water_protection_dialog_body">"SIM ბარათი ვერ მოიძებნა. თქვენი ვერ შეძლებთ ზარების განხორციელებას, შეტყობინებების გაგზავნას და ვერც მობილური მონაცემების გამოყენებას.
+
+წყლისგან დაზიანების ასარიდებლად, დარწმუნდით, რომ SIM ბარათის ლანგარი ჰერმეტულადაა დახურული."</string>
+    <string name="sim_card_tray_water_protection_dialog_title">შეამოწმეთ SIM ბარათის ლანგარი</string>
+    <string name="sim_sd_card_tray_empty_water_protection_dialog_body">წყლისგან დაზიანების ასარიდებლად, დარწმუნდით, რომ SIM/SD ბარათის ლანგარი კარგადაა დახურული.</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_body">"SIM ბარათის ამოცნობა შეუძლებელია. თქვენი მოწყობილობა ვერ შეძლებს ისეთი მოქმედებების შესრულებას, როგორიცაა ზარების განხორციელება და მობილურ ქსელებთან დაკავშირება.
+
+წყლისგან დაზიანების ასარიდებლად, დარწმუნდით, რომ SIM/SD ბარათის ლანგარი ჰერმეტულადაა დახურული."</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_title">შეამოწმეთ SIM/SD ბარათის ლანგარი</string>
+    <string name="smart_tethering_ap_connected_summary">დაკავშირებული</string>
+    <string name="smart_tethering_ap_connecting_summary">უკავშირდება…</string>
+    <string name="smart_tethering_ap_connection_failed_summary">კავშირის დრო გავიდა</string>
+    <string name="smart_tethering_ap_low_battery_summary">ენერგია იცლება</string>
+    <string name="snooze_icon_description">თვლემის შეტყობინება</string>
+    <string name="snooze_notification_guide_text">ეს შეტყობინება გამოჩნდეს აქ:</string>
+    <string name="snooze_title">თვლემის შეტყობინება</string>
+    <string name="speed_label_fast">სწრაფი</string>
+    <string name="speed_label_very_fast">ძალიან ჩქარი</string>
+    <string name="status_bar_airplane">თვითმფრინავის რეჟიმი</string>
+    <string name="status_bar_high_performance_mode_description">მაღალ დონეზე მუშაობის რეჟიმი ჩართულია.</string>
+    <string name="status_bar_maximum_power_saving_description">ენერგიის მაქს. დაზოგვა ჩართულია</string>
+    <string name="status_bar_power_saving_description">ენერგიის დაზოგვა ჩართულია</string>
+    <string name="status_icon_alarm">მაღვიძარა</string>
+    <string name="status_unavailable">მიუწვდომელი</string>
+    <string name="str_smart_pop_up_view_description">"აირჩიეთ, რომელმა აპლიკაციებმა შეძლოს ისეთი შეტყობინებების გამოგზავნა თქვენთან, რომლებზე შეხებით შესაძლებელი იქნება გაშლა სარკმლის ხედით.
+
+ეს შესაძლებელია მხოლოდ იმ აპლიკაციებისთვის, რომლებსაც აქვს მულტი-ფანჯრის მხარდაჭერა."</string>
+    <string name="str_smart_pop_up_view_description_at_setting">შეტყობინებები მიიღეთ ნიშნებით, რომლებიც შეხებით გაიშლება სარკმლის ხედით.</string>
+    <string name="str_smart_pop_up_view_name">ჭკვიანი სარკმლის ხედი</string>
+    <string name="str_smart_pop_up_view_name_at_setting">ჭკვიანი სარკმლის ხედი</string>
+    <string name="str_suggested_app">შემოთავაზებული აპლიკაციები</string>
+    <string name="suggestion_to_minimize">გსურთ ამ შეტყობინებების ჩაკეცვა?</string>
+    <string name="switch_bar_off">გამორთული</string>
+    <string name="switch_bar_on">ჩართვა</string>
+    <string name="switched_to_onephone_mode">რეჟიმი შეიცვალა ერთი ნომრის რეჟიმით.</string>
+    <string name="switched_to_twophone_mode">რეჟიმი შეიცვალა ორი ნომრის რეჟიმით.</string>
+    <string name="sysui_in_app_search_app_name">სწრაფი დაფა</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tether_settings_title_all">მობილური ინტერნეტის გაზიარება</string>
+    <string name="time_format_hour">%d სთ</string>
+    <string name="time_format_hour_minute">%1$dსთ და %2$dწთ</string>
+    <string name="time_format_minute">%d წთ</string>
+    <string name="to_use_this_function_download_ps">ამ ფუნქციის გამოსაყენებლად, ჩამოტვირთეთ %s.</string>
+    <string name="to_use_this_function_download_the_following_application">"ამ ფუნქციის გამოსაყენებლად, ჩამოტვირთეთ შემდეგი პროგრამა:
+
+%s"</string>
+    <string name="tts_default_lang_title">ენა</string>
+    <string name="tts_default_pitch_title">ხმის ტონალობა</string>
+    <string name="tts_default_rate_title">საუბრის სიჩქარე</string>
+    <string name="tts_lang_use_system">სისტემის ენის გამოყენება</string>
+    <string name="tts_settings">წარმოსათქმელი ტექსტი</string>
+    <string name="tts_settings_title">წარმოსათქმელი ტექსტი</string>
+    <string name="tw_safe_media_volume_warning">მაღალ ხმაზე დიდი ხნით მოსმენის შედეგად შეიძლება დაგიზიანდეთ სმენა. შეეხეთ OK-ს, თუ გსურთ ხმა გაზარდოთ უსაფრთხოების დონეებზე მეტად.</string>
+    <string name="unable_to_capture_screen_emergencymode">ეკრანის ანაბეჭდის გადაღება შეუძლებელია გადაუდებელ რეჟიმში.</string>
+    <string name="unable_to_capture_screen_ultrapowersaving_mode">ეკრანის სურათის გადაღება შეუძლებელია.</string>
+    <string name="unable_to_open_ps_in_emergency_mode">%s ვერ გაიხსნება საგანგებო რეჟიმში.</string>
+    <string name="unable_to_open_ps_in_mpsm">%s ვერ გაიხსნება ენერგიის მაქსიმალური დაზოგვის რეჟიმში.</string>
+    <string name="unable_to_open_ps_in_upsm">%s ვერ გაიხსნება ენერგიის დაზოგვის ულტრა რეჟიმში.</string>
+    <string name="unable_to_turn_on_being_used_by_camera">ნათების ჩართვა შეუძლებელია, რადგან შუქს იყენებს სხვა აპლიკაცია.</string>
+    <string name="unintentional_lcd_on_alert_title">შემთხვევითი შეხებისგან დაცვა</string>
+    <string name="unintentional_lcd_on_alert_window_body">თქვენი ტელეფონი დაცულია შემთხვევითი შეხებისგან.</string>
+    <string name="unintentional_lcd_on_alert_window_body2">ტელეფონის ზედა ნაწილი სუფთა უნდა იყოს, რომ ასე არ მოხდეს.</string>
+    <string name="unintentional_lcd_on_alert_window_body2_tablet">პლანშეტის ზედა ნაწილი სუფთა უნდა იყოს, რომ ასე არ მოხდეს.</string>
+    <string name="unintentional_lcd_on_alert_window_body_drag_to_unlock">თითით აამოძრავეთ საკეტის ნიშანი, რომ განბლოკოთ</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity">ტელეფონი დაცულია უნებლიე შეხებისგან, როდესაც ის ბნელ ადგილზეა, მაგალითად, ჯიბეში ან ჩანთაში.</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity_tablet">პლანშეტი დაცულია უნებლიე შეხებისგან, როდესაც ის ბნელ ადგილზეა, მაგალითად, ჯიბეში ან ჩანთაში.</string>
+    <string name="unintentional_lcd_on_alert_window_body_tablet">თქვენი პლანშეტი დაცულია შემთხვევითი შეხებისგან.</string>
+    <string name="unknown">უცნობი</string>
+    <string name="unlock_workwindow_appname">შეეხეთ აქ, რომ განბლოკოთ %s.</string>
+    <string name="usb_damage_protection_alert_body1">ფრთხილად იყავით, რადგან შეიძლება შტეფსელი გახურდეს.</string>
+    <string name="usb_damage_protection_alert_body2_phone">დატენვა შეწყდა, რადგან ტელეფონი გადახურების პირასაა. გამოერთების შემდეგ, შეამოწმეთ სადენი დამტენის პორტი და დარწმუნდით, რომ არაფერი ეღობება კონტაქტს. ამის შემდეგ ისევ შეგიძლიათ მიუერთოთ სადენი და შეამოწმოთ, სწორად იტენება თუ არა ტელეფონი. თუ პრობლემა არ მოგვარდება, მიმართეთ Samsung-ის მომხმარებელთა მომსახურების ცენტრს.</string>
+    <string name="usb_damage_protection_alert_body2_tablet">დატენვა შეწყდა, რადგან პლანშეტი გადახურების პირასაა. გამოერთების შემდეგ, შეამოწმეთ სადენი დამტენის პორტი და დარწმუნდით, რომ არაფერი ეღობება კონტაქტს. ამის შემდეგ ისევ შეგიძლიათ მიუერთოთ სადენი და შეამოწმოთ, სწორად იტენება თუ არა პლანშეტი. თუ პრობლემა არ მოგვარდება, მიმართეთ Samsung-ის მომხმარებელთა მომსახურების ცენტრს.</string>
+    <string name="usb_damage_protection_alert_title">გამოაერთეთ ელექტროკვების სადენი</string>
+    <string name="user_guest">სტუმარი</string>
+    <string name="volume_alarm">სიგნალის ხმის სიმაღლე</string>
+    <string name="volume_amplify_ambient_sound_title">გარემოს ხმის გაძლიერება</string>
+    <string name="volume_icon_content_description_ringtone_to_mute">გამორთული ხმის რეჟიმის დაყენება</string>
+    <string name="volume_icon_content_description_ringtone_to_sound">ხმის დაყენება ხმის რეჟიმისთვის</string>
+    <string name="volume_icon_content_description_ringtone_to_vib">ვიბრაციის დაყენება ხმის რეჟიმისთვის</string>
+    <string name="volume_icon_content_description_to_mute">%s-ის ხმის გამორთვა</string>
+    <string name="volume_icon_content_description_to_unmute">%s-ის ხმის ჩართვა</string>
+    <string name="volume_icon_description_incall">ხმის სიმაღლე ზარისას</string>
+    <string name="volume_limiter_button_settings">პარამეტრ.</string>
+    <string name="volume_limiter_notice_toast">ხმის ასაწევად, გადადით პარამეტრებზე და გამორთეთ მედიის ხმის ლიმიტი, ან შეცვალეთ ხმის ლიმიტი.</string>
+    <string name="volume_limiter_open_cover_toast">გადახსენით საფარი, რომ განაგრძოთ.</string>
+    <string name="volume_limiter_toast_title">მიღწეულია ხმის სიმაღლის ლიმიტი</string>
+    <string name="volume_mute_all_sounds_on">„ყველა ხმის გამორთვა“ ჩართულია</string>
+    <string name="volume_panel_view_title">ხმის სიმაღლე</string>
+    <string name="volume_use_your_phone_volume_smart_view">%s-ის ხმის დასარეგულირებლად გამოიყენეთ ტელეფონის „ხმის რეგულირების ღილაკები“.</string>
+    <string name="volume_zen_mode_on">„არ შემაწუხო“ ჩართულია</string>
+    <string name="volumepanel_bixby_voice">Bixby Voice</string>
+    <string name="volumepanel_media">მედია</string>
+    <string name="volumepanel_notification">შეტყობინებები</string>
+    <string name="volumepanel_ringtone">ზარის მელოდია</string>
+    <string name="volumepanel_system">სისტემა</string>
+    <string name="warning_alert_check">აღარ მაჩვენო</string>
+    <string name="water_protection_notification_body">ამოცნობილია სინესტე. გამოაძრეთ დამტენი და დაიცადეთ, სანამ დამტენიცა და USB პორტიც არ გაშრება.</string>
+    <string name="water_protection_notification_title">გამორთეთ დამტენი</string>
+    <string name="wifi_adps_summary">ენერგიის გამოყენების შესამცირებლად, ჩაატარეთ Wi-Fi ტრაფიკის ნიმუშების ანალიზი.</string>
+    <string name="wifi_adps_title">Wi-Fi ენერგიის დაზოგვის რეჟიმი</string>
+    <string name="wifi_auto_reconnect_disabled">ავტომატური ხელახლა დაკავშირება გამორთულია</string>
+    <string name="wifi_connected_checking_quality">მოწმდება თქვენი ინტერნეტ-კავშირის ხარისხი…</string>
+    <string name="wifi_disabled_captive_portal">საჭიროა სისტემაში შესვლა.</string>
+    <string name="wifi_disabled_no_internet">ინტერნეტი მიუწვდომელია</string>
+    <string name="wifi_disabled_password_failure">მოხდა ავტორიზაციის შეცდომა</string>
+    <string name="wifi_failed_connect_message">ქსელთან დაკავშირება ვერ შესრულდა.</string>
+    <string name="wifi_failed_to_obtain_IP">IP მისამართის მიღება ვერ მოხდა.</string>
+    <string name="wifi_internet_may_not_be_available">დაკავშირებულია ინტერნეტის გარეშე</string>
+    <string name="wifi_open_network_summary">დაუცველი</string>
+    <string name="wifi_preference_details">პარამეტრები</string>
+    <string name="wifi_reconnecting">მზადაა რომ დაკავშირდეს, როდესაც გაუმჯობესდება ქსელის ხარისხი</string>
+    <string name="wifi_risk_ap_warning">დაუცველი</string>
+    <string name="wifi_safe_mode">Wi-Fi უსაფრთხო რეჟიმი</string>
+    <string name="wifi_safe_mode_summary">პრიორიტეტი მიანიჭეთ Wi-Fi სტაბილურობას, შესრულების ხარისხთან შედარებით.</string>
+    <string name="wifi_scan_throttling">Wi-Fi სკანირების რეგულირება</string>
+    <string name="wifi_scan_throttling_summary">ზოგავს ენერგიას და აუმჯობესებს ქსელის მუშაობას.</string>
+    <string name="wifi_secured_summary">დაცულია. უსაფრთხოების შესახებ დაწვრილებითი ინფორმაციის სანახავად, შეეხეთ უსაფრთხოების ამოცნობის ღილაკს.</string>
+    <string name="wifi_security_detection">უსაფრთხოების ამოცნობა</string>
+    <string name="wifi_sign_in_to_the_network">შედით ქსელში.</string>
+    <string name="wifi_tips_ap_guide_connection_blocked">კავშირი დაბლოკილია</string>
+    <string name="wifi_tips_ap_guide_couldnt_authenticate_connection">დაკავშირების ავტორიზაცია ვერ შესრულდა</string>
+    <string name="wifi_tips_ap_guide_couldnt_get_ip_address">IP მისამართის მიღება ვერ მოხერხდა</string>
+    <string name="wifi_tips_ap_guide_incorrect_password">პაროლი არასწორია</string>
+    <string name="wifi_tips_ap_guide_keeps_disconnecting">Wi-Fi დროდადრო ითიშება</string>
+    <string name="wifi_unknown_secured_ap">უსაფრთხოების ტიპი უცნობია. ამ წვდომის წერტილს ვერ დაუკავშირდებით.</string>
+    <string name="wifi_unknown_security_type">უსაფრთხოების ტიპი უცნობია.</string>
+    <string name="wifi_unsecured_summary">დაუცველია. უსაფრთხოების შესახებ დაწვრილებითი ინფორმაციის სანახავად, შეეხეთ უსაფრთხოების ამოცნობის ღილაკს.</string>
+    <string name="yes">კი</string>
+    <string name="zen_mode_duration_settings_title">ხანგრძლივობა</string>
+    <string name="zen_mode_forever">სანამ არ გამოვრთავ</string>
+</resources>

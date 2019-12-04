@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_01" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_01" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_02" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_03" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_04" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_05" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_06" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_07" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_08" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_08" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_08" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_07" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_06" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_05" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_04" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_03" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_02" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_01" />
+    <item android:duration="18" android:drawable="@drawable/minimize_container_trash_box_swallow_01" />
+</animation-list>

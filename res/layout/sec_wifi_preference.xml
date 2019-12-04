@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:paddingStart="@dimen/sec_wifi_list_item_start_padding" android:paddingEnd="@dimen/sec_wifi_list_item_end_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_wifi_list_text_margin" android:layout_marginBottom="@dimen/sec_wifi_list_text_margin" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:layout_gravity="center" android:layout_width="@dimen/list_app_icon_size" android:layout_height="@dimen/list_app_icon_size">
+                <ImageView android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/sec_wifi_list_item_text_start_padding">
+                <TextView android:textAppearance="?android:textAppearanceListItem" android:textColor="@color/wifi_preference_title_color" android:ellipsize="marquee" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                <TextView android:textAppearance="?android:textAppearanceListItemSecondary" android:textColor="@color/wifi_preference_summary_color" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="4" android:layout_below="@android:id/title" android:layout_alignStart="@android:id/title" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_gravity="end|center" android:id="@id/layout_details" android:visibility="gone" android:layout_width="@dimen/list_app_icon_size" android:layout_height="@dimen/list_app_icon_size">
+                <ImageView android:layout_gravity="end|center" android:id="@id/WifiDetails" android:background="@drawable/sec_bluetooth_preference_list_config_bg" android:layout_width="@dimen/wifi_list_config_icon_size" android:layout_height="@dimen/wifi_list_config_icon_size" android:src="@drawable/sec_wifi_preference_list_config_icon" android:contentDescription="@string/wifi_preference_details" style="@style/WiFiListSettingsIcon" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_gravity="end|center" android:id="@id/layout_disable" android:visibility="gone" android:layout_width="@dimen/list_app_icon_size" android:layout_height="@dimen/list_app_icon_size">
+                <ImageView android:layout_gravity="end|center" android:id="@id/WifiTipsIcon" android:background="@drawable/sec_bluetooth_preference_list_config_bg" android:layout_width="@dimen/wifi_list_config_icon_size" android:layout_height="@dimen/wifi_list_config_icon_size" android:src="@drawable/sec_wifi_preference_list_tips_icon" style="@style/WiFiListSettingsIcon" />
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="@dimen/wifi_list_detection_max_width" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/wifi_list_detection_left_padding">
+            <TextView android:textAppearance="?android:textAppearanceListItemSecondary" android:textColor="?android:textColorSecondary" android:id="@id/wifi_security_summary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="4" />
+            <Button android:textAppearance="?android:textAppearanceListItemSecondary" android:textSize="@dimen/wifi_list_detection_button_text_size" android:textStyle="bold" android:textColor="#fffafafa" android:id="@id/wifi_security_detection" android:background="@drawable/security_detection_button_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/wifi_list_detection_button_height" android:layout_marginTop="@dimen/wifi_list_detection_button_top_pending" android:layout_marginBottom="@dimen/wifi_list_detection_button_buttom_pending" android:text="@string/wifi_security_detection" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

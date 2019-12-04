@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.volume.view.VolumePanelScrollView android:id="@id/volume_panel_scroll_view" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:id="@id/volume_panel_view" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RelativeLayout android:orientation="vertical" android:id="@id/volume_panel_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:translationZ="0.0dip" />
+        <TextView android:textAppearance="@style/TextAppearance.Volume.Title" android:gravity="center" android:layout_gravity="start" android:id="@id/volume_panel_title" android:layout_width="wrap_content" android:layout_height="@dimen/volume_panel_title_height" android:layout_marginTop="@dimen/volume_panel_title_margin_top" android:text="@string/volume_panel_view_title" android:layout_marginStart="@dimen/volume_panel_title_margin_start" />
+        <com.android.systemui.volume.view.VolumePanelExpandButton android:layout_gravity="end" android:id="@id/volume_panel_expand_button" android:background="@drawable/volume_expand_button_ripple" android:layout_width="@dimen/volume_panel_expand_button_size" android:layout_height="@dimen/volume_panel_expand_button_size" android:layout_marginTop="@dimen/volume_panel_expand_button_margin_top" android:layout_marginEnd="@dimen/volume_panel_expand_button_margin_end" />
+        <RelativeLayout android:orientation="vertical" android:id="@id/volume_panel_main_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:translationZ="0.0dip">
+            <LinearLayout android:orientation="vertical" android:id="@id/volume_panel_contents_container" android:paddingTop="@dimen/volume_panel_row_container_padding_top" android:paddingBottom="@dimen/volume_panel_row_container_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@drawable/volume_row_separator" android:showDividers="middle" android:paddingStart="@dimen/volume_panel_row_container_padding_start" android:paddingEnd="@dimen/volume_panel_row_container_padding_end" />
+            <include layout="@layout/volume_panel_divider" />
+            <include layout="@layout/volume_panel_media_default_view" />
+            <include layout="@layout/volume_panel_status_message" />
+        </RelativeLayout>
+    </FrameLayout>
+</com.android.systemui.volume.view.VolumePanelScrollView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Аларм за %d дена</item>
+        <item quantity="one">Аларм за %d ден</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Аларм за %d часа</item>
+        <item quantity="one">Аларм за %d час</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Аларм за %d минути</item>
+        <item quantity="one">Аларм за %d минута</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Остануваат уште %d обиди.</item>
+        <item quantity="one">Останува уште %d обид.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(Има уште %d обиди)</item>
+        <item quantity="one">(Има уште 1 обид)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Имаше %1$d обиди за отклучување на овој телефон. Обидете се повторно за %2$d часа.</item>
+        <item quantity="one">Имаше %d обиди за отклучување на овој телефон. Обидете се повторно за 1 час.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Имаше %1$d обиди за отклучување на овој телефон. Обидете се повторно за %2$d минути.</item>
+        <item quantity="one">Имаше %d обиди за отклучување на овој телефон. Обидете се повторно за 1 минута.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Имаше %1$d обиди за отклучување на овој телефон. Обидете се повторно за %2$d секунди.</item>
+        <item quantity="one">Имаше %d обиди за отклучување на овој телефон. Обидете се повторно за 1 секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Пробајте ја Вашата биометрија повторно за %d секунди</item>
+        <item quantity="one">Пробајте ја Вашата биометрија повторно за %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Пробајте препознавање лице повторно за %d секунди</item>
+        <item quantity="one">Пробајте препознавање лице повторно за %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Пробајте го Вашиот отпечаток од прст повторно за %d секунди</item>
+        <item quantity="one">Пробајте го Вашиот отпечаток од прст повторно за %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Пробајте Интелигентно скенирање повторно за %d секунди</item>
+        <item quantity="one">Пробајте Интелигентно скенирање повторно за %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Пробајте препознавање зеници повторно за %d секунди</item>
+        <item quantity="one">Пробајте препознавање зеници повторно за %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Обидете се повторно за %d минути</item>
+        <item quantity="one">Обидете се повторно за %d минута</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Обидете се повторно за %d секунди</item>
+        <item quantity="one">Обидете се повторно за %d секунда</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d неточни обиди за потврдување на Вашата биометрија. Обидете се повторно за %2$d секунди.</item>
+        <item quantity="one">%1$d неточни обиди за потврдување на Вашата биометрија. Обидете се повторно за %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d неточни обиди за потврдување на Вашето лице. Обидете се повторно за %2$d секунди.</item>
+        <item quantity="one">%1$d неточни обиди за потврдување на Вашето лице. Обидете се повторно за %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d неточни обиди за потврдување на отпечатоците од прст. Обидете се повторно за %2$d секунди.</item>
+        <item quantity="one">%1$d неточни обиди за потврдување на отпечатоците од прст. Обидете се повторно за %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d неточни обиди за потврдување на Интелигентно скенирање. Обидете се повторно за %2$d секунди.</item>
+        <item quantity="one">%1$d неточни обиди за потврдување на Интелигентно скенирање. Обидете се повторно за %2$d секунда.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d неточни обиди за потврдување на Вашите зеници. Обидете се повторно за %2$d секунди.</item>
+        <item quantity="one">%1$d неточни обиди за потврдување на Вашите зеници. Обидете се повторно за %2$d секунда.</item>
+    </plurals>
+</resources>

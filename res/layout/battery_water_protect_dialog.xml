@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/guide_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/image_popup_remove" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="16.0sp" android:id="@id/notice_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/checkbox_popup_text_top_margin" android:fontFamily="sec-roboto-light" android:layout_marginStart="@dimen/checkbox_popup_text_margin" android:layout_marginEnd="@dimen/checkbox_popup_text_margin" style="?android:textAppearance" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

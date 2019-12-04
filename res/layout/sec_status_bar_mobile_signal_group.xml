@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.SecStatusBarMobileView android:gravity="center_vertical" android:id="@id/mobile_combo" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto">
+    <com.android.keyguard.AlphaOptimizedLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/mobile_group" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:id="@id/ims" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <FrameLayout android:id="@id/data_combo" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/data_type" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.android.systemui.statusbar.AnimatedImageView android:id="@id/data_activity" android:layout_width="wrap_content" android:layout_height="wrap_content" systemui:hasOverlappingRendering="false" />
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="center_vertical" android:id="@id/signal_combo" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.android.systemui.statusbar.AnimatedImageView android:id="@id/mobile_signal" android:layout_width="wrap_content" android:layout_height="wrap_content" systemui:hasOverlappingRendering="false" />
+            <com.android.systemui.statusbar.AnimatedImageView android:id="@id/mobile_roaming" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/data_connection_roaming" systemui:hasOverlappingRendering="false" />
+        </FrameLayout>
+    </com.android.keyguard.AlphaOptimizedLinearLayout>
+</com.android.systemui.statusbar.SecStatusBarMobileView>

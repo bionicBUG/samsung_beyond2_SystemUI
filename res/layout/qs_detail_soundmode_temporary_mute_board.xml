@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.qs.tiles.SoundModeTileTemporaryMuteBoard android:orientation="vertical" android:id="@id/soundmode_temporary_mute_container" android:background="@drawable/sec_qs_btn_borderless_rect_dark_ripple" android:paddingBottom="10.0dip" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.keyguard.AlphaOptimizedLinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_qs_detail_item_switch_top_margin" layout="@layout/sec_qs_detail_item_summary_switch" />
+    </com.android.keyguard.AlphaOptimizedLinearLayout>
+    <View android:id="@id/soundmode_temporary_mute_divider" android:background="@color/qs_detail_divider" android:layout_width="fill_parent" android:layout_height="@dimen/qs_detail_divider_height" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_marginStart="@dimen/qs_detail_items_side_padding" android:layout_marginEnd="@dimen/qs_detail_items_side_padding" />
+    <TextView android:textSize="13.0sp" android:textColor="@color/qs_detail_secondary_text_color" android:id="@id/soundmode_temporary_mute_remainging_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:fontFamily="sec-roboto-light" android:layout_marginStart="@dimen/qs_detail_items_side_padding" android:layout_marginEnd="@dimen/qs_detail_items_side_padding" />
+</com.android.systemui.qs.tiles.SoundModeTileTemporaryMuteBoard>

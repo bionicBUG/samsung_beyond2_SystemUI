@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">for %d dage siden</item>
+        <item quantity="one">for %d dag siden</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">for %d min. siden</item>
+        <item quantity="one">for %d min. siden</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">for %d år siden</item>
+        <item quantity="one">for %d år siden</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">Alarm om %d dage</item>
+        <item quantity="one">Alarm om %d dag</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">Alarm om %d timer</item>
+        <item quantity="one">Alarm om %d time</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">Alarm om %d minutter</item>
+        <item quantity="one">Alarm om %d minut</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d forsøg tilbage.</item>
+        <item quantity="one">%d forsøg tilbage.</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d resterende forsøg)</item>
+        <item quantity="one">(1 forsøg tilbage)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Der har været %1$d forsøg på at låse denne telefon op. Prøv igen om %2$d timer.</item>
+        <item quantity="one">Der har været %d forsøg på at låse denne telefon op. Prøv igen om 1 time.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Der har været %1$d forsøg på at låse denne telefon op. Prøv igen om %2$d minutter.</item>
+        <item quantity="one">Der har været %d forsøg på at låse denne telefon op. Prøv igen om 1 minut.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Der har været %1$d forsøg på at låse telefonen op. Prøv igen om %2$d sekunder.</item>
+        <item quantity="one">Der har været %d forsøg på at låse telefonen op. Prøv igen om 1 sekund.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Angiv pinkoden til SIM-kortet. Du har %d forsøg tilbage.</item>
+        <item quantity="one">Angiv pinkoden til SIM-kortet. Du har %d forsøg tilbage.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-kortet er nu deaktiveret. Angiv PUK-koden for at fortsætte. Du har %d forsøg tilbage, før SIM-kortet bliver permanent ubrugeligt. Kontakt dit mobilselskab for at få flere oplysninger.</item>
+        <item quantity="one">SIM-kortet er nu deaktiveret. Angiv PUK-koden for at fortsætte. Du har %d forsøg tilbage, før SIM-kortet bliver permanent ubrugeligt. Kontakt dit mobilselskab for at få flere oplysninger.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+        <item quantity="one">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Forkert PUK-kode til SIM-kort. Du har %d forsøg tilbage, før SIM-kortet bliver permanent ubrugeligt.</item>
+        <item quantity="one">Forkert PUK-kode til SIM-kort. Du har %d forsøg tilbage, før SIM-kortet bliver permanent ubrugeligt.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Enheden blev sidst låst op for %d timer siden. Bekræft adgangskoden.</item>
+        <item quantity="one">Enheden blev sidst låst op for %d time siden. Bekræft adgangskoden.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Enheden blev sidst låst op for %d timer siden. Bekræft mønsteret.</item>
+        <item quantity="one">Enheden blev sidst låst op for %d time siden. Bekræft mønsteret.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Enheden blev sidst låst op for %d timer siden. Bekræft pinkoden.</item>
+        <item quantity="one">Enheden blev sidst låst op for %d time siden. Bekræft pinkoden.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Prøv igen om %d sekunder.</item>
+        <item quantity="one">Prøv igen om %d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Prøv dine biometriske data igen om %d sekunder</item>
+        <item quantity="one">Prøv dine biometriske data igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">Prøv ansigtsgenkendelse igen om %d sekunder</item>
+        <item quantity="one">Prøv ansigtsgenkendelse igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Prøv dit fingeraftryk igen om %d sekunder</item>
+        <item quantity="one">Prøv dit fingeraftryk igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">Prøv Intelligent scanning igen om %d sekunder</item>
+        <item quantity="one">Prøv Intelligent scanning igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">Prøv irisgenkendelse igen om %d sekunder</item>
+        <item quantity="one">Prøv irisgenkendelse igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Prøv igen om %d minutter</item>
+        <item quantity="one">Prøv igen om %d minut</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Prøv igen om %d sekunder</item>
+        <item quantity="one">Prøv igen om %d sekund</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">%1$d forkerte forsøg på at bekræfte dine biometriske data. Prøv igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d forkerte forsøg på at bekræfte dine biometriske data. Prøv igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">%1$d forkerte forsøg på at bekræfte dit ansigt. Prøv igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d forkerte forsøg på at bekræfte dit ansigt. Prøv igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">%1$d forkerte forsøg på at bekræfte fingeraftryk. Prøv igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d forkerte forsøg på at bekræfte fingeraftryk. Prøv igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">%1$d forkerte forsøg på at bekræfte Intelligent scanning. Prøv igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d forkerte forsøg på at bekræfte Intelligent scanning. Prøv igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">%1$d forkerte forsøg på at bekræfte din iris. Prøv igen om %2$d sekunder.</item>
+        <item quantity="one">%1$d forkerte forsøg på at bekræfte din iris. Prøv igen om %2$d sekund.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s notifikationer mere i gruppen.</item>
+        <item quantity="one">%s notifikation mere i gruppen.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d enheder</item>
+        <item quantity="one">%d enhed</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Du kan tilføje op til %d brugere.</item>
+        <item quantity="one">Du kan tilføje op til %d bruger.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d enheder er tilsluttet</item>
+        <item quantity="one">%1$d enhed er tilsluttet</item>
+    </plurals>
+</resources>

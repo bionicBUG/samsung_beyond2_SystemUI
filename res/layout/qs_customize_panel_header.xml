@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/qs_edit_panel_header_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.QS.DetailButton" android:textSize="@dimen/qs_edit_button_text_size" android:id="@id/reset_button" android:focusable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="36.0dip" android:text="@string/quick_settings_reset" android:layout_weight="1.0" android:layout_marginStart="24.0dip" style="@style/QSBorderlessButton" />
+    <TextView android:textAppearance="@style/TextAppearance.QS.DetailButton" android:textSize="@dimen/qs_edit_button_text_size" android:id="@id/done_button" android:focusable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="36.0dip" android:text="@string/quick_settings_done" android:layout_weight="1.0" android:layout_marginEnd="24.0dip" style="@style/QSBorderlessButton" />
+</LinearLayout>

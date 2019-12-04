@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/facewidget_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sysui="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/facewidget_today_info_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/facewidget_event_information_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/facewidget_no_content_ripple_start_padding" android:paddingEnd="@dimen/facewidget_no_content_ripple_end_padding">
+            <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/facewidget_today_event_side" android:layout_marginEnd="@dimen/facewidget_today_event_side" layout="@layout/facewidget_today_no_event" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/facewidget_event_list_root" android:paddingTop="@dimen/facewidget_music_page_ripple_horizontal_padding" android:paddingBottom="@dimen/facewidget_music_page_ripple_horizontal_padding" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.android.systemui.facewidget.pages.calendar.FaceWidgetCalendarEventListView android:orientation="vertical" android:id="@id/facewidget_event_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/facewidget_today_event_side" android:layout_marginEnd="@dimen/facewidget_today_event_side" sysui:maxEventCnt="@dimen/facewidget_max_event_cnt" sysui:pageType="small" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

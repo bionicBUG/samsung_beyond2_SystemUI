@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d दिन पहले</item>
+        <item quantity="one">%d दिन पहले</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">%d मिनट पहले</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d साल पहले</item>
+        <item quantity="one">%d साल पहले</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_day">
+        <item quantity="other">अलार्म %d दिन में</item>
+        <item quantity="one">अलार्म %d दिन में</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_hour">
+        <item quantity="other">अलार्म %d घंटे में</item>
+        <item quantity="one">अलार्म %d घंटे में</item>
+    </plurals>
+    <plurals name="facewidget_alarm_in_minute">
+        <item quantity="other">अलार्म %d मिनट में</item>
+        <item quantity="one">अलार्म %d मिनट में</item>
+    </plurals>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">%d प्रयास शेष हैं।</item>
+        <item quantity="one">%d प्रयास शेष है।</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d प्रयास बाकी है)</item>
+        <item quantity="one">(1 प्रयास बाकी है)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">इस फोन को अनलॉक करने के लिए %1$d प्रयास किए जा चुके हैं। %2$d घंटों में फिर से प्रयास करें।</item>
+        <item quantity="one">इस फोन को अनलॉक करने के लिए %d प्रयास किए जा चुके हैं। 1 घंटे में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">इस फोन को अनलॉक करने के लिए %1$d प्रयास किए जा चुके हैं। %2$d मिनट में फिर से प्रयास करें।</item>
+        <item quantity="one">इस फोन को अनलॉक करने के लिए %d प्रयास किए जा चुके हैं। 1 मिनट में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">इस फोन को अनलॉक करने के लिए %1$d प्रयास किए जा चुके हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+        <item quantity="one">इस फोन को अनलॉक करने के लिए %d प्रयास किए जा चुके हैं। 1 सेकंड में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">सिम का पिन डालें. आपके पास %d मौके बचे हैं.</item>
+        <item quantity="one">सिम का पिन डालें. आपके पास %d मौके बचे हैं.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">सिम बंद कर दिया गया है. जारी रखने के लिए PUK कोड डालें. आपके पास %d मौके बचे हैं, उसके बाद, सिम हमेशा के लिए काम करना बंद कर देगा. जानकारी के लिए, मोबाइल और इंटरनेट सेवा देने वाली कंपनी से संपर्क करें.</item>
+        <item quantity="one">सिम बंद कर दिया गया है. जारी रखने के लिए PUK कोड डालें. आपके पास %d मौके बचे हैं, उसके बाद, सिम हमेशा के लिए काम करना बंद कर देगा. जानकारी के लिए, मोबाइल और इंटरनेट सेवा देने वाली कंपनी से संपर्क करें.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">गलत सिम पिन कोड, आप %d बार और कोशिश कर सकते हैं.</item>
+        <item quantity="one">गलत सिम पिन कोड, आप %d बार और कोशिश कर सकते हैं.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM PUK कोड गलत है, SIM के हमेशा के लिए बेकार हो जाने से पहले आप %d बार और कोशिश कर सकते हैं.</item>
+        <item quantity="one">SIM PUK कोड गलत है, SIM के हमेशा के लिए बेकार हो जाने से पहले आप %d बार और कोशिश कर सकते हैं.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पासवर्ड की पुष्टि करें.</item>
+        <item quantity="one">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पासवर्ड की पुष्टि करें.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पैटर्न की पुष्टि करें.</item>
+        <item quantity="one">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पैटर्न की पुष्टि करें.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पिन की पुष्‍टि करें.</item>
+        <item quantity="one">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पिन की पुष्‍टि करें.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d सेकंड में फिर से कोशिश करें.</item>
+        <item quantity="one">%d सेकंड में फिर से कोशिश करें.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">%d सेकंड में फिर से अपने बायोमेट्रिक्स का प्रयास करें</item>
+        <item quantity="one">%d सेकंड में फिर से अपने बायोमेट्रिक्स का प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_face">
+        <item quantity="other">%d सेकंड में फिर से चेहरे की पहचान का प्रयास करें</item>
+        <item quantity="one">%d सेकंड में फिर से चेहरे की पहचान का प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">%d सेकंड में फिर से अपने फिंगरप्रिंट का प्रयास करें</item>
+        <item quantity="one">%d सेकंड में फिर से अपने फिंगरप्रिंट का प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_ib">
+        <item quantity="other">%d सेकंड में फिर से इंटेलिजेंट स्कैन का प्रयास करें</item>
+        <item quantity="one">%d सेकंड में फिर से इंटेलिजेंट स्कैन का प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_iris">
+        <item quantity="other">%d सेकंड में फिर से आइरिस पहचान का प्रयास करें</item>
+        <item quantity="one">%d सेकंड में फिर से आइरिस पहचान का प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">%d मिनट में फिर से प्रयास करें</item>
+        <item quantity="one">%d मिनट में फिर से प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">%d सेकंड्स में फिर से प्रयास करें</item>
+        <item quantity="one">%d सेकंड में फिर से प्रयास करें</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">बायोमेट्रिक्स सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+        <item quantity="one">बायोमेट्रिक्स सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_face">
+        <item quantity="other">आपका चेहरा सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+        <item quantity="one">आपका चेहरा सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">फिंगरप्रिंट्स सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+        <item quantity="one">फिंगरप्रिंट्स सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_ib">
+        <item quantity="other">इंटेलिजेंट स्कैन सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+        <item quantity="one">इंटेलिजेंट स्कैन को सत्यापित करने के लिए, %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_iris">
+        <item quantity="other">आपकी आइरिसेस सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+        <item quantity="one">आपकी आइरिसेस सत्यापित करने के लिए %1$d गलत प्रयास किए गए हैं। %2$d सेकंड में फिर से प्रयास करें।</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">इसमें %s और सूचनाएं हैं.</item>
+        <item quantity="one">इसमें %s और सूचनाएं हैं.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d डिवाइस</item>
+        <item quantity="one">%d डिवाइस</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटे</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+        <item quantity="few">%d minutes</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">आप ज़्यादा से ज़्यादा %d उपयोगकर्ता जोड़ सकते हैं.</item>
+        <item quantity="one">आप ज़्यादा से ज़्यादा %d उपयोगकर्ता जोड़ सकते हैं.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d डिवाइस जुड़े हैं</item>
+        <item quantity="one">%1$d डिवाइस जुड़े हैं</item>
+    </plurals>
+</resources>

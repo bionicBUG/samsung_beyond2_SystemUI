@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_biometric_guide_popup_top_margin">27.0dip</dimen>
+    <dimen name="kg_biometric_guide_popup_top_margin_for_sip">71.0dip</dimen>
+    <dimen name="kg_biometric_help_text_top_margin">4.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_height">30.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_padding">27.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_text_view_width">188.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_top_margin">62.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_top_margin_for_landscape">42.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_width">30.0dip</dimen>
+    <dimen name="kg_biometric_retry_icon_width">23.0dip</dimen>
+    <dimen name="kg_biometric_small_icon_height">30.0dip</dimen>
+    <dimen name="kg_biometric_small_icon_help_text_max_width">542.0dip</dimen>
+    <dimen name="kg_biometric_small_icon_padding">15.0dip</dimen>
+    <dimen name="kg_biometric_small_icon_top_margin">24.0dip</dimen>
+    <dimen name="kg_biometric_small_icon_width">30.0dip</dimen>
+    <dimen name="kg_biometric_unlock_icon_height">30.0dip</dimen>
+    <dimen name="kg_biometric_unlock_icon_width">30.0dip</dimen>
+    <dimen name="kg_fmm_owner_message_max_width">307.0dip</dimen>
+    <dimen name="kg_iris_preview_height">144.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_bottom_margin_for_landscape_icon">62.0dip</dimen>
+    <dimen name="kg_biometric_recognition_icon_bottom_margin_for_landscape_text">214.0dip</dimen>
+    <dimen name="kg_biometric_recognition_small_icon_background_height">37.0dip</dimen>
+    <dimen name="kg_biometric_recognition_small_icon_left_margin">19.0dip</dimen>
+</resources>

@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_brightness_detail_button">ప్రకాశవంతం సెట్టింగ్‌ల ప్యానెల్</string>
+    <string name="accessibility_button">బటన్</string>
+    <string name="accessibility_display_daltonizer_preference_title">రంగు సవరణ</string>
+    <string name="accessibility_phone_four_bars">ఫోన్ సిగ్నల్ యొక్క నాలుగు బార్లు</string>
+    <string name="accessibility_qspanel_brightness_detail_button">ప్రకాశవంతం సెట్టింగ్‌ల ప్యానెల్</string>
+    <string name="agree">ఆమోదించు</string>
+    <string name="airplane_mode_show_popup_message">ఈ విమానం మోడ్‌ని ఆన్ చేయడం వల్ల కాలింగ్, మెసేజింగ్, మొబైల్ డేటా, Wi-Fi మరియు బ్లూటూత్ వంటి అన్ని నెట్‌వర్క్ ఫీచర్‌లను నిలిపివేస్తుంది. Wi-Fi మరియు బ్లూటూత్‌ని ఇప్పటికీ ఉపయోగించడానికి, వాటిని సెట్టింగ్‌లలో లేదా నోటిఫికేషన్ ప్యానెల్‌లో ఆన్ చేయండి.</string>
+    <string name="airplane_mode_show_popup_message_cmcc">విమాన మోడ్ కాల్ చేయడాన్ని, మెసేజింగ్ మరియు డేటా నెట్‌వర్క్ ఫీచర్‌లను ఆఫ్ చేయడానికి మిమ్మల్ని అనుమతిస్తుంది. ఇది Wi-Fi మరియు బ్లూటూత్ వంటి కనెక్టివిటీ ఫీచర్‌లను కూడా ఆఫ్ చేస్తుంది. Wi-Fi మరియు బ్లూటూత్ ఉపయోగించడానికి, వాటిని సెట్టింగ్‌లలో లేదా నోటిఫికేషన్ ప్యానెల్‌లో ఆన్ చేయండి.</string>
+    <string name="airplane_mode_show_popup_message_lte_without_call_feature_tablet">మీరు మొబైల్ డేటాని ఉపయోగించలేరు.</string>
+    <string name="airplane_mode_show_popup_message_vzw">"Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.
+Turn on Airplane mode?"</string>
+    <string name="airplane_mode_show_popup_message_wifi">Wi-Fi మరియు బ్లూటూత్ ఆఫ్ చేయబడతాయి, కానీ తర్వాత మీరు సెట్టింగ్‌లు లేదా త్వరిత సెట్టింగ్‌ల ప్యానెల్‌లో వాటిని మళ్లీ ఆన్ చేయవచ్చు.</string>
+    <string name="airplane_mode_show_popup_safelock">లాక్ ప్రారంభించబడినప్పుడు పవర్ ఆఫ్ నిరోధించబడినప్పుడు విమానం మోడ్‌ను ప్రారంభించడం సాధ్యం కాదు. స్క్రీన్‌ని అన్‌లాక్ చేసిన తరువాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="airplane_mode_show_popup_summary">ఈ విమానం మోడ్‌ని ఆన్ చేయడం వల్ల కాలింగ్, మెసేజింగ్, మొబైల్ డేటా, Wi-Fi మరియు బ్లూటూత్ వంటి అన్ని నెట్‌వర్క్ ఫీచర్‌లను నిలిపివేస్తుంది. Wi-Fi మరియు బ్లూటూత్‌ని ఇప్పటికీ ఉపయోగించడానికి, వాటిని సెట్టింగ్‌లలో లేదా నోటిఫికేషన్ ప్యానెల్‌లో ఆన్ చేయండి.</string>
+    <string name="airplane_mode_show_popup_summary_lte_without_call_feature_tablet">మొబైల్ డేటాను ఆఫ్ చేయండి.</string>
+    <string name="airplane_mode_show_popup_summary_wifi_tablet">Wi-Fi మరియు బ్లూటూత్‌ను ఆన్ చేయండి.</string>
+    <string name="airplane_mode_show_popup_title">విమానం మోడ్‌ని ఆన్ చేయాలా?</string>
+    <string name="airplane_mode_show_popup_title_vzw">Turn on Airplane mode</string>
+    <string name="airplane_mode_show_toast_turn_on_wifi_for_wificalling">Wi-Fi కాలింగ్‌ని ఉపయోగించడానికి Wi-Fiని ఆన్ చేయండి.</string>
+    <string name="airplane_mode_toast_impossible_during_call">కాల్ సమయంలో విమానం మోడ్‌ని ఆన్ చేయలేరు.</string>
+    <string name="allow_notifications_guide_text">నోటిఫికేషన్‌లను చూపు</string>
+    <string name="app_label">సిస్టమ్ UI</string>
+    <string name="assistance_app_setting_alert_dialog_title">Select an app to open when you press and hold the Home key. To change the selected app later, go to Device assistance app in Settings.</string>
+    <string name="assistance_app_setting_item_none">ఏదీకాదు</string>
+    <string name="battery_cable_charging_from_wireless_to_cable_text">వైర్‌లెస్ చార్జింగ్ నుండి కేబుల్ చార్జింగ్‌కు మారుతోంది</string>
+    <string name="battery_cable_charging_title">కేబుల్ ఛార్జింగ్</string>
+    <string name="battery_charging_level_and_time_text">"ఛార్జింగ్: %1$d%%
+(పూర్తిగా ఛార్జ్ కావడానికి దాదాపుగా %2$s)"</string>
+    <string name="battery_charging_level_text">ఛార్జ్ అవుతోంది: %d%%</string>
+    <string name="battery_charging_time_text">(పూర్తిగా ఛార్జ్ కావడానికి %s పడుతుంది)</string>
+    <string name="battery_charging_title">ఛార్జ్ అవుతుంది</string>
+    <string name="battery_fast_charging_title">వేగవంతమైన ఛార్జింగ్</string>
+    <string name="battery_fast_charging_title_chn">అధునాతన ఛార్జింగ్</string>
+    <string name="battery_fast_wireless_charging_title">వేగమైన వైర్‌లెస్ ఛార్జింగ్</string>
+    <string name="battery_fast_wireless_charging_title_chn">అధునాతన వైర్‌లెస్ ఛార్జింగ్</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_phone">"ఛార్జింగ్ నిలిపివేయబడింది. మీ ఫోన్ ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది. ఛార్జర్‌ను తీస్తున్నప్పుడు జాగ్రత్తగా ఉండండి. ఇది చాలా వేడిగా ఉండవచ్చు.
+
+ఛార్జ్‌ను తీసివేసి, మళ్లీ కనెక్ట్ చేయడం ద్వారా సాధారణంగా ఛార్జ్ అయ్యే అవకాశం ఉంది. ఎక్కువ వేడెక్కడం కొనసాగుతున్నట్లయితే, మంటలు ఏర్పడే లేదా గాయాలయ్యే అవకాశం ఉన్నందున కస్టమర్ సేవను సంప్రదించండి."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_tablet">"ఛార్జింగ్ నిలిపివేయబడింది. మీ టాబ్లెట్ చాలా వేడిగా ఉంది. ఛార్జర్‌ను తీస్తున్నప్పుడు జాగ్రత్తగా ఉండండి. ఇది చాలా వేడిగా ఉండవచ్చు.
+
+ఛార్జ్‌ను తీసివేసి, మళ్లీ కనెక్ట్ చేయడం ద్వారా సాధారణంగా ఛార్జ్ అయ్యే అవకాశం ఉంది. ఎక్కువ వేడెక్కడం కొనసాగుతున్నట్లయితే, మంటలు ఏర్పడే లేదా గాయాలయ్యే అవకాశం ఉన్నందున కస్టమర్ సేవను సంప్రదించండి."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_title">ఛార్జర్‌ను అన్‌ప్లగ్ చేయండి</string>
+    <string name="battery_health_interruption_by_terminal_open_galaxy_text">Unable to charge your device. Make sure you are using a Galaxy compatible battery and charger and that your device is properly connected to the charger.</string>
+    <string name="battery_health_interruption_by_terminal_open_text">మీ పరికరాన్ని మార్చలేరు. మీరు స్యామ్‌సంగ్ అనుకూల బ్యాటరీ మరియు ఛార్జర్ ఉపయోగిస్తున్నట్లు మరియు మీ పరికరం సరిగ్గా ఛార్జర్‌కు అనుసంధానించబడినట్లు నిర్ధారించుకోండి.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_phone">మీ ఫోన్ ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది. ఉష్ణోగ్రత సాధారణ స్థితికి వచ్చినప్పుడు ఛార్జింగ్ కొనసాగుతుంది.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_tablet">మీ టాబ్లెట్ ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది. ఉష్ణోగ్రత సాధారణ స్థితికి వచ్చినప్పుడు ఛార్జింగ్ కొనసాగుతుంది.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_phone">మీ ఫోన్ యొక్క ఉష్ణోగ్రత చాలా తక్కువగా ఉంది. ఉష్ణోగ్రత సాధారణ స్థితికి వచ్చినప్పుడు ఛార్జింగ్ కొనసాగుతుంది.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_tablet">మీ టాబ్లెట్ ఉష్ణోగ్రత చాలా తక్కువగా ఉంది. ఉష్ణోగ్రత సాధారణ స్థితికి వచ్చినప్పుడు ఛార్జింగ్ కొనసాగుతుంది.</string>
+    <string name="battery_health_interruption_title">ఛార్జింగ్ ఆగిపోయింది</string>
+    <string name="battery_info_status_charging">ఛార్జ్ అవుతోంది</string>
+    <string name="battery_info_status_discharging">ఛార్జ్ కావడం లేదు</string>
+    <string name="battery_info_status_full">పూర్తిగా</string>
+    <string name="battery_low_sec_app_name">పరికర సంరక్షణ</string>
+    <string name="battery_low_sec_body_phone">మీ ఫోన్‌ని ఛార్జ్ చేయండి లేదా శక్తి ఆదా మోడ్‌ని ఆన్ చేయడానికి ఇక్కడ ట్యాప్ చేయండి.</string>
+    <string name="battery_low_sec_body_phone_psm">మీ ఫోన్‌ని ఛార్జ్ చేయండి.</string>
+    <string name="battery_low_sec_body_tablet">మీ టాబ్లెట్‌ని ఛార్జ్ చేయండి లేదా శక్తి ఆదా మోడ్‌ని ఆన్ చేయడానికి ఇక్కడ ట్యాప్ చేయండి.</string>
+    <string name="battery_low_sec_body_tablet_psm">మీ టాబ్లెట్‌ని ఛార్జ్ చేయండి.</string>
+    <string name="battery_low_sec_noti_channel">తక్కువ బ్యాటరీ</string>
+    <string name="battery_low_sec_title">బ్యాటరీ శక్తి %d%%</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger">మీ ఫోన్‌తో పాటు ఇవ్వబడిన ఛార్జర్‌ని ఉపయోగించండి.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_jpn">వేగవంతమైన ఛార్జింగ్ కోసం 9V ఛార్జర్‌ని ఉపయోగించండి.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_tablet">మీ టాబ్లెట్‌తో పాటు ఇవ్వబడిన ఛార్జర్‌ని ఉపయోగించండి.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_connection">కేబుల్ మరియు ఛార్జర్ సరిగ్గా కనెక్ట్ చేయబడ్డాయని నిర్ధారించుకోండి.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_cover">మీరు కవర్ కేస్‌ని ఉపయోగిస్తుంటే, దాన్ని తీసివేసి ప్రయత్నించండి.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_damage">కేబుల్ దెబ్బతినలేదని నిర్ధారించుకోండి.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_faster">అత్యంత వేగవంతమైన ఛార్జింగ్ కోసం:</string>
+    <string name="battery_not_fully_connected_charging_popup_title">మీ ఛార్జర్ కనెక్షన్‌ని తనిఖీ చేయండి</string>
+    <string name="battery_not_fully_connected_charging_title">మీ ఛార్జర్ కనెక్షన్‌ని తనిఖీ చేయండి</string>
+    <string name="battery_slow_charging_text">ఛార్జ్ చేయడం సాధ్యం కాదు. వాస్తవ ఛార్జర్‌ని ఉపయోగించండి.</string>
+    <string name="battery_slow_charging_title">పరికరం నెమ్మదిగా ఛార్జ్ అవుతోంది</string>
+    <string name="battery_slow_charging_toast_text">To charge faster, use the charger and cable that were provided with this phone</string>
+    <string name="battery_slow_charging_toast_text_for_tablet">To charge faster, use the charger and cable that were provided with this tablet.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_phone">మీ ఫోన్‌ను పూర్తిగా ఛార్జ్ చేయడానికి చాలా వేడిగా ఉంది. అది కొంత చల్లబడిన తర్వాత ఛార్జ్ చేయమని సిఫార్సు చేయబడింది.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_tablet">మీ టాబ్లెట్‌ను పూర్తిగా ఛార్జ్ చేయడానికి చాలా వేడిగా ఉంది. అది కొంత చల్లబడిన తర్వాత ఛార్జ్ చేయమని సిఫార్సు చేయబడింది.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_phone">మీ ఫోన్ చల్లగా ఉన్నందున ఛార్జింగ్ వేగం తగ్గింది. ఫోన్ వేడెక్కిన తర్వాత సాధారణ వేగానికి అది తిరిగి మారుతుంది.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_tablet">మీ టాబ్లెట్ చల్లగా ఉన్నందున ఛార్జింగ్ వేగం తగ్గింది. టాబ్లెట్ వేడెక్కిన తర్వాత సాధారణ వేగానికి ఛార్జింగ్ తిరిగి మారుతుంది.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text">ఫోన్ వేడెక్కిన తర్వాత సాధారణ వేగానికి ఛార్జింగ్ తిరిగి మారుతుంది.</string>
+    <string name="battery_swelling_mode_low_temp_popup_text_tablet">ఫోన్ వేడెక్కిన తర్వాత సాధారణ వేగానికి ఛార్జింగ్ తిరిగి మారుతుంది.</string>
+    <string name="battery_swelling_mode_low_temp_popup_title">తక్కువ ఉష్ణోగ్రత కారణంగా ఛార్జింగ్ వేగం తగ్గింది</string>
+    <string name="battery_swelling_mode_noti_title">పరికరం నెమ్మదిగా ఛార్జ్ అవుతోంది</string>
+    <string name="battery_wireless_charger_fod_text">వైర్‌లెస్ ఛార్జింగ్ పాజ్ చేయబడింది. ఛార్జర్ మరియు మీ ఫోన్ మధ్య ఉన్న పరాయి వస్తువులను లేదా మందపాటి కేసులను తీసివేయండి.</string>
+    <string name="battery_wireless_charger_fod_title">వైర్‌లెస్ ఛార్జింగ్ పాజ్ చేయబడింది</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text">మీ ఫోన్ చాలా వేడిగా ఉన్నందున వైర్‌లెస్ ఛార్జింగ్ పాజ్ చేయబడింది. ఇది చల్లబడినప్పుడు మళ్లీ ప్రయత్నించండి.</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text_tablet">మీ టాబ్లెట్ చాలా వేడిగా ఉన్నందున వైర్‌లెస్ ఛార్జింగ్ పాజ్ చేయబడింది. ఇది చల్లబడినప్పుడు మళ్లీ ప్రయత్నించండి.</string>
+    <string name="battery_wireless_charging_disconnect_text">వైర్‌లెస్ ఛార్జింగ్ పాజ్ చేయబడింది.</string>
+    <string name="battery_wireless_charging_from_cable_to_wireless_text">కేబుల్ చార్జింగ్ నుండి వైర్‌లెస్ చార్జింగ్‌కు మారుతోంది</string>
+    <string name="battery_wireless_charging_title">వైర్‌లెస్ ఛార్జింగ్</string>
+    <string name="blue_light_disable_reason">%2$sని ఉపయోగించడానికి %1$sని ఆఫ్ చేయండి.</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">ఆడియో కోసం కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_a2dp_profile_summary_connected_battery">ఆడియో కోసం కనెక్ట్ చేయబడింది, %d%% బ్యాటరీ మిగిలి ఉంది</string>
+    <string name="bluetooth_connected">కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_connected_battery">కనెక్ట్ చేయబడింది, %d%% బ్యాటరీ మిగిలి ఉంది</string>
+    <string name="bluetooth_connecting">కనెక్ట్ అవుతోంది…</string>
+    <string name="bluetooth_connecting_error_message">%sకు కనెక్ట్ చేయలేరు.</string>
+    <string name="bluetooth_disable_avc_blacklist">AVC నిరోధ జాబితాను ఆఫ్ చేయండి</string>
+    <string name="bluetooth_disconnect_message">%sతో బ్లూటూత్ అనుసంధానం ముగించబడింది.</string>
+    <string name="bluetooth_disconnecting">డిస్కనెక్ట్ అవుతోంది…</string>
+    <string name="bluetooth_display_remote_device_name_after_pair">పరికరం కనెక్ట్ చేయబడి ఉన్నప్పుడు పరికరం పేరు కనిపిస్తుంది.</string>
+    <string name="bluetooth_getting_remote_device_name">పరికరం పేరును పొందుతోంది…</string>
+    <string name="bluetooth_headset_profile_summary_connected">కాల్‌ల కోసం కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_headset_profile_summary_connected_battery">కాల్‌ల కోసం కనెక్ట్ చేయబడింది, %d%% బ్యాటరీ మిగిలి ఉంది</string>
+    <string name="bluetooth_hid_connecting_error_summury">కనెక్ట్ చేయడం సాధ్యం కాదు. %s నుండి కనెక్ట్ చేసేందుకు ప్రయత్నిస్తున్నారు.</string>
+    <string name="bluetooth_hid_profile_summary_connected">ఇన్‌పుట్ పరికరం వలె కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_pairing">జత చేస్తోంది…</string>
+    <string name="bluetooth_pairing_device_down_black_list_error_message">%1$sకు కనెక్ట్ చేయలేరు. %2$sలో మీ సెట్టింగ్‌లను తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="bluetooth_pairing_device_down_error_message">%sకు కనెక్ట్ చేయలేరు.</string>
+    <string name="bluetooth_pairing_error_message">%sతో జత చేయడం సాధ్యం కాదు. ఇది జత చేయడానికి సిద్ధంగా ఉందని నిర్ధారించుకోండి.</string>
+    <string name="bluetooth_pairing_fail_restored">ఫోన్ దగ్గర్లో బ్లూటూత్ పరికరాన్ని ఉంచండి లేదా ఇది జత చేసే మోడ్‌లో ఉందేమో తనిఖీ చేయండి.</string>
+    <string name="bluetooth_pairing_fail_restored_tablet">టాబ్లెట్ దగ్గర్లో బ్లూటూత్ పరికరాన్ని ఉంచండి లేదా ఇది జత చేసే మోడ్‌లో ఉందేమో తనిఖీ చేయండి.</string>
+    <string name="bluetooth_pairing_pin_error_message">%sతో జత చేయడం సాధ్యం కాదు. ఇది జత చేయడానికి సిద్ధంగా ఉందని నిర్ధారించుకోండి.</string>
+    <string name="bluetooth_pairing_rejected_error_message">%s ద్వారా జత తిరస్కరించబడింది.</string>
+    <string name="bluetooth_pan_connecting_error_summury">కనెక్ట్ చేయడం సాధ్యం కాదు. %sలో బ్లూటూత్ టీథరింగ్‌ను ఆన్ చేయండి.</string>
+    <string name="bluetooth_pan_nap_connected">ఇంటర్నెట్ కనెక్షన్‌ను అందించడానికి కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_pan_nap_connecting_error_summury">కనెక్ట్ చేయడం సాధ్యం కాదు</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">పరికరంతో స్థానిక ఇంటర్నెట్ కనెక్షన్ పంచుకోబడింది</string>
+    <string name="bluetooth_pan_panu_connected">ఇంటర్నెట్ కనెక్షన్‌ను ప్రాప్యత చేయడానికి కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_pan_profile_summary_use_for">ఈ ఫోన్ నుండి ఇంటర్నెట్‌ని ప్రాప్యత చేయడానికి జత చేసిన పరికరంలో బ్లూటూత్ టీథరింగ్‍ని ఆన్ చేయండి.</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">ఇంటర్నెట్ యాక్సెస్ కొరకు పరికరంకు కనెక్ట్ చేయబడింది.</string>
+    <string name="bluetooth_profile_a2dp">ఆడియో</string>
+    <string name="bluetooth_profile_headset">కాల్‌లు</string>
+    <string name="bluetooth_profile_hid">ఇన్‌పుట్ పరికరం</string>
+    <string name="bluetooth_profile_map">సందేశం ప్రాప్యత</string>
+    <string name="bluetooth_profile_map_summary">ఈ జతపరిచిన పరికరాన్ని మీ సందేశాలను ప్రాప్యత చేయడానికి అనుమతించండి.</string>
+    <string name="bluetooth_profile_pan">ఇంటర్నెట్ యాక్సెస్</string>
+    <string name="bluetooth_profile_pan_nap">పంచుకునే ఇంటర్నెట్ కనెక్షన్</string>
+    <string name="bluetooth_profile_pbap">ప్రాప్యతను సంప్రదించు</string>
+    <string name="bluetooth_profile_pbap_tts">పరిచయాలు మరియు ఫోన్ లాగ్</string>
+    <string name="bluetooth_profile_sap_summary">ఈ జతపరిచిన పరికరాన్ని మీ SIM కార్డ్‌ను ప్రాప్యత చేయడానికి అనుమతించండి.</string>
+    <string name="bluetooth_profile_textinput">టెక్స్ట్ ఇన్‌పుట్</string>
+    <string name="bluetooth_spp_profile_summary_connected">సీరియల్ పోర్ట్ ప్రొఫైల్ ద్వారా కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">కాల్‌లు మరియు ఆడియో కోసం కనెక్ట్ చేయబడింది</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_battery">కాల్‌లు మరియు ఆడియో కోసం కనెక్ట్ చేయబడింది, %d%% బ్యాటరీ మిగిలి ఉంది</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_dual_audio">(డ్యూయల్ ఆడియో)</string>
+    <string name="bluetooth_summary_restored_device">మునుపటి ఫోన్‌లో జత చేయబడింది</string>
+    <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేసినప్పుడు బ్లూటూత్ టీథరింగ్‌ను ఉపయోగించలేరు.</string>
+    <string name="bluetooth_tethering_error_with_wifi_phone_summary">బ్లూటూత్ టీథరింగ్‌ని ఉపయోగించడానికి, ఈ ఫోన్‌లో Wi-Fiని ఆఫ్ చేయండి.</string>
+    <string name="bluetooth_tethering_error_with_wifi_tablet_summary">బ్లూటూత్ టీథరింగ్‌ని ఉపయోగించడానికి, ఈ టాబ్లెట్‌లో Wi-Fiని ఆఫ్ చేయండి.</string>
+    <string name="bubble_container_folder_description">కంటైనర్ తెరవబడింది.</string>
+    <string name="bubble_container_pointer_description">పాప్ అప్ వీక్షణ చిహ్నం కంటైనర్</string>
+    <string name="button_close">మూసివేయి</string>
+    <string name="button_yes">సరే</string>
+    <string name="byteShort">B</string>
+    <string name="cant_open_image_viewer_app">చిత్రం వ్యూవర్ అప్లికేషన్‌ని తెరవడం సాధ్యం కాదు.</string>
+    <string name="cant_open_image_viewer_app_in_emergency_mode">అత్యవసర మోడ్‌లో చిత్రం వ్యూవర్ అప్లికేషన్‌ని తెరవడం సాధ్యం కాదు.</string>
+    <string name="cant_open_image_viewer_app_in_mpsm">గరిష్ట శక్తి ఆదా మోడ్‌లో చిత్రం వ్యూవర్ అప్లికేషన్‌ని తెరవడం సాధ్యం కాదు.</string>
+    <string name="cant_open_image_viewer_app_in_ps">%sలో చిత్రం వ్యూవర్ అప్లికేషన్‌ని తెరవడం సాధ్యం కాదు.</string>
+    <string name="cant_open_photo_editor_in_ps">%sలో ఫోన్ ఎడిటర్‌ని తెరవలేరు.</string>
+    <string name="cant_open_ps">%sని తెరవలేరు.</string>
+    <string name="cant_screenshot_in_ps">%sలో స్క్రీన్‌షాట్ తీయలేరు.</string>
+    <string name="card_crash">SIM కార్డ్ క్రాష్</string>
+    <string name="clear_all_text">క్లియర్ చేయి</string>
+    <string name="colour_adjustment_title">రంగు సర్దుబాటు</string>
+    <string name="colour_inversion_title">రంగు విలోమం</string>
+    <string name="colour_lens_title">రంగు లెన్స్</string>
+    <string name="cooling_body">"మీ పరికరం ఎక్కువ వేడెక్కుతోంది. దీనిని చల్లబరచడం కోసం చర్యలు తీసుకోబడతాయి.
+
+మీరు ఇప్పటికీ మీ పరికరాన్ని ఉపయోగించవచ్చు, కానీ:
+- స్క్రీన్ మసకగా మారవచ్చు.
+- ఫోన్ మందగించవచ్చు.
+- ఛార్జింగ్ పాజ్ చేయబడవచ్చు.
+
+పరికరం చల్లబడిన తర్వాత, స్వయంచాలకంగా పనితీరు సాధారణ స్థితికి వస్తుంది."</string>
+    <string name="cooling_body_tablet_vzw">"Your tablet is getting too hot, so it’s taking steps to cool itself down.
+
+You can still use your tablet, but you may notice:
+The screen might dim.
+The tablet might slow down.
+Charging might pause.
+
+After the tablet cools down, performance willAutomatically go back to normal."</string>
+    <string name="cooling_body_vzw">"Your phone is getting hot, so it's taking steps to cool itself down.
+
+You can still use it, but you may notice:
+- The screen might dim.
+- The phone might slow down.
+- Charging might pause.
+
+Your phone will return to normal once it cools down."</string>
+    <string name="cooling_noti_text">వివరాలు చూడటానికి ఇక్కడ నొక్కండి.</string>
+    <string name="cooling_noti_text_vzw">మరింత తెలుసుకోవడానికి ఇక్కడ ట్యాప్ చేయండి.</string>
+    <string name="cooling_popup_title">పరికరం చల్లబడుతోంది</string>
+    <string name="cooling_title">పరికరం ఎక్కువగా వేడెక్కుతోంది</string>
+    <string name="cooling_title_vzw">Cooling down</string>
+    <string name="data_connection_error_data_roaming_off_body">Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి లేదా డేటా రోమింగ్‌ని ఆన్ చేయండి.</string>
+    <string name="data_connection_error_flight_mode_on_body">మీ ఫోన్ Wi-Fi నెట్‌వర్క్‌కి కనెక్ట్ చేయబడలేదు. బదులుగా మొబైల్ నెట్‌వర్క్‌ని ఉపయోగించడానికి, సెట్టింగ్‌లలో విమానం మోడ్‌ని ఆఫ్ చేయండి.</string>
+    <string name="data_connection_error_flight_mode_on_body_tablet">మీ టాబ్లెట్ Wi-Fi నెట్‌వర్క్‌కి కనెక్ట్ చేయబడలేదు. బదులుగా మొబైల్ నెట్‌వర్క్‌ని ఉపయోగించడానికి, సెట్టింగ్‌లలో విమానం మోడ్‌ని ఆఫ్ చేయండి.</string>
+    <string name="data_connection_error_flight_mode_on_title">విమానం మోడ్‌ని ఆఫ్ చేయి</string>
+    <string name="data_connection_error_mobile_data_off">మొబైల్ డేటా నిలిపివేయబడింది. బదులుగా Wi-Fi నెట్‌వర్క్‌కు అనుసంధానించండి లేదా మొబైల్ డేటాను ప్రారంభించి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="data_connection_error_mobile_data_off_body">Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి లేదా మొబైల్ డేటాని ఆన్ చేయండి.</string>
+    <string name="data_connection_error_mobile_data_off_title">మొబైల్ డేటాను ఆన్ చేయాలా?</string>
+    <string name="data_connection_error_no_network_connection">నెట్‌వర్క్ కనెక్షన్ లేదు</string>
+    <string name="data_connection_error_no_signal_body">అందుబాటులో ఉన్న నెట్‌వర్క్‌లను కనుగొనడం సాధ్యం కాదు.</string>
+    <string name="data_connection_error_toast_notification">Wi-Fi అనుసంధానం అవసరం. Wi-Fi నెట్‌వర్క్‌కు అనుసంధానించి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="data_usage_disabled_dialog">మీరు సెట్ చేసిన పరిమితిని మీరు చేరుకున్నందున మొబైల్ డేటా ఉపయోగం పాజ్ చేయబడింది.</string>
+    <string name="data_usage_disabled_dialog_mobile_title">మొబైల్ డేటాని ఉపయోగించడాన్ని పునఃప్రారంభించాలా?</string>
+    <string name="dcm_lockscreen_active_help_text">తెరవడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics">తెరవడానికి బయోమెట్రిక్స్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics_voice_assistant">తెరవడానికి బయోమెట్రిక్స్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_face">తెరవడానికి ముఖం గుర్తింపుని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_face_voice_assistant">తెరవడానికి ముఖం గుర్తింపుని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints">తెరవడానికి వేలిముద్రని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా ముఖం గుర్తింపుని ఉపయోగించడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face_voice_assistant">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా ముఖం గుర్తింపుని ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా తెలివైన స్కాన్‌ని ఉపయోగించడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent_voice_assistant">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా తెలివైన స్కాన్‌ని ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా కనుపాపలను ఉపయోగించడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris_voice_assistant">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా కనుపాపలను ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_voice_assistant">తెరవడానికి వేలిముద్రని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent_voice_assistant">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_iris">తెరవడానికి కనుపాపలను ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_iris_voice_assistant">తెరవడానికి కనుపాపలను ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_active_help_text_voice_assistant">తెరవడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text">అన్‌లాక్ చేయడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face">ముఖం గుర్తింపుతో అన్‌లాక్ చేయడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face_voice_assistant">ముఖం గుర్తింపుతో అన్‌లాక్ చేయడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent">తెలివైన స్కాన్‌తో అన్‌లాక్ చేయడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent_voice_assistant">అన్‌లాక్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris">అన్‌లాక్ చేయడానికి కనుపాపలను ఉపయోగించడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris_voice_assistant">అన్‌లాక్ చేయడానికి కనుపాపలను ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics">అన్‌లాక్ చేయడానికి బయోమెట్రిక్స్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics_voice_assistant">అన్‌లాక్ చేయడానికి బయోమెట్రిక్స్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_face">అన్‌లాక్ చేయడానికి ముఖం గుర్తింపుని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_face_voice_assistant">అన్‌లాక్ చేయడానికి ముఖం గుర్తింపుని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా ముఖం గుర్తింపుని ఉపయోగించడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face_voice_assistant">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా ముఖం గుర్తింపుని ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా తెలివైన స్కాన్‌ని ఉపయోగించడానికి లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent_voice_assistant">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా తెలివైన స్కాన్‌ని ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris">Use fingerprint to unlock device or tap Lock icon to use irises instead</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris_voice_assistant">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా బదులుగా కనుపాపలను ఉపయోగించడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_voice_assistant">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent">అన్‌లాక్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent_voice_assistant">అన్‌లాక్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris">అన్‌లాక్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris_voice_assistant">అన్‌లాక్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_unlock_help_text_voice_assistant">అన్‌లాక్ చేయడానికి లాక్ చిహ్నాన్ని రెండుసార్లు నొక్కండి</string>
+    <string name="dcm_lockscreen_voice_assistant_active_instructions">ఫోన్‌ని అన్‌లాక్ చేయడానికి లాక్ బటన్‌ని రెండు సార్లు నొక్కండి</string>
+    <string name="default_media_volume_control_description">మీరు వాల్యూమ్ కీలను నొక్కినప్పుడు డిఫాల్ట్‌గా మీడియా వాల్యూమ్‌ని నియంత్రించండి.</string>
+    <string name="default_media_volume_control_title">మీడియా కోసం వాల్యూమ్ కీలను ఉపయోగించండి</string>
+    <string name="development_settings_title">అభివృద్ధి ఎంపికలు</string>
+    <string name="device_disabled">రెండు దశల ధృవీకరణ కోసం మీ బయోమెట్రిక్స్‌ని ఉపయోగించకుండా మీ భద్రతా విధానం మిమ్మల్ని నివారిస్తుంది. మీ ఫోన్‌ని అన్‌లాక్ చేయడానికి మీ IT నిర్వాహకుడిని సంప్రదించండి.</string>
+    <string name="direction_lock_too_many_failed_attempts_countdown">%d సెకన్లలో మళ్ళీ ప్రయత్నించండి</string>
+    <string name="disagree">తిరస్కారం</string>
+    <string name="dnd_noti_action_disable">ఆఫ్ చేయి</string>
+    <string name="dnd_noti_message">అలారంలు మ్యూట్ చేయబడ్డాయి</string>
+    <string name="dnd_noti_title">అంతరాయం కలిగించవద్దు ఆన్ చేయబడింది</string>
+    <string name="download_popup_button_cancel">రద్దు చేయి</string>
+    <string name="download_popup_button_download">డౌన్‌లోడ్ చేయి</string>
+    <string name="download_ps">%sని డౌన్‌లోడ్ చేయాలా?</string>
+    <string name="dragndroplist_drag_release">అంశం %d స్థానంలో పడిపోయింది.</string>
+    <string name="dragndroplist_drag_start">%d స్థానంలోని ఐటెమ్ లాగడం ప్రారంభించారు.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d స్థానంలోని అంశాన్ని లాగలేరు.</string>
+    <string name="dream_cant_use_this_app_in_multi_window_view_tpop">బహుళ విండో వీక్షణలో ఈ అప్లికేషన్‌ను ఉపయోగించలేరు.</string>
+    <string name="dream_cant_use_this_launcher_in_multi_window_view_tpop">బహుళ విండో వీక్షణలో ఈ లాంచర్‌ని ఉపయోగించలేరు.</string>
+    <string name="durationMinutes">%d నిమిషాలు</string>
+    <string name="emergency_mode">అత్యవసర విధానం</string>
+    <string name="facewidget_alarm_in_hours_and_minutes_format">%1$d గంటల %2$d నిమిషాలలో అలారం ఉంది</string>
+    <string name="facewidget_alarm_in_hours_and_one_minute_format">%d గంటల 1 నిమిషంలో అలారం ఉంది</string>
+    <string name="facewidget_alarm_in_one_hour_and_minutes_format">1 గంట %d నిమిషాలలో అలారం ఉంది</string>
+    <string name="facewidget_alarm_in_one_hour_and_one_minute_format">1 గంట 1 నిమిషంలో అలారం ఉంది</string>
+    <string name="facewidget_alarm_next">తదుపరి అలారం</string>
+    <string name="facewidget_alarm_no_alarm">తదుపరి 7 రోజులలో అలారంలు లేవు</string>
+    <string name="facewidget_alarm_open_clock">అలారంను జోడించు</string>
+    <string name="facewidget_alarm_will_go_off_soon">అలారం త్వరలో ఆఫ్ అవుతుంది</string>
+    <string name="facewidget_event_add_event">ఈవెంట్‌ను జోడించు</string>
+    <string name="facewidget_event_calendar">క్యాలెండర్</string>
+    <string name="facewidget_event_my_event">నా ఈవెంట్</string>
+    <string name="facewidget_event_no_events">ఈ రోజు ఈవెంట్‌లు లేవు</string>
+    <string name="facewidget_event_open_ss">%sను తెరువు</string>
+    <string name="facewidget_event_task">విధి</string>
+    <string name="facewidget_event_time_all_day">మొత్తం రోజు</string>
+    <string name="facewidget_music">సంగీతం</string>
+    <string name="facewidget_music_closed">లాక్ స్క్రీన్‌లో సంగీతాన్ని చూపడానికి మీ ఫోన్‌ని అన్‌లాక్ చేసి, కొంత సంగీతాన్ని ప్లే చేయండి.</string>
+    <string name="facewidget_music_description_album_cover">ఆల్బమ్ కవర్</string>
+    <string name="facewidget_music_description_next">తరువాత</string>
+    <string name="facewidget_music_description_pause">పాజ్ చేయి</string>
+    <string name="facewidget_music_description_play">ప్లే చేయి</string>
+    <string name="facewidget_music_description_prev">మునుపటి</string>
+    <string name="facewidget_music_lyrics">లిరిక్స్</string>
+    <string name="facewidget_music_no_content">సంగీతం ప్లే అవ్వడం లేదు</string>
+    <string name="facewidget_music_play">సంగీతాన్ని ప్లే చేయి</string>
+    <string name="facewidget_music_play_first">మీరు సంగీత ప్లేయర్‌ని ఉపయోగించిన తర్వాత, మీరు లాక్ స్క్రీన్ నుండి మీ సంగీతాన్ని నియంత్రించగలరు.</string>
+    <string name="facewidget_music_select_music_app">సంగీత అప్లికేషన్‌ను ఎంచుకోండి.</string>
+    <string name="facewidget_music_unknown">తెలియని</string>
+    <string name="facewidget_noti_btn">సెట్టింగ్‌లు</string>
+    <string name="facewidget_noti_exp">మీ సంగీతానికి త్వరిత ప్రాప్యతను పొందడానికి లాక్ స్క్రీన్ మరియు Always On Displayలో FaceWidgetsను ఉపయోగించండి.</string>
+    <string name="facewidget_noti_title">FaceWidgetsను ఉపయోగించండి</string>
+    <string name="flash_light_disabled_by_low_battery">టార్చ్‌ని ఆన్ చేయడం సాధ్యం కాదు. బ్యాటరీ శక్తి తక్కువగా ఉంది.</string>
+    <string name="flash_light_notification_button">ఆఫ్ చేయి</string>
+    <string name="flash_light_notification_title">టార్చ్ ఆన్ చేయబడింది</string>
+    <string name="flash_light_turn_off_by_low_battery">బ్యాటరీ శక్తి తక్కువగా ఉంది. టార్చ్ ఆఫ్ చేయబడుతుంది.</string>
+    <string name="flight_mode_enabled_dialog_body">విమాన మోడ్ ఆన్ చేయబడింది. మీరు Wi-Fi ఉపయోగించే వరకు, మీరు డేటా కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు.</string>
+    <string name="flight_mode_enabled_dialog_body_volte_and_vowifi">విమాన మోడ్ ఆన్ చేయబడింది. మీరు Wi-Fi ఉపయోగించే వరకు, మీరు డేటా కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్, Wi-Fi కాలింగ్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు.</string>
+    <string name="flight_mode_enabled_dialog_title">విమానం మోడ్</string>
+    <string name="freeform_forced_resizable">ఈ అప్లికేషన్ బహుళ విండో వీక్షణలో సరిగ్గా పని చేయకపోవచ్చు.</string>
+    <string name="gesture_accessibility_guide_gesture_onboarding">యాక్సెసబిలిటీ సత్వరమార్గాన్ని ఉపయోగించడానికి స్క్రీన్ దిగువ భాగం నుండి 2 వేళ్లతో పైకి స్వైప్ చేయండి.</string>
+    <string name="gesture_recents_device_assistance_onboarding">పరికర సహాయక అప్లికేషన్‌ని తెరవడానికి పైకి స్వైప్ చేసి, పట్టుకోండి.</string>
+    <string name="gesture_recents_quick_scrub_onboarding">అప్లికేషన్‌లను త్వరగా స్వైప్ చేయడానికి కుడివైపుకి స్వైప్ చేయండి.</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="globalactions_force_restart_message">మీ ఫోన్‌ని పునఃప్రారంభించడానికి %d సెకన్ల కంటే ఎక్కువ సమయం ప్రక్కన ఉన్న కీ మరియు వాల్యూమ్ తగ్గింపు కీని ఒకేసారి నొక్కి, పట్టుకోండి.</string>
+    <string name="globalactions_screen_capture_popup_description">ప్రక్కన ఉన్న మరియు వాల్యూమ్ పెంపు కీలను ఒకేసారి త్వరగా నొక్కి, విడుదల చేయండి.</string>
+    <string name="globalactions_screen_capture_popup_title">స్క్రీన్‌షాట్ తీయడానికి ప్రయత్నిస్తున్నారా?</string>
+    <string name="go_to_top">పైకి వెళ్లండి</string>
+    <string name="greyscale_mode_title">గ్రేస్కేల్</string>
+    <string name="hotspot_disable_wifi_sharing">Wi-Fi భాగస్వామ్యాన్ని ఆఫ్ చేయి</string>
+    <string name="hotspot_enable_wifi_sharing">Wi-Fi భాగస్వామ్యాన్ని ఆన్ చేయి</string>
+    <string name="hotspot_live_ap_low_battery_summary">తక్కువ బ్యాటరీ</string>
+    <string name="hotspot_live_status_connected">కనెక్ట్ చేయబడింది</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Smart Viewని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_chn">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Smart Viewని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_jpn">Wi-Fi టీథరింగ్‌ని ఉపయోగించడానికి, Smart Viewని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_spr">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Smart Viewని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_tmo">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Smart Viewని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_vzw">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Smart Viewని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fiని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_att">పోర్టబుల్ Wi-Fi హాట్‌స్పాట్‌ను ఆన్ చేయడం వలన Wi-Fi ఆఫ్ చేయబడుతుంది.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_chn">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fiని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_jpn">Wi-Fi టీథరింగ్‌ని ఉపయోగించడానికి, Wi-Fi టీథరింగ్‌ని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_mtr">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fiని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_spr">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fiని ఆఫ్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_tmo">USB టీథరింగ్ లేదా మొబైల్ హాట్‌స్పాట్ సక్రియంగా ఉన్నప్పుడు Wi-Fi ఆఫ్ చేయబడుతుంది. Wi-Fiని ఆన్ చేయడానికి, దయచేసి USB టీథరింగ్ లేదా మొబైల్ హాట్‌స్పాట్‌ని ఆఫ్ చేయండి.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_vzw">మొబైల్ హాట్‌స్పాట్ మీ మొబైల్ డేటా కనెక్షన్‌ను ఉపయోగిస్తోంది. మీ Wi-Fi కనెక్షన్ ఆఫ్ చేయబడుతుంది.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_wifisharing_lite">ప్రస్తుత Wi-Fi నెట్‌వర్క్‌ను మొబైల్ హాట్‌స్పాట్‌ను ఉపయోగించి భాగస్వామ్యం చేయలేరు. బదులుగా మొబైల్ డేటా ఉపయోగించబడుతుంది.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fi Directని ఉపయోగించి ప్రస్తుతం కనెక్ట్ చేసిన ఏ పరికరాలను అయినా డిస్‌కనెక్ట్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_chn">పోర్టబుల్ WLAN హాట్‌స్పాట్‌ను ప్రారంభించడం వలన WLAN Direct ద్వారా కనెక్ట్ చేసిన పరికరం డిస్కనెక్ట్ చేయబడుతుంది.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_jpn">Wi-Fi టీథరింగ్‌ని ఉపయోగించడానికి, ప్రస్తుతం Wi-Fi Direct ద్వారా కనెక్ట్ చేసిన ఏ పరికరాలను అయినా డిస్‌కనెక్ట్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_spr">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fi Directని ఉపయోగించి ప్రస్తుతం కనెక్ట్ చేసిన ఏ పరికరాలను అయినా డిస్‌కనెక్ట్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_tmo">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fi Directని ఉపయోగించి ప్రస్తుతం కనెక్ట్ చేసిన ఏ పరికరాలను అయినా డిస్‌కనెక్ట్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_vzw">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, Wi-Fi Directని ఉపయోగించి ప్రస్తుతం కనెక్ట్ చేసిన ఏ పరికరాలను అయినా డిస్‌కనెక్ట్ చేయాలి.</string>
+    <string name="hotspot_warning_dialog_title_smartview_off">Smart Viewని ఆఫ్ చేయాలా?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off">Wi-Fiని ఆఫ్ చేయాలా?</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_tmo">అటెన్షన్</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_vzw">మొబైల్ హాట్‌స్పాట్ మరియు Wi-Fi</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_wifisharing_lite">Wi-Fi నెట్‌వర్క్ నుండి డిస్కనెక్ట్ చేయాలా?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off">మొబైల్ హాట్‌స్పాట్‌ను ఆన్ చేయాలా?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_jpn">Wi-Fi టీథరింగ్‌ని ఆన్ చేయాలా?</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_tmo">అటెన్షన్</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_vzw">మొబైల్ హాట్‌స్పాట్ మరియు Wi-Fi</string>
+    <string name="image_viewer">ఇమేజ్ వ్యూయర్</string>
+    <string name="ime_security_warning">%s మీరు టైప్ చేసే పాస్‌వర్డ్‌లు మరియు క్రెడిట్ కార్డ్ నంబర్‌ల వంటి వ్యక్తిగత టెక్స్ట్‌ సమాచారం మొత్తాన్ని సేకరించవచ్చు.</string>
+    <string name="incompatible_charger_dialog_text">The connected charger is incompatible with this phone. To prevent damage to your phone, charging has been stopped. To continue charging, use the original charger and cable that were provided with this phone.</string>
+    <string name="incompatible_charger_notification_text">Unable to charge. Use the original charger.</string>
+    <string name="incompatible_charger_ticker">చార్జ్ కావడం లేదు.</string>
+    <string name="incompatible_charger_title">ఛార్జ్ చెయ్యబడదు.</string>
+    <string name="insert_sim_card">SIM కార్డ్ చొప్పించు</string>
+    <string name="insert_sim_card_message">నెట్వర్క్ సేవలను ప్రాప్తి చేసేందుకు SIM కార్డును చొప్పించండి.</string>
+    <string name="install_other_apps">తెలియని అప్లికేషన్‌లను ఇన్‌స్టాల్ చేయి</string>
+    <string name="iris_guide_str_enable_toggle">కనుపాపలను ఉపయోగించడానికి ఇక్కడ ట్యాప్ చేయండి</string>
+    <string name="iris_guide_str_for_text_preview">కనుపాపలను ఉపయోగించడానికి ఇక్కడ చూడండి</string>
+    <string name="keyboard_shortcut_group_applications">అప్లికేషన్ సత్వరమార్గాలు</string>
+    <string name="keyboard_shortcut_group_applications_bixby">Bixby</string>
+    <string name="keyboard_shortcut_group_applications_browser">బ్రౌజర్</string>
+    <string name="keyboard_shortcut_group_applications_calendar">క్యాలెండర్</string>
+    <string name="keyboard_shortcut_group_applications_contacts">పరిచయాలు</string>
+    <string name="keyboard_shortcut_group_applications_email">ఇమెయిల్</string>
+    <string name="keyboard_shortcut_group_applications_messages">సందేశాలు</string>
+    <string name="keyboard_shortcut_group_applications_music">సంగీతం</string>
+    <string name="keyboard_shortcut_group_system">సిస్టమ్ సత్వరమార్గాలు</string>
+    <string name="keyboard_shortcut_group_system_all_apps">అప్లికేషన్‌లు</string>
+    <string name="keyboard_shortcut_group_system_back">వెనకకు</string>
+    <string name="keyboard_shortcut_group_system_home">హోమ్</string>
+    <string name="keyboard_shortcut_group_system_lock_screen">లాక్ స్క్రీన్</string>
+    <string name="keyboard_shortcut_group_system_notifications">నోటిఫికేషన్‌లు</string>
+    <string name="keyboard_shortcut_group_system_recents">ఇటీవలి</string>
+    <string name="keyboard_shortcut_group_system_running_apps">అమలవుతున్న అప్లికేషన్‌లు</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">కీబోర్డ్ సత్వరమార్గాలు</string>
+    <string name="keyboard_shortcut_group_system_start_exit_dex_mode">DeX మోడ్‌ని ప్రారంభించండి/దాని నుండి నిష్క్రమించండి</string>
+    <string name="keyboard_shortcut_group_system_switch_languages">భాషలను మార్చండి</string>
+    <string name="keyboard_shortcut_meta_key_explain">Meta కీ: విండోస్, ఆదేశం, శోధన లేదా ఇతర ఆపరేటింగ్ సిస్టమ్ చిహ్నం కీ.</string>
+    <string name="keyboard_shortcut_popup_help">Meta కీ: విండో, ఆదేశం లేదా ఇతర ఆపరేటింగ్ సిస్టమ్ చిహ్నం కీ.</string>
+    <string name="keyguard_accessibility_call">కాల్</string>
+    <string name="keyguard_accessibility_direction_lock_unlock">దిశ లాక్</string>
+    <string name="keyguard_accessibility_dot">డాట్</string>
+    <string name="keyguard_accessibility_pattern_area">నమూనా ప్రాంతం</string>
+    <string name="keyguard_accessibility_pattern_unlock">నమూనా అన్‌లాక్</string>
+    <string name="keyguard_cmas_text">అత్యవసర హెచ్చరిక</string>
+    <string name="keyguard_dualclock_locale_view_home">హోమ్</string>
+    <string name="keyguard_dualclock_locale_view_home_skt">సియోల్</string>
+    <string name="keyguard_dualclock_locale_view_roaming">స్థానికం</string>
+    <string name="keyguard_dualclock_locale_view_roaming_skt">రోమింగ్</string>
+    <string name="keyguard_fmm_owner_phone">యజమాని నంబర్</string>
+    <string name="keyguard_fmm_phone_locked_title">ఫోన్ లాక్ అయ్యింది.</string>
+    <string name="keyguard_progress_erasing_all">మొత్తం డేటా తొలగిస్తోంది…</string>
+    <string name="keyguard_skt_usim_unregistered">USIM కార్డ్‌ను ఉపయోగించడం సాధ్యం కాదు. USIM కార్డ్ సమాచారాన్ని డౌన్‌లోడ్ చేయండి.</string>
+    <string name="keyguard_usim_not_used">USIM కార్డ్‌ను ఉపయోగించడం సాధ్యం కాదు. చెల్లని PIN అన్‌లాక్ (PUK) కోడ్‌ను %d సార్లు నమోదు చేసారు. కొత్త USIM కార్డ్‌ను కొనుగోలు చేయండి.</string>
+    <string name="kg_1_attempt_remaining">(1 ప్రయత్నం మిగిలి ఉంది)</string>
+    <string name="kg_accessibility_password_unlock">పాస్‌వర్డ్ అన్‌లాక్</string>
+    <string name="kg_accessibility_pin_edit_box">సవరణ పెట్టె</string>
+    <string name="kg_accessibility_pin_unlock">PIN అన్‌లాక్</string>
+    <string name="kg_background_auth_face_instruction_text">ముఖ గుర్తింపుతో అన్‌లాక్ చేయండి.</string>
+    <string name="kg_background_auth_fingerprint_unlock_successed_text">వేలిముద్రతో ఫోన్ అన్‌లాక్ చేయబడింది.</string>
+    <string name="kg_background_auth_iris_instruction_text">కనుపాపలతో అన్‌లాక్ చేయండి.</string>
+    <string name="kg_background_auth_tablet_fingerprint_unlock_successed_text">వేలిముద్రతో టాబ్లెట్ అన్‌లాక్ చేయబడింది.</string>
+    <string name="kg_background_auth_tablet_unlock_failed_text">టాబ్లెట్‌ని అన్‌లాక్ చేయడం సాధ్యపడలేదు.</string>
+    <string name="kg_background_auth_tablet_unlock_successed_text">టాబ్లెట్ అన్‌లాక్ చేయబడింది.</string>
+    <string name="kg_background_auth_unlock_failed_text">ఫోన్‌ని అన్‌లాక్ చేయడం సాధ్యపడలేదు.</string>
+    <string name="kg_background_auth_unlock_instruction_text">బయోమెట్రిక్స్‌తో అన్‌లాక్ చేయండి.</string>
+    <string name="kg_background_auth_unlock_successed_text">ఫోన్ అన్‌లాక్ చేయబడింది.</string>
+    <string name="kg_biometric_error_restart_text">ఇలా జరుగుతూ ఉంటే, మీ ఫోన్‌ని పునఃప్రారంభించండి.</string>
+    <string name="kg_biometrics_has_confirmed">బయోమెట్రిక్స్ ఇప్పటికే నిర్ధారించబడింది.</string>
+    <string name="kg_biometrics_swipe_active_instructions">తెరవడానికి బయోమెట్రిక్స్‌ని ఉపయోగించండి</string>
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions">తెరవడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా స్క్రీన్‌ని రెండు వేళ్లతో స్వైప్ చేయండి</string>
+    <string name="kg_biometrics_swipe_unlock_instructions">అన్‌లాక్ చేయడానికి బయోమెట్రిక్స్‌ని ఉపయోగించండి</string>
+    <string name="kg_biometrics_swipe_unlock_voice_assistant_instructions">అన్‌లాక్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా స్క్రీన్‌ని రెండు వేళ్లతో స్వైప్ చేయండి</string>
+    <string name="kg_carrier_lock_call_owner">దయచేసి నాకు కాల్ చేయి</string>
+    <string name="kg_carrier_lock_findlostphone">ఈ ఫోన్‌ని కోల్పోయారు లేదా ఇది దొంగిలించబడింది.</string>
+    <string name="kg_carrier_lock_too_many_failed_attempts">చెల్లని పాస్‌వర్డ్ 5 సార్లు నమోదు చేయబడింది. 10 నిమిషాల్లో మళ్లీ ప్రయత్నించండి.</string>
+    <string name="kg_carrier_lock_unlock">పాస్‌వర్డ్ నమోదు చేయండి</string>
+    <string name="kg_carrier_lock_wrong_password">చెల్లని పాస్‌వర్డ్ నమోదు చేయబడింది.</string>
+    <string name="kg_ctc_enter_confirm_pin_hint">Enter new UIM/SIM card unlock PIN again to confirm it</string>
+    <string name="kg_ctc_password_wrong_pin_code_one">Incorrect UIM/SIM card PIN entered. 1 attempt left.</string>
+    <string name="kg_ctc_password_wrong_pin_code_other">Incorrect UIM/SIM card PIN entered. %d attempts left.</string>
+    <string name="kg_ctc_puk_enter_pin_hint">Enter new UIM/SIM card unlock PIN</string>
+    <string name="kg_ctc_sim_puk_instructions">UIM/SIM card locked. Enter PUK. Contact service provider for details.</string>
+    <string name="kg_ctc_sim_puk_remaining_1_attempt">Incorrect PUK entered. If incorrect PUK is entered 1 more time, UIM/SIM card will be locked.</string>
+    <string name="kg_ctc_sim_puk_remaining_attempts">Incorrect PUK entered. If incorrect PUK is entered %d more times, UIM/SIM card will be permanently locked.</string>
+    <string name="kg_ctc_sim_unlock_progress_dialog_message">Unlocking UIM/SIM card…</string>
+    <string name="kg_ctc_unlock_sim_pin_instructions">Enter UIM/SIM card unlock PIN</string>
+    <string name="kg_dcm_sim_puk_instructions">PIN నిరోధించబడింది. కొనసాగడానికి PUK నమోదు చేయండి.</string>
+    <string name="kg_default_carrier_text_searching">శోధిస్తోంది</string>
+    <string name="kg_direction_lock_instructions_normal_mode">స్క్రీన్‌ను అన్‌లాక్ చేయడానికి దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_empty_sim_perso_hint">No password entered. Enter password (PIN).</string>
+    <string name="kg_face_1st_active_instructions">తెరవడానికి ముఖం గుర్తింపుని ఉపయోగించండి</string>
+    <string name="kg_face_1st_unlock_instructions">అన్‌లాక్ చేయడానికి ముఖం గుర్తింపుని ఉపయోగించండి</string>
+    <string name="kg_face_cancel_for_dex">ముఖ గుర్తింపును రద్దు చేయండి</string>
+    <string name="kg_face_cover_clear_view_toast_for_dex">స్పష్టమైన వీక్షణ కవర్ జోడించబడినప్పుడు ముఖ గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_face_cover_led_view_toast_for_dex">LED వీక్షణ కవర్ జోడించబడినప్పుడు ముఖ గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_face_cover_s_view_toast_for_dex">S View కవర్ జోడించబడినప్పుడు ముఖ గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_face_cover_toast_for_dex">కవర్ జోడించినప్పుడు ముఖ గుర్తింపు అందుబాటులో లేదు.</string>
+    <string name="kg_face_direction_active_instructions">తెరవడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_face_direction_none_instructions">ముఖ గుర్తింపును ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_face_guide_text_for_enable_toggle">ముఖ గుర్తింపుని ఉపయోగించడానికి ఇక్కడ ట్యాప్ చేయండి</string>
+    <string name="kg_face_not_supported_at_180_degree">ముఖం గుర్తింపుని ఉపయోగించడానికి, మీ టాబ్లెట్‌ని తిప్పండి, దాని వల్ల కెమెరా దిగువ భాగంలో ఉండదు</string>
+    <string name="kg_face_not_working_text">ముఖ గుర్తింపు పని చేయడం లేదు</string>
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా ముఖ గుర్తింపుని ఉపయోగించడానికి స్క్రీన్‌ని రెండు వేళ్లతో స్వైప్ చేయండి.</string>
+    <string name="kg_face_password_active_instructions">తెరవడం కోసం ముఖ గుర్తింపును ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_face_password_none_instructions">ముఖ గుర్తింపును ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_face_pattern_active_instructions">తెరవడం కోసం ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_face_pattern_none_instructions">ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_face_pin_active_instructions">తెరవడం కోసం ముఖ గుర్తింపుని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_face_pin_none_instructions">ముఖ గుర్తింపును ఉపయోగించండి లేదా PINని నమోదు చేయండి</string>
+    <string name="kg_face_proximity_guide_text">సెన్సార్‌పై మీ చేతితో కవర్ చేసారా? ముఖం గుర్తింపుని ఉపయోగించడానికి దాన్ని కవర్ చేయకండి</string>
+    <string name="kg_face_retry_text">ముఖ గుర్తింపుని మళ్లీ ప్రయత్నించడానికి చిహ్నాన్ని నొక్కండి</string>
+    <string name="kg_face_start_for_dex">మీ ఫోన్‌లో ముఖ గుర్తింపుని ఉపయోగించండి</string>
+    <string name="kg_face_stop">ముఖ గుర్తింపును ఆపండి</string>
+    <string name="kg_face_toast_preview_for_dex">మీ ఫోన్‌లో మీ గుర్తింపుని ధృవీకరించడానికి ముఖ గుర్తింపుని ఉపయోగించండి.</string>
+    <string name="kg_fbe_notification_header">ఫోన్ పునఃప్రారంభించబడింది</string>
+    <string name="kg_fbe_notification_message">అప్లికేషన్ నోటిఫికేషన్‌లను పొందడానికి మీ ఫోన్‌ని అన్‌లాక్ చేయండి.</string>
+    <string name="kg_finger_print_bad_quality_error_message">వేలిముద్ర సెన్సార్‌పై మురికి ఉండవచ్చు. దీన్ని శుభ్రం చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="kg_finger_print_database_error_message">వేలిముద్ర డేటా పాడైంది. స్క్రీన్ లాక్ రకాన్ని వేలిముద్రకు రీసెట్ చేసి, మీ వేలిముద్రలను మళ్లీ జోడించండి లేదా స్క్రీన్ లాక్ రకాన్ని మార్చండి.</string>
+    <string name="kg_finger_print_not_responding_error_message">వేలిముద్ర సెన్సార్ ప్రతిస్పందించడం లేదు. తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">వేలిముద్ర సెన్సార్ సరిగ్గా మార్చబడలేదు. కస్టమర్ సర్వీస్‌లను సంప్రదించండి.</string>
+    <string name="kg_finger_print_sensor_error_message">వేలిముద్ర సెన్సార్‌తో దోషం సంభవించింది. ఈ సందేశం పునరావృతంగా కనిపిస్తుంటే, మీ పరికరాన్ని పునఃప్రారంభించండి.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">హోమ్ కీ శుభ్రంగా, పొడిగా ఉన్నట్లు నిర్ధారించుకుని, ఆపై మళ్లీ ప్రయత్నించండి.</string>
+    <string name="kg_finger_print_template_changed_error_message">వేలిముద్ర గుర్తింపుని ఉపయోగించడానికి, మీ వేలిముద్రలను తొలగించి, వాటిని మళ్లీ నమోదు చేయండి.</string>
+    <string name="kg_fingerprint_acquired_image_dirty">వేలిముద్ర సెన్సార్‌ని వైప్ చేసి, మళ్లీ ప్రయత్నించండి</string>
+    <string name="kg_fingerprint_acquired_light">కొంచెం గట్టిగా నొక్కండి</string>
+    <string name="kg_fingerprint_acquired_partial">పూర్తి వేలిముద్ర సెన్సార్‌ని కవర్ చేయండి</string>
+    <string name="kg_fingerprint_acquired_too_fast">మీ వేలిని కొంచెం ఎక్కువసేపు సెన్సార్‌పై ఉంచండి</string>
+    <string name="kg_fingerprint_acquired_too_wet">మీ వేలు పొడిగా ఉందని నిర్ధారించుకోండి</string>
+    <string name="kg_fingerprint_bad_quality_popup_checkbox">మళ్లీ చూపవద్దు</string>
+    <string name="kg_fingerprint_bad_quality_popup_message">అనుకోకుండా చాలా అనేక టచ్‌లు జరిగిన కారణంగా, స్క్రీన్ ఆఫ్ అయినప్పుడు వేలిముద్ర సెన్సార్ నిరోధించబడింది. ఇలా జరిగినప్పుడు, మీరు సెన్సార్‌ని రీయాక్టివట్ చేయడానికి స్క్రీన్‌ని ఆన్ చేయవచ్చు.</string>
+    <string name="kg_fingerprint_bad_quality_popup_title">వేలిముద్ర సెన్సార్ నిరోధించబడింది</string>
+    <string name="kg_fingerprint_direction_active_instructions">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_fingerprint_direction_none_instructions">వేలిముద్రను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_fingerprint_no_match">సరిపోలిక లేదు</string>
+    <string name="kg_fingerprint_or_swipe_active_instructions">తెరవడానికి వేలిముద్రని ఉపయోగించండి</string>
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా స్క్రీన్‌ని రెండు వేళ్లతో స్వైప్ చేయండి</string>
+    <string name="kg_fingerprint_or_swipe_unlock_instructions">అన్‌లాక్ చేయడానికి వేలిముద్రను ఉపయోగించండి</string>
+    <string name="kg_fingerprint_password_active_instructions">తెరవడం కోసం వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_fingerprint_password_none_instructions">వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_fingerprint_pattern_active_instructions">తెరవడం కోసం వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_fingerprint_pattern_none_instructions">వేలిముద్రను ఉపయోగించండి లేదా నమూనాను గీయండి</string>
+    <string name="kg_fingerprint_pin_active_instructions">తెరవడం కోసం వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_fingerprint_pin_none_instructions">వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_fingerprint_wireless_charger_warning">మీ వేలిముద్రని ఉపయోగించడానికి వైర్‌లెస్ ఛార్జర్ నుండి డిస్‌కనెక్ట్ చేయండి</string>
+    <string name="kg_fingerprints_direction_bouncer_instructions">తెరవడానికి వేలిముద్రను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_fingerprints_direction_instructions">వేలిముద్రను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_fingerprints_direction_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">తెరవడం కోసం వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_fingerprints_password_instructions">వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_fingerprints_password_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ పాస్‌వర్డ్‌ని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">తెరవడం కోసం వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_fingerprints_pattern_instructions">వేలిముద్రను ఉపయోగించండి లేదా అన్‌లాక్ నమూనాను గీయండి</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ నమూనాని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">తెరవడం కోసం వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_fingerprints_pin_instructions">వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ PINని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_flight_mode">విమానం మోడ్</string>
+    <string name="kg_floating_shortcut_show_app_list">అప్లికేషన్ జాబితాని చూపు</string>
+    <string name="kg_hide_password_accessibility">పాస్‌వర్డ్‌ను దాచు</string>
+    <string name="kg_ib_cancel_for_dex">తెలివైన స్కాన్‌ని రద్దు చేయి</string>
+    <string name="kg_ib_cancel_text">తెలివైన స్కాన్‌ని రద్దు చేయి</string>
+    <string name="kg_ib_cover_toast_for_dex">కవర్ జోడించబడినప్పుడు తెలివైన స్కాన్‌ని ఉపయోగించలేరు.</string>
+    <string name="kg_ib_not_supported_at_180_degree">తెలివైన స్కాన్‌ని ఉపయోగించడానికి, మీ టాబ్లెట్‌ని రొటేట్ చేయండి, దాని వల్ల కెమెరా దిగువ భాగంలో ఉండదు</string>
+    <string name="kg_ib_not_working_text">తెలివైన స్కాన్‌ని ఉపయోగించలేరు</string>
+    <string name="kg_ib_retry_text">కనుపాప స్కాన్‌ని మళ్లీ ప్రయత్నించడానికి చిహ్నాన్ని నొక్కండి</string>
+    <string name="kg_ib_start_for_dex">ఫోన్‌లో తెలివైన స్కాన్‌ని ఉపయోగించండి</string>
+    <string name="kg_ib_stop">తెలివైన స్కాన్‌ని ఆపివేయి</string>
+    <string name="kg_ib_toast_preview_for_dex">ఫోన్‌లో తెలివైన స్కాన్‌ని ఉపయోగించండి</string>
+    <string name="kg_incorrect_password">చెల్లని పాస్‌వర్డ్ నమోదు చేయబడింది</string>
+    <string name="kg_incorrect_pattern">చెల్లని నమూనా గీయబడింది</string>
+    <string name="kg_incorrect_pin">చెల్లని PIN నమోదు చేయబడింది</string>
+    <string name="kg_infinity_wallpaper_description">ఇన్ఫినిటీ వాల్‌పేపర్ ఒకే సమయంలో మీ Always On Display, హోమ్ స్క్రీన్ మరియు లాక్ స్క్రీన్‌కు వర్తింపజేయబడుతుంది.</string>
+    <string name="kg_infinity_wallpaper_description_without_aod">ఇన్ఫినిటీ వాల్‌పేపర్ ఒకే సమయంలో మీ హోమ్ స్క్రీన్ మరియు లాక్ స్క్రీన్‌కు వర్తింపజేయబడుతుంది.</string>
+    <string name="kg_intelligent_1st_active_instructions">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి</string>
+    <string name="kg_intelligent_1st_unlock_instructions">అన్‌లాక్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి</string>
+    <string name="kg_intelligent_direction_active_instructions">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_intelligent_direction_none_instructions">తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_intelligent_or_fingerprint_active_voice_assistant_instructions">తెరవడానికి వేలిముద్రని ఉపయోగించండి లేదా తెలివైన స్కాన్‌ని ఉపయోగించడానికి స్క్రీన్‌ని 2 వేళ్లతో స్వైప్ చేయండి</string>
+    <string name="kg_intelligent_password_active_instructions">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_intelligent_password_none_instructions">తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_intelligent_pattern_active_instructions">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_intelligent_pattern_none_instructions">తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_intelligent_pin_active_instructions">తెరవడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_intelligent_pin_none_instructions">తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINని నమోదు చేయండి</string>
+    <string name="kg_intelligent_retry_content_description">తెలివైన స్కాన్‌ని ఉపయోగించడానికి రెండు సార్లు నొక్కండి.</string>
+    <string name="kg_intelligent_scan_proximity_guide_text">సెన్సార్‌పై మీ చేతితో కవర్ చేసారా? తెలివైన స్కాన్‌ని ఉపయోగించడానికి దాన్ని కవర్ చేయకండి</string>
+    <string name="kg_iris_1st_active_instructions">తెరవడానికి కనుపాపలను ఉపయోగించండి</string>
+    <string name="kg_iris_1st_unlock_instructions">అన్‌లాక్ చేయడానికి కనుపాపలను ఉపయోగించండి</string>
+    <string name="kg_iris_cancel">కనుపాప గుర్తింపును రద్దు చేయండి</string>
+    <string name="kg_iris_cancel_for_dex">కనుపాప గుర్తింపును రద్దు చేయండి</string>
+    <string name="kg_iris_cover_clear_view_toast_for_dex">స్పష్టమైన వీక్షణ కవర్ జోడించబడినప్పుడు కనుపాప గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_iris_cover_led_view_toast_for_dex">LED వీక్షణ కవర్ జోడించబడినప్పుడు కనుపాప గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_iris_cover_s_view_toast_for_dex">S View కవర్ జోడించబడినప్పుడు కనుపాప గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_iris_cover_toast_for_dex">కవర్ జోడించబడితే కనుపాప గుర్తింపు అందుబాటులో ఉండదు.</string>
+    <string name="kg_iris_direction_active_instructions">తెరవడానికి కనుపాపలను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_iris_direction_instructions">కనుపాపలను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_iris_direction_none_instructions">కనుపాపలను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_iris_no_match">సరిపోలిక లేదు</string>
+    <string name="kg_iris_not_supported_at_180_degree">కనుపాప గుర్తింపుని ఉపయోగించడానికి, మీ టాబ్లెట్‌ని రొటేట్ చేయండి, దాని వల్ల కెమెరా దిగువ భాగంలో ఉండదు</string>
+    <string name="kg_iris_not_working_text">కనుపాప గుర్తింపు పని చేయడం లేదు</string>
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions">కనుపాపలను ఉపయోగించడానికి రెండు వేళ్లతో స్క్రీన్‌ను తెరవడానికి లేదా స్వైప్ చేయడానికి వేలిముద్రను ఉపయోగించండి</string>
+    <string name="kg_iris_password_active_instructions">తెరవడం కోసం కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_iris_password_none_instructions">కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_iris_pattern_active_instructions">తెరవడం కోసం కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_iris_pattern_none_instructions">కనుపాపలను ఉపయోగించండి లేదా నమూనాను గీయండి</string>
+    <string name="kg_iris_pattern_text_for_mkeyboard">నమూనాని గీయడానికి ఇక్కడ నొక్కండి</string>
+    <string name="kg_iris_pin_active_instructions">తెరవడం కోసం కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_iris_pin_none_instructions">కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_iris_proximity_guide_text">సెన్సార్‌పై మీ చేతితో కవర్ చేసారా? కనుపాప గుర్తింపుని ఉపయోగించడానికి దీన్ని కవర్ చేయకండి</string>
+    <string name="kg_iris_retry_content_description">కనుపాపలను స్కాన్ చేయడానికి రెండు సార్లు నొక్కండి.</string>
+    <string name="kg_iris_retry_text">కనుపాప గుర్తింపుని మళ్లీ ప్రయత్నించడానికి చిహ్నాన్ని నొక్కండి</string>
+    <string name="kg_iris_start_for_dex">మీ ఫోన్‌లో కనుపాపలను ఉపయోగించండి</string>
+    <string name="kg_iris_stop">కనుపాప స్కాన్‌ను ఆపండి</string>
+    <string name="kg_iris_strong_auth_prompt_reason_24_timeout_universal_lock">మీ భద్రత కోసం, మీ ఫోన్‌ని అన్‌లాక్ చేయడానికి మీ దిశల సిరీస్‌ను ఉపయోగించండి. మీరు తదుపరిసారి మీ బయోమెట్రిక్స్‌ను ఉపయోగించవచ్చు.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_restarting_universal_lock">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ కనుపాపలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_universal_lock_security_policy">భద్రతా విధానం కారణంగా కనుపాప గుర్తింపును ఉపయోగించడానికి బదులుగా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_iris_toast_preview_for_dex">మీ ఫోన్‌లో మీ గుర్తింపును ధృవీకరించడానికి మీ కనుపాపలను ఉపయోగించండి.</string>
+    <string name="kg_iris_too_many_timeout_error_text">కనుపాప గుర్తింపుని ఉపయోగించడానికి ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది. ప్రయత్నించడానికి ముందు ఫోన్ చల్లబడే వరకు వేచి ఉండండి.</string>
+    <string name="kg_iris_too_many_timeout_error_toast_text">కనుపాప గుర్తింపు LED వేడెక్కింది. తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="kg_keycode_delete">తొలగించు</string>
+    <string name="kg_keycode_ok">సరే</string>
+    <string name="kg_knox_guard_mobile_data_button">Turn on Mobile data</string>
+    <string name="kg_knox_guard_mobile_data_turned_on_toast">Mobile data turned on.</string>
+    <string name="kg_knox_guard_no_sim_card_toast">SIM కార్డ్ చొప్పించబడలేదు.</string>
+    <string name="kg_knox_guard_pin_hint">PIN</string>
+    <string name="kg_knox_guard_wifi_button">Turn on Wi-Fi</string>
+    <string name="kg_knox_guard_wifi_turned_on_toast">Wi-Fi turned on.</string>
+    <string name="kg_kor_empty_sim_puk_hint">PIN అన్‌లాక్ (PUK) కోడ్ నమోదు చేయబడలేదు. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="kg_kor_enter_confirm_pin_hint">దీన్ని నిర్ధారించడానికి USIM కార్డ్ PINని మళ్లీ నమోదు చేయండి.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">కొత్త PINలు సరిపోలలేదు.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">Enter 8-digit PIN unlock (PUK) code</string>
+    <string name="kg_kor_password_wrong_pin_code">చెల్లని PIN నమోదు చేయబడింది. %d ప్రయత్నాలు మిగిలి ఉన్నాయి. వినియోగదారు సేవలను సంప్రదించండి.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"కొత్త USIM కార్డ్ PINని సృష్టించండి.
+PIN తప్పక 4 నుండి 8 అంకెల పొడవు ఉండాలి."</string>
+    <string name="kg_kor_sim_pin_instructions">USIM కార్డ్ అన్‌లాక్ PINని నమోదు చేయండి (4 నుండి 8 వరకు అంకెలు)</string>
+    <string name="kg_kor_sim_puk_instructions">PUKని నమోదు చేయండి.</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"చెల్లని PUK %1$d సార్లు నమోదు చేయబడింది. చెల్లని PUKని మరో %2$d సార్లు నమోదు చేస్తే, USIM కార్డ్ శాశ్వతంగా నిరోధించబడుతుంది.
+
+మీకు మీ PUK తెలియకుంటే, కస్టమర్ సర్వీస్ సెంటర్‌ని సందర్శించండి."</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">SIM కార్డును అన్లాక్ చేస్తోంది</string>
+    <string name="kg_kor_success_pin_message">New password (PIN) saved successfully.</string>
+    <string name="kg_kor_wrong_puk_code">Unlock code input error</string>
+    <string name="kg_ktt_sim_perso_instructions">Enter 4- to 8-digit password (PIN)</string>
+    <string name="kg_lockscreen_emergency_call_button_text">అత్యవసర కాల్</string>
+    <string name="kg_missing_sim_message_short">SIM కార్డ్ లేదు</string>
+    <string name="kg_multi_biometrics_direction_instructions">బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_multi_biometrics_prompt_reason_timeout_universal_lock_strong_auth">మీ బయోమెట్రిక్స్‌ను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_24_timeout_universal_lock">మీ భద్రత కోసం, మీ ఫోన్‌ని అన్‌లాక్ చేయడానికి మీ దిశల సిరీస్‌ను ఉపయోగించండి. మీరు తదుపరిసారి మీ బయోమెట్రిక్స్‌ను ఉపయోగించవచ్చు.</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_restarting_universal_lock">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ బయోమెట్రిక్స్‌ని ఉపయోగించవచ్చు.</string>
+    <string name="kg_multi_direction_active_instructions">తెరవడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_multi_direction_none_instructions">బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_multi_password_active_instructions">తెరవడం కోసం బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_multi_password_none_instructions">బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_multi_pattern_active_instructions">తెరవడం కోసం బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_multi_pattern_none_instructions">బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాను గీయండి</string>
+    <string name="kg_multi_pin_active_instructions">తెరవడం కోసం బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_multi_pin_none_instructions">బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_n_attempts_remaining">(%d ప్రయత్నాలు మిగిలి ఉన్నాయి)</string>
+    <string name="kg_no_match">సరిపోలిక లేదు</string>
+    <string name="kg_none_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_1_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన దిశల శ్రేణిని నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_direction_active_instructions">తెరవడానికి దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_direction_none_instructions">స్క్రీన్‌ను అన్‌లాక్ చేయడానికి దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_direction_none_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన దిశల శ్రేణిని నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_face_direction_deviceadmin_instructions">మీ భద్రత కోసం, మీ దిశల శ్రేణిని గీయండి.</string>
+    <string name="kg_none_face_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_face_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_face_direction_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_face_password_deviceadmin_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_face_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_face_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_face_password_reboot_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_face_password_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_face_pattern_deviceadmin_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా, భద్రతా విధానానికి అవసరమైన మీ నమూనాని గీయండి</string>
+    <string name="kg_none_face_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_face_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_face_pattern_reboot_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_face_pattern_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_face_pin_deviceadmin_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ PINని నమోదు చేయండి</string>
+    <string name="kg_none_face_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_face_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_face_pin_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_face_pin_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_facefingerprint_direction_itpolicy_instructions">మీ భద్రత కోసం, మీ దిశల శ్రేణిని గీయండి.</string>
+    <string name="kg_none_facefingerprint_password_itpolicy_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ వేలిముద్రను ఉపయోగించండి లేదా మీ పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_facefingerprint_pattern_itpolicy_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా, భద్రతా విధానానికి అవసరమైన మీ వేలిముద్రను ఉపయోగించండి లేదా మీ నమూనాని గీయండి</string>
+    <string name="kg_none_facefingerprint_pin_itpolicy_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ వేలిముద్రను ఉపయోగించండి లేదా మీ PINని నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_direction_deviceadmin_instructions">మీ వేలిముద్రలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి మీ వేలిముద్రని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి మీ వేలిముద్రని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_fingerprint_direction_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_fingerprint_password_deviceadmin_instructions">మీ వేలిముద్రలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_password_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_password_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_pattern_deviceadmin_instructions">మీ వేలిముద్రలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ నమూనాని గీయండి</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_fingerprint_pattern_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_fingerprint_pattern_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_fingerprint_pin_deviceadmin_instructions">మీ వేలిముద్రలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ PINని నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_pin_reboot_instructions">ఫోన్‌ను పునఃప్రారంభించడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_fingerprint_pin_shutdown_instructions">ఫోన్‌ను ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_direction_deviceadmin_instructions">మీ ముఖ గుర్తింపును ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_intelligent_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_intelligent_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_intelligent_direction_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_intelligent_password_deviceadmin_instructions">తెలివైన స్కాన్‌ని ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_password_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_password_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_pattern_deviceadmin_instructions">తెలివైన స్కాన్‌ని ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ నమూనాని గీయండి</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_intelligent_pattern_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_intelligent_pattern_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_intelligent_pin_deviceadmin_instructions">తెలివైన స్కాన్‌ని ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ PINని నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_pin_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_intelligent_pin_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_iris_direction_deviceadmin_instructions">మీ కనుపాపలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_iris_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి మీ కనుపాపలను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_iris_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి మీ కనుపాపలను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_iris_direction_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_iris_password_deviceadmin_instructions">మీ కనుపాపలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_iris_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_iris_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_iris_password_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_iris_password_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_iris_pattern_deviceadmin_instructions">మీ కనుపాపలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ నమూనాని గీయండి</string>
+    <string name="kg_none_iris_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_iris_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_iris_pattern_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_iris_pattern_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_iris_pin_deviceadmin_instructions">మీ కనుపాపలను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ PINని నమోదు చేయండి</string>
+    <string name="kg_none_iris_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_iris_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_iris_pin_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_iris_pin_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_multi_direction_deviceadmin_instructions">మీ బయోమెట్రిక్స్‌ను ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_multi_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_multi_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_multi_direction_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_multi_password_deviceadmin_instructions">మీ బయోమెట్రిక్స్‌ని ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_multi_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_multi_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_multi_password_reboot_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_multi_password_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_multi_pattern_deviceadmin_instructions">మీ బయోమెట్రిక్స్‌ను ఉపయోగించడానికి బదులుగా, భద్రతా విధానానికి అవసరమైన మీ నమూనాని గీయండి</string>
+    <string name="kg_none_multi_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_multi_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_multi_pattern_reboot_instructions">ఫోన్‌ని పునఃప్రారంభించడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_multi_pattern_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_none_multi_pin_deviceadmin_instructions">మీ బయోమెట్రిక్స్‌ని ఉపయోగించడానికి బదులుగా భద్రతా విధానానికి అవసరమైన మీ PINని నమోదు చేయండి</string>
+    <string name="kg_none_multi_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_multi_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_multi_pin_reboot_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_multi_pin_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_none_none_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_none_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_none_direction_restart_instructions">పునఃప్రారంభించిన తర్వాత దిశల శ్రేణిని ఉపయోగించండి.</string>
+    <string name="kg_none_none_direction_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_none_none_direction_timeout_instructions">మీ భద్రత కోసం, మీ దిశల శ్రేణిని గీయండి.</string>
+    <string name="kg_none_none_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_none_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_none_password_reboot_instructions">ఫోన్‌ని మళ్లీ ప్రారంభించడానికి పాస్‌వర్డ్ నమోదు చేయండి</string>
+    <string name="kg_none_none_password_restart_instructions">పునఃప్రారంభించిన తర్వాత పాస్‌వర్డ్‌ని ఉపయోగించండి.</string>
+    <string name="kg_none_none_password_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_none_none_password_timeout_instructions">మీ భద్రత కోసం, మీ పాస్‌వర్డ్‌ను ఉపయోగించండి.</string>
+    <string name="kg_none_none_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి నమూనాని గీయండి</string>
+    <string name="kg_none_none_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి నమూనాని గీయండి</string>
+    <string name="kg_none_none_pattern_reboot_instructions">మీ ఫోన్‌ని పునఃప్రారంభించడానికి నమూనాని గీయండి</string>
+    <string name="kg_none_none_pattern_restart_instructions">పునఃప్రారంభించిన తర్వాత నమూనాని గీయండి.</string>
+    <string name="kg_none_none_pattern_shutdown_instructions">ఫోన్‌ని ఆన్ చేయడానికి నమూనాని గీయండి</string>
+    <string name="kg_none_none_pattern_timeout_instructions">మీ భద్రత కోసం, మీ నమూనాని గీయండి.</string>
+    <string name="kg_none_none_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_none_none_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_none_none_pin_reboot_instructions">ఫోన్‌ని మళ్లీ ప్రారంభించడానికి PIN నమోదు చేయండి</string>
+    <string name="kg_none_none_pin_restart_instructions">పునఃప్రారంభించిన తర్వాత PINని ఉపయోగించండి.</string>
+    <string name="kg_none_none_pin_shutdown_instructions">ఫోన్‌ని ఆఫ్ చేయడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_none_none_pin_timeout_instructions">మీ భద్రత కోసం, మీ PINని ఉపయోగించండి.</string>
+    <string name="kg_none_password_1_frp">"If you do not enter the correct password in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_1_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన పాస్‌వర్డ్‌ను నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_password_active_instructions">తెరవడం కోసం పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_password_none_frp">"If you do not enter the correct password within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_password_none_instructions">పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_none_password_none_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన పాస్‌వర్డ్‌ను నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_pattern_1_frp">"If you do not enter the correct pattern in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_1_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన నమూనాని నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_pattern_active_instructions">తెరవడం కోసం అన్‌లాక్ నమూనాను గీయండి</string>
+    <string name="kg_none_pattern_none_frp">"If you do not enter the correct pattern within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pattern_none_instructions">అన్‌లాక్ నమూనాను గీయండి</string>
+    <string name="kg_none_pattern_none_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన నమూనాని నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_1_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన PINని నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_pin_active_instructions">తెరవడం కోసం PINను నమోదు చేయండి</string>
+    <string name="kg_none_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your phone will automatically be reset to factory settings and all information on the phone will be erased.
+
+If your phone is reset, you may need to enter the Google account information (email address and password) associated with this phone to be able to use it again."</string>
+    <string name="kg_none_pin_none_instructions">PIN నమోదు చేయండి</string>
+    <string name="kg_none_pin_none_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన PINని నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_none_recovery_none_instructions">అన్‌లాక్ చేయడానికి పునరుద్ధరణ పాస్‌వర్డ్‌ని ఎంటర్ చేయండి.</string>
+    <string name="kg_password_hint">చిట్కా</string>
+    <string name="kg_password_hint_show">సూచన: %s</string>
+    <string name="kg_password_perso_failed">Incorrect PIN. Check PIN and try again.</string>
+    <string name="kg_password_perso_max_failed">Incorrect PIN entered for USIM card lock. Maximum number of retries reached. Restart device or visit CS centre.</string>
+    <string name="kg_password_sub_instructions">కనీసం 1 అక్షరంతో పాటు, మీ పాస్‌వర్డ్ తప్పనిసరిగా %d అక్షరాలను కలిగి ఉండాలి.</string>
+    <string name="kg_password_sub_instructions_vzw">మీ పాస్‌వర్డ్‌లో అక్షరాలు ఉండి, కనీసం %d అక్షరాల పొడవు ఉండాలి.</string>
+    <string name="kg_password_wrong_pin_code_one">చెల్లని SIM కార్డ్ PIN నమోదు చేయబడింది. మీకు 1 ప్రయత్నం మిగిలి ఉంది.</string>
+    <string name="kg_password_wrong_pin_code_other">చెల్లని SIM కార్డ్ PIN నమోదు చేయబడింది. మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_perso_locked_message">Block other USIM</string>
+    <string name="kg_phone_unlocked">ఫోన్ అన్‌లాక్ చేయబడింది</string>
+    <string name="kg_pin_locked_message">PINని నమోదు చేయండి</string>
+    <string name="kg_pin_sub_instructions">మీ PIN కనీసం 4 అంకెలను కలిగి ఉండాలి.</string>
+    <string name="kg_pin_sub_instructions_vzw">మీ PIN %d లేదా మరిన్ని అంకెలతో రూపొందించబడింది.</string>
+    <string name="kg_power_charging">ఛార్జ్ అవుతోంది: %d%%</string>
+    <string name="kg_power_charging_wirelessly">వైర్‌లెస్‌గా ఛార్జీ చేయడం: %d%%</string>
+    <string name="kg_power_connect_charger">ఛార్జర్‌ను కనెక్ట్ చేయండి</string>
+    <string name="kg_power_fast_charging">త్వరిత ఛార్జింగ్: %d%%</string>
+    <string name="kg_power_fast_charging_chn">అధునాతన ఛార్జింగ్: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly">త్వరిత వైర్‌లెస్ ఛార్జింగ్: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly_chn">అధునాతన వైర్‌లెస్ ఛార్జింగ్: %d%%</string>
+    <string name="kg_power_fully_charged">పూర్తిగా ఛార్జ్ చేయబడింది</string>
+    <string name="kg_power_time_format_hour">నిండటానికి %d గంట ఉంది</string>
+    <string name="kg_power_time_format_hour_minute">నిండటానికి %1$d గం %2$d ని ఉంది</string>
+    <string name="kg_power_time_format_minute">నిండటానికి %d ని ఉంది</string>
+    <string name="kg_prompt_reason_timeout_password_strong_auth">భద్రతా విధానం కారణంగా వేలిముద్ర గుర్తింపును ఉపయోగించడానికి బదులుగా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_prompt_reason_timeout_pattern_strong_auth">భద్రతా విధానం కారణంగా వేలిముద్ర గుర్తింపును ఉపయోగించడానికి బదులుగా నమూనను గీయండి</string>
+    <string name="kg_prompt_reason_timeout_pin_strong_auth">భద్రతా విధానం కారణంగా వేలిముద్ర గుర్తింపును ఉపయోగించడానికి బదులుగా PINను నమోదు చేయండి</string>
+    <string name="kg_prompt_reason_timeout_universal_lock_strong_auth">భద్రతా విధానం కారణంగా వేలిముద్ర గుర్తింపును ఉపయోగించడానికి బదులుగా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_puk_locked_message">PUKని నమోదు చేయండి</string>
+    <string name="kg_remote_lock_accessibility_call">%sకు కాల్ చేయి</string>
+    <string name="kg_remote_lock_accessibility_email">%sకు ఇమెయిల్ పంపు</string>
+    <string name="kg_remote_lock_incorrect_pin">చెల్లని PIN.</string>
+    <string name="kg_rmm_lock_instructions">%s నుండి PINను నమోదు చేయండి</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">పరికరాన్ని అన్‌లాక్ చేయడానికి ఒక ప్రయత్నం జరిగింది. పరికరం ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడటానికి మరియు ఫైల్‌లు మరియు డౌన్‌లోడ్ చేసిన అప్లికేషన్‌లతో సహా, మొత్తం డేటా తుడిచివేయబడటానికి ముందు మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_sec_1_remaining_count_almost_at_wipe">పరికరాన్ని అన్‌లాక్ చేయడానికి %d సార్లు ప్రయత్నించారు. మీకు 1 ప్రయత్నం మిగిలి ఉంది, ఆపై పరికరం ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో మొత్తం డేటా తుడిచివేయబడుతుంది.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">పరికరాన్ని అన్‌లాక్ చేయడానికి %1$d సార్లు ప్రయత్నించారు. పరికరం ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడటానికి మరియు ఫైల్‌లు మరియు డౌన్‌లోడ్ చేసిన అప్లికేషన్‌లతో సహా, మొత్తం డేటా తుడిచివేయబడటానికి ముందు మీకు %2$d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_sec_puk_enter_confirm_pin_hint">ధృవీకరించేందుకు కొత్త SIM కార్డ్ PINని మరోసారి నమోదు చేయి.</string>
+    <string name="kg_sec_puk_enter_pin_hint">కొత్త SIM కార్డ్ PINని నమోదు చేయి.</string>
+    <string name="kg_sec_sim_unlock_progress_dialog_message">SIM కార్డును అన్‌లాక్ చేస్తోంది…</string>
+    <string name="kg_secure_password">పాస్‌వర్డ్</string>
+    <string name="kg_secure_pattern">నమూనా</string>
+    <string name="kg_secure_pin">PIN</string>
+    <string name="kg_secure_using_ppp_instead_of_fingerprints">వేలిముద్రలను ఉపయోగించి ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి %1$d ప్రయత్నాలు మిగిలి ఉన్నాయి. బదులుగా మీ %2$sని ఉపయోగించి అన్‌లాక్ చేయండి.</string>
+    <string name="kg_secure_using_swipe_instead_of_fingerprints">వేలిముద్రలను ఉపయోగించి ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి %d ప్రయత్నాలు మిగిలి ఉన్నాయి. బదులుగా అన్‌లాక్ చేయడానికి స్వైప్ చేయండి.</string>
+    <string name="kg_set_on_lock_screen_button">లాక్ స్క్రీన్‌లో సెట్ చేయి</string>
+    <string name="kg_show_password_accessibility">పాస్‌వర్డ్‌ని చూపు</string>
+    <string name="kg_sim_lock_accepted">PIN అనుమతించబడింది.</string>
+    <string name="kg_sim_lock_verified">కోడ్ అంగీకరించడమైంది.</string>
+    <string name="kg_sim_locked_message">SIM కార్డ్ లాక్ చేయబడింది</string>
+    <string name="kg_sim_pin_remaining_1_attempt">మీకు 1 ప్రయత్నం మిగిలి ఉంది.</string>
+    <string name="kg_sim_pin_remaining_attempts">మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_sim_puk_instructions">SIM కార్డ్ లాక్ చేయబడింది. PUKని నమోదు చేయండి. వివరాల కోసం మీ సేవా ప్రదాతని సంప్రదించండి.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">మీరు చెల్లని PUK 1ని మరోసారి నమోదు చేస్తే, SIM లాక్ అవుతుంది.</string>
+    <string name="kg_sim_puk_remaining_attempts">మీరు చెల్లని PUK మరో %dసార్లు నమోదు చేస్తే, SIM లాక్ అవుతుంది.</string>
+    <string name="kg_sim_puk_tmo_help_contact_service_provider">Your PIN has been blocked. To unlock your device, contact your service provider.</string>
+    <string name="kg_sim_puk_tmo_sos_call">అత్యవసర</string>
+    <string name="kg_skt_sim_perso_instructions">USIM కార్డ్ అన్‌లాక్ PINని (4 అంకెలు) నమోదు చేయండి</string>
+    <string name="kg_smart_lock_content_description">పరికరాన్ని లాక్ చేయడానికి రెండుసార్లు ట్యాప్ చేసి, లాగండి.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_direction_lock">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ పాస్‌వర్డ్‌ని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ నమూనాని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ PINని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_swipe_active_instructions">తెరవడానికి స్వైప్ చేయండి</string>
+    <string name="kg_swipe_unlock_instructions">అన్‌లాక్ చేయడానికి స్వైప్ చేయండి</string>
+    <string name="kg_swipe_unlock_smart_lock_instructions">Smart Lock ద్వారా ఫోన్ అన్‌లాక్ చేయబడింది</string>
+    <string name="kg_swipe_unlock_strong_auth_instructions">అన్‌లాక్ చేయడానికి స్వైప్ చేయండి</string>
+    <string name="kg_tablet_direction_1_frp">"If you do not draw the correct series of directions in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_1_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన సరైన దిశల శ్రేణిని నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_direction_none_frp">"If you do not draw the correct series of directions within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_direction_none_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన దిశల శ్రేణిని నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_face_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_face_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_face_direction_shutdown_instructions">మీ టాబ్లెట్ పునఃప్రారంభించబడింది మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. మీరు మీ టాబ్లెట్‌ని అన్‌లాక్ చేయడానికి తదుపరిసారి మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_face_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_face_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_face_password_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_face_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_face_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_face_pattern_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_face_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_face_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి ముఖ గుర్తింపును ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_face_pin_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి ముఖ గుర్తింపుని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి మీ వేలిముద్రని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి మీ వేలిముద్రని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_fingerprint_direction_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_password_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_password_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_fingerprint_pattern_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_fingerprint_pattern_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_pin_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprint_pin_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి వేలిముద్రను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_fingerprints_direction_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_fingerprints_password_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ పాస్‌వర్డ్‌ని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_fingerprints_pattern_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ నమూనాని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_fingerprints_pin_unabled_instructions">మీ పరికరం పునఃప్రారంభించబడింది మరియు మీ PINని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_intelligent_direction_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_password_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_password_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_intelligent_pattern_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_intelligent_pattern_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_pin_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_intelligent_pin_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి తెలివైన స్కాన్‌ని ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి మీ కనుపాపలను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_iris_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి మీ కనుపాపలను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_iris_direction_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_iris_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_password_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_password_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_iris_pattern_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_iris_pattern_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_iris_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_pin_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_iris_pin_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి కనుపాపలను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_multi_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_multi_direction_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_multi_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_password_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_password_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_multi_pattern_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_multi_pattern_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా నమూనాని గీయండి</string>
+    <string name="kg_tablet_multi_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_pin_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_multi_pin_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి బయోమెట్రిక్స్‌ను ఉపయోగించండి లేదా PINను నమోదు చేయండి</string>
+    <string name="kg_tablet_none_direction_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_none_direction_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి మీ దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_none_direction_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి దిశల శ్రేణిని గీయండి</string>
+    <string name="kg_tablet_none_password_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_password_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_password_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_password_shutdown_instructions">టాబ్లెట్‌ను ఆఫ్ చేయడానికి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_pattern_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి నమూనాని గీయండి</string>
+    <string name="kg_tablet_none_pattern_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి నమూనాని గీయండి</string>
+    <string name="kg_tablet_none_pattern_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి నమూనాని గీయండి</string>
+    <string name="kg_tablet_none_pattern_shutdown_instructions">టాబ్లెట్‌ను ఆన్ చేయడానికి నమూనాని గీయండి</string>
+    <string name="kg_tablet_none_pin_emergencymodeoff_instructions">అత్యవసర మోడ్‌ని ఆఫ్ చేయడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_pin_emergencymodeon_instructions">అత్యవసర మోడ్‌ని ఆన్ చేయడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_pin_reboot_instructions">టాబ్లెట్‌ని పునఃప్రారంభించడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_tablet_none_pin_shutdown_instructions">టాబ్లెట్‌ని ఆఫ్ చేయడానికి PINని నమోదు చేయండి</string>
+    <string name="kg_tablet_password_1_frp">"If you do not enter the correct password in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_1_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన పాస్‌వర్డ్‌ను నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_password_none_frp">"If you do not enter the correct password within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_password_none_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన పాస్‌వర్డ్‌ను నమోదు చేయకపోతే, మీ ఫోన్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ ఫోన్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ ఫోన్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ ఫోన్‌తో అనుసంధానించబడిన Samsung account సమచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_pattern_1_frp">"If you do not draw the correct pattern in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_1_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన నమూనాని నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_pattern_none_frp">"If you do not draw the correct pattern within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pattern_none_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన నమూనాని నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_pin_1_frp">"If you do not enter the correct PIN in the next attempt, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_1_reactivation">"మీరు తదుపరి ప్రయత్నంలో సరైన PINని నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_pin_none_frp">"If you do not enter the correct PIN within the next %d attempts, your tablet will automatically be reset to factory settings and all information on the tablet will be erased.
+
+If your tablet is reset, you may need to enter the Google account information (email address and password) associated with this tablet to be able to use it again."</string>
+    <string name="kg_tablet_pin_none_reactivation">"మీరు తదుపరి %d ప్రయత్నాలలో సరైన PINని నమోదు చేయకపోతే, మీ టాబ్లెట్ స్వయంచాలకంగా ఫ్యాక్టరీ సెట్టింగ్‌లకు రీసెట్ చేయబడుతుంది మరియు మీ టాబ్లెట్ సమాచారం మొత్తం తుడుచివేయబడుతుంది.
+
+మీ టాబ్లెట్ రీసెట్ చేయబడితే, మీరు (ఇమెయిల్ చిరునామా, పాస్‌వర్డ్) దీన్ని మళ్లీ ఉపయోగించగల మరియు ఈ టాబ్లెట్‌తో అనుసంధానించబడిన Samsung account సమాచారాన్ని నమోదు చేయాల్సి ఉంటుంది."</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_direction_lock">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ దిశల శ్రేణిని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_password">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ పాస్‌వర్డ్‌ని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pattern">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ నమూనాని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pin">మీ పరికరం 24 గంటల కంటే ఎక్కువ సమయం పాటు ఉపయోగించబడలేదు మరియు మీ PINని ఉపయోగించి అన్‌లాక్ చేయాలి. తదుపరి సారి మీరు మీ పరికరాన్ని అన్‌లాక్ చేసేటప్పుడు మీ వేలిముద్రలను ఉపయోగించవచ్చు.</string>
+    <string name="kg_tts_shortcut_app">%sని తెరవడానికి రెండుసార్లు ట్యాప్ చేసి, లాగండి.</string>
+    <string name="kg_ucm_enter_confirm_pin_hint">దీనిని నిర్ధారించడం కోసం PINను మళ్లీ నమోదు చేయండి</string>
+    <string name="kg_ucm_invalid_confirm_pin_hint">PINలు సరిపోలలేదు</string>
+    <string name="kg_ucm_loading">లోడ్ అవుతోంది…</string>
+    <string name="kg_ucm_password_not_matching">స్మార్ట్‌కార్డ్‌లోని పాస్‌వర్డ్ మీ ఫోన్‌లో నిల్వ చేసిన పాస్‌వర్డ్‌కు సరిపోలలేదు</string>
+    <string name="kg_ucm_password_wrong_puk_code">చెల్లని PUK నమోదు చేయబడింది</string>
+    <string name="kg_ucm_puk_enter_pin_hint">కొత్త PINను నమోదు చేయండి</string>
+    <string name="kg_ucm_unknown_error_occurred">తెలియని లోపం ఏర్పడింది.</string>
+    <string name="kg_ucm_unlocking">అన్‌లాక్ చేస్తోంది…</string>
+    <string name="kg_unlock_sim_pin_instructions">SIM కార్డ్ PINని నమోదు చేయండి</string>
+    <string name="kg_unlock_sim_pin_remaining_1_attempt">SIM కార్డ్ అన్‌లాక్ PINను నమోదు చేయండి. 1 ప్రయత్నం మిగిలి ఉంది.</string>
+    <string name="kg_unlock_sim_pin_remaining_attempts">SIM కార్డ్ అన్‌లాక్ PINను నమోదు చేయండి. %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_use_biometrics_first">మొదట బయోమెట్రిక్స్‌ని ఉపయోగించండి</string>
+    <string name="kg_use_fingerprint_first">మొదట వేలిముద్రని ఉపయోగించండి</string>
+    <string name="kg_use_irises_first">మొదట కనుపాపలను ఉపయోగించండి</string>
+    <string name="kg_voice_assistant_active_instructions">తెరవడానికి 2 వేళ్లతో స్వైప్ చేయండి</string>
+    <string name="kg_voice_assistant_unlock_instructions">అన్‌లాక్ చేయడానికి 2 వేళ్లతో స్వైప్ చేయండి</string>
+    <string name="kg_voice_assistant_unlock_strong_auth_instructions">స్క్రీన్ అన్‌లాక్ చేయడానికి రెండు వేళ్లతో స్వైప్ చేయండి.</string>
+    <string name="kg_wallpaper_applied_toast">స్క్రీన్‌ని లాక్ చేయడానికి వాల్‌పేపర్ వర్తించబడింది.</string>
+    <string name="kg_wallpaper_applied_toast_infinity">Always On Display, హోమ్ స్క్రీన్ మరియు లాక్ స్క్రీన్‌కు ఇన్ఫినిటీ వాల్‌పేపర్ వర్తింపజేయబడుతుంది.</string>
+    <string name="kg_wallpaper_applied_toast_infinity_without_aod">ఇన్ఫినిటీ వాల్‌పేపర్ హోమ్ మరియు లాక్ స్క్రీన్‌లకు వర్తింపజేయబడుతుంది.</string>
+    <string name="kg_wallpaper_change_wallpaper_when_infinity_applied">మీరు ఈ వాల్‌పేపర్‌ని ఉపయోగిస్తే ఇన్ఫినిటీ ప్రభావాలు ఆఫ్ చేయబడతాయి.</string>
+    <string name="kg_wallpaper_changes_restrict_toast">మీరు వాల్‌పేపరు మార్చకుండా సెక్యూరిటీ పాలసీ నిషేధించింది.</string>
+    <string name="kg_wallpaper_confirm_dialog_apply">వర్తింపజేయి</string>
+    <string name="kg_wallpaper_confirm_dialog_message">మీరు ఈ వాల్‌పేపర్‌ని ఉపయోగిస్తే ఇన్ఫినిటీ ప్రభావాలు ఆఫ్ చేయబడతాయి.</string>
+    <string name="kg_wallpaper_download_guide_popup_phone_body">ఈ విధిని ఉపయోగించడానికి, %sని డౌన్‌లోడ్ చేయండి.</string>
+    <string name="kg_wallpaper_download_guide_popup_title">%sని డౌన్‌లోడ్ చేయాలా?</string>
+    <string name="kg_wallpaper_foldable_main_settting_description">ఇది ప్రధాన స్క్రీన్ కోసం మాత్రమే వాల్‌పేపర్‌ని సెట్ చేస్తుంది. ఫాంట్ స్క్రీన్ కోసం వాల్‌పేపర్‌ని సెట్ చేయడానికి ఫోన్‌ని మూసివేయండి.</string>
+    <string name="kg_wallpaper_foldable_sub_settting_description">ఇది ముందు స్క్రీన్ కోసం మాత్రమే వాల్‌పేపర్‌ని సెట్ చేస్తుంది. ప్రధాన స్క్రీన్ కోసం వాల్‌పేపర్‌ని సేట్ చేయడానికి ఫోన్‌ని తెరవండి.</string>
+    <string name="kg_wallpaper_preview_button">వాల్‌పేపర్‌గా సెట్ చేయి</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_body">ఈ GIFని మీ వాల్‌పేపర్‌గా సెట్ చేయడానికి దాన్ని వీడియో వలె మార్చాలి.</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_title">మారుతోంది…</string>
+    <string name="kg_wallpaper_preview_infinity_motion_effect">హామ్ స్క్రీన్‌లో కదలిక ప్రభావం</string>
+    <string name="kg_wallpaper_preview_title">లాక్ స్క్రీన్</string>
+    <string name="kg_wallpaper_preview_title_infinity">ఇన్ఫినిటీ వాల్‌పేపర్</string>
+    <string name="kg_wallpaper_preview_video_big_size_info">మీరు ఎంచుకున్న వీడియో చాలా పెద్దగా ఉంది. దాన్ని 100 MBకి కత్తిరించడానికి దిగువ ఉన్న బటన్‌ని నొక్కండి.</string>
+    <string name="kg_wallpaper_preview_video_info">గరిష్టంగా 15 సెకన్ల వీడియో లాక్ స్క్రీన్‌లో వాల్‌పేపర్‌గా చూపబడుతుంది.</string>
+    <string name="kg_wallpaper_preview_video_long_info">మీరు ఎంచుకున్న వీడియో చాలా పొడవుగా ఉంది. దాన్ని గరిష్టంగా 15 సెకన్లకు కత్తిరించడానికి దిగువ ఉన్న బటన్‌ని నొక్కండి.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper">వీడియో వాల్‌పేపర్</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_original_video_error_toast">వీడియో వాల్‌పేపర్‌ని సవరించలేరు. వీడియో రిజల్యూషన్ చాలా తక్కువగా ఉంది.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_trimmer_error_toast">అధిక నాణ్యత వీడియోని ప్లే చేసేటప్పుడు వీడియో వాల్‌పేపర్‌ని సవరించలేరు.</string>
+    <string name="kg_wallpaper_unsupported_file">మద్దతులేని ఫైల్.</string>
+    <string name="kg_wallpaper_video_trimmer">వీడియో ట్రిమ్మర్</string>
+    <string name="kg_warning_none_1_none_auto_wipe">ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి 1 ప్రయత్నం మిగిలి ఉంది. ఫోన్ ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడి, ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో సహా మొత్తం డేటా తుడిచివేయబడటానికి మీకు ఇంకా %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_warning_none_none_1_auto_wipe">ఈ ఫోన్‌ని అన్‌లాక్ చేయడానికి %d ప్రయత్నాలు మిగిలి ఉన్నాయి. ఫోన్ ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడి, ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో సహా మొత్తం డేటా తుడిచివేయబడటానికి ముందు మీకు ఇంకా 1 ప్రయత్నం మిగిలి ఉంది.</string>
+    <string name="kg_warning_none_none_none_auto_wipe">ఈ ఫోన్‌ను అన్‌లాక్ చేయడానికి %1$d ప్రయత్నాలు మిగిలి ఉన్నాయి. ఫోన్ ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడి, ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో సహా మొత్తం డేటా తుడిచివేయబడటానికి ముందు మీకు ఇంకా %2$d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_warning_tablet_1_none_auto_wipe">ఈ టాబ్లెట్‌ను అన్‌లాక్ చేయడానికి 1 ప్రయత్నం మిగిలి ఉంది. టాబ్లెట్ ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడి, ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో సహా మొత్తం డేటా తుడిచివేయబడటానికి మీకు ఇంకా %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_warning_tablet_none_1_auto_wipe">ఈ టాబ్లెట్‌ని అన్‌లాక్ చేయడానికి %d ప్రయత్నాలు మిగిలి ఉన్నాయి. టాబ్లెట్ ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడి, ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో సహా మొత్తం డేటా తుడిచివేయబడటానికి ముంది మీకు ఇంకా 1 ప్రయత్నం మిగిలి ఉంది.</string>
+    <string name="kg_warning_tablet_none_none_auto_wipe">ఈ టాబ్లెట్‌ను అన్‌లాక్ చేయడానికి %1$d ప్రయత్నాలు మిగిలి ఉన్నాయి. టాబ్లెట్ ఫ్యాక్టరీ డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయబడి, ఫైల్‌లు మరియు డౌన్‌లోడ్ చేయబడిన అప్లికేషన్‌లతో సహా మొత్తం డేటా తుడిచివేయబడటానికి ముందు మీకు ఇంకా %2$d ప్రయత్నాలు మిగిలి ఉన్నాయి.</string>
+    <string name="kg_wrong_direction_lock">చెల్లని దిశలో గీసారు</string>
+    <string name="kg_wrong_direction_lock_vzw">Incorrect directions (%d attempts remaining)</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="later">తర్వాత</string>
+    <string name="lock_app_shortcut_dnd_app_label">%sని తెరవడానికి రెండుసార్లు ట్యాప్ చేసి, లాగండి.</string>
+    <string name="lock_app_shortcut_flashlight_app_label">ప్లాష్ లైట్</string>
+    <string name="lock_to_app_dex_desc">Samsung DeX మోడ్‌లో ఉన్నప్పుడు ఈ ఫంక్షన్ అందుబాటులో ఉండదు.</string>
+    <string name="lock_to_app_dex_title">విండోస్‌ని పిన్ చేయలేరు</string>
+    <string name="lock_to_app_positive">సరే</string>
+    <string name="lock_to_app_recent_and_back">యాప్‌ను అన్‌పిన్ చేయడానికి, ఇటీవలి మరియు వెనుకకు బటన్‌లను ఒకేసారి తాకి, పట్టుకోండి.</string>
+    <string name="lock_to_app_recent_and_back_accessibility">అప్లికేషన్‌ను అన్‌పిన్ చేసేందుకు ఇటీవలి అంశాల కీని నొక్కి పట్టుకోండి.</string>
+    <string name="lock_to_app_recent_and_back_softkey">యాప్‌ను అన్‌పిన్ చేయడానికి, ఇటీవలి మరియు వెనుకకు బటన్‌లను ఒకేసారి తాకి, పట్టుకోండి.</string>
+    <string name="lock_to_app_recent_and_back_softkey_accessibility">అప్లికేషన్‌ను అన్‌పిన్ చేయడానికి, ఇటీవల బటన్‌ను నొక్కి, పట్టుకోండి.</string>
+    <string name="lock_to_app_title">విండోలను పిన్ చేయిని ఆన్ చేయి</string>
+    <string name="lock_to_app_unable_to_pin_desc">విండోలను పిన్ చేయడానికి ఈ అప్లికేషన్‌లో మద్దతు లేదు.</string>
+    <string name="lock_to_app_unable_to_pin_title">%sను పిన్ చేయడం సాధ్యం కాదు</string>
+    <string name="lock_to_app_unable_to_pin_toast">అప్లికేషన్‌ని పిన్ చేయడం సాధ్యం కాదు. %s మూసివేయబడింది. తెలియని దోషం సంభవించింది.</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIM కార్డ్ గుర్తించబడలేదు
+అత్యవసర కాల్‌లు మాత్రమే"</string>
+    <string name="maximum_power_saving_mode">గరిష్ట శక్తి ఆదా మోడ్</string>
+    <string name="megabyteShort">MB</string>
+    <string name="memory_full_dialog_msg">మీ అంతర్గత నిల్వలో తగినంత స్థలం లేదు. కొన్ని ఫైల్‌లను తొలగించి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="memory_full_dialog_title">స్క్రీన్‌షాట్ తీయలేరు</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">డేటా రోమింగ్ నిలిపివేయబడింది.</string>
+    <string name="mobile_data_roaming_title">డేటా రోమింగ్</string>
+    <string name="mobile_data_show_popup_disable">మీరు Wi-Fi ఉపయోగించే వరకు, మీరు డేటా కనెక్షన్ అవసరమైన ఏ అప్లికేషన్‌లను ఉపయోగించలేరు.</string>
+    <string name="mobile_data_show_popup_disable_att">AT&amp;T Video Call won’t work if mobile data is off. Also, you won’t be able to use the internet, email or other apps that need a data connection unless you use Wi-Fi.</string>
+    <string name="mobile_data_show_popup_disable_dcm">"If Mobile data is turned off, your device must be connected to a Wi-Fi network to use services that require a network connection.
+
+Mobile data will be turned off."</string>
+    <string name="mobile_data_show_popup_disable_jpn">మీరు Wi-Fi నెట్‌వర్క్‌కి కనెక్ట్ చేయనంత వరకు, మీరు నెట్‌వర్క్ కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు.</string>
+    <string name="mobile_data_show_popup_disable_kor">"మీరు Wi-Fiని ఉపయోగించకుంటే, డేటా కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగంచలేరు.
+
+మొబైల్ డేటా ఆఫ్ చేయబడుతుంది."</string>
+    <string name="mobile_data_show_popup_disable_kor_kt">మొబైల్ డేటా (WCDMA/LTE) ఆఫ్ చేయబడుతుంది. మీరు Wi-Fi ఉపయోగిస్తే మినహా, డేటా కనెక్షన్ అవసరమున్న అప్లికేషన్‌లను ఉపయోగించలేరు. మీరు ఇంకా మల్టీమీడియా సందేశాలను పంపడం మరియు స్వీకరించడం పరిమితం చేయబడతాయి.</string>
+    <string name="mobile_data_show_popup_disable_kor_lgt">"మీరు Wi-Fiని ఉపయోగించకుంటే, డేటా కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగంచలేరు.
+
+మొబైల్ డేటా ఆఫ్ చేయబడుతుంది."</string>
+    <string name="mobile_data_show_popup_disable_vzw">"Unless you use Wi-Fi, you won't be able to use the Internet, Email or other apps that require a data connection. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte">"Your phone's Video Calling function won't work when mobile data is off. Also, you won't be able to use the Internet, Email or other apps that need a data connection unless you use Wi-Fi. Turn off the mobile data connection?"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte_tablet">మొబైల్ డేటా ఆఫ్‌లో ఉన్నప్పుడు మీ టాబ్లెట్ వీడియో కాలింగ్ విధి పని చేయదు. అలాగే, మీరు Wi-Fi ఉపయోగిస్తే మినహా, మీరు ఇంటర్నెట్, ఇమెయిల్ లేదా డేటా కనెక్షన్ అవసరమైన ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు. మొబైల్ డేటా కనెక్షన్‌ను ఆఫ్ చేయాలా?</string>
+    <string name="mobile_data_show_popup_enable_kor">మొబైల్ డేటా ఆన్ చేయబడుతుంది. మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయడం వలన మీ చెల్లింపు ప్లాన్ ఆధారంగా అదనపు ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు.</string>
+    <string name="mobile_data_show_popup_enable_kor_kt">మొబైల్ డేటా ఆన్ చేయబడుతుంది. మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయడం వలన మీ చెల్లింపు ప్లాన్ ఆధారంగా అదనపు ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు.</string>
+    <string name="mobile_data_show_popup_enable_kor_lgt">మొబైల్ డేటా ఆన్ చేయబడుతుంది. మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయడం వలన మీ చెల్లింపు ప్లాన్ ఆధారంగా అదనపు ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు.</string>
+    <string name="mobile_data_show_popup_enable_kor_skt_kt">మొబైల్ డేటా ఆన్ చేయబడుతుంది. మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయడం వలన మీ చెల్లింపు ప్లాన్ ఆధారంగా అదనపు ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు.</string>
+    <string name="mobile_data_show_popup_roaming_enable">డేటా రోమింగ్ ప్రారంభించబడుతుంది. మీ చెల్లింపు ప్లాన్ ఆధారంగా రోమింగ్‌లో ఉన్నప్పుడు మొబైల్ డేటాను ఉపయోగించడం వల్ల అదనపు ఛార్జీలను చెల్లించాల్సి ఉండవచ్చు.</string>
+    <string name="mobile_data_show_toast_airplane_mode">విమానం మోడ్ ఆన్ చేయబడినప్పుడు మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయలేరు. విమానం మోడ్‌ని ఆఫ్ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="mobile_data_show_toast_not_disable_during_voltecall">Unable to turn Mobile data on or off while Advanced calling enabled.</string>
+    <string name="mobile_data_title">మొబైల్ డేటా</string>
+    <string name="mobile_data_trun_off_title">మొబైల్ డేటాను ఆఫ్ చేయాలా?</string>
+    <string name="mobile_device_warning_toast_notification">మీరు నడుస్తున్నప్పుడు లేదా డ్రైవింగ్ చేస్తున్నప్పుడు మొబైల్ పరికరాన్ని ఉపయోగించడం వల్ల రోడ్డు ప్రమాదాలు జరగవచ్చు.</string>
+    <string name="mobile_hotspot_detail_connected_device">కనెక్ట్ అయిన పరికరం</string>
+    <string name="mobile_hotspot_detail_connected_devices">కనెక్ట్ చేసిన పరికరాలు</string>
+    <string name="mobile_hotspot_detail_connection_mode_allow_all">కనెక్ట్ చేసేందుకు అన్ని పరికరాలను అనుమతించు</string>
+    <string name="mobile_hotspot_detail_connection_mode_allowed_device">అనుమతించబడిన పరికరాలు మాత్రమే</string>
+    <string name="mobile_hotspot_detail_password">పాస్‌వర్డ్</string>
+    <string name="mobile_hotspot_detail_title">మొబైల్ హాట్‌స్పాట్</string>
+    <string name="mobile_hotspot_detail_title_jpn">Wi-Fi టిథరింగ్</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message">మొబైల్ హాట్‌స్పాట్ మరియు ఇతర టీథరింగ్ ఎంపికలను ఉపయోగించడానికి SIM కార్డ్ చొప్పించండి.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message_jpn">Insert a SIM card to use Wi-Fi tethering.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">SIM కార్డ్ లేదు</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">Unable to enable Wi-Fi tethering</string>
+    <string name="mobile_hotspot_dialog_nousim_or_nosim_warning">మొబైల్ హాట్‌స్పాట్ మరియు ఇతర టీథరింగ్ విధులను ఉపయోగించడానికి UIM/SIMని కార్డ్ చొప్పించండి.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn">మొబైల్ హాట్‌స్పాట్ మరియు Smart Viewని ఒకే సమయంలో ఆన్ చేయలేరు. Smart View ఆఫ్ చేయబడుతుంది.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_chn">WLAN హాట్‌స్పాట్ మరియు Smart Viewని ఒకే సమయంలో ప్రారంభించలేరు. Smart View నిలిపివేయబడుతుంది.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_jpn">Wi-Fi టీథరింగ్ మరియు Smart Viewను ఒకే సమయంలో ఆన్ చేయలేరు. Smart View ఆఫ్ చేయబడుతుంది.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_text">మీ కనెక్షన్‌ని భాగస్వామ్యం చేయడానికి ముందు Wi-Fi ప్రదాత నుండి మీకు అనుమతి ఉందని నిర్ధారించుకోండి.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_title">Wi-Fi భాగస్వామ్యాన్ని ఆన్ చేయాలా?</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_lite_enable_text">Wi-Fi భాగస్వామ్యం ఆన్‌లో ఉన్నప్పుడు కొన్ని Wi-Fi నెట్‌వర్క్‌లు అందుబాటులో ఉండకపోవచ్చు.</string>
+    <string name="mobile_hotspot_toast_disable_airplne_mode">విమానం మోడ్ ఆన్ చేయబడినప్పుడు మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయలేరు. విమానం మోడ్‌ని ఆఫ్ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="mobile_hotspot_toast_internet_sharing">ఇంటర్నెట్ భాగస్వామ్యం</string>
+    <string name="mobile_hotspot_wifi_sharing">Wi-Fi భాగస్వామ్యం</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_disabled">ఆఫ్</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_enabled">ఆన్</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_message">Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేసినప్పుడు మీరు మొబైల్ హాట్‌స్పాట్‌ని ఆన్ చేస్తే మీ ఫోన్ Wi-Fi నెట్‌వర్క్ భాగస్వామ్యం చేయబడుతుంది. భాగస్వామ్యం చేయడానికి ముందు నెట్‌వర్క్ యజమాని నుండి మీకు అనుమతి ఉందని నిర్ధారించుకోండి.</string>
+    <string name="mobile_hotspot_wifi_sharing_notify_dialog_title">మొబైల్ హాట్‌స్పాట్ మీ Wi-Fi నెట్‌వర్క్‌ని భాగస్వామ్యం చేస్తుంది</string>
+    <string name="mobileap">మొబైల్ హాట్‌స్పాట్</string>
+    <string name="monitoring_description_do_body_vpn">మీరు %s VPNకి కనెక్ట్ చేయబడ్డారు, ఇది ఇమెయిల్‌లు, అప్లికేషన్‌లు మరియు వెబ్‌సైట్‌లతో సహా మీ నెట్‌వర్క్ కార్యాచరణని మానిటర్ చేస్తుంది.</string>
+    <string name="monitoring_description_named_vpn">మీరు %s VPNకి కనెక్ట్ చేయబడ్డారు, ఇది ఇమెయిల్‌లు, అప్లికేషన్‌లు మరియు వెబ్‌సైట్‌లతో సహా మీ నెట్‌వర్క్ కార్యాచరణని మానిటర్ చేస్తుంది.</string>
+    <string name="monitoring_description_vpn_settings">VPN సెట్టింగ్‌లు</string>
+    <string name="multiwindow_overheat_warning_dialog_body_phone">మీ ఫోన్ చాలా వేడిగా ఉంది. మల్టీ విండోని మళ్లీ ఉపయోగించడానికి ముందు దీన్ని చల్లబడనివ్వండి.</string>
+    <string name="multiwindow_overheat_warning_dialog_body_tablet">మీ టాబ్లెట్ చాలా వేడిగా ఉంది. మల్టీ విండోని మళ్లీ ఉపయోగించడానికి ముందు దీన్ని చల్లబడనివ్వండి.</string>
+    <string name="multiwindow_overheat_warning_dialog_title">మల్టీ విండో మూసివేయబడింది</string>
+    <string name="mw_divider_button_close">అప్లికేషన్‌ని మూసివేయి</string>
+    <string name="negative_color_title">నెగటివ్ రంగులు</string>
+    <string name="no">రద్దు</string>
+    <string name="no_app_can_perform_this_action">ఈ చర్యను పర్ఫార్మ్ చేసేందుకు అప్లికేషన్‌ను కనుగొనడం సాధ్యం కాదు.</string>
+    <string name="no_sim_notification_text">SIM కార్డ్‌ను చొప్పించండి.</string>
+    <string name="no_sim_notification_text_cct">Xfinity మొబైల్ SIMని చొప్పించండి. మరింత తెలుసుకోవడానికి, xfinitymobile.com/activateని సందర్శించండి లేదా 888-936-4968కి కాల్ చేయండి.</string>
+    <string name="no_sim_notification_text_vzw">Tap for more information.</string>
+    <string name="no_sim_notification_title">SIM లేదు</string>
+    <string name="no_sim_notification_title_cct">No SIM card detected</string>
+    <string name="no_sim_notification_title_tmo">SIM కార్డ్ చొప్పించబడలేదు</string>
+    <string name="no_sim_notification_title_vzw">No SIM found</string>
+    <string name="no_such_item">చిత్రాన్ని కనుగొనలేరు.</string>
+    <string name="noti_direct_reply_exceed_text_limit_toast">ఏ టెక్స్ట్‌ని నమోదు చేయలేరు.</string>
+    <string name="noti_setting_text">నోటిఫికేషన్ సెట్టింగ్‌లు</string>
+    <string name="noti_toast_wifi_is_not_available">WLAN అందుబాటులో లేదు. మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయడం వల్ల మీ చెల్లింపు ప్లాన్ ఆధారంగా అదనపు ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు.</string>
+    <string name="notification_cancel">రద్దు చేయి</string>
+    <string name="notification_channel_blocked">నోటిఫికేషన్‌లు మరియు చిహ్నం బ్యాడ్జ్‌లు నిరోధించబడ్డాయి</string>
+    <string name="notification_channel_ongoing">ఆన్‌గోయింగ్</string>
+    <string name="notification_done">పూర్తయింది</string>
+    <string name="notification_info_detail_button">వివరాలు</string>
+    <string name="notification_info_radio_alert_text">హెచ్చరిక</string>
+    <string name="notification_info_radio_silent_text">సైలెంట్</string>
+    <string name="notification_info_save_button">సేవ్ చేయి</string>
+    <string name="notification_save">సేవ్ చేయి</string>
+    <string name="notification_section_header_gentle">నిశ్శబ్ద నోటిఫికేషన్‌లు</string>
+    <string name="notification_settings_icon_description">అప్లికేషన్ నోటిఫికేషన్ సెట్టింగ్‌లు</string>
+    <string name="notification_unblockable_desc">ఈ నోటిఫికేషన్‌లను ఆఫ్ చేయలేరు.</string>
+    <string name="ok">సరే</string>
+    <string name="one_item_will_be_deleted">ఈ స్క్రీన్‌షాట్‌ని తొలగించాలా?</string>
+    <string name="overheat_poweroff_notice_text">"మీ పరికరం ఎక్కువ వేడెక్కింది. నష్టాన్ని నివారించేందుకు దీని పవర్ ఆఫ్ అయ్యింది.
+
+వీటి వలన ఎక్కువగా వేడెక్కి ఉండవచ్చు:
+- గ్రాఫిక్స్-బాగా ఎక్కువగా ఉన్న అప్లికేషన్‌లు అయిన గేమ్‌లు మరియు నావిగేషన్ అప్లికేషన్‌లను సుదీర్ఘ సమయం పాటు ఉపయోగించడం.
+- పెద్ద ఫైల్‌లను బదిలీ చేయడం.
+- వేడిగా ఉన్న వాతావరణంలో మీ పరికరాన్ని ఉపయోగించడం."</string>
+    <string name="overheat_poweroff_notice_title">పరికరం పవర్ స్వయంచాలకంగా ఆఫ్ చేయబడింది</string>
+    <string name="overheat_poweroff_warning_text_append">మీరు పరికరం చల్లబడే వరకు కూడా దాన్ని మళ్లీ పవర్ ఆన్ చేయలేరు.</string>
+    <string name="overheat_poweroff_warning_text_new">మీ పరికరం ఎక్కువ వేడెక్కుతోంది. చల్లబరచడానికి, %d సెకన్లలో దీని పవర్ ఆఫ్ అవుతుంది.</string>
+    <string name="overheat_poweroff_warning_title">పరికరం పవర్ ఆఫ్ చేయండి</string>
+    <string name="overheat_shutdown_notice_text">"Your phone got hot. It turned off to prevent damage to the phone.
+
+This can be caused by:
+Using graphics-intensive apps, like video games and navigation apps, for long periods of time.
+Downloading or uploading large files.
+Using your phone in a very hot location."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"Your tablet got too hot. It turned off to prevent damage to the tablet.
+
+Overheating can be caused by:
+Using graphics intensive apps like video games and navigation apps for long periods of time.
+Downloading or uploading large files.
+Using your tablet in a very hot location."</string>
+    <string name="overheat_shutdown_notice_title">Why did my phone turn off by itself?</string>
+    <string name="overheat_shutdown_notice_title_tablet">Why did my tablet turn off by itself?</string>
+    <string name="overheat_shutdown_warning_text">"Your phone is getting hot.
+It will now turn off to cool down."</string>
+    <string name="overheat_shutdown_warning_text_tablet">Your tablet is getting too hot. It will now turn off to cool down.</string>
+    <string name="overheat_shutdown_warning_title">Turning off</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_editor">ఫోటో ఎడిటర్</string>
+    <string name="popupui_dialog_turn_on_button">ఆన్ చేయి</string>
+    <string name="powerui_power_sharing_alert_dialog_body">"You must download the app in order to control the amount of power shared. If you connect your device to another device with the Samsung's Power Sharing Cable EP-SG900 without the app, the entire battery amount will be transferred to the other device. 
+Connect to Samsung Apps and download the application."</string>
+    <string name="private_dns_mode_off">ఆఫ్</string>
+    <string name="private_dns_mode_opportunistic">స్వయంచాలకం</string>
+    <string name="private_dns_mode_provider">ప్రైవేట్ DNS ప్రదాత హోస్ట్ పేరు</string>
+    <string name="private_dns_mode_provider_hostname_hint">DNS ప్రదాత హోస్ట్ పేరుని నమోదు చేయండి</string>
+    <string name="qs_detail_capture_mode">Screen capture mode</string>
+    <string name="qs_detail_capture_mode_text">Select the function you want to add to the quick settings panel.</string>
+    <string name="qs_detail_capture_screen">స్క్రీన్‌ను సంగ్రహించు</string>
+    <string name="qs_detail_flashlight_title">టార్చ్</string>
+    <string name="qs_detail_palm_capture_description">స్క్రీన్‌షాట్ తీయడానికి మీ చేతి అంచుని స్క్రీన్ అంతటా స్వైప్ చేయండి.</string>
+    <string name="qs_detail_palm_capture_title">సంగ్రహించడానికి అరచేతితో స్వైప్ చేయి</string>
+    <string name="qs_detail_recorder_screen">Record screen</string>
+    <string name="qs_detail_smart_capture_description">మీ స్క్రీన్‌షాట్‌లలో దాచబడిన స్క్రీన్ ప్రాంతాలను కలిగి ఉంటుంది. మీరు స్క్రీన్‌షాట్‌లను తీసిన తర్వాత కూడా మీరు వాటిని సవరించవచ్చు లేదా భాగస్వామ్యం చేయవచ్చు.</string>
+    <string name="qs_detail_smart_capture_title">స్మార్ట్ సంగ్రహణ</string>
+    <string name="qs_edit_panel_badge_text">N</string>
+    <string name="qs_edit_setting_active_area_tapped">త్వరిత సెట్టింగ్‌ల ప్యానెల్‌లో ఉంది.</string>
+    <string name="qs_edit_setting_available_area_tapped">త్వరిత సెట్టింగ్‌ల ప్యానెల్‌లో లేదు.</string>
+    <string name="qs_edit_summary">బటన్‌లను జోడించడానికి లాగండి</string>
+    <string name="qs_location_consent_dialog_body_message_dcm">GPS స్థానం మరియు మీ స్థానం డేటాను ఉపయోగించడం మీరు ఉపయోగించే అప్లికేషన్లు ద్వారా నియంత్రించబడుతుంది.</string>
+    <string name="qs_location_consent_dialog_body_message_vzw">"మీ ఫోన్ మ్యాప్‌లు, షాపింగ్ మరియు వాతావరణం వంటి అప్లికేషన్‌లు మరియు సేవలతో దాని రమారమి స్థానాన్ని భాగస్వామ్యం చేయగలదు.
+
+మీ ప్రాంతంలో ఉపయోగించే అప్లికేషన్‌లు మరియు సేవలు గురించి మీకు సమాచారాన్ని అందిస్తుంది. మీరు ఏదానా అప్లికేషన్‌ని లేదా సేవా ప్రదాతను ఉపయోగించడానికి ముందు వారు మీ స్థాన సమాచారాన్ని ఎలా సేకరిస్తారు, ఉపయోగిస్తారు మరియు భాగస్వామ్యం చేస్తారు అని అర్థం చేసుకోవడానికి వారి గోప్యతా విధానాన్ని చదవండి.
+
+మీ స్థానాన్ని గుర్తించడం వలన మొబైల్ నెట్‌వర్క్‌ను ఉపయోగిస్తుంది. డేటా వినియోగం వర్తించబడుతుంది."</string>
+    <string name="qs_location_consent_dialog_body_message_vzw_tablet">"మీ టాబ్లెట్ మ్యాప్‌లు, షాపింగ్ మరియు వాతావరణం వంటి అప్లికేషన్‌లు మరియు సేవలతో దాని రమారమి స్థానాన్ని భాగస్వామ్యం చేయగలదు.
+
+మీ ప్రాంతంలో ఉపయోగించే అప్లికేషన్‌లు మరియు సేవలు గురించి మీకు సమాచారాన్ని అందిస్తుంది. మీరు ఏదైనా అప్లికేషన్‌ని లేదా సేవా ప్రదాతను ఉపయోగించడానికి ముందు వారు మీ స్థాన సమాచారాన్ని ఎలా సేకరిస్తారు, ఉపయోగిస్తారు మరియు భాగస్వామ్యం చేస్తారు అని అర్థం చేసుకోవడానికి వారి గోప్యతా విధానాన్ని చదవండి.
+
+మీ స్థానాన్ని గుర్తించడం వలన మొబైల్ నెట్‌వర్క్‌ను ఉపయోగిస్తుంది. డేటా వినియోగం వర్తించబడుతుంది."</string>
+    <string name="qs_location_consent_dialog_title_dcm">యూజర్ సమ్మతి</string>
+    <string name="qs_location_consent_dialog_title_vzw">లొకేషన్ కాన్సెంట్</string>
+    <string name="qs_location_detail_default_title">స్థానం</string>
+    <string name="qs_location_detail_gps_title">GPS</string>
+    <string name="qs_location_detail_mode_battery_saving">బ్యాటరీ ఆదా</string>
+    <string name="qs_location_detail_mode_battery_saving_description">మీ స్థానాన్ని అంచనా వేయడానికి Wi-Fi మరియు మొబైల్ నెట్‌వర్క్‌లను ఉపయోగిస్తుంది.</string>
+    <string name="qs_location_detail_mode_high_accuracy">అధిక ఖచ్చితత్వం</string>
+    <string name="qs_location_detail_mode_high_accuracy_description">మీ స్థానాన్ని అంచనా వేయడానికి GPS, Wi-Fi మరియు మొబైల్ నెట్‌వర్క్‌లను ఉపయోగిస్తుంది.</string>
+    <string name="qs_location_detail_mode_sensors_only_description">మీ స్థానాన్ని అంచనా వేయడానికి GPSని ఉపయోగిస్తుంది.</string>
+    <string name="qs_location_detail_mode_sensors_only_phone">ఫోన్ మాత్రమే</string>
+    <string name="qs_location_detail_mode_sensors_only_tablet">టాబ్లెట్ మాత్రమే</string>
+    <string name="qs_location_detail_mode_summary_title">ఆచూకీ కనుగొనే పద్ధతి</string>
+    <string name="qs_location_detail_summary_default">మీ స్థానాన్ని అంచనా వేయడానికి GPS, Wi-Fi మరియు మొబైల్ నెట్‌వర్క్‌లను ఉపయోగిస్తుంది.</string>
+    <string name="qs_multisim_data_preffered_btn_title">మొబైల్ డేటా</string>
+    <string name="qs_multisim_data_switching">"ఇప్పటికీ SIM కార్డ్‌ని మారుస్తోంది…
+తర్వాత మళ్లీ ప్రయత్నించండి."</string>
+    <string name="qs_multisim_data_turned_off">ఆఫ్ అయింది</string>
+    <string name="qs_multisim_sim_card_manager">SIM కార్డ్ నిర్వాహకుడు</string>
+    <string name="qs_multisim_sms_preffered_btn_title">టెక్స్ట్ సందేశాలు</string>
+    <string name="qs_multisim_voice_ask_always">ఎల్లప్పుడూ అడుగు</string>
+    <string name="qs_multisim_voice_others">ఇతరులు</string>
+    <string name="qs_multisim_voice_preffered_btn_title">కాల్‌లు</string>
+    <string name="qs_navigation_bar_detail_description">మీరు “పూర్తి స్క్రీన్ సంజ్ఞలు” ఎంచుకున్నప్పుడు వెనుకకు వెళ్లడానికి, హోమ్ స్క్రీన్‌కు వెళ్లడానికి లేదా ఇటీవలి అప్లికేషన్‌లను వీక్షించడానికి మీ నావిగేషన్ బార్‌ని దాచవచ్చు మరియు స్వైప్ సంజ్ఞలను ఉపయోగించవచ్చు.</string>
+    <string name="qs_navigation_bar_detail_full_screen_gestures_options">పూర్తి స్క్రీన్ సంజ్ఞలు</string>
+    <string name="qs_navigation_bar_detail_navigation_buttons_options">నావిగేషన్ బటన్‌లు</string>
+    <string name="qs_navigation_bar_detail_title">నావిగేషన్ బార్</string>
+    <string name="qs_navigation_bar_detail_title_option">నావిగేషన్ రకాన్ని ఎంచుకోండి.</string>
+    <string name="qs_navigation_bar_exclusive_function_turn_off_onehand_mode_desc">పూర్తి స్క్రీన్ సంజ్ఞలను ఉపయోగించడానికి, మీ ఒక చేతి మోడ్‌ని సంజ్ఞకు మార్చాలి.</string>
+    <string name="qs_navigation_bar_label">"నావిగేషన్
+బార్"</string>
+    <string name="qs_navigation_bar_setting_button">సెట్టింగ్‌లు</string>
+    <string name="qs_navigation_bar_toast_acceesibility">యాక్సెసబిలిటీ బటన్ చూపబడినప్పుడు నావిగేషన్ బార్‌ని ఆఫ్ చేయలేరు.</string>
+    <string name="qs_navigation_bar_toast_voice_assistant_enabled">Voice Assistant ఆన్ చేయబడినప్పుడు నావిగేషన్ బార్‌ని ఆఫ్ చేయలేరు.</string>
+    <string name="qspanel_brightness_auto_brightness_summary">మీ ప్రకాశవంతం సర్దుబాటులను ట్రాక్ చేయండి మరియు వాటిని ఒకే రకమైన లైటింగ్ పరిస్థితులలో స్వయంచాలకంగా వర్తింపజేయండి.</string>
+    <string name="qspanel_brightness_auto_brightness_summary_nopac">ప్రస్తుత కాంతి పరిస్థితుల ఆధారంగా స్క్రీన్ ప్రకాశవంతాన్ని స్వయంచాలకంగా సర్దుబాటు చేస్తుంది.</string>
+    <string name="qspanel_brightness_auto_brightness_title">అనుకూల ప్రకాశవంతం</string>
+    <string name="qspanel_brightness_detail_level">స్థాయి</string>
+    <string name="qspanel_brightness_detail_title">ప్రకాశవంతం</string>
+    <string name="qspanel_brightness_outdoor_mode_summary">వెలుపల సులభంగా వీక్షించడం కోసం స్క్రీన్‌ని ప్రకాశవంతంగా చేయండి. 15 నిమిషాల తర్వాత, మీరు స్క్రీన్‌ని ఉపయోగిస్తున్నంత వరకు అవుట్‌డోర్ మోడ్ ఆఫ్ చేయబడుతుంది.</string>
+    <string name="qspanel_brightness_outdoor_mode_title">అవుట్‌డోర్ మోడ్</string>
+    <string name="qspanel_media_button_text">మీడియా</string>
+    <string name="qspanel_media_devices_button_hide_text">మీడియా మరియు పరికరాలు దాచు</string>
+    <string name="qspanel_media_devices_button_show_text">మీడియా మరియు పరికరాలు చూపు</string>
+    <string name="qspanel_quickcontrol_button_text">పరికరాలు</string>
+    <string name="qspanel_show_brightness_on_top_summary">ప్రకాశవంతం నియంత్రణని నోటిఫికేషన్ ప్యానెల్ ఎగువ చూపుతుంది.</string>
+    <string name="qspanel_show_brightness_on_top_title">ఎగువన ప్రకాశవంతాన్ని చూపు</string>
+    <string name="qspanel_show_multi_sim_info_title">బహుళ SIM సమాచారాన్ని చూపు</string>
+    <string name="quick_panel_data_usage">ఉపయోగించిన డేటా</string>
+    <string name="quick_settings_airplane_mode_label">"విమానం
+మోడ్"</string>
+    <string name="quick_settings_allow">అనుమతించు</string>
+    <string name="quick_settings_blf_detail_seekbar">అస్పష్టత</string>
+    <string name="quick_settings_blf_detail_summary">స్క్రీన్ ద్వారా ప్రసరించే నీలి కాంతిని మొత్తాన్ని తగ్గించడం ద్వారా కంటి ఒత్తిడిని తగ్గించండి.</string>
+    <string name="quick_settings_block">నిరోధించు</string>
+    <string name="quick_settings_bluelightfilter_detail_title">బ్లూ లైట్ ఫిల్టర్</string>
+    <string name="quick_settings_bluelightfilter_label">"బ్లూ లైట్
+ఫిల్టర్"</string>
+    <string name="quick_settings_bluetooth_connected_devices">"%d పరికరాలు
+కనెక్ట్ చేయబడ్డాయి"</string>
+    <string name="quick_settings_bluetooth_detail_available_devices_title">లభ్యంలో ఉన్న పరికరాలు</string>
+    <string name="quick_settings_bluetooth_detail_empty_text_available">ఏ బ్లూటూత్ పరికరాలు దొరకలేవు</string>
+    <string name="quick_settings_bluetooth_detail_off_text">మీరు జత చేయగల లేదా ఇప్పటికే జత చేయబడిన పరికరాల జాబితాను వీక్షించడానికి బ్లూటూత్‌ను ఆన్ చేయండి.</string>
+    <string name="quick_settings_bluetooth_detail_paired_devices_title">జత చేసిన పరికరాలు</string>
+    <string name="quick_settings_bluetooth_label">బ్లూటూత్</string>
+    <string name="quick_settings_bluetooth_scanning">బ్లూటూత్ పరికరాలు కోసం స్కాన్ చేస్తోంది…</string>
+    <string name="quick_settings_cancel">రద్దు చేయి</string>
+    <string name="quick_settings_data_roaming_detail_title">డేటా రోమింగ్</string>
+    <string name="quick_settings_data_roaming_label">"డేటా
+రోమింగ్"</string>
+    <string name="quick_settings_dnd_detail_title">అంతరాయం కలిగించవద్దు</string>
+    <string name="quick_settings_dnd_summary">మీరు అనుకూల మినహాయింపులు తప్ప అన్ని కాల్‌లు మరియు హెచ్చరికలను మ్యూట్ చేయండి.</string>
+    <string name="quick_settings_done">పూర్తయింది</string>
+    <string name="quick_settings_dual_label_content_description">%s, బటన్ లేబుల్, సంబంధిత త్వరిత సెట్టింగ్‌లను వీక్షించడానికి రెండు సార్లు ట్యాప్ చేయండి.</string>
+    <string name="quick_settings_enable">ఎనేబుల్ చేయి</string>
+    <string name="quick_settings_flashlight_detail_level">స్థాయి</string>
+    <string name="quick_settings_flashlight_detail_title">ప్రకాశవంతం</string>
+    <string name="quick_settings_flashlight_detail_warning">కెమెరా కాంతిని చర్మంపై ఎక్కువ సమయం ఉంచినప్పుడు తక్కువ ఉష్ణోగ్రతతో కాలిన గాయాలను కలిగించవచ్చు. ఎక్కువ సమయం పాటు %sని ఆన్ చేసి ఉంచవద్దు.</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_non_volte_vzw">"విమానం మోడ్ ఆన్ చేయబడితే, మీరు Wi-Fi ఉపయోగించే వరకు, మీరు డేటా కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు.
+
+విమానం మోడ్‌ని ఆన్ చేయాలా?"</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_volte_vzw">"విమానం మోడ్ ఆన్ చేయబడితే, మీరు Wi-Fi ఉపయోగించే వరకు, మీరు డేటా కనెక్షన్ అవసరమైన ఇంటర్నెట్, ఇమెయిల్, Wi-Fi కాలింగ్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు.
+
+విమానం మోడ్‌ని ఆన్ చేయాలా?"</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_non_volte_vzw">Unless you use Wi-Fi, you will not be able to use the Internet, Email, or other apps that require a data connection.</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_volte_vzw">Unless you use Wi-Fi, you will not be able to use Internet, Email, or other apps that require a data connection. Your phone will not be able to use Video Calling while Airplane mode is on.</string>
+    <string name="quick_settings_flight_mode_detail_summary">"కాలింగ్, టెక్స్ట్‌ని పంపడం, ఇంటర్నెట్ ప్రాప్యత, Wi-Fi మరియు బ్లూటూత్‌తో సహా అన్ని నెట్‌వర్క్ కనెక్షన్‌లను ఆఫ్ చేయండి.
+
+విమానం మోడ్‌ని ఆన్ చేసినప్పుడు, మీరు సెట్టింగ్‌లు లేదా త్వరిత సెట్టింగ్‌ల ప్యానెల్‌లో Wi-Fi మరియు బ్లూటూత్‌ని మళ్లీ ఆన్ చేయవచ్చు."</string>
+    <string name="quick_settings_flight_mode_detail_summary_lte_without_call_feature_tablet">"మొబైల్ డేటాను ఆఫ్ చేయండి.
+
+Wi-Fi మరియు బ్లూటూత్ కూడా ఆఫ్ చేయబడతాయి, కానీ మీరు సెట్టింగ్‌లు లేదా త్వరిత సెట్టింగ్‌ల ప్యానెల్‌లో వాటిని మళ్లీ ఆన్ చేయవచ్చు."</string>
+    <string name="quick_settings_flight_mode_detail_summary_wifi_tablet">"Wi-Fi మరియు బ్లూటూత్‌ని ఆఫ్ చేయండి.
+
+మీరు వాటిని సెట్టింగ్‌లు లేదా త్వరిత సెట్టింగ్‌ల ప్యానెల్‌లో మళ్లీ ఆన్ చేయవచ్చు."</string>
+    <string name="quick_settings_flight_mode_detail_title">విమానం మోడ్</string>
+    <string name="quick_settings_it_policy_prevents">భద్రతా విధానం %s ఉపయోగాన్ని నిరోధిస్తుంది.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_summary">మీ ఫోన్ దృగ్విన్యాసం మారినప్పుడు మాన్యువల్ స్క్రీన్ రొటేషన్‌ని అనుమతించండి.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_title">నావిగేషన్ బార్‌లో బటన్‌ని తిప్పండి</string>
+    <string name="quick_settings_manual_rotation_category">మాన్యువల్‌గా తిప్పడం</string>
+    <string name="quick_settings_mobile_data_detail_summary">మీ మొబైల్ నెట్‌వర్క్ ద్వారా ఇంటర్నెట్‌ని ప్రాప్యత చేయండి.</string>
+    <string name="quick_settings_mobile_data_detail_title">మొబైల్ డాటా</string>
+    <string name="quick_settings_mobile_data_label">"మొబైల్
+డేటా"</string>
+    <string name="quick_settings_mobile_hotspot_label">"మొబైల్
+హాట్‌స్పాట్"</string>
+    <string name="quick_settings_mobile_hotspot_label_jpn">"Wi-Fi
+టెథరింగ్"</string>
+    <string name="quick_settings_phone_visibility_label">"ఫోన్
+దృశ్యమానత"</string>
+    <string name="quick_settings_reading_mode_detail_title">చదివే మోడ్</string>
+    <string name="quick_settings_reading_mode_label">"చదివే
+మోడ్"</string>
+    <string name="quick_settings_reading_mode_summary">స్క్రీన్ రీడింగ్ కోసం ఆప్టిమైజ్ చేయబడింది. ఈ మోడ్ ఎంచుకున్న అనువర్తనాలు కోసం మాత్రమే అందుబాటులో ఉంది.</string>
+    <string name="quick_settings_reset">రీసెట్ చేయి</string>
+    <string name="quick_settings_rotation_category">ల్యాండ్‌స్కేప్ మోడ్‌కి రొటేట్ చేయండి</string>
+    <string name="quick_settings_rotation_detail_call_screen">వాయిస్ కాల్ స్క్రీన్</string>
+    <string name="quick_settings_rotation_detail_home_screen">హోమ్ స్క్రీన్</string>
+    <string name="quick_settings_rotation_detail_lock_screen">లాక్ స్క్రీన్</string>
+    <string name="quick_settings_rotation_lock_auto_rotate">స్వీయ రొటేట్</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary">మీ ఫోన్ విన్యాసం మార్పులను కలిగి ఉన్నప్పుడు స్క్రీన్‌ను స్వయంచాలకంగా రొటేట్ చేయండి.</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary_for_tablet">మీ టాబ్లెట్ విన్యాసం మార్పులను కలిగి ఉన్నప్పుడు స్క్రీన్‌ను స్వయంచాలకంగా రొటేట్ చేయండి.</string>
+    <string name="quick_settings_screen_capture_label">"Capture
+screen"</string>
+    <string name="quick_settings_sec_dnd_label">"అంతరాయం
+కలిగించవద్దు"</string>
+    <string name="quick_settings_sec_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_sound_mode_detail_label">ధ్వని మోడ్</string>
+    <string name="quick_settings_sound_mode_detail_mixer_dnd_turned_on">అంతరాయం కలిగించవద్దు ఆన్ చేయబడింది</string>
+    <string name="quick_settings_sound_mode_detail_mixer_title">వాల్యూమ్</string>
+    <string name="quick_settings_sound_mode_detail_mute_remaining">మిగిలిన సమయం: %s</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_duration">మ్యూట్ వ్యవధి</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_summary">మీరు సెట్ చేసిన సమయం గడిచిన తర్వాత మునుపటి సౌండ్ మోడ్‌కు తిరిగి మార్చండి. సమయాన్ని సెట్ చేయడానికి “వరాలు”ట్యాప్ చేయండి.</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_title">తాత్కాలిక మ్యూట్</string>
+    <string name="quick_settings_sound_mode_mute_label">మ్యూట్</string>
+    <string name="quick_settings_sound_mode_sound_label">ధ్వని</string>
+    <string name="quick_settings_sound_mode_vibrate_label">వైబ్రేట్</string>
+    <string name="quick_settings_tablet_visibility_label">"టాబ్లెట్
+దృశ్యమానత"</string>
+    <string name="quick_settings_wifi_detail_available_networks_title">లభ్యమయ్యే నెట్వర్క్లు</string>
+    <string name="quick_settings_wifi_detail_current_network_title">ప్రస్తుత నెట్‌వర్క్</string>
+    <string name="quick_settings_wifi_detail_off_text">లభ్యంలో ఉన్న నెట్‌వర్క్‌లను చూడటానికి, Wi-Fi-ను టర్న్ ఆన్ చెయ్యండి.</string>
+    <string name="quick_settings_wifi_detail_scanning_text">Wi-Fi నెట్‌వర్క్‌లు కోసం స్కాన్ చేస్తోంది…</string>
+    <string name="quick_settings_work_mode_label">కార్యాలయ ప్రొఫైల్</string>
+    <string name="quick_settings_workmode_detail_summary">"అన్ని అప్లికేషన్‌లను ప్రారంభించడానికి మరియు నేపథ్య సమకాలీకరణ మరియు నోటిఫికేషన్‌లను అనుమతించడానికి %1$sని ఆన్ చేయండి.
+
+పనికి ఎటువంటి అంతరాయాలు కలగకుండా మీ ఫోన్‌ని ఉపయోగించడానికి %2$sని ఆఫ్ చేయండి."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet">"అన్ని కార్యాలయ అప్లికేషన్‌లను ప్రారంభించడానికి మరియు నేపథ్య సమకాలీకరణ మరియు నోటిఫికేషన్‌లను అనుమతించడానికి %1$sని ఆన్ చేయండి.
+
+పనికి ఎటువంటి అంతరాయాలు కలుగకుండా మీ టాబ్లెట్‌ని ఉపయోగించడానికి %2$sని ఆఫ్ చేయండి."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet_work">"అన్ని కార్యాలయ అప్లికేషన్‌లను ప్రారంభించడానికి మరియు నేపథ్య సమకాలీకరణ మరియు నోటిఫికేషన్‌లను అనుమతించడానికి కార్యాలయ ప్రొఫైల్‌ని ఆన్ చేయండి.
+
+పనికి ఎటువంటి అంతరాయాలు కలుగకుండా మీ టాబ్లెట్‌ని ఉపయోగించడానికి కార్యాలయ ప్రొఫైల్‌ని ఆఫ్ చేయండి."</string>
+    <string name="quick_settings_workmode_detail_summary_work">"అన్ని అప్లికేషన్‌లను ప్రారంభించడానికి మరియు నేపథ్య సమకాలీకరణ మరియు నోటిఫికేషన్‌లను అనుమతించడానికి కార్యాలయ ప్రొఫైల్‌ని ఆన్ చేయండి.
+
+పనికి ఎటువంటి అంతరాయాలు కలగకుండా మీ ఫోన్‌ని ఉపయోగించడానికి కార్యాలయ ప్రొఫైల్‌ని ఆఫ్ చేయండి."</string>
+    <string name="remove">తొలగించు</string>
+    <string name="reserve_battery_mode">బ్యాటరీని ప్రత్యేకించు మోడ్</string>
+    <string name="retry">మళ్ళీ ప్రయత్నించు</string>
+    <string name="rotation_lock_auto_rotate">స్వీయ రొటేట్</string>
+    <string name="rotation_lock_show_toast_mobile_keyboard_message">%sను ప్రారంభించడానికి, పరికరం నుండి కీబోర్డ్ కవర్‌ను తీసివేయండి.</string>
+    <string name="safe_mode_alert_body">మీ ఫోన్ పునఃప్రారంభించబడుతుంది మరియు మీ అప్లికేషన్‌లు అన్నీ మళ్లీ అందుబాటులో ఉంటాయి.</string>
+    <string name="safe_mode_alert_body_tablet">మీ టాబ్లెట్ పునఃప్రారంభించబడుతుంది మరియు మీ అన్ని అప్లికేషన్‌లు త్వరలో అందుబాటులో ఉంటాయి.</string>
+    <string name="safe_mode_alert_positive_button">ఆఫ్ చేయి</string>
+    <string name="safe_mode_alert_title">సురక్షిత మోడ్‌ని ఆఫ్ చేయాలా?</string>
+    <string name="safe_mode_noti_body">సురక్షిత మోడ్‌ని ఆఫ్ చేయడానికి ఇక్కడ ట్యాప్ చేయండి.</string>
+    <string name="safe_mode_noti_title">సురక్షిత మోడ్ ఆన్‌లో ఉంది</string>
+    <string name="sanitized_content_text">%sని నమోదు చేయడానికి ఇక్కడ ట్యాప్ చేయండి.</string>
+    <string name="screen_capture_delete">తొలగించు</string>
+    <string name="screen_capture_edit">సవరించు</string>
+    <string name="screen_capture_fail_for_security_policy">భద్రతా విధానం కారణంగా స్క్రీన్‌షాట్ తీయడం సాధ్యం కాదు.</string>
+    <string name="screen_capture_fail_for_storage_capacity">పరికర నిల్వ తగినంత ఖాళీ లేదు. కొన్ని ఫైల్‌లను తొలగించి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="screen_capture_share">భాగస్వామ్యం చేయి</string>
+    <string name="screen_pinning_dialog_toast">యాప్‌ను అన్‌పిన్ చేయడానికి, ఇటీవలి మరియు వెనుకకు బటన్‌లను ఒకేసారి తాకి, పట్టుకోండి.</string>
+    <string name="screen_pinning_msg_in_gesture">ఈ అప్లికేషన్‌ని అన్‌పిన్ చేయడానికి, పైకి స్వైప్ చేసి పట్టుకోండి.</string>
+    <string name="screenshot_cancel">రద్దు చేయి</string>
+    <string name="screenshot_guide_dialog_msg">స్క్రీన్‌షాట్ తీయడానికి పవర్ కీ మరియు వాల్యూమ్ దిగువ కీని ఒకేసారి నొక్కి, పట్టుకోండి.</string>
+    <string name="screenshot_guide_dialog_title">స్క్రీన్‌షాట్‌లను తీయడం</string>
+    <string name="screenshot_saved_text">దీన్ని వీక్షించడానికి ఇక్కడ ట్యాప్ చేయండి.</string>
+    <string name="screenshot_saved_title">స్క్రీన్‌షాట్ సంగ్రహించబడింది</string>
+    <string name="sec_accessibility_back">వెనకకు</string>
+    <string name="sec_accessibility_home">హోమ్</string>
+    <string name="sec_accessibility_quick_settings_finder">Finder శోధన</string>
+    <string name="sec_accessibility_quick_settings_more_option">మరిన్ని ఎంపికలు</string>
+    <string name="sec_accessibility_quick_settings_power_off">పవర్ ఆఫ్‌</string>
+    <string name="sec_accessibility_recent">ఇటీవలి</string>
+    <string name="sec_battery_discharging_duration">అంచనా వేసిన బ్యాటరీ జీవిత కాలం: %s</string>
+    <string name="sec_battery_history_days_no_hours">%d రో</string>
+    <string name="sec_battery_history_days_with_hours">%1$d రో %2$d గం</string>
+    <string name="sec_battery_history_hours_no_minutes">%d గం</string>
+    <string name="sec_battery_history_hours_no_seconds">%1$d గం %2$d నిమి</string>
+    <string name="sec_battery_history_minutes_no_seconds">%d నిమి</string>
+    <string name="sec_bluetooth_show_le_devices_without_names">పేర్లు లేకుండా BLE పరికరాలు చూపు</string>
+    <string name="sec_bluetooth_show_le_devices_without_names_summary">పేర్లు లేని బ్లూటూత్ తక్కువ శక్తి గల పరికరాలు (MAC చిరునామాలు మాత్రమే) చూపబడతాయి.</string>
+    <string name="sec_brightness_eye_strain_dialog_message">ఎక్కువ సమయం పాటు ఎక్కువ ప్రకాశాన్ని ఉపయోగించడం వల్ల బ్యాటరీ వినియోగం పెరుగుతుంది.</string>
+    <string name="sec_brightness_slider_hbm_text">ప్రకాశవంతమైన కాంతిలో చూడటానికి మెరుగ్గా గరిష్టీకరించబడింది</string>
+    <string name="sec_data_usage_disabled_dialog_body">మీరు సెట్ చేసిన పరిమితిని మీరు చేరుకున్నందున మొబైల్ డేటా ఉపయోగం పాజ్ చేయబడింది.</string>
+    <string name="sec_data_usage_disabled_dialog_body_vzw">"You've reached your specified data usage limit, so mobile data has been turned off.
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="sec_data_usage_disabled_dialog_enable">పునఃప్రారంభించు</string>
+    <string name="sec_data_usage_disabled_dialog_enable_vzw">Turn on data</string>
+    <string name="sec_data_usage_disabled_dialog_keep_off">ఆఫ్‌లో ఉంచండి</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title">మొబైల్ డేటాని ఉపయోగించడాన్ని పునఃప్రారంభించాలా?</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title_vzw">Mobile data is now off</string>
+    <string name="sec_data_usage_disabled_dialog_turn_off">ఆఫ్ చేయి</string>
+    <string name="sec_default_app">డిఫాల్ట్ వలె సెట్ చేయి</string>
+    <string name="sec_device_info_copied">క్లిప్ బోర్డుకు కాపీ అయింది.</string>
+    <string name="sec_more_button_menu_contact_us">మమ్మల్ని సంప్రదించండి</string>
+    <string name="sec_more_button_menu_edit">బటన్ ఆర్డర్</string>
+    <string name="sec_more_button_menu_noti_settings">స్థితి బార్</string>
+    <string name="sec_more_button_menu_qspanel_layout">త్వరిత ప్యానెల్ లేఅవుట్</string>
+    <string name="sec_no_default_app">దేనినీ డిఫాల్ట్ వలె సెట్ చేయలేదు</string>
+    <string name="sec_qs_edit_panel_reset_dialog_message">మీ బటన్‌లను డిఫాల్ట్ క్రమానికి రీసెట్ చేయాలా?</string>
+    <string name="sec_qs_unable_remove_minimum">బటన్‌ని తీసివేయలేరు. త్వరిత ప్యానెల్ కనీసం %d బటన్‌లను కలిగి ఉండాలి.</string>
+    <string name="sec_qspanel_brightness_disabled_toast_message">దీన్ని మరో అప్లికేషన్ నియంత్రిస్తున్నందున ప్రకాశవంతాన్ని మార్చలేరు.</string>
+    <string name="sec_qspanel_layout_detail_title">త్వరిత ప్యానెల్ లేఅవుట్</string>
+    <string name="sec_quick_settings_details">వివరాలు</string>
+    <string name="sec_quick_settings_finder_disabled">శోధనని ప్రారంభించడం సాధ్యం కాదు. తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="sec_quick_settings_flashlight_label">టార్చ్</string>
+    <string name="sec_quick_settings_rotation_locked_landscape_label">ల్యాండ్‌స్కేప్</string>
+    <string name="sec_quick_settings_rotation_locked_portrait_label">పోర్ట్రెయిట్</string>
+    <string name="sec_quick_settings_rotation_unlocked_label">"స్వీయ
+రొటేట్"</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_button">ఒకసారి చూడండి</string>
+    <string name="sec_recent_on_boarding_physical_keyboard_help_text">హోమ్, వెనుకకు మరియు మరిన్నింటి కోసం కీబోర్డ్ సత్వరమార్గాలను ఉపయోగించండి.</string>
+    <string name="sec_samsung_cloud_title">Samsung Cloud</string>
+    <string name="sec_video_call_title">వీడియో కాల్</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title">స్వీయ హాట్‌స్పాట్</string>
+    <string name="sec_wifi_hotspot_live_preference_category_title_jpn">స్వీయ Wi-Fi టీథరింగ్</string>
+    <string name="select_private_dns_configuration_dialog_title">ప్రైవేట్ DNS</string>
+    <string name="select_private_dns_configuration_title">ప్రైవేట్ DNS</string>
+    <string name="sesl_action_bar_up_description">ఎగువకు నావిగేట్ చేయి</string>
+    <string name="sesl_action_menu_overflow_badge_description">కొత్త కంటెంట్ అందుబాటులో ఉంది</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">మరిన్ని ఎంపికలు</string>
+    <string name="sesl_preferencecategory_added_title">శీర్షిక</string>
+    <string name="sesl_search_hint">శోధన</string>
+    <string name="sesl_searchview_description_clear">శోధన ఫీల్డ్‌ని క్లియర్ చేయి</string>
+    <string name="sesl_searchview_description_query">ప్రశ్నను శోధించు</string>
+    <string name="sesl_searchview_description_search">శోధన</string>
+    <string name="sesl_searchview_description_submit">ప్రశ్నను విన్నవించండి</string>
+    <string name="sesl_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="sesl_switch_off">ఉపయోగంలో లేదు</string>
+    <string name="sesl_switch_on">ఉపయోగంలో ఉంది</string>
+    <string name="sim_card_tray_empty_water_protection_dialog_body">నీటి నష్టం నుండి రక్షణ కోసం, SIM కార్డ్ ట్రే ధృడంగా సీల్ చేయబడిందని నిర్ధారించుకోండి.</string>
+    <string name="sim_card_tray_water_protection_dialog_body">"SIM కార్డ్ గుర్తించబడలేదు. మీరు కాల్‌లు చేయలేరు, సందేశాలు పంపలేరు లేదా మొబైల్ డేటాని ఉపయోగించలేరు.
+
+నీటి వల్ల కలిగే నష్టం నుండి రక్షించడానికి, SIM కార్డ్ ట్రే దృఢంగా సీల్ చేయబడిందని నిర్ధారించుకోండి."</string>
+    <string name="sim_card_tray_water_protection_dialog_title">SIM కార్డ్ ట్రేను తనిఖీ చేయండి</string>
+    <string name="sim_sd_card_tray_empty_water_protection_dialog_body">నీటి నష్టం నుండి రక్షణ కోసం, SIM/SD కార్డ్ ట్రే ధృడంగా సీల్ చేయబడిందని నిర్ధారించుకోండి.</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_body">"SIM కార్డ్‌ను గుర్తించడం సాధ్యం కాదు. కాల్‌లు చేయడం మరియు మొబైల్ నెట్‌వర్క్‌లకు కనెక్ట్ చేయడం వంటి చర్యలను మీ పరికరం అమలు చేయలేదు.
+
+నీటి నష్టం కలగకుండా రక్షించడానికి, SIM/SD కార్డ్ ట్రే ధృడంగా సీల్ చేయబడిందని నిర్ధారించుకోండి."</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_title">SIM/SD కార్డ్ ట్రేను తనిఖీ చేయండి</string>
+    <string name="smart_tethering_ap_connected_summary">కనెక్ట్ అయింది</string>
+    <string name="smart_tethering_ap_connecting_summary">కనెక్ట్ చేస్తోంది…</string>
+    <string name="smart_tethering_ap_connection_failed_summary">కనెక్షన్ సమయం ముగిసింది</string>
+    <string name="smart_tethering_ap_low_battery_summary">తక్కువ బ్యాటరీ</string>
+    <string name="snooze_icon_description">నోటిఫికేషన్‌ను స్నూజ్ చేయి</string>
+    <string name="snooze_notification_guide_text">దీనిలో నోటిఫికేషన్‌ని చూపుతుంది:</string>
+    <string name="snooze_title">నోటిఫికేషన్‌ను స్నూజ్ చేయి</string>
+    <string name="speed_label_fast">వేగంగా</string>
+    <string name="speed_label_very_fast">చాలా వేగం</string>
+    <string name="status_bar_airplane">విమానం మోడ్</string>
+    <string name="status_bar_high_performance_mode_description">అధిక పనితీరు మోడ్ ఆన్ చేయబడింది.</string>
+    <string name="status_bar_maximum_power_saving_description">గరిష్ట పవర్ ఆదా మోడ్ ఆన్‌లో ఉంది</string>
+    <string name="status_bar_power_saving_description">శక్తి ఆదా మోడ్ ఆన్‌లో ఉంది</string>
+    <string name="status_icon_alarm">అలారం</string>
+    <string name="status_unavailable">అందుబాటులో లేదు</string>
+    <string name="str_smart_pop_up_view_description">"మీరు పాప్-అప్ వీక్షణలో విస్తరించడానికి మీరు నొక్కడానికి మీరు నోటిఫికేషన్‌లను పంపే అప్లికేషన్‌లను ఎంచుకోండి.
+
+ఇది బహుళ విండోలో మద్దతు ఉన్న అప్లికేషన్‌లకు మాత్రమే అందుబాటులో ఉంటుంది."</string>
+    <string name="str_smart_pop_up_view_description_at_setting">పాప్-అప్ వీక్షణలో నొక్కగల మరియు విస్తరించగల చిహ్నాల వలె నోటిఫికేషన్‌లను పొందండి.</string>
+    <string name="str_smart_pop_up_view_name">స్మార్ట్ పాప్-అప్ వీక్షణ</string>
+    <string name="str_smart_pop_up_view_name_at_setting">స్మార్ట్ పాప్-అప్ వీక్షణ</string>
+    <string name="str_suggested_app">సూచించబడిన అప్లికేషన్‌లు</string>
+    <string name="suggestion_to_minimize">ఈ నోటిఫికేషన్‌లను కనిష్టీకరించాలనుకుంటున్నారా?</string>
+    <string name="switch_bar_off">ఆఫ్</string>
+    <string name="switch_bar_on">ఆన్</string>
+    <string name="switched_to_onephone_mode">మోడ్ ఒక నంబర్ మోడ్‌కు మార్చబడింది.</string>
+    <string name="switched_to_twophone_mode">మోడ్ రెండవ నంబర్ మోడ్‌కు మార్చబడింది.</string>
+    <string name="sysui_in_app_search_app_name">త్వరిత ప్యానెల్</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tether_settings_title_all">మొబైల్ హాట్‌స్పాట్ మరియు టీథరింగ్</string>
+    <string name="time_format_hour">%d గం</string>
+    <string name="time_format_hour_minute">%1$d గం %2$d నిమి</string>
+    <string name="time_format_minute">%d నిమి</string>
+    <string name="to_use_this_function_download_ps">ఈ విధిని ఉపయోగించడానికి, %sని డౌన్‌లోడ్ చేయండి.</string>
+    <string name="to_use_this_function_download_the_following_application">"ఈ విధిని ఉపయోగించడానికి, కింది అప్లికేషన్‌ని డౌన్‌లోడ్ చేయండి:
+
+%s"</string>
+    <string name="tts_default_lang_title">భాష</string>
+    <string name="tts_default_pitch_title">పిచ్</string>
+    <string name="tts_default_rate_title">సంభాషణ రేటు</string>
+    <string name="tts_lang_use_system">సిస్టమ్ భాషను ఉపయోగించండి</string>
+    <string name="tts_settings">టెక్స్ట్-నుంచి-ఉపన్యాసము</string>
+    <string name="tts_settings_title">టెక్స్ట్ నుండి సంభాషణ</string>
+    <string name="tw_safe_media_volume_warning">ఎక్కువ సమయం అధిక వాల్యూమ్‌లో వినడం వల్ల మీ వినికిడికి హాని కలగవచ్చు. వాల్యూమ్‌ను సురక్షిత స్థాయిల కంటే ఎక్కువగా పెంచడానికి “సరే”ని ట్యాప్ చేయండి.</string>
+    <string name="unable_to_capture_screen_emergencymode">అత్యవసర మోడ్‌లో స్క్రీన్ సంగ్రహించలేరు.</string>
+    <string name="unable_to_capture_screen_ultrapowersaving_mode">స్క్రీన్‌షాట్ తీయడం కుదరలేదు.</string>
+    <string name="unable_to_open_ps_in_emergency_mode">అత్యవసర మోడ్‌లో %sని తెరవడం సాధ్యం కాదు.</string>
+    <string name="unable_to_open_ps_in_mpsm">గరిష్ట శక్తి ఆదా మోడ్‌లో %sను తెరవలేరు.</string>
+    <string name="unable_to_open_ps_in_upsm">అసాధారణ శక్తి ఆదా మోడ్‌లో %sను తెరవడం సాధ్యం కాదు.</string>
+    <string name="unable_to_turn_on_being_used_by_camera">మరొక అప్లికేషన్ లైట్‌ని ఉపయోగిస్తున్నప్పుడు ఫ్లాష్‌లైట్‌ని ఆన్ చేయలేరు.</string>
+    <string name="unintentional_lcd_on_alert_title">అనుకోకుండా జరిగే టచ్ రక్షణ</string>
+    <string name="unintentional_lcd_on_alert_window_body">అనుకోకుండా సంభవించే టచ్‌ల నుండి మీ ఫోన్ రక్షించబడుతోంది.</string>
+    <string name="unintentional_lcd_on_alert_window_body2">ఇలా జరగకుండా ఉండటానికి మీ ఫోన్ ఎగువ భాగాన్ని క్లియర్‌గా ఉంచండి.</string>
+    <string name="unintentional_lcd_on_alert_window_body2_tablet">ఇలా జరగకుండా ఉండటానికి మీ టాబ్లెట్ ఎగువ భాగాన్ని క్లియర్‌గా ఉంచండి.</string>
+    <string name="unintentional_lcd_on_alert_window_body_drag_to_unlock">అన్‌లాక్ చేయడానికి లాక్ చిహ్నాన్ని లాగండి</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity">మీ ఫోన్ జేబు లేదా బ్యాగ్ వంటి చీకటి ప్రదేశంలో ఉన్నప్పుడు అనుకోకుండా సంభవించే టచ్‌ల నుండి రక్షించబడుతుంది.</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity_tablet">మీ టాబ్లెట్ జేబు లేదా బ్యాగ్ వంటి చీకటి ప్రదేశంలో ఉన్నప్పుడు అనుకోకుండా సంభవించే టచ్‌ల నుండి రక్షించబడుతుంది.</string>
+    <string name="unintentional_lcd_on_alert_window_body_tablet">అనుకోకుండా సంభవించే టచ్‌ల నుండి మీ టాబ్లెట్ రక్షించబడుతోంది.</string>
+    <string name="unknown">తెలియని</string>
+    <string name="unlock_workwindow_appname">%sని అన్‌లాక్ చేయడానికి ఇక్కడ నొక్కండి.</string>
+    <string name="usb_damage_protection_alert_body1">కేబుల్ ప్లగ్ వేడిగా ఉన్నందున జాగ్రత్త వహించండి.</string>
+    <string name="usb_damage_protection_alert_body2_phone">మీ ఫోన్ ఎక్కువ వేడెక్కినందున ఛార్జింగ్ ఆపివేయబడింది. డిస్‌కనెక్ట్ చేయబడిన తర్వాత, కనెక్షన్‌ని నివారించే వాటి కోసం కేబుల్ మరియు ఛార్జింగ్ పోర్ట్ రెండింటినీ తనిఖీ చేయండి. మీరు ఆ తర్వాత మీ ఫోన్ సాధారణంగా ఛార్జ్ అవుతుందేమో తనిఖీ చేయడానికి తిరిగి కనెక్ట్ చేయవచ్చు. సమస్య కొనసాగినట్లయితే, స్యామ్‌సంగ్ కస్టమర్ సేవా స్థానాన్ని సందర్శించండి.</string>
+    <string name="usb_damage_protection_alert_body2_tablet">మీ టాబ్లెట్ ఎక్కువ వేడెక్కినందున ఛార్జింగ్ ఆపివేయబడింది. డిస్‌కనెక్ట్ చేయబడిన తర్వాత, కనెక్షన్‌ని నివారించే వాటి కోసం కేబుల్ మరియు ఛార్జింగ్ పోర్ట్ రెండింటినీ తనిఖీ చేయండి. మీరు ఆ తర్వాత మీ టాబ్లెట్ సాధారణంగా ఛార్జ్ అవుతుందేమో తనిఖీ చేయడానికి తిరిగి కనెక్ట్ చేయవచ్చు. సమస్య కొనసాగినట్లయితే, స్యామ్‌సంగ్ కస్టమర్ సేవా స్థానాన్ని సందర్శించండి.</string>
+    <string name="usb_damage_protection_alert_title">పవర్ కేబుల్‌ని డిస్‌కనెక్ట్ చేయి</string>
+    <string name="user_guest">అతిథులు</string>
+    <string name="volume_alarm">అలారం వాల్యూమ్</string>
+    <string name="volume_amplify_ambient_sound_title">పరిసర ధ్వనిని విస్తరించు</string>
+    <string name="volume_icon_content_description_ringtone_to_mute">ధ్వని మోడ్‌ని మ్యూట్ చేయికి సెట్ చేయి</string>
+    <string name="volume_icon_content_description_ringtone_to_sound">ధ్వని మోడ్‌ని ధ్వని చేయికి సెట్ చేయి</string>
+    <string name="volume_icon_content_description_ringtone_to_vib">ధ్వని మోడ్‌ని వైబ్రేట్ చేయికి సెట్ చేయి</string>
+    <string name="volume_icon_content_description_to_mute">%s వాల్యూమ్‌ని మ్యూట్ చేయి</string>
+    <string name="volume_icon_content_description_to_unmute">%s వాల్యూమ్‌ని అన్‌మ్యూట్ చేయి</string>
+    <string name="volume_icon_description_incall">ఇన్-కాల్ వాల్యూమ్</string>
+    <string name="volume_limiter_button_settings">సెట్టింగులు</string>
+    <string name="volume_limiter_notice_toast">వాల్యూమ్‌ని పెంచడానికి, సెట్టింగ్‌లకు వెళ్లి, మీడియా వాల్యూమ్ పరిమితిని ఆఫ్ చేయండి లేదా మీ వాల్యూమ్ పరిమితిని మార్చండి.</string>
+    <string name="volume_limiter_open_cover_toast">కొనసాగించడం కోసం కవర్‌ని తెరవండి.</string>
+    <string name="volume_limiter_toast_title">వాల్యూమ్ పరిమితిని చేరుకున్నారు</string>
+    <string name="volume_mute_all_sounds_on">అన్ని ధ్వనులను మ్యూట్ చేయడం ఆన్ చేయబడింది</string>
+    <string name="volume_panel_view_title">వాల్యూమ్</string>
+    <string name="volume_use_your_phone_volume_smart_view">%sలో వాల్యూమ్‌ని నియంత్రించడానికి మీ ఫోన్ వాల్యూమ్ కీలను ఉపయోగించండి.</string>
+    <string name="volume_zen_mode_on">అంతరాయం కలిగించవద్దు ఆన్ చేయబడింది</string>
+    <string name="volumepanel_bixby_voice">Bixby Voice</string>
+    <string name="volumepanel_media">మీడియా</string>
+    <string name="volumepanel_notification">నోటిఫికేషన్లు</string>
+    <string name="volumepanel_ringtone">రింగ్టోన్</string>
+    <string name="volumepanel_system">సిస్టమ్</string>
+    <string name="warning_alert_check">మళ్లీ చూపవద్దు.</string>
+    <string name="water_protection_notification_body">తేమ గుర్తించబడింది. ఛార్జర్‌ను అన్‌ప్లగ్ చేసి, ఛార్జర్ మరియు USB పోర్ట్ రెండూ పొడిగా అయేంత వరకు వేచి ఉండండి.</string>
+    <string name="water_protection_notification_title">ఛార్జర్‌ను అన్‌ప్లగ్ చేయండి</string>
+    <string name="wifi_adps_summary">Wi-Fi ట్రాఫిక్ నమూనాలను విశ్లేషించడం ద్వారా బ్యాటరీ వినియోగాన్ని తగ్గించండి.</string>
+    <string name="wifi_adps_title">Wi-Fi శక్తి ఆదా మోడ్</string>
+    <string name="wifi_auto_reconnect_disabled">స్వీయంగా తిరిగి కనెక్ట్ కావడం ఆఫ్ చేయబడింది</string>
+    <string name="wifi_connected_checking_quality">మీ ఇంటర్నెట్ కనెక్షన్ యొక్క నాణ్యతని తనిఖీ చేస్తోంది…</string>
+    <string name="wifi_disabled_captive_portal">సైన్-ఇన్ అవసరం.</string>
+    <string name="wifi_disabled_no_internet">ఇంటర్నెట్ అందుబాటులో లేదు</string>
+    <string name="wifi_disabled_password_failure">ప్రమాణీకరణ దోషం సంభవించింది</string>
+    <string name="wifi_failed_connect_message">నెట్‌వర్క్‌కు కనెక్ట్ చేయడం విఫలమయింది.</string>
+    <string name="wifi_failed_to_obtain_IP">IP చిరునామాను కనుగొనడం విఫలమైంది.</string>
+    <string name="wifi_internet_may_not_be_available">ఇంటర్నెట్ లేకుండా కనెక్ట్ చేయబడింది</string>
+    <string name="wifi_open_network_summary">అసురక్షితం</string>
+    <string name="wifi_preference_details">సెట్టింగ్‌లు</string>
+    <string name="wifi_reconnecting">నెట్‌వర్క్ నాణ్యత మెరుగుపడినప్పుడు అనుసంధానమయ్యేందుకు సిద్ధంగా ఉంటుంది</string>
+    <string name="wifi_risk_ap_warning">అసురక్షితం</string>
+    <string name="wifi_safe_mode">Wi-Fi సురక్షిత మోడ్</string>
+    <string name="wifi_safe_mode_summary">పనితీరు ద్వారా Wi-Fi స్థిరత్వానికి ప్రాధాన్యత ఇవ్వండి.</string>
+    <string name="wifi_scan_throttling">Wi-Fi స్కాన్ కుదింపు</string>
+    <string name="wifi_scan_throttling_summary">బ్యాటరీని ఆదా చేస్తుంది మరియు నెట్‌వర్క్ పనితీరుని మెరుగుపరుస్తుంది.</string>
+    <string name="wifi_secured_summary">సురక్షితం. భద్రతా సమాచార వివరాలను వీక్షించడానికి భద్రతా గుర్తింపు బటన్‌ని నొక్కండి.</string>
+    <string name="wifi_security_detection">భద్రతా గుర్తింపు</string>
+    <string name="wifi_sign_in_to_the_network">నెట్‌వర్క్‌కు సైన్ ఇన్ చేయండి.</string>
+    <string name="wifi_tips_ap_guide_connection_blocked">కనెక్షన్ నిరోధించబడింది</string>
+    <string name="wifi_tips_ap_guide_couldnt_authenticate_connection">కనెక్షన్ ప్రమాణీకరించడం సాధ్యం కాదు</string>
+    <string name="wifi_tips_ap_guide_couldnt_get_ip_address">IP చిరునామాని పొందడం సాధ్యం కాదు</string>
+    <string name="wifi_tips_ap_guide_incorrect_password">పాస్‌వర్డ్ చెల్లదు</string>
+    <string name="wifi_tips_ap_guide_keeps_disconnecting">Wi-Fi డిస్‌కనెక్ట్ అవుతూ ఉంది</string>
+    <string name="wifi_unknown_secured_ap">తెలియని సెక్యూరిటీ రకం. ఈ యాక్సెస్ పాయింట్ కు మీరు కనెక్ట్ చేయ లేరు.</string>
+    <string name="wifi_unknown_security_type">తెలియని భద్రత రకం.</string>
+    <string name="wifi_unsecured_summary">అసురక్షితం. భద్రతా సమాచార వివరాలను వీక్షించడానికి భద్రతా గుర్తింపు బటన్‌ని నొక్కండి.</string>
+    <string name="yes">సరే</string>
+    <string name="zen_mode_duration_settings_title">వ్యవధి</string>
+    <string name="zen_mode_forever">నేను దీన్ని ఆఫ్ చేసే వరకు</string>
+</resources>
